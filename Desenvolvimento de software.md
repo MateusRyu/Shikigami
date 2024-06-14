@@ -1,0 +1,6 @@
+[[Protocolo]]
+[[Linguagem de marcação]]
+[[Linguagem de programação]]
+[[Algoritmo]]
+[[Git]]
+[[Aprendizado]]

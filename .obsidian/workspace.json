@@ -1,0 +1,214 @@
+{
+  "main": {
+    "id": "d484e1720d2166e0",
+    "type": "split",
+    "children": [
+      {
+        "id": "68ad35778972901b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c316481a51cfb10a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Protocolos/HTTP/HTTP.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8ac4bdb34113fcbe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Desenvolvimento de software.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9596e2130bac99af",
+    "type": "split",
+    "children": [
+      {
+        "id": "bb16e09581dc6e70",
+        "type": "tabs",
+        "dimension": 70.8029197080292,
+        "children": [
+          {
+            "id": "020c4a8b3cae66ad",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "68ae0b7f2d563e81",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#pronome",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f43e2eb3dec64d08",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "51336995666522a3",
+        "type": "tabs",
+        "dimension": 29.197080291970803,
+        "children": [
+          {
+            "id": "41ef1eb750f765d9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Desenvolvimento de software.md"
+              }
+            }
+          },
+          {
+            "id": "d25165fdfe4c3da2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "29212f093c941cfc",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "f960a297e40e3366",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Desenvolvimento de software.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "539a347cd6a7681e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Desenvolvimento de software.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e6e275d34c82acf4",
+    "type": "split",
+    "children": [],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "8ac4bdb34113fcbe",
+  "lastOpenFiles": [
+    "SSH.md",
+    "Protocolos/Protocolo.md",
+    "Desenvolvimento de software.md",
+    "Protocolos/HTTP/HTTP.md",
+    "Linguagem de programação.md",
+    "Git.md",
+    "Xadrez/Xadrez.md",
+    "Github.md",
+    "Linguagem de marcação.md",
+    "Aprendizado.md",
+    "Linguagens de marcação/Markdown.md",
+    "Protocolos/HTTP",
+    "Protocolos",
+    "Xadrez/Aberturas de xadrez.md",
+    "Linguagens de marcação",
+    "Desenvolvimento de softwares",
+    "Xadrez/Peças de xadrez.md",
+    "Xadrez/Finais elementais.md",
+    "Xadrez/Oposição de Rei.md",
+    "Xadrez/Peças/Rei.md",
+    "Xadrez/Finais/Final de peão.md",
+    "Xadrez/Peças",
+    "Xadrez/Peças/Cavalo.md",
+    "Excalidraw/final_de_peao_2_fileira.excalidraw.md",
+    "Excalidraw/final_de_peao_5_fileira.excalidraw.md",
+    "Assets/Pasted Image 20240613173345_877.png",
+    "final_de.md",
+    "Assets/Pasted Image 20240613172503_261.png",
+    "Excalidraw/Drawing 2024-06-12 12.29.00.excalidraw.md",
+    "Assets",
+    "Pasted Image 20240613172205_830.png",
+    "Xadrez/Abertura/Gambito do rei.md",
+    "Xadrez/Abertura/Bird.md",
+    "Xadrez/Abertura/Van Geet.md",
+    "Xadrez/Abertura/Vienna.md",
+    "Xadrez/Abertura",
+    "Xadrez/Finais",
+    "idioleto",
+    "Xadrez"
+  ]
+}

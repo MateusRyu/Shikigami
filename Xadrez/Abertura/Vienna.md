@@ -1,0 +1,1 @@
+pode transpor para o [[Gambito do rei]]
