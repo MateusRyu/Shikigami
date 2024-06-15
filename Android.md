@@ -1,0 +1,1 @@
+É um [[Sistema Operacional|sistema operacional]] baseada em [[Linux]], usado principalmente em dispositivos portáteis.

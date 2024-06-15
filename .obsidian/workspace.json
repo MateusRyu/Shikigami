@@ -11,8 +11,24 @@
             "id": "0f679e2029715a4a",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "src/Ferramentas/Obsidian.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a800932e1e67269f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "src/Linguagens de marcação/Markdown.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -74,7 +90,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "src/Ferramentas/Obsidian.md"
+              }
             }
           },
           {
@@ -102,6 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "src/Ferramentas/Obsidian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,6 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "src/Ferramentas/Obsidian.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,12 +171,13 @@
   },
   "active": "0f679e2029715a4a",
   "lastOpenFiles": [
+    "src/Linguagens de marcação/Markdown.md",
+    "src/Ferramentas/Obsidian.md",
     "Android.md",
-    "Criptografia.md",
     "Sistema de controle de versões.md",
+    "Criptografia.md",
     "src/Git.md",
     "Anki.md",
-    "src/Ferramentas/Obsidian.md",
     "src/Aprendizado.md",
     "Teste de recordação ativa.md",
     "Repetição espaçada.md",
@@ -178,7 +199,6 @@
     "src/Linguagem de programação.md",
     "src/Xadrez/Xadrez.md",
     "src/Github.md",
-    "src/Linguagem de marcação.md",
     "src/Protocolos/HTTP",
     "src/Protocolos",
     "src/Linguagens de marcação",
