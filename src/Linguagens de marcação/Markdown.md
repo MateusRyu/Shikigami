@@ -5,7 +5,6 @@
 Ver mais detalhes em: [[HyperText Markup Language (HTML)#Header]]
 
 Cabeçalho, ou do inglês `header`, é indicado por uma ou mais cerquilha (`#`) no inicio da linha. A quantidade de cerquilhas indica o nível hierarquístico do `header`. Abaixo estará exemplos visuais e a sua correspondência sintática
-# Titulo 1
 
 `# Titulo 1`
 `## Titulo 2`
