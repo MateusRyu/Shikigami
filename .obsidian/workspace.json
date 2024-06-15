@@ -11,12 +11,8 @@
             "id": "0f679e2029715a4a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "src/Git.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -78,9 +74,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "src/Git.md"
-              }
+              "state": {}
             }
           },
           {
@@ -108,7 +102,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "src/Git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +118,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "src/Git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,6 +151,10 @@
   },
   "active": "0f679e2029715a4a",
   "lastOpenFiles": [
+    "Android.md",
+    "Criptografia.md",
+    "Sistema de controle de versões.md",
+    "src/Git.md",
     "Anki.md",
     "src/Ferramentas/Obsidian.md",
     "src/Aprendizado.md",
@@ -180,17 +176,13 @@
     "2024-06-14.md",
     "src/Protocolos/Protocolo.md",
     "src/Linguagem de programação.md",
-    "src/Git.md",
     "src/Xadrez/Xadrez.md",
     "src/Github.md",
     "src/Linguagem de marcação.md",
-    "src/Linguagens de marcação/Markdown.md",
     "src/Protocolos/HTTP",
     "src/Protocolos",
-    "src/Xadrez/Aberturas de xadrez.md",
     "src/Linguagens de marcação",
     "Desenvolvimento de softwares",
-    "src/Xadrez/Peças de xadrez.md",
     "src/Xadrez/Peças",
     "Assets/Pasted Image 20240613173345_877.png",
     "Assets/Pasted Image 20240613172503_261.png",

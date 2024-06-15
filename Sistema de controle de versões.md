@@ -1,0 +1,4 @@
+
+## Centralizado
+## Distribuído
+
