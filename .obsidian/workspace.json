@@ -8,27 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8ac4bdb34113fcbe",
+            "id": "0f679e2029715a4a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Repetição espaçada.md",
+                "file": "src/Git.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "0f679e2029715a4a",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -87,7 +78,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "src/Git.md"
+              }
             }
           },
           {
@@ -115,6 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "src/Git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,6 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "src/Git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,10 +159,11 @@
   },
   "active": "0f679e2029715a4a",
   "lastOpenFiles": [
-    "Teste de recordação ativa.md",
     "Anki.md",
-    "Repetição espaçada.md",
+    "src/Ferramentas/Obsidian.md",
     "src/Aprendizado.md",
+    "Teste de recordação ativa.md",
+    "Repetição espaçada.md",
     "Window.md",
     "src/Protocolos/SSH.md",
     "Linux.md",
@@ -175,7 +171,6 @@
     "Distro Linux.md",
     "src/Operational System/Arch Linux.md",
     "src/Desenvolvimento de software.md",
-    "src/Ferramentas/Obsidian.md",
     "DIY.md",
     "Excalidraw/Drawing 2024-06-15 14.50.17.excalidraw.md",
     "src/Operational System/Windows.md",

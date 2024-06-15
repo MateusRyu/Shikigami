@@ -1,4 +1,4 @@
-Anki é um programa que torna relembrar fácil. Isso porque ele é muito mais eficiente do que os métodos de estudo tradicionais, você pode até mesmo reduzir bastante o tempo gasto estudando ou aumentar em muito o aprendizado.
+Anki é um [[Software]] que torna relembrar fácil. Isso porque ele é muito mais eficiente do que os métodos de estudo tradicionais, você pode até mesmo reduzir bastante o tempo gasto estudando ou aumentar em muito o aprendizado.
 
 Qualquer pessoa que precisa lembrar de algo em sua rotina diária pode se beneficiar do Anki. Já que ele é independente de conteúdo e suporta imagens, áudio, vídeos e marcação científica (via [[LaTeX]]) as possibilidades são ilimitadas. Por exemplo:
 
