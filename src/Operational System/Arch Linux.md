@@ -1,1 +1,1 @@
-Arch Linux é um [[Sistema Operacional]] baseado no [[Kernel Linux]] que tem uma filosofia de [[DIY]] ("_Do It Yourself_").
+Arch Linux é uma [[Distro Linux]] que tem uma filosofia de [[DIY]] ("_Do It Yourself_"). Ele é um [[Sistema Operacional]] [[Rolling Release]].

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/Protocolos/SSH.md",
+                "file": "Sistema Operacional.md",
                 "mode": "source",
                 "source": false
               }
@@ -79,7 +79,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "src/Protocolos/SSH.md"
+                "file": "Sistema Operacional.md"
               }
             }
           },
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "src/Protocolos/SSH.md",
+                "file": "Sistema Operacional.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "src/Protocolos/SSH.md",
+                "file": "Sistema Operacional.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,17 +159,19 @@
   },
   "active": "8ac4bdb34113fcbe",
   "lastOpenFiles": [
+    "Sistema Operacional.md",
+    "Distro Linux.md",
+    "src/Operational System/Arch Linux.md",
+    "src/Protocolos/SSH.md",
     "src/Desenvolvimento de software.md",
     "src/Ferramentas/Obsidian.md",
     "DIY.md",
-    "src/Operational System/Arch Linux.md",
     "Excalidraw/Drawing 2024-06-15 14.50.17.excalidraw.md",
     "src/Operational System/Windows.md",
     "src/Protocolos/HTTP/HTTP.md",
     "src/Operational System",
     "src",
     "2024-06-14.md",
-    "src/Protocolos/SSH.md",
     "src/Protocolos/Protocolo.md",
     "src/Linguagem de programação.md",
     "src/Git.md",
@@ -190,8 +192,6 @@
     "src/Xadrez/Finais/Final de peão.md",
     "src/Xadrez/Peças",
     "src/Xadrez/Peças/Cavalo.md",
-    "Excalidraw/final_de_peao_2_fileira.excalidraw.md",
-    "Excalidraw/final_de_peao_5_fileira.excalidraw.md",
     "Assets/Pasted Image 20240613173345_877.png",
     "Assets/Pasted Image 20240613172503_261.png",
     "Assets",

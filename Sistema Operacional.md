@@ -1,0 +1,1 @@
+Os sistemas operacionais são os componentes básicos para que uma máquina se torne funcional (capaz de operar). Os 
