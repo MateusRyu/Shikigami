@@ -11,12 +11,8 @@
             "id": "8ac4bdb34113fcbe",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sistema Operacional.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -78,9 +74,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Sistema Operacional.md"
-              }
+              "state": {}
             }
           },
           {
@@ -108,7 +102,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sistema Operacional.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +118,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sistema Operacional.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,10 +151,12 @@
   },
   "active": "8ac4bdb34113fcbe",
   "lastOpenFiles": [
+    "Window.md",
+    "src/Protocolos/SSH.md",
+    "Linux.md",
     "Sistema Operacional.md",
     "Distro Linux.md",
     "src/Operational System/Arch Linux.md",
-    "src/Protocolos/SSH.md",
     "src/Desenvolvimento de software.md",
     "src/Ferramentas/Obsidian.md",
     "DIY.md",
@@ -189,9 +183,7 @@
     "src/Xadrez/Finais elementais.md",
     "src/Xadrez/Oposição de Rei.md",
     "src/Xadrez/Peças/Rei.md",
-    "src/Xadrez/Finais/Final de peão.md",
     "src/Xadrez/Peças",
-    "src/Xadrez/Peças/Cavalo.md",
     "Assets/Pasted Image 20240613173345_877.png",
     "Assets/Pasted Image 20240613172503_261.png",
     "Assets",
