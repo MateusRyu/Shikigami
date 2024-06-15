@@ -8,27 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5d49f5d8c1a4bc7f",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
             "id": "8ac4bdb34113fcbe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/Ferramentas/Obsidian.md",
+                "file": "src/Protocolos/SSH.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -88,7 +79,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "src/Ferramentas/Obsidian.md"
+                "file": "src/Protocolos/SSH.md"
               }
             }
           },
@@ -117,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "src/Ferramentas/Obsidian.md",
+                "file": "src/Protocolos/SSH.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "src/Ferramentas/Obsidian.md",
+                "file": "src/Protocolos/SSH.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,12 +159,12 @@
   },
   "active": "8ac4bdb34113fcbe",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2024-06-15 14.50.17.excalidraw.md",
-    "DIY.md",
-    "src/Operational System/Windows.md",
-    "src/Ferramentas/Obsidian.md",
     "src/Desenvolvimento de software.md",
+    "src/Ferramentas/Obsidian.md",
+    "DIY.md",
     "src/Operational System/Arch Linux.md",
+    "Excalidraw/Drawing 2024-06-15 14.50.17.excalidraw.md",
+    "src/Operational System/Windows.md",
     "src/Protocolos/HTTP/HTTP.md",
     "src/Operational System",
     "src",

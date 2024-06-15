@@ -17,7 +17,7 @@ O [[ssh-agent]] é um programa que registra e armazenas as [[Chaves privada]].
 	```shell
 eval "$(ssh-agent -s)" # for Mac and Linux
 ```
-	-  No [[Windows]]:
+	-  No [[Window]]:
 	```shell
 eval `ssh-agent -s`
 ssh-agent -s # for Windows
