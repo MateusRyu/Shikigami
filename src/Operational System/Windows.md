@@ -1,0 +1,1 @@
+É um [[Sistema Operacional]] da [[Microsoft]], sendo o sistema operacional mais popular mundialmente.
