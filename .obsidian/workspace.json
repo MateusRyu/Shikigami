@@ -13,13 +13,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/Aprendizado.md",
+                "file": "Repetição espaçada.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "0f679e2029715a4a",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,9 +87,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "src/Aprendizado.md"
-              }
+              "state": {}
             }
           },
           {
@@ -108,7 +115,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "src/Aprendizado.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +131,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "src/Aprendizado.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,8 +162,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8ac4bdb34113fcbe",
+  "active": "0f679e2029715a4a",
   "lastOpenFiles": [
+    "Teste de recordação ativa.md",
+    "Anki.md",
+    "Repetição espaçada.md",
+    "src/Aprendizado.md",
     "Window.md",
     "src/Protocolos/SSH.md",
     "Linux.md",
@@ -180,7 +189,6 @@
     "src/Xadrez/Xadrez.md",
     "src/Github.md",
     "src/Linguagem de marcação.md",
-    "src/Aprendizado.md",
     "src/Linguagens de marcação/Markdown.md",
     "src/Protocolos/HTTP",
     "src/Protocolos",
@@ -188,9 +196,6 @@
     "src/Linguagens de marcação",
     "Desenvolvimento de softwares",
     "src/Xadrez/Peças de xadrez.md",
-    "src/Xadrez/Finais elementais.md",
-    "src/Xadrez/Oposição de Rei.md",
-    "src/Xadrez/Peças/Rei.md",
     "src/Xadrez/Peças",
     "Assets/Pasted Image 20240613173345_877.png",
     "Assets/Pasted Image 20240613172503_261.png",
