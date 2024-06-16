@@ -40,7 +40,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -99,7 +99,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "src/Linguagens de marcação/Markdown.md"
+              }
             }
           },
           {
@@ -127,6 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "src/Linguagens de marcação/Markdown.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,6 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "src/Linguagens de marcação/Markdown.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +162,26 @@
   "right": {
     "id": "e6e275d34c82acf4",
     "type": "split",
-    "children": [],
+    "children": [
+      {
+        "id": "3e7e4ff86ba95d41",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "def3e469e2b544ee",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          }
+        ]
+      }
+    ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
@@ -171,10 +194,12 @@
       "daily-notes:Abrir a nota de hoje": false,
       "templates:Inserir modelo": false,
       "command-palette:Abrir paleta de comandos": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "random-note:Abrir nota aleatória": false,
+      "publish:Publicar mudanças": false
     }
   },
-  "active": "f5f659e7e22f8d13",
+  "active": "a800932e1e67269f",
   "lastOpenFiles": [
     "Spring.md",
     "Java.md",
