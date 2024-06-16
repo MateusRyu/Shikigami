@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "",
+  "search": "xadrez",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -27,11 +27,11 @@
   "textFadeMultiplier": -3,
   "nodeSizeMultiplier": 2.44791666666667,
   "lineSizeMultiplier": 1.19739583333333,
-  "collapse-forces": false,
+  "collapse-forces": true,
   "centerStrength": 0.3125,
   "repelStrength": 20,
   "linkStrength": 0.697916666666667,
   "linkDistance": 500,
-  "scale": 0.200225830078125,
+  "scale": 0.45050811767578125,
   "close": false
 }
