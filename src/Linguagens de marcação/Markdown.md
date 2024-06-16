@@ -17,6 +17,7 @@ Cabeçalho, ou do inglês `header`, é indicado por uma ou mais cerquilha (`#`) 
 `##### Titulo 5`
 `###### Titulo 6`
 
+---
 ## Lista
 ### Lista ordenada
 Ver mais detalhes em: [[HyperText Markup Language (HTML)#Ordered List]]
@@ -26,7 +27,7 @@ Ver mais detalhes em: [[HyperText Markup Language (HTML)#Ordered List]]
 3. Terceiro item:
 4. [...];
 ```
-
+---
 ### Lista não-ordenada
 Ver mais detalhes em: [[HyperText Markup Language (HTML)#Unordered List]]
 ```md
@@ -35,7 +36,7 @@ Ver mais detalhes em: [[HyperText Markup Language (HTML)#Unordered List]]
 - Lilás:
 - [...];
 ```
-
+---
 ### Lista de tarefas
 
 ```md

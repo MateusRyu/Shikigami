@@ -35,12 +35,16 @@
             "id": "f5f659e7e22f8d13",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Spring.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -100,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "src/Linguagens de marcação/Markdown.md"
+                "file": "Spring.md"
               }
             }
           },
@@ -129,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "src/Linguagens de marcação/Markdown.md",
+                "file": "Spring.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "src/Linguagens de marcação/Markdown.md",
+                "file": "Spring.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,11 +203,11 @@
       "publish:Publicar mudanças": false
     }
   },
-  "active": "a800932e1e67269f",
+  "active": "f5f659e7e22f8d13",
   "lastOpenFiles": [
+    "src/Linguagens de marcação/Markdown.md",
     "Spring.md",
     "Java.md",
-    "src/Linguagens de marcação/Markdown.md",
     "Criptografia.md",
     "src/Ferramentas/Obsidian.md",
     "src/Linguagens de marcação/HyperText Markup Language (HTML).md",
