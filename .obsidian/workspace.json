@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/Ferramentas/Obsidian.md",
+                "file": "Criptografia.md",
                 "mode": "source",
                 "source": false
               }
@@ -30,8 +30,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f5f659e7e22f8d13",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -90,9 +99,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "src/Ferramentas/Obsidian.md"
-              }
+              "state": {}
             }
           },
           {
@@ -120,7 +127,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "src/Ferramentas/Obsidian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +143,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "src/Ferramentas/Obsidian.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +153,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 333.5
   },
   "right": {
     "id": "e6e275d34c82acf4",
@@ -160,8 +165,8 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Abrir a troca rápida": false,
       "graph:Abrir visualização em gráfico": false,
+      "switcher:Abrir a troca rápida": false,
       "canvas:Criar novo canvas": false,
       "daily-notes:Abrir a nota de hoje": false,
       "templates:Inserir modelo": false,
@@ -169,14 +174,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0f679e2029715a4a",
+  "active": "f5f659e7e22f8d13",
   "lastOpenFiles": [
+    "Spring.md",
+    "Java.md",
     "src/Linguagens de marcação/Markdown.md",
+    "Criptografia.md",
     "src/Ferramentas/Obsidian.md",
     "src/Linguagens de marcação/HyperText Markup Language (HTML).md",
     "Android.md",
     "Sistema de controle de versões.md",
-    "Criptografia.md",
     "src/Git.md",
     "Anki.md",
     "src/Aprendizado.md",
@@ -197,8 +204,6 @@
     "src",
     "2024-06-14.md",
     "src/Protocolos/Protocolo.md",
-    "src/Linguagem de programação.md",
-    "src/Xadrez/Xadrez.md",
     "src/Protocolos/HTTP",
     "src/Protocolos",
     "src/Linguagens de marcação",
