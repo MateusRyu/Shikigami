@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Criptografia.md",
+                "file": "Spring.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Criptografia.md",
+            "file": "Spring.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Criptografia.md",
+            "file": "Spring.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Criptografia.md"
+            "file": "Spring.md"
           }
         }
       },
@@ -142,6 +142,13 @@
   },
   "active": "ce852f0937acda09",
   "lastOpenFiles": [
+    "Sistema Operacional.md",
+    "Spring.md",
+    "Java.md",
+    "/Spring.md",
+    "/Java.md",
+    "Teste de recordação ativa.md",
+    "Criptografia.md",
     "src/Xadrez/Xadrez.md",
     "src/Xadrez/Peças de xadrez.md",
     "src/Xadrez/Peças/Rei.md",
@@ -161,13 +168,6 @@
     "src/Protocolos/HTTP/Cross-Origin Resource Sharing (CORS).md",
     "src/Operational System/Windows.md",
     "src/Operational System/Arch Linux.md",
-    "src/Linguagens de marcação/Markdown.md",
-    "src/Linguagens de marcação/HyperText Markup Language (HTML).md",
-    "src/Linguagem de programação.md",
-    "src/Linguagem de marcação.md",
-    "src/Github.md",
-    "src/Git.md",
-    "src/Ferramentas/Obsidian.md",
     "Assets/Pasted Image 20240613173345_877.png",
     "Assets/Pasted Image 20240613172503_261.png",
     "src/Xadrez/Abertura",
