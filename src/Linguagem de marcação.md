@@ -1,3 +1,3 @@
 ## Lista de linguagens de marcação
 ---
-- [[HyperText Markup Language (HTML)]];
+- [HTML](HyperText%20Markup%20Language%20(HTML).md);

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Distro Linux.md",
+                "file": "src/Xadrez/Xadrez.md",
                 "mode": "source",
                 "source": false
               }
@@ -79,7 +79,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Distro Linux.md"
+                "file": "src/Xadrez/Xadrez.md"
               }
             }
           },
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Distro Linux.md",
+                "file": "src/Xadrez/Xadrez.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Distro Linux.md",
+                "file": "src/Xadrez/Xadrez.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,6 +181,20 @@
   },
   "active": "f5f659e7e22f8d13",
   "lastOpenFiles": [
+    "src/Xadrez/Peças de xadrez.md",
+    "src/Xadrez/Xadrez.md",
+    "src/Aprendizado.md",
+    "src/obsidian.md",
+    "src/Desenvolvimento de software.md",
+    "src/Git.md",
+    "src/Github.md",
+    "src/Linguagem de marcação.md",
+    "src/Linguagem de programação.md",
+    "Algoritmo.md",
+    "Android.md",
+    "Anki.md",
+    "Criptografia.md",
+    "Distro Linux.md",
     "DIY.md",
     "Java.md",
     "Linux.md",
@@ -189,26 +203,12 @@
     "Teste de recordação ativa.md",
     "Spring.md",
     "Sistema Operacional.md",
-    "src/Aprendizado.md",
-    "src/obsidian.md",
     "src/Linguagens de marcação/Markdown.md",
-    "Criptografia.md",
     "src/Ferramentas/Obsidian.md",
     "src/Linguagens de marcação/HyperText Markup Language (HTML).md",
-    "Android.md",
-    "src/Git.md",
-    "Anki.md",
     "Window.md",
-    "src/Protocolos/SSH.md",
-    "Distro Linux.md",
-    "src/Operational System/Arch Linux.md",
-    "src/Desenvolvimento de software.md",
-    "Excalidraw/Drawing 2024-06-15 14.50.17.excalidraw.md",
-    "src/Operational System/Windows.md",
-    "src/Protocolos/HTTP/HTTP.md",
     "src/Operational System",
     "src",
-    "2024-06-14.md",
     "src/Protocolos/HTTP",
     "src/Protocolos",
     "src/Linguagens de marcação",

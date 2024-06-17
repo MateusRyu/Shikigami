@@ -1,4 +1,4 @@
-Git é um [[Sistema de controle de versões#Distribuído|sistema de controle de versões]] distribuído, usado principalmente no desenvolvimento de software, mas pode ser usado para registrar o histórico de edições de qualquer tipo de arquivo.
+Git é um [sistema de controle de versões](Sistema%20de%20controle%20de%20versões#Distribuído) distribuído, usado principalmente no desenvolvimento de software, mas pode ser usado para registrar o histórico de edições de qualquer tipo de arquivo.
 
 ## Configuração
 
