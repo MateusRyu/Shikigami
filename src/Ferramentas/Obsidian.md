@@ -46,11 +46,42 @@ No caso de imagens, é possível redimensionar o tamanho dela ao adicionar `|lar
 ![track](track.ogg)
 ```
 
+#### PDF
+```md
+![[Document.pdf]]
+```
 
+É possível especificar um página ao adicionar `#page=N` no final do link, onde `N` é o número da página:
 
+```md
+![[Document.pdf#page=3]]
+```
+
+Também é possível especificar a largura em [Pixel](Pixel) for the embedded PDF viewer, by adding `#height=[number]` to the link. For example:
+
+```md
+![[Document.pdf#height=400]]
+```
+#### Lista
+
+```md
+- list item 1
+- list item 2
+
+^my-list-id
+```
+
+```md
+![[My note#^my-list-id]]
+```
+##### Resultado de busca
+
+````md
 ```query
 embed OR search
+```
 ````
+
 # Daily notes
 
 ## Plugins 
