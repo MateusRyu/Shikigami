@@ -1,5 +1,8 @@
 É um [Software](Software) para anotação e organização de ideias baseado em [Grafos](Grafos). As anotações são escritos com [Markdown](Markdown.md). Apesar de herdar varias [Sintaxe](Sintaxe) do [Markdown](Markdown.md), o Obsidian tem algumas usadas para criar conexões (_links_) entre os documentos para poder criar os grafos.
 
+## Vault
+É o "cofre" que vai armazenar suas preciosas anotações.
+
 ## Sintaxe
 
 ![Cabeçalho](Markdown#Cabeçalho)
@@ -29,7 +32,11 @@
 
 #### Embed
 ![Explicação do que é Embed](Embed.md#^9a9d4c)
+Para incorporar um arquivo no seu vault, adicione um ponto de exclamação (`!`) na frente de um link interno.
 
+No caso de imagens, é possível redimensionar o tamanho dela ao adicionar `|larguraxaltura`, como por exemplo:
+
+![Imagem](final_de_peao_5_fileira.excalidraw|100x150)
 # Daily notes
 
 ## Plugins 
