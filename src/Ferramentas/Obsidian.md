@@ -11,11 +11,13 @@
 ```md
 [[Nome do documento]]
 [[Nome do documento#Cabeçalho da seção]]
+[[Nome do documento#^ID_do_Bloco]]
 ```
 ##### Markdown
 ```md
 [Nome do documento](Nome%20do%20documento.md)
 [Nome do documento](Nome%20do%20documento.md#Cabeçalho%20da%20seção)
+[Nome do documento](Nome%20do%20documento.md#^ID_do_bloco)
 ```
 
 > Observação: É preciso seguir a [codificação URL](Codificação%20URL) para o caminho de onde está localizado o arquivo que o link se refere!
@@ -27,6 +29,7 @@
 
 #### Embed
 [Ver o significado de Embed](Embed#Dentro%20do%20Obsidian)
+
 # Daily notes
 
 ## Plugins 
