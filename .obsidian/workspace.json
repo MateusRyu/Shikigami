@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/Protocolos/SSH.md",
+                "file": "src/Ferramentas/Obsidian.md",
                 "mode": "source",
                 "source": false
               }
@@ -79,7 +79,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "src/Protocolos/SSH.md"
+                "file": "src/Ferramentas/Obsidian.md"
               }
             }
           },
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "src/Protocolos/SSH.md",
+                "file": "src/Ferramentas/Obsidian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "src/Protocolos/SSH.md",
+                "file": "src/Ferramentas/Obsidian.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,6 +181,15 @@
   },
   "active": "f5f659e7e22f8d13",
   "lastOpenFiles": [
+    "src/Linguagens de marcação/HyperText Markup Language (HTML).md",
+    "src/Linguagens de marcação/Markdown.md",
+    "src/Operational System/Arch Linux.md",
+    "src/Operational System/Windows.md",
+    "src/Protocolos/HTTP/HTTP.md",
+    "src/Protocolos/HTTP/Cross-Origin Resource Sharing (CORS).md",
+    "src/Protocolos/HTTP/Header (HTTP).md",
+    "src/Protocolos/Protocolo.md",
+    "src/Protocolos/SSH.md",
     "src/Xadrez/Abertura/Bird.md",
     "src/Xadrez/Abertura/Gambito do rei.md",
     "src/Xadrez/Abertura/Van Geet.md",
@@ -198,15 +207,6 @@
     "src/Desenvolvimento de software.md",
     "src/Git.md",
     "src/Github.md",
-    "src/Linguagem de marcação.md",
-    "src/Linguagem de programação.md",
-    "Algoritmo.md",
-    "Android.md",
-    "Anki.md",
-    "Criptografia.md",
-    "Distro Linux.md",
-    "DIY.md",
-    "Java.md",
     "src/Operational System",
     "src",
     "src/Protocolos/HTTP",

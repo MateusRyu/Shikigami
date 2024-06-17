@@ -1,1 +1,1 @@
-É um [[Sistema Operacional]] da [[Microsoft]], sendo o sistema operacional mais popular mundialmente.
+É um [Sistema Operacional](Sistema%20Operacional.md) da [Microsoft](Microsoft), sendo o sistema operacional mais popular mundialmente.

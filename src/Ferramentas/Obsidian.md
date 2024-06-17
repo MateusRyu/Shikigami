@@ -1,10 +1,10 @@
-É um [[Software]] para anotação e organização de ideias baseado em [[Grafos]]. As anotações são escritos com [[Markdown]]. Apesar de herdar varias [[Sintaxe|sintaxe]] do [[Markdown|markdown]], o Obsidian tem algumas usadas para criar conexões (_links_) entre os documentos para poder criar os grafos.
+É um [Software](Software) para anotação e organização de ideias baseado em [Grafos](Grafos). As anotações são escritos com [Markdown](Markdown.md). Apesar de herdar varias [Sintaxe](Sintaxe) do [Markdown](Markdown.md), o Obsidian tem algumas usadas para criar conexões (_links_) entre os documentos para poder criar os grafos.
 
 ## Sintaxe
 
-![[Markdown#Cabeçalho]]
+![Cabeçalho](Markdown#Cabeçalho)
 
-![[Markdown#Lista]]
+![Lista](Markdown#Lista)
 ### Link
 #### Link interno
 

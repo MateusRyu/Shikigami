@@ -10,14 +10,14 @@ ls -al ~/.ssh
 ssh-keygen -t rsa -b 4096 -C your@email.com
 ```
 ## Adicionar chave ssh ao ssh-agent
-O [ssh-agent](ssh-agent) é um programa que registra e armazenas as [[Chaves privada]].
+O [ssh-agent](ssh-agent) é um programa que registra e armazenas as [Chaves privada](Chaves%20privada).
 
 1. Verifique se ele está em execução:
-	- No [[Linux]] ou [[Mac]]:
+	- No [Linux](Linux.md) ou [Mac](Mac):
 	```shell
 eval "$(ssh-agent -s)" # for Mac and Linux
 ```
-	-  No [[Windows]]:
+	-  No [Windows](Windows.md):
 	```shell
 eval `ssh-agent -s`
 ssh-agent -s # for Windows

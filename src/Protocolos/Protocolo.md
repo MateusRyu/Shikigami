@@ -1,4 +1,4 @@
 ## Lista de protocolos
 ---
-- [[HTTP]];
-- [[SSH]]
+- [HTTP](HTTP.md);
+- [SSH](SSH.md)
