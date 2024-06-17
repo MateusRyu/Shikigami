@@ -7,12 +7,17 @@
 ![Lista](Markdown#Lista)
 ### Link
 #### Link interno
-
+##### Wikilink
 ```md
 [[Nome do documento]]
 [[Nome do documento#Cabeçalho da seção]]
 ```
+##### Markdown
+```md
+[Nome do documento](Nome%20do%20documento.md)
+```
 
+> Observação: É preciso seguir a [codificação URL](Codificação%20URL) para o caminho de onde está localizado o arquivo que o link se refere!
 #### Apelido
 ```md
 [[Nome do documento|apelido usado para exibição do texto]]
@@ -20,7 +25,7 @@
 ```
 
 #### Embed
-[[Embed|Ver significado de "Embed."]]
+[Ver o significado de Embed](Embed)
  
 
 # Daily notes
