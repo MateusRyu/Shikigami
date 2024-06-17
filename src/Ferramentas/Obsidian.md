@@ -34,9 +34,23 @@
 ![Explicação do que é Embed](Embed.md#^9a9d4c)
 Para incorporar um arquivo no seu vault, adicione um ponto de exclamação (`!`) na frente de um link interno.
 
+##### Imagem
 No caso de imagens, é possível redimensionar o tamanho dela ao adicionar `|larguraxaltura`, como por exemplo:
 
-![Imagem](final_de_peao_5_fileira.excalidraw|100x150)
+- `![[imagem.png|100x150]]`
+- `![Imagem](imagem.png|100x150)`
+
+##### Audio
+```
+![[track.ogg]]
+![track](track.ogg)
+```
+
+
+
+```query
+embed OR search
+````
 # Daily notes
 
 ## Plugins 
