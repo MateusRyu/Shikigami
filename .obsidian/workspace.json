@@ -8,30 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0f679e2029715a4a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Criptografia.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a800932e1e67269f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "src/Linguagens de marcação/Markdown.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "f5f659e7e22f8d13",
             "type": "leaf",
             "state": {
@@ -43,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -161,7 +136,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 333.5
+    "width": 333.5,
+    "collapsed": true
   },
   "right": {
     "id": "e6e275d34c82acf4",
@@ -200,7 +176,8 @@
       "command-palette:Abrir paleta de comandos": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "random-note:Abrir nota aleatória": false,
-      "publish:Publicar mudanças": false
+      "publish:Publicar mudanças": false,
+      "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
   "active": "f5f659e7e22f8d13",
