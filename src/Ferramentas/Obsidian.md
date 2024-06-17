@@ -57,7 +57,7 @@ No caso de imagens, é possível redimensionar o tamanho dela ao adicionar `|lar
 ![[Document.pdf#page=3]]
 ```
 
-Também é possível especificar a largura em [Pixel](Pixel) for the embedded PDF viewer, by adding `#height=[number]` to the link. For example:
+Também é possível especificar a largura em [Pixel](Pixel) para o PDF, adicionando `#height=[number]` no final do link. Por exemplo:
 
 ```md
 ![[Document.pdf#height=400]]
