@@ -1,4 +1,4 @@
-`Teste de recordação ativa` significa ser questionado e tentar relembrar a resposta. Isso em contraste com o [[Estudo passivo]], onde nós lemos, assistimos ou escutamos algo sem um intervalo para refletir se nós sabemos a resposta. Pesquisas tem demonstrado que o teste de recordação ativa é de longe mais efetivo em construir memórias robustas do que o estudo passivo. Há duas razões para isso:
+`Teste de recordação ativa` significa ser questionado e tentar relembrar a resposta. Isso em contraste com o [Estudo passivo](Estudo%20passivo), onde nós lemos, assistimos ou escutamos algo sem um intervalo para refletir se nós sabemos a resposta. Pesquisas tem demonstrado que o teste de recordação ativa é de longe mais efetivo em construir memórias robustas do que o estudo passivo. Há duas razões para isso:
 
 - O ato de relembrar algo "fortalece" a memória, aumentando as chances de que estejamos aptos a recordar aquilo novamente.
 - Quando não somos capazes de responder uma pergunta, isso nos quer dizer que precisamos voltar ao material para revisar ou reaprender.

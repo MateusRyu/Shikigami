@@ -1,1 +1,1 @@
-Linux é, em sentido técnico, um [[Kernel]] [[Open Source]] criado por [[Linus Torvalds]]. No dia-a-dia, as pessoas usam o nome "Linux" para se referir à qualquer [[Distro Linux]] e o consideram como um [[Sistema Operacional]].
+Linux é, em sentido técnico, um [Kernel](Kernel) [Open Source](Open%20Source) criado por [Linus Torvalds](Linus%20Torvalds). No dia-a-dia, as pessoas usam o nome "Linux" para se referir à qualquer [Distro Linux](Distro%20Linux.md) e o consideram como um [Sistema Operacional](Sistema%20Operacional.md).
