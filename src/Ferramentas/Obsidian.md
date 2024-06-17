@@ -28,7 +28,7 @@
 ```
 
 #### Embed
-[Ver o significado de Embed](Embed#Dentro%20do%20Obsidian)
+![Explicação do que é Embed](Embed.md#^9a9d4c)
 
 # Daily notes
 
