@@ -1,1 +1,1 @@
-pode transpor para o [[Gambito do rei]]
+pode transpor para o [Gambito do rei](Gambito%20do%20rei.md)

@@ -1,1 +1,1 @@
-pode transpor para o [[Gambito do rei]] ou a abertura [[Vienna]]
+pode transpor para o [Gambito do rei](Gambito%20do%20rei.md) ou a abertura [Vienna](Vienna.md)

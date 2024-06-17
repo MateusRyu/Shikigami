@@ -1,8 +1,8 @@
 # Peças
 ---
--  [[Rei]];
-- [[Dama]];
-- [[Cavalo]];
-- [[Bispo]];
-- [[Torre]];
-- [[Peão]];
+-  [Rei](Rei.md);
+- [Dama](Dama);
+- [Cavalo](Cavalo.md);
+- [Bispo](Bispo);
+- [Torre](Torre);
+- [Peão](Peão);

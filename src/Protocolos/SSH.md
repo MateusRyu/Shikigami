@@ -1,4 +1,4 @@
-O protocolo Secure Shell (SSH) é um método para se conectar com segurança a um computador em uma rede não segura para poder executar comandos ou transferir arquivos. O SSH usa [[Criptografia]] para autenticar e criptografar conexões entre dispositivos por meio de uma chave.
+O protocolo Secure Shell (SSH) é um método para se conectar com segurança a um computador em uma rede não segura para poder executar comandos ou transferir arquivos. O SSH usa [Criptografia](Criptografia.md) para autenticar e criptografar conexões entre dispositivos por meio de uma chave.
 
 ## Verificar chaves existentes
 ```shell
@@ -10,7 +10,7 @@ ls -al ~/.ssh
 ssh-keygen -t rsa -b 4096 -C your@email.com
 ```
 ## Adicionar chave ssh ao ssh-agent
-O [[ssh-agent]] é um programa que registra e armazenas as [[Chaves privada]].
+O [ssh-agent](ssh-agent) é um programa que registra e armazenas as [[Chaves privada]].
 
 1. Verifique se ele está em execução:
 	- No [[Linux]] ou [[Mac]]:

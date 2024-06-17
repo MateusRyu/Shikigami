@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/Xadrez/Xadrez.md",
+                "file": "src/Protocolos/SSH.md",
                 "mode": "source",
                 "source": false
               }
@@ -79,7 +79,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "src/Xadrez/Xadrez.md"
+                "file": "src/Protocolos/SSH.md"
               }
             }
           },
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "src/Xadrez/Xadrez.md",
+                "file": "src/Protocolos/SSH.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "src/Xadrez/Xadrez.md",
+                "file": "src/Protocolos/SSH.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,6 +181,16 @@
   },
   "active": "f5f659e7e22f8d13",
   "lastOpenFiles": [
+    "src/Xadrez/Abertura/Bird.md",
+    "src/Xadrez/Abertura/Gambito do rei.md",
+    "src/Xadrez/Abertura/Van Geet.md",
+    "src/Xadrez/Abertura/Vienna.md",
+    "src/Xadrez/Finais/Final de peão.md",
+    "src/Xadrez/Peças/Cavalo.md",
+    "src/Xadrez/Peças/Rei.md",
+    "src/Xadrez/Aberturas de xadrez.md",
+    "src/Xadrez/Finais elementais.md",
+    "src/Xadrez/Oposição de Rei.md",
     "src/Xadrez/Peças de xadrez.md",
     "src/Xadrez/Xadrez.md",
     "src/Aprendizado.md",
@@ -197,16 +207,6 @@
     "Distro Linux.md",
     "DIY.md",
     "Java.md",
-    "Linux.md",
-    "Repetição espaçada.md",
-    "Sistema de controle de versões.md",
-    "Teste de recordação ativa.md",
-    "Spring.md",
-    "Sistema Operacional.md",
-    "src/Linguagens de marcação/Markdown.md",
-    "src/Ferramentas/Obsidian.md",
-    "src/Linguagens de marcação/HyperText Markup Language (HTML).md",
-    "Window.md",
     "src/Operational System",
     "src",
     "src/Protocolos/HTTP",
