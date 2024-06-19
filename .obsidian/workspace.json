@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4296a04d92ef456b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "src/templates/Anime.tpl.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "src/pt-br/Animes/Anime.md",
+                "file": "src/templates/Anime.tpl.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "src/pt-br/Animes/Anime.md",
+                "file": "src/templates/Anime.tpl.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "src/pt-br/Animes/Anime.md"
+                "file": "src/templates/Anime.tpl.md"
               }
             }
           },
@@ -169,12 +182,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d119f22fe88304d8",
+  "active": "4296a04d92ef456b",
   "lastOpenFiles": [
+    "src/pt-br/Animes/Anime.md",
+    "src/templates/Anime.tpl.md",
+    "src/templates",
+    "src/pt-br/Psicologia",
+    "src/pt-br/Ciências/Ciências da computação/Framework",
     "src/pt-br/Ciências/Ciências da computação/Linguagens de programação",
     "src/pt-br/Ciências/Ciências da computação",
     "src/pt-br/Ciências",
-    "src/pt-br/Animes/Anime.md",
     "src/pt-br/Animes",
     "Welcome.md"
   ]
