@@ -7,7 +7,7 @@ A lista a seguir vai seguir [Encyclopaedia of Chess Openings](Encyclopaedia%20of
 ### A – Aberturas de flanco
 - A00–A39: Primeiro lance das brancas que são diferente de `1.e4` e `1.d4`.
 	- A00: [Aberturas irregulares](Aberturas%20irregulares):
-		
+		![Lista de aberturas irregulares](Aberturas%20irregulares.md#^lista)
 - A40–A44: `1.d4` sem a resposta `1...d5`, `1...Nf6` ou `1...f5` (Respostas atípicas contra `1.d4`);
 - A45–A49: `1.d4 Nf6` sem a continuação `2.c4` (Resposta atípica contra `1...Nf6`);
 - A50–A79: `1.d4 Nf6 2.c4` without `2...e6` or `2...g6` ([Defesas Índias](Defesas%20Índias) atípicas);

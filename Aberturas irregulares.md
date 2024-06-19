@@ -1,4 +1,9 @@
 São raramente adotadas, pois quando comparadas com as aberturas mais usuais, apresentam os seguintes problemas: resultam para as Brancas posições passivas ou fracas (como desenvolvimento do cavalo para uma casa inferior), sem desenvolvimento do controle do centro.
+
+- Posições passivas: 1.d3, 1.c3, ou 1.e3;
+- Sem controle do centro: 1.a3, 1.a4, 1.h3, ou 1.h4
+- Posições fracas: 1.f3 ou 1.g4;
+- Cavalo em casa inferior: 1.Ch3 ou 1.Ca3.
 ## Lista
 - [[Abertura Anderssen]]: `1.a3`;
 - [Abertura Ware](Abertura%20Ware): `1.a4`;

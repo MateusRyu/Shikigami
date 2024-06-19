@@ -11,6 +11,14 @@
             "id": "1c331784378eb1c3",
             "type": "leaf",
             "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "96edfa2518ebbc6b",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
                 "file": "Aberturas irregulares.md",
@@ -98,7 +106,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Aberturas irregulares.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +122,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Aberturas irregulares.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +143,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Aberturas irregulares.md"
-              }
+              "state": {}
             }
           },
           {
@@ -186,8 +190,8 @@
   "lastOpenFiles": [
     "src/pt-br/Xadrez/Aberturas de xadrez.md",
     "Aberturas irregulares.md",
-    "src/pt-br/Xadrez/Abertura/Van Geet.md",
     "Defesa Nimzowitsch.md",
+    "src/pt-br/Xadrez/Abertura/Van Geet.md",
     "src/pt-br/Xadrez/Abertura/Gambito do rei.md",
     "src/pt-br/Xadrez/Xadrez.md",
     "src/pt-br/Ferramentas/Obsidian.md",
