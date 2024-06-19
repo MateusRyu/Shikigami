@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/pt-br/Xadrez/Aberturas de xadrez.md",
+                "file": "Aberturas irregulares.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "src/pt-br/Xadrez/Aberturas de xadrez.md",
+                "file": "Aberturas irregulares.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "src/pt-br/Xadrez/Aberturas de xadrez.md",
+                "file": "Aberturas irregulares.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "src/pt-br/Xadrez/Aberturas de xadrez.md"
+                "file": "Aberturas irregulares.md"
               }
             }
           },
@@ -184,9 +184,10 @@
   },
   "active": "1c331784378eb1c3",
   "lastOpenFiles": [
+    "src/pt-br/Xadrez/Aberturas de xadrez.md",
+    "Aberturas irregulares.md",
     "src/pt-br/Xadrez/Abertura/Van Geet.md",
     "Defesa Nimzowitsch.md",
-    "src/pt-br/Xadrez/Aberturas de xadrez.md",
     "src/pt-br/Xadrez/Abertura/Gambito do rei.md",
     "src/pt-br/Xadrez/Xadrez.md",
     "src/pt-br/Ferramentas/Obsidian.md",

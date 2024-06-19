@@ -7,18 +7,7 @@ A lista a seguir vai seguir [Encyclopaedia of Chess Openings](Encyclopaedia%20of
 ### A – Aberturas de flanco
 - A00–A39: Primeiro lance das brancas que são diferente de `1.e4` e `1.d4`.
 	- A00: [Aberturas irregulares](Aberturas%20irregulares):
-		- [[Abertura Anderssen]]: `1.a3`;
-		- [Abertura Ware](Abertura%20Ware): `1.a4`;
-		- [Ataque Sódio](Ataque%20Sódio): `1.Na3`;
-		- [Abertura Sokolsky](Abertura%20Sokolsky): `1.b4`;
-		- [Abertura Saragoça](Abertura%20Saragoça): `1.c3`;
-		- [Van Geet](Van%20Geet.md): `1.Nc3`;
-		- [Abertura Van't Kruijs](Abertura%20Van't%20Kruijs): `1.e3`;
-		- [Abertura Mieses](Abertura%20Mieses): `1.d3`;
-		- [Abertura Barnes](Abertura%20Barnes): `1. f3`;
-		- [Abertura Benko](Abertura%20Benko): `1.g3`;
-		- [Ataque Grob](Ataque%20Grob): `1.g4`;
-		- 
+		
 - A40–A44: `1.d4` sem a resposta `1...d5`, `1...Nf6` ou `1...f5` (Respostas atípicas contra `1.d4`);
 - A45–A49: `1.d4 Nf6` sem a continuação `2.c4` (Resposta atípica contra `1...Nf6`);
 - A50–A79: `1.d4 Nf6 2.c4` without `2...e6` or `2...g6` ([Defesas Índias](Defesas%20Índias) atípicas);
