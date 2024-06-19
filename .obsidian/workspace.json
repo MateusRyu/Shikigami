@@ -27,7 +27,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +95,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "src/pt-br/Xadrez/Aberturas de xadrez.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "src/pt-br/Xadrez/Aberturas de xadrez.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,9 +132,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "src/pt-br/Xadrez/Aberturas de xadrez.md"
-              }
+              "state": {}
             }
           },
           {
@@ -178,11 +175,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1c331784378eb1c3",
+  "active": "c33a52db089cee8e",
   "lastOpenFiles": [
+    "src/pt-br/Xadrez/Aberturas de xadrez.md",
     "Aberturas irregulares.md",
     "Defesa Nimzowitsch.md",
-    "src/pt-br/Xadrez/Aberturas de xadrez.md",
     "src/pt-br/Xadrez/Abertura/Van Geet.md",
     "src/pt-br/Xadrez/Abertura/Gambito do rei.md",
     "src/pt-br/Xadrez/Xadrez.md",
