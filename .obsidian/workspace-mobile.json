@@ -84,6 +84,18 @@
           "type": "bookmarks",
           "state": {}
         }
+      },
+      {
+        "id": "bf41ce809e34185c",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          }
+        }
       }
     ],
     "currentTab": 0
@@ -144,6 +156,9 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "random-note:Open random note": false,
+      "publish:Publish changes...": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
