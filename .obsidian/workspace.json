@@ -11,24 +11,8 @@
             "id": "1c331784378eb1c3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "src/pt-br/Ciências/Psicologia/Psicologia.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "18bbb6e40efcb9ce",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "src/pt-br/Projetos/Shikigami/Shikigami.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -97,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "src/pt-br/Ciências/Psicologia/Psicologia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "src/pt-br/Ciências/Psicologia/Psicologia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "src/pt-br/Ciências/Psicologia/Psicologia.md"
-              }
+              "state": {}
             }
           },
           {
@@ -183,14 +163,16 @@
   },
   "active": "1c331784378eb1c3",
   "lastOpenFiles": [
-    "src/pt-br/Ciências/Ciência.md",
-    "src/pt-br/Projetos/Shikigami/Shikigami.md",
-    "src/pt-br/Ciências/Psicologia/Psicologia.md",
     "README.md",
-    "src/pt-br/Projetos/Shikigami",
-    "src/pt-br/Projetos",
     "src/pt-br/Animes/Kuuchuu Buranko.md",
     "src/pt-br/Animes/Anime.md",
+    "src/pt-br/Ciências/Ciências da computação/Linguagens de programação/Java.md",
+    "src/pt-br/Ciências/Psicologia/Psicologia.md",
+    "src/pt-br/Ciências/Psicologia/Aprendizado.md",
+    "src/pt-br/Ciências/Ciência.md",
+    "src/pt-br/Projetos/Shikigami/Shikigami.md",
+    "src/pt-br/Projetos/Shikigami",
+    "src/pt-br/Projetos",
     "src/templates/Anime.tpl.md",
     "src/templates",
     "src/pt-br/Ciências/Psicologia",

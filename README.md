@@ -6,5 +6,6 @@ Shikigami is a project to dumb my knowledge at one unique place and serve as API
 - [ ] Private folder to sensitive data (Folder will not be store remotely);
 - [ ] End-point to consume data;
 
+Each doc is writing with [markdown](Markdown.md).
 ## Templates
 - [Anime.tpl](Anime.tpl.md);
