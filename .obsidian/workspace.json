@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/Animes/Anime.md",
+                "file": "src/pt-br/Animes/Anime.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "src/Animes/Anime.md",
+                "file": "src/pt-br/Animes/Anime.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "src/Animes/Anime.md",
+                "file": "src/pt-br/Animes/Anime.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "src/Animes/Anime.md"
+                "file": "src/pt-br/Animes/Anime.md"
               }
             }
           },
@@ -171,8 +171,11 @@
   },
   "active": "d119f22fe88304d8",
   "lastOpenFiles": [
-    "src/Animes/Anime.md",
-    "src/Animes",
+    "src/pt-br/Ciências/Ciências da computação/Linguagens de programação",
+    "src/pt-br/Ciências/Ciências da computação",
+    "src/pt-br/Ciências",
+    "src/pt-br/Animes/Anime.md",
+    "src/pt-br/Animes",
     "Welcome.md"
   ]
 }
