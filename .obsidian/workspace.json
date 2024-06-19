@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kuuchuu Buranko.md",
+                "file": "src/pt-br/Animes/Kuuchuu Buranko.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kuuchuu Buranko.md",
+                "file": "src/pt-br/Animes/Kuuchuu Buranko.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kuuchuu Buranko.md",
+                "file": "src/pt-br/Animes/Kuuchuu Buranko.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kuuchuu Buranko.md"
+                "file": "src/pt-br/Animes/Kuuchuu Buranko.md"
               }
             }
           },
@@ -194,10 +194,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1c331784378eb1c3",
+  "active": "d119f22fe88304d8",
   "lastOpenFiles": [
     "src/pt-br/Animes/Anime.md",
-    "Kuuchuu Buranko.md",
+    "src/pt-br/Animes/Kuuchuu Buranko.md",
     "Sem título",
     "src/templates/Anime.tpl.md",
     "src/templates",
