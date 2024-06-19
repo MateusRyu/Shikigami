@@ -4,5 +4,7 @@ English title:
 Status: 
 Total episodes: 
 episodes viewed: 
-Type:
+Type: []
+Season: 
+Score:
 ---
