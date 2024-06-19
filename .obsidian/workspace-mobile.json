@@ -11,28 +11,11 @@
             "id": "ce852f0937acda09",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spring.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "56bcb98cb74c89fe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Psicologia analítica.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +93,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Psicologia analítica.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -127,7 +109,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Psicologia analítica.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -138,9 +119,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "Psicologia analítica.md"
-          }
+          "state": {}
         }
       },
       {
@@ -168,45 +147,49 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "56bcb98cb74c89fe",
+  "active": "ce852f0937acda09",
   "lastOpenFiles": [
-    "Spring.md",
-    "Psicologia analítica.md",
-    "Algoritmo.md",
-    "Embed.md",
-    "/Algoritmo.md",
-    "/src/Xadrez/Xadrez.md",
-    "/src/Xadrez/Peças de xadrez.md",
-    "/src/Xadrez/Oposição de Rei.md",
-    "/src/Xadrez/Finais elementais.md",
-    "/src/Xadrez/Finais/Final de peão.md",
-    "/src/Xadrez/Aberturas de xadrez.md",
-    "/src/Xadrez/Abertura/Vienna.md",
-    "/src/Xadrez/Abertura/Van Geet.md",
-    "/src/Xadrez/Abertura/Bird.md",
-    "/src/Protocolos/SSH.md",
-    "/src/Protocolos/Protocolo.md",
-    "/src/Protocolos/HTTP/HTTP.md",
-    "/src/Protocolos/HTTP/Cross-Origin Resource Sharing (CORS).md",
-    "/src/Operational System/Windows.md",
-    "/src/Operational System/Arch Linux.md",
-    "/src/Linguagens de marcação/Markdown.md",
-    "/src/Linguagem de programação.md",
-    "/src/Linguagem de marcação.md",
-    "/src/Github.md",
-    "/src/Git.md",
-    "/src/Ferramentas/Obsidian.md",
+    "src/pt-br/Ciências/Ciências da computação/Framework/Spring.md",
+    "/src/pt-br/Ciências/Ciências da computação/Framework/Spring.md",
+    "src/pt-br/Xadrez/Xadrez.md",
+    "src/pt-br/Xadrez/Finais elementais.md",
+    "src/pt-br/Xadrez/Abertura/Vienna.md",
+    "src/pt-br/Ciências/Ciências da computação/Protocolos/SSH.md",
+    "src/pt-br/Xadrez/Peças de xadrez.md",
+    "src/pt-br/Xadrez/Oposição de Rei.md",
+    "src/pt-br/Xadrez/Finais/Final de peão.md",
+    "src/pt-br/Xadrez/Abertura/Van Geet.md",
+    "src/pt-br/Xadrez/Abertura/Bird.md",
+    "src/pt-br/Ferramentas/Anki/Anki.md",
+    "src/pt-br/Ciências/Psicologia/Teste de recordação ativa.md",
+    "src/pt-br/Ciências/Ciências da computação/Sistemas operacionais/Windows.md",
+    "src/pt-br/Ciências/Ciências da computação/Sistemas operacionais/Sistema Operacional.md",
+    "src/pt-br/Ciências/Ciências da computação/Sistemas operacionais/Linux.md",
+    "src/pt-br/Ciências/Ciências da computação/Sistemas operacionais/Distro Linux.md",
+    "src/pt-br/Ciências/Ciências da computação/Sistemas operacionais/Arch Linux.md",
+    "src/pt-br/Ciências/Ciências da computação/Sistemas operacionais/Android.md",
+    "src/pt-br/Ciências/Ciências da computação/Protocolos/Protocolo.md",
+    "src/pt-br/Ciências/Ciências da computação/Protocolos/HTTP/HTTP.md",
+    "src/pt-br/Ciências/Ciências da computação/Protocolos/HTTP/Cross-Origin Resource Sharing (CORS).md",
+    "src/pt-br/Ciências/Ciências da computação/Linguagens de programação/Linguagem de programação.md",
+    "src/pt-br/Ciências/Ciências da computação/Linguagens de marcação/Linguagem de marcação.md",
+    "src/pt-br/Ciências/Ciências da computação/Github.md",
+    "src/pt-br/Ciências/Ciências da computação/Embed.md",
+    "src/Assets/Pasted Image 20240613173345_877.png",
+    "src/Assets/Pasted Image 20240613172503_261.png",
+    "/src/Assets/Pasted Image 20240613173345_877.png",
+    "/src/Assets/Pasted Image 20240613172503_261.png",
+    "src/templates",
+    "src/pt-br/Ciências/Ciências da computação/Protocolos/HTTP",
+    "src/pt-br/Ciências/Ciências da computação/Linguagens de programação",
+    "src/pt-br/Ciências/Ciências da computação/Linguagens de marcação",
+    "src/pt-br/Ciências/Ciências da computação/Protocolos",
+    "src/pt-br/Ciências/Ciências da computação/Sistemas operacionais",
+    "src/pt-br/Ciências/Ciências da computação/Framework",
+    "src/pt-br/Ciências/Ciências da computação",
+    "src/pt-br/Ciências/Psicologia",
+    "src/pt-br/Ferramentas/Anki",
     "Assets/Pasted Image 20240613173345_877.png",
-    "Assets/Pasted Image 20240613172503_261.png",
-    "src/Xadrez/Abertura",
-    "src/Xadrez/Peças",
-    "src/Xadrez/Finais",
-    "src/Protocolos/HTTP",
-    "src/Operational System",
-    "src/Linguagens de marcação",
-    "src/Ferramentas",
-    "src/Xadrez",
-    "src/Protocolos",
-    "src"
+    "Assets/Pasted Image 20240613172503_261.png"
   ]
 }
