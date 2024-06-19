@@ -11,8 +11,12 @@
             "id": "1c331784378eb1c3",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "src/pt-br/Ciências/Psicologia/Psicologia.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -27,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "src/pt-br/Projetos/Shikigami/Shikigami.md",
+                "file": "src/pt-br/Ciências/Psicologia/Psicologia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "src/pt-br/Projetos/Shikigami/Shikigami.md",
+                "file": "src/pt-br/Ciências/Psicologia/Psicologia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "src/pt-br/Projetos/Shikigami/Shikigami.md"
+                "file": "src/pt-br/Ciências/Psicologia/Psicologia.md"
               }
             }
           },
@@ -178,16 +181,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "18bbb6e40efcb9ce",
+  "active": "1c331784378eb1c3",
   "lastOpenFiles": [
+    "src/pt-br/Ciências/Ciência.md",
     "src/pt-br/Projetos/Shikigami/Shikigami.md",
+    "src/pt-br/Ciências/Psicologia/Psicologia.md",
+    "README.md",
     "src/pt-br/Projetos/Shikigami",
     "src/pt-br/Projetos",
     "src/pt-br/Animes/Kuuchuu Buranko.md",
     "src/pt-br/Animes/Anime.md",
     "src/templates/Anime.tpl.md",
     "src/templates",
-    "src/pt-br/Psicologia",
+    "src/pt-br/Ciências/Psicologia",
     "src/pt-br/Ciências/Ciências da computação/Framework",
     "src/pt-br/Ciências/Ciências da computação/Linguagens de programação",
     "src/pt-br/Ciências/Ciências da computação",

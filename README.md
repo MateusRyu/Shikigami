@@ -5,3 +5,6 @@ Shikigami is a project to dumb my knowledge at one unique place and serve as API
 - [ ] Template to each type of knowledge for easy consume;
 - [ ] Private folder to sensitive data (Folder will not be store remotely);
 - [ ] End-point to consume data;
+
+## Templates
+- [Anime.tpl](Anime.tpl.md);
