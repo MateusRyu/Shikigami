@@ -22,14 +22,12 @@ A lista a seguir vai seguir [Encyclopaedia of Chess Openings](Encyclopaedia%20of
 
 [...]
 
-## B – Jogos semi-abe other than the French Defence[[edit](https://en.wikipedia.org/w/index.php?title=List_of_chess_openings&action=edit&section=8 "Edit section: B – Semi-Open Games other than the French Defence")]
-
-- 1.e4 without 1...c5, 1...e6 or 1...e5 (B00–B19)
+### B – Jogos semi-abertos que não são a Defesa Francesa
+- B00–B19: `1.e4` without 1...c5, 1...e6 or 1...e5;
 - 1.e4 c5: [Sicilian Defence](https://en.wikipedia.org/wiki/Sicilian_Defence "Sicilian Defence") (B20–B99)
 
-### B00–B19[[edit](https://en.wikipedia.org/w/index.php?title=List_of_chess_openings&action=edit&section=9 "Edit section: B00–B19")]
-
+#### B00–B19
 1.e4 without 1...c5, 1...e6 or 1...e5
 
-- B00 [King's Pawn Opening](https://en.wikipedia.org/wiki/King%27s_Pawn_Game "King's Pawn Game") without 1...e5, 1...e6, 1...d5, 1...Nf6, 1...g6, 1...d6, 1...c6, 1...c5.
-    - [Nimzowitsch Defence](https://en.wikipedia.org/wiki/Nimzowitsch_Defence "Nimzowitsch Defence") 1...Nc6 (without 2.Nf3 e5 (C44, C50, C60))
+- B00 [[Abertura peão do rei]] sem `1...e5`, `1...e6`, `1...d5`, `1...Nf6`, `1...g6`, `1...d6`, `1...c6`, `1...c5`.
+    -  [Defesa Nimzowitsch](Defesa%20Nimzowitsch.md): `1...Nc6` (sem `2.Nf3 e5` (C44, C50, C60))
