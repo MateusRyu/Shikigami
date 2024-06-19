@@ -1,0 +1,1 @@
+Anime é basicamente qualquer animação de origem japonesa. O termo `anime` vem da maneira que os japoneses chamavam 
