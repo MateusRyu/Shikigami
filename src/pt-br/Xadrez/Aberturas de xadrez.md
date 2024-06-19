@@ -24,6 +24,9 @@ A lista a seguir vai seguir [Encyclopaedia of Chess Openings](Encyclopaedia%20of
 	-  A01: [Abertura Larsen](Abertura%20Larsen): `1.b3`;
 	-  A02: [Abertura Bird](Bird.md): `1.f4`;
 	-  A03: [Abertura Bird, variante holandesa](Bird.md#variante%20Holandesa): `1.f4 d5`;
+	- A04: [Abertura Zukertort](Abertura%20Réti): `1.Nf3`;
+	- A05: [Abertura Réti](Abertura%20Réti.md): `1...Nf6`;
+	- 
 - A40–A44: `1.d4` sem a resposta `1...d5`, `1...Nf6` ou `1...f5` (Respostas atípicas contra `1.d4`);
 - A45–A49: `1.d4 Nf6` sem a continuação `2.c4` (Resposta atípica contra `1...Nf6`);
 - A50–A79: `1.d4 Nf6 2.c4` without `2...e6` or `2...g6` ([Defesas Índias](Defesas%20Índias) atípicas);
