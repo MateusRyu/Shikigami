@@ -29,7 +29,7 @@ A lista a seguir vai seguir [Encyclopaedia of Chess Openings](Encyclopaedia%20of
 	-  A06: [Abertura Réti](Abertura%20Réti.md): `1. Nf3 d5`;
 	-  A07: [Abertura Réti, ataque Índia do rei](Abertura%20Réti.md): `1. Nf3 d5 2.g3`;
 	-  A08: [Abertura Réti, ataque Índia do rei](Abertura%20Réti.md): `1. Nf3 d5 2.g3 c5 3.Bg2`;
-	-  A09: [Abertura Réti](Abertura%20Réti.md): `1. Nf3 d5`;
+	-  A09: [Abertura Réti, linha principal](Abertura%20Réti.md): `1. Nf3 d5 2.c4`;
 - A40–A44: `1.d4` sem a resposta `1...d5`, `1...Nf6` ou `1...f5` (Respostas atípicas contra `1.d4`);
 - A45–A49: `1.d4 Nf6` sem a continuação `2.c4` (Resposta atípica contra `1...Nf6`);
 - A50–A79: `1.d4 Nf6 2.c4` without `2...e6` or `2...g6` ([Defesas Índias](Defesas%20Índias) atípicas);

@@ -1,0 +1,1 @@
+Pode transpor para uma [Siciliana%20reversa](Abertura%20Inglesa#Siciliana%20reversa)
