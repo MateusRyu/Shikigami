@@ -27,7 +27,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +95,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Abertura Anderssen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Abertura Anderssen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,9 +132,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Abertura Anderssen.md"
-              }
+              "state": {}
             }
           },
           {
@@ -178,10 +175,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1c331784378eb1c3",
+  "active": "c33a52db089cee8e",
   "lastOpenFiles": [
-    "src/pt-br/Xadrez/Aberturas de xadrez.md",
     "Abertura Anderssen.md",
+    "src/pt-br/Xadrez/Aberturas de xadrez.md",
     "Abertura Réti.md",
     "Aberturas irregulares.md",
     "Defesa Nimzowitsch.md",
