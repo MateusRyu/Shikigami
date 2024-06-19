@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/Ferramentas/Obsidian.md",
+                "file": "src/pt-br/Ferramentas/Obsidian.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "src/pt-br/Repetição espaçada.md",
                 "mode": "source",
                 "source": false
               }
@@ -92,7 +92,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "src/pt-br/Repetição espaçada.md"
               }
             }
           },
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "src/pt-br/Repetição espaçada.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "src/pt-br/Repetição espaçada.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,46 +192,46 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "74eca312f1e236c1",
+  "active": "020c4a8b3cae66ad",
   "lastOpenFiles": [
-    "src/Ferramentas/Obsidian.md",
+    "src/pt-br/Algoritmo.md",
+    "src/pt-br/Aprendizado.md",
     "README.md",
-    "Psicologia analítica.md",
-    "Embed.md",
-    "src/Linguagens de marcação/HyperText Markup Language (HTML).md",
-    "src/Linguagens de marcação/Markdown.md",
-    "src/Operational System/Arch Linux.md",
-    "src/Operational System/Windows.md",
-    "src/Protocolos/HTTP/HTTP.md",
-    "src/Protocolos/HTTP/Cross-Origin Resource Sharing (CORS).md",
-    "src/Protocolos/HTTP/Header (HTTP).md",
-    "src/Protocolos/Protocolo.md",
-    "src/Protocolos/SSH.md",
-    "src/Xadrez/Abertura/Bird.md",
-    "src/Xadrez/Abertura/Gambito do rei.md",
-    "src/Xadrez/Abertura/Van Geet.md",
-    "src/Xadrez/Abertura/Vienna.md",
-    "src/Xadrez/Finais/Final de peão.md",
-    "src/Xadrez/Peças/Cavalo.md",
-    "src/Xadrez/Peças/Rei.md",
-    "src/Xadrez/Aberturas de xadrez.md",
-    "src/Xadrez/Finais elementais.md",
-    "src/Xadrez/Oposição de Rei.md",
-    "src/Xadrez/Peças de xadrez.md",
-    "src/Xadrez/Xadrez.md",
-    "src/Aprendizado.md",
-    "src/Operational System",
+    "src/pt-br",
+    "src/pt-br/Ferramentas/Obsidian.md",
+    "src/pt-br/Psicologia analítica.md",
+    "src/pt-br/Embed.md",
+    "src/pt-br/Linguagens de marcação/HyperText Markup Language (HTML).md",
+    "src/pt-br/Linguagens de marcação/Markdown.md",
+    "src/pt-br/Operational System/Arch Linux.md",
+    "src/pt-br/Operational System/Windows.md",
+    "src/pt-br/Protocolos/HTTP/HTTP.md",
+    "src/pt-br/Protocolos/HTTP/Cross-Origin Resource Sharing (CORS).md",
+    "src/pt-br/Protocolos/HTTP/Header (HTTP).md",
+    "src/pt-br/Protocolos/Protocolo.md",
+    "src/pt-br/Protocolos/SSH.md",
+    "src/pt-br/Xadrez/Abertura/Bird.md",
+    "src/pt-br/Xadrez/Abertura/Gambito do rei.md",
+    "src/pt-br/Xadrez/Abertura/Van Geet.md",
+    "src/pt-br/Xadrez/Abertura/Vienna.md",
+    "src/pt-br/Xadrez/Finais/Final de peão.md",
+    "src/pt-br/Xadrez/Peças/Cavalo.md",
+    "src/pt-br/Xadrez/Peças/Rei.md",
+    "src/pt-br/Xadrez/Aberturas de xadrez.md",
+    "src/pt-br/Xadrez/Finais elementais.md",
+    "src/pt-br/Xadrez/Oposição de Rei.md",
+    "src/pt-br/Xadrez/Peças de xadrez.md",
+    "src/pt-br/Operational System",
     "src",
-    "src/Protocolos/HTTP",
-    "src/Protocolos",
-    "src/Linguagens de marcação",
+    "src/pt-br/Protocolos/HTTP",
+    "src/pt-br/Protocolos",
+    "src/pt-br/Linguagens de marcação",
     "Desenvolvimento de softwares",
-    "src/Xadrez/Peças",
+    "src/pt-br/Xadrez/Peças",
     "Assets/Pasted Image 20240613173345_877.png",
     "Assets/Pasted Image 20240613172503_261.png",
     "Assets",
     "Pasted Image 20240613172205_830.png",
-    "src/Xadrez/Abertura",
-    "src/Xadrez/Finais"
+    "src/pt-br/Xadrez/Abertura"
   ]
 }
