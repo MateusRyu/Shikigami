@@ -2,8 +2,10 @@ No [xadrez](Xadrez.md), a abertura é a fase do jogo em que cada jogador desenvo
 
 ## Aberturas
 ---
-- [Gambito do rei](Gambito%20do%20rei.md);
-- [Van Geet](Van%20Geet.md);
-- [Bird](Bird.md);
-- [Vienna](Vienna.md);
-- 
+
+### A – Aberturas de flanco
+- A00–A39: Primeiro lance das brancas que são diferente de `1.e4` e `1.d4`;
+- A40–A44: `1.d4` sem a resposta `1...d5`, `1...Nf6` ou `1...f5` (Respostas atipicas contra `1.d4`);
+- 1.d4 Nf6 without 2.c4: Atypical replies to 1...Nf6 (A45–A49)
+- 1.d4 Nf6 2.c4 without 2...e6 or 2...g6: Atypical [Indian systems](https://en.wikipedia.org/wiki/Indian_defences "Indian defences") (A50–A79)
+- 1.d4 f5: [Dutch Defence](https://en.wikipedia.org/wiki/Dutch_Defence "Dutch Defence") (A80–A99)
