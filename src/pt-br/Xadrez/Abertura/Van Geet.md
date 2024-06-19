@@ -1,1 +1,1 @@
-pode transpor para o [Gambito do rei](Gambito%20do%20rei.md) ou a abertura [Vienna](Vienna.md)
+pode transpor para o [Gambito do rei](Gambito%20do%20rei.md) ou a abertura [Vienna](Vienna.md) ou a [defesa escandiva](Defesa%20escandinava)

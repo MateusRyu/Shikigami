@@ -11,8 +11,12 @@
             "id": "1c331784378eb1c3",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "src/pt-br/Xadrez/Aberturas de xadrez.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -27,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -95,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Defesa Nimzowitsch.md",
+                "file": "src/pt-br/Xadrez/Aberturas de xadrez.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Defesa Nimzowitsch.md",
+                "file": "src/pt-br/Xadrez/Aberturas de xadrez.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Defesa Nimzowitsch.md"
+                "file": "src/pt-br/Xadrez/Aberturas de xadrez.md"
               }
             }
           },
@@ -179,10 +182,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c33a52db089cee8e",
+  "active": "1c331784378eb1c3",
   "lastOpenFiles": [
-    "src/pt-br/Xadrez/Aberturas de xadrez.md",
+    "src/pt-br/Xadrez/Abertura/Van Geet.md",
     "Defesa Nimzowitsch.md",
+    "src/pt-br/Xadrez/Aberturas de xadrez.md",
     "src/pt-br/Xadrez/Abertura/Gambito do rei.md",
     "src/pt-br/Xadrez/Xadrez.md",
     "src/pt-br/Ferramentas/Obsidian.md",
