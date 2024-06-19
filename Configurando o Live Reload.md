@@ -14,3 +14,10 @@
 
 [IntelliJ](IntelliJ)
 
+`File > Settings… > Build, Execution, Deployment > Compiler`
+Marcar opção `Build project automatically`;
+Clicar em `Apply`
+Ir em `Advanced Settings
+
+
+
