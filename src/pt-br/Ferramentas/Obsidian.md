@@ -5,9 +5,9 @@
 
 ## Sintaxe
 
-![Cabeçalho](Markdown#Cabeçalho)
+![Cabeçalho](Markdown.md#Cabeçalho)
 
-![Lista](Markdown#Lista)
+![Lista](Markdown.md#Lista)
 ### Link
 #### Link interno
 ##### Wikilink

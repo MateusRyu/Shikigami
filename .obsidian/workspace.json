@@ -1,40 +1,48 @@
 {
   "main": {
-    "id": "d484e1720d2166e0",
+    "id": "628d87c2f8cfef6c",
     "type": "split",
     "children": [
       {
-        "id": "68ad35778972901b",
+        "id": "a6d8864b74c3b919",
         "type": "tabs",
         "children": [
           {
-            "id": "f5f659e7e22f8d13",
+            "id": "1c331784378eb1c3",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "c33a52db089cee8e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/Ferramentas/Obsidian.md",
+                "file": "src/pt-br/Xadrez/Aberturas de xadrez.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "9596e2130bac99af",
+    "id": "4fcdc6381936cc9a",
     "type": "split",
     "children": [
       {
-        "id": "bb16e09581dc6e70",
+        "id": "c4bb36dfc64d123c",
         "type": "tabs",
-        "dimension": 70.8029197080292,
         "children": [
           {
-            "id": "020c4a8b3cae66ad",
+            "id": "d119f22fe88304d8",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -44,12 +52,12 @@
             }
           },
           {
-            "id": "68ae0b7f2d563e81",
+            "id": "e18e3cca90e46fbd",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#pronome",
+                "query": "tag:#AberturaXadrez",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -59,56 +67,35 @@
             }
           },
           {
-            "id": "f43e2eb3dec64d08",
+            "id": "be2647f2eeba63c8",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
               "state": {}
             }
           }
-        ]
-      },
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "90e0184107fbeb3d",
+    "type": "split",
+    "children": [
       {
-        "id": "51336995666522a3",
+        "id": "ba33b0496362c4d7",
         "type": "tabs",
-        "dimension": 29.1970802919708,
         "children": [
           {
-            "id": "41ef1eb750f765d9",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "src/Ferramentas/Obsidian.md"
-              }
-            }
-          },
-          {
-            "id": "d25165fdfe4c3da2",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "29212f093c941cfc",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
-            "id": "f960a297e40e3366",
+            "id": "43ec2e11a74876d9",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "src/Ferramentas/Obsidian.md",
+                "file": "src/pt-br/Xadrez/Aberturas de xadrez.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,34 +107,40 @@
             }
           },
           {
-            "id": "539a347cd6a7681e",
+            "id": "5f2bd064f4f4b0be",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "src/Ferramentas/Obsidian.md",
+                "file": "src/pt-br/Xadrez/Aberturas de xadrez.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
-          }
-        ],
-        "currentTab": 3
-      }
-    ],
-    "direction": "horizontal",
-    "width": 333.5
-  },
-  "right": {
-    "id": "e6e275d34c82acf4",
-    "type": "split",
-    "children": [
-      {
-        "id": "3e7e4ff86ba95d41",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "def3e469e2b544ee",
+            "id": "dc61fb602cfdf8b2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9cb7546bf61a2df4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "src/pt-br/Xadrez/Aberturas de xadrez.md"
+              }
+            }
+          },
+          {
+            "id": "0700a07c57cc067c",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -156,6 +149,14 @@
                 "showSearch": false,
                 "searchQuery": ""
               }
+            }
+          },
+          {
+            "id": "be53e90a77b82a63",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
             }
           }
         ]
@@ -167,58 +168,43 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "graph:Abrir visualização em gráfico": false,
+      "random-note:Abrir nota aleatória": false,
       "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
       "canvas:Criar novo canvas": false,
       "daily-notes:Abrir a nota de hoje": false,
       "templates:Inserir modelo": false,
       "command-palette:Abrir paleta de comandos": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "random-note:Abrir nota aleatória": false,
-      "publish:Publicar mudanças": false,
-      "mermaid-tools:Open Mermaid Toolbar": false
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f5f659e7e22f8d13",
+  "active": "c33a52db089cee8e",
   "lastOpenFiles": [
-    "Embed.md",
-    "src/Ferramentas/Obsidian.md",
-    "src/Linguagens de marcação/HyperText Markup Language (HTML).md",
-    "src/Linguagens de marcação/Markdown.md",
-    "src/Operational System/Arch Linux.md",
-    "src/Operational System/Windows.md",
-    "src/Protocolos/HTTP/HTTP.md",
-    "src/Protocolos/HTTP/Cross-Origin Resource Sharing (CORS).md",
-    "src/Protocolos/HTTP/Header (HTTP).md",
-    "src/Protocolos/Protocolo.md",
-    "src/Protocolos/SSH.md",
-    "src/Xadrez/Abertura/Bird.md",
-    "src/Xadrez/Abertura/Gambito do rei.md",
-    "src/Xadrez/Abertura/Van Geet.md",
-    "src/Xadrez/Abertura/Vienna.md",
-    "src/Xadrez/Finais/Final de peão.md",
-    "src/Xadrez/Peças/Cavalo.md",
-    "src/Xadrez/Peças/Rei.md",
-    "src/Xadrez/Aberturas de xadrez.md",
-    "src/Xadrez/Finais elementais.md",
-    "src/Xadrez/Oposição de Rei.md",
-    "src/Xadrez/Peças de xadrez.md",
-    "src/Xadrez/Xadrez.md",
-    "src/Aprendizado.md",
-    "src/obsidian.md",
-    "src/Desenvolvimento de software.md",
-    "src/Operational System",
-    "src",
-    "src/Protocolos/HTTP",
-    "src/Protocolos",
-    "src/Linguagens de marcação",
-    "Desenvolvimento de softwares",
-    "src/Xadrez/Peças",
-    "Assets/Pasted Image 20240613173345_877.png",
-    "Assets/Pasted Image 20240613172503_261.png",
-    "Assets",
-    "Pasted Image 20240613172205_830.png",
-    "src/Xadrez/Abertura",
-    "src/Xadrez/Finais"
+    "Defesa Nimzowitsch.md",
+    "src/pt-br/Xadrez/Abertura/Gambito do rei.md",
+    "src/pt-br/Xadrez/Aberturas de xadrez.md",
+    "src/pt-br/Xadrez/Xadrez.md",
+    "src/pt-br/Ferramentas/Obsidian.md",
+    "src/pt-br/Xadrez/Abertura/Bird.md",
+    "README.md",
+    "src/pt-br/Animes/Kuuchuu Buranko.md",
+    "src/pt-br/Animes/Anime.md",
+    "src/pt-br/Ciências/Ciências da computação/Linguagens de programação/Java.md",
+    "src/pt-br/Ciências/Psicologia/Psicologia.md",
+    "src/pt-br/Ciências/Psicologia/Aprendizado.md",
+    "src/pt-br/Ciências/Ciência.md",
+    "src/pt-br/Projetos/Shikigami/Shikigami.md",
+    "src/pt-br/Projetos/Shikigami",
+    "src/pt-br/Projetos",
+    "src/templates/Anime.tpl.md",
+    "src/templates",
+    "src/pt-br/Ciências/Psicologia",
+    "src/pt-br/Ciências/Ciências da computação/Framework",
+    "src/pt-br/Ciências/Ciências da computação/Linguagens de programação",
+    "src/pt-br/Ciências/Ciências da computação",
+    "src/pt-br/Ciências",
+    "src/pt-br/Animes",
+    "Welcome.md"
   ]
 }
