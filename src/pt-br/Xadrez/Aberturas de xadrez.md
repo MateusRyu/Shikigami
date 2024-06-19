@@ -1,7 +1,7 @@
 ## Aberturas
 ---
 ```query
-Abertura AND xadrez
+AberturaXadrez
 ```
 - [Gambito do rei](Gambito%20do%20rei.md);
 - [Van Geet](Van%20Geet.md);
