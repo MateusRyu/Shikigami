@@ -5,27 +5,15 @@ A lista a seguir vai seguir [Encyclopaedia of Chess Openings](Encyclopaedia%20of
 ## Aberturas
 ---
 [Lista de referencia](https://en.wikipedia.org/wiki/List_of_chess_openings)
-### A – Aberturas de flanco
+### A
+[Aberturas de ](Aberturas%20de%20flanco)
 -  (`A00`–`A39`) Primeiro lance das brancas que são diferente de `1.e4` e `1.d4`.
-	-  (`A00`) [Aberturas irregulares](Aberturas%20irregulares):
-		- [[Abertura Anderssen]]: `1.a3`;
-		- [Abertura Ware](Abertura%20Ware): `1.a4`;
-		- [Ataque Sódio](Ataque%20Sódio): `1.Na3`;
-		- [Abertura Sokolsky](Abertura%20Sokolsky): `1.b4`;
-		- [Abertura Saragoça](Abertura%20Saragoça): `1.c3`;
-		- [Van Geet](Van%20Geet.md): `1.Nc3`;
-		- [Abertura Van't Kruijs](Abertura%20Van't%20Kruijs): `1.e3`;
-		- [Abertura Mieses](Abertura%20Mieses): `1.d3`;
-		- [Abertura Barnes](Abertura%20Barnes): `1. f3`;
-		- [Abertura Benko](Abertura%20Benko): `1.g3`;
-		- [Ataque Grob](Ataque%20Grob): `1.g4`;
-		- [Abertura Clemenz](Abertura%20Clemenz): `1.h3`;
-		- [Abertura Desprez](Abertura%20Desprez): `1.h4`;
-		- [Abertura Amar](Abertura%20Amar): `1.Nh3`;
+	-  (`A00`) [Aberturas irregulares](Aberturas%20irregulares.md):
+		- ![Aberturas irregulares](Aberturas%20irregulares.md#lista)
 	-  (`A01`) [Abertura Larsen](Abertura%20Larsen): `1.b3`;
 	- (`A02`) [Abertura Bird](Bird.md): `1.f4`;
 	-  (`A03`) [Abertura Bird, variante holandesa](Bird.md#variante%20Holandesa): `1.f4 d5`;
-	-  (`A04`) [Abertura Zukertort](Abertura%20Réti): `1.Nf3`;
+	-  (`A04`) [Abertura Zukertort](Abertura%20Réti.md): `1.Nf3`;
 	-  (`A05`) [Abertura Réti](Abertura%20Réti.md): `1. Nf3 Nf6`;
 	-  (`A06`) [Abertura Réti](Abertura%20Réti.md): `1. Nf3 d5`;
 	-  (`A07`) [Abertura Réti, ataque Índia do rei](Abertura%20Réti.md): `1. Nf3 d5 2.g3`;
