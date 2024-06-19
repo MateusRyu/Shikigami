@@ -9,9 +9,27 @@ A lista a seguir vai seguir [Encyclopaedia of Chess Openings](Encyclopaedia%20of
 	- A00: [Aberturas irregulares](Aberturas%20irregulares):
 		- [[Abertura Anderssen]]: `a3`;
 		- [Abertura Ware](Abertura%20Ware): `a4`;
+		- [Ataque Sódio](Ataque%20Sódio): `Na3`;
+		- [Abertura Sokolsky](Abertura%20Sokolsky): `b4`;
+		- [Abertura Saragoça](Abertura%20Saragoça): `c3`;
+		- [Van Geet](Van%20Geet.md): `Nc3`;
 		- 
 - A40–A44: `1.d4` sem a resposta `1...d5`, `1...Nf6` ou `1...f5` (Respostas atípicas contra `1.d4`);
 - A45–A49: `1.d4 Nf6` sem a continuação `2.c4` (Resposta atípica contra `1...Nf6`);
 - A50–A79: `1.d4 Nf6 2.c4` without `2...e6` or `2...g6` ([Defesas Índias](Defesas%20Índias) atípicas);
 - A80–A99: `1.d4 f5` ([Defesa holandesa](Defesa%20holandesa));
 
+
+[...]
+
+## B – Jogos semi-abe other than the French Defence[[edit](https://en.wikipedia.org/w/index.php?title=List_of_chess_openings&action=edit&section=8 "Edit section: B – Semi-Open Games other than the French Defence")]
+
+- 1.e4 without 1...c5, 1...e6 or 1...e5 (B00–B19)
+- 1.e4 c5: [Sicilian Defence](https://en.wikipedia.org/wiki/Sicilian_Defence "Sicilian Defence") (B20–B99)
+
+### B00–B19[[edit](https://en.wikipedia.org/w/index.php?title=List_of_chess_openings&action=edit&section=9 "Edit section: B00–B19")]
+
+1.e4 without 1...c5, 1...e6 or 1...e5
+
+- B00 [King's Pawn Opening](https://en.wikipedia.org/wiki/King%27s_Pawn_Game "King's Pawn Game") without 1...e5, 1...e6, 1...d5, 1...Nf6, 1...g6, 1...d6, 1...c6, 1...c5.
+    - [Nimzowitsch Defence](https://en.wikipedia.org/wiki/Nimzowitsch_Defence "Nimzowitsch Defence") 1...Nc6 (without 2.Nf3 e5 (C44, C50, C60))
