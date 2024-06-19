@@ -7,7 +7,7 @@ A lista a seguir vai seguir [Encyclopaedia of Chess Openings](Encyclopaedia%20of
 [Lista de referencia](https://en.wikipedia.org/wiki/List_of_chess_openings)
 ### A -  [Aberturas de flanco](Aberturas%20de%20flanco)
 ![Aberturas de flanco](Aberturas%20de%20flanco.md#Lista)
-
+ 
 ### B – Jogos semi-abertos que não são a Defesa Francesa
 - B00–B19: `1.e4` without 1...c5, 1...e6 or 1...e5;
 - 1.e4 c5: [Sicilian Defence](https://en.wikipedia.org/wiki/Sicilian_Defence "Sicilian Defence") (B20–B99)
