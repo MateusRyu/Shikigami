@@ -4,10 +4,16 @@ A lista a seguir vai seguir [Encyclopaedia of Chess Openings](Encyclopaedia%20of
 
 ## Aberturas
 ---
-### A – Aberturas de flanco
-- A00–A39: Primeiro lance das brancas que são diferente de `1.e4` e `1.d4`;
-- A40–A44: `1.d4` sem a resposta `1...d5`, `1...Nf6` ou `1...f5` (Respostas atípicas contra `1.d4`);
-- A45–A49: `1.d4 Nf6` sem a continuação `2.c4` (Resposta atípica contra `1...Nf6`);
-- A50–A79: `1.d4 Nf6 2.c4` without `2...e6` or `2...g6` ([Defesas Índias](Defesas%20Índias) atípicas);
-- A80–A99: `1.d4 f5` ([[Defesa holandesa]]);
+[Lista de referencia](https://en.wikipedia.org/wiki/List_of_chess_openings)
+### A -  [Aberturas de flanco](Aberturas%20de%20flanco)
+![Aberturas de flanco](Aberturas%20de%20flanco.md#Lista)
+ 
+### B – Jogos semi-abertos que não são a Defesa Francesa
+- B00–B19: `1.e4` without 1...c5, 1...e6 or 1...e5;
+- 1.e4 c5: [Sicilian Defence](https://en.wikipedia.org/wiki/Sicilian_Defence "Sicilian Defence") (B20–B99)
 
+#### B00–B19
+1.e4 without 1...c5, 1...e6 or 1...e5
+
+- B00 [[Abertura peão do rei]] sem `1...e5`, `1...e6`, `1...d5`, `1...Nf6`, `1...g6`, `1...d6`, `1...c6`, `1...c5`.
+    -  [Defesa Nimzowitsch](Defesa%20Nimzowitsch.md): `1...Nc6` (sem `2.Nf3 e5` (C44, C50, C60))
