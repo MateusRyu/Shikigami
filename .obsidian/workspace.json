@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Configurando o Live Reload.md",
+                "file": "src/pt-br/Ciências/Psicologia/Psicologia analítica.md",
                 "mode": "source",
                 "source": false
               }
@@ -27,7 +27,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "90e0184107fbeb3d",
@@ -94,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Configurando o Live Reload.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Configurando o Live Reload.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,9 +131,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Configurando o Live Reload.md"
-              }
+              "state": {}
             }
           },
           {
@@ -178,10 +174,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "deb7607ac44251e1",
+  "active": "c33a52db089cee8e",
   "lastOpenFiles": [
-    "src/pt-br/Xadrez/Aberturas de xadrez.md",
+    "src/pt-br/Ciências/Psicologia/Psicologia analítica.md",
     "Configurando o Live Reload.md",
+    "src/pt-br/Xadrez/Aberturas de xadrez.md",
     "Aberturas de flanco.md",
     "src/pt-br/Xadrez/Abertura/Bird.md",
     "src/pt-br/Xadrez/Abertura/Abertura Anderssen.md",
