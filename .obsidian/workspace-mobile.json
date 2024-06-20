@@ -137,7 +137,6 @@
     "hiddenItems": {
       "mermaid-tools:Open Mermaid Toolbar": false,
       "random-note:Open random note": false,
-      "publish:Publish changes...": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
