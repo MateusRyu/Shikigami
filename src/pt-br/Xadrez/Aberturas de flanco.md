@@ -35,7 +35,12 @@
 		-  (`A31`) [Abertura Inglesa](Abertura%20Inglesa), [Defesa Simétrica](Defesa%20Simétrica), formação [Benoni](Benoni): `1.c4 c5 2.Nf3 Nf6 3.d4` (sem: `3...cxd4 4.Nxd4 e6`, `3...cxd4 4.Nxd4 a6 5.Nc3 e6`, `3...cxd4 4.Nxd4 Nc6 5.Nc3 e6`);
 		-  (`A32`) [Abertura Inglesa](Abertura%20Inglesa), [Defesa Simétrica](Defesa%20Simétrica): `1.c4 c5 2.Nf3 Nf6 3.d4 cxd4 4.Nxd4 e6` (sem: `5.Nc3 Nc6`);
 		-  (`A33`) [Abertura Inglesa](Abertura%20Inglesa), [Defesa Simétrica](Defesa%20Simétrica): `1.c4 c5 2.Nf3 Nf6 3.d4 cxd4 4.Nxd4 e6 5.Nc3 Nc6`);
-		-  (`A34`) [Abertura Inglesa](Abertura%20Inglesa), [Defesa Simétrica](Defesa%20Simétrica): `1.c4 c5 2.Nc3` (sem `2...Nc6`, `2...Nf6 3.Nf3 Nc6`, `2...Nf6 3.e4 e6, 2...e6 3.Nf3 Nf6, 4.g3 Nc6)
+		-  (`A34`) [Abertura Inglesa](Abertura%20Inglesa), [Defesa Simétrica](Defesa%20Simétrica): `1.c4 c5 2.Nc3` (sem `2...Nc6`, `2...Nf6 3.Nf3 Nc6`, `2...Nf6 3.e4 e6`, `2...e6 3.Nf3 Nf6 4.g3 Nc6`);
+		-  (`A35`) [Abertura Inglesa](Abertura%20Inglesa), [Defesa Simétrica](Defesa%20Simétrica): `1.c4 c5 2.Nc3 Nc6` (sem `3.g3`, `3.e4`, `3.Nf3 Nf6 4.g3 e6`, `3.Nf3 Nf6 4.d4 cxd4 5.Nxd4`, `3.Nf3 e5 4.g3 g6 5.Bg2 Bg7`);
+		- (`A36`) [Abertura Inglesa](Abertura%20Inglesa), [Defesa Simétrica](Defesa%20Simétrica): `1.c4 c5 2.Nc3 Nc6 3.g3` (sem: `3...g6 4.Bg2 Bg7 5.Nf3`, `3...g6 4.Bg2 Bg7 5.Rb1 Nf6 6.d3 0-0 7.Nf3 d6 8.0-0`)
+		- (`A37`) [Abertura Inglesa](Abertura%20Inglesa), [Defesa Simétrica](Defesa%20Simétrica): `1.c4 c5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.Nf3` (sem: `5...Nf6`);
+		- (`A38`) [Abertura Inglesa](Abertura%20Inglesa), [Defesa Simétrica](Defesa%20Simétrica): `1.c4 
+		- (`A39`) [Abertura Inglesa](Abertura%20Inglesa), [Defesa Simétrica](Defesa%20Simétrica): `1.c4 
 - A40–A44: `1.d4` sem a resposta `1...d5`, `1...Nf6` ou `1...f5` (Respostas atípicas contra `1.d4`);
 - A45–A49: `1.d4 Nf6` sem a continuação `2.c4` (Resposta atípica contra `1...Nf6`);
 - A50–A79: `1.d4 Nf6 2.c4` without `2...e6` or `2...g6` ([Defesas Índias](Defesas%20Índias) atípicas);
