@@ -20,10 +20,11 @@
 		-  (`A16`) [Abertura Inglesa](Abertura%20Inglesa), [Defesa Anglo-Indiano](Defesa%20Anglo-Indiano): `1.c4 Nf6 2.Nc3` (sem: `2...c5`, `2...e5`, `2...e6`);
 		- (`A17`) [Abertura Inglesa](Abertura%20Inglesa), [Defesa ouriço](Defesa%20ouriço): `1.c4 Nf6 2.Nc3 e6` (sem: `3.e4`, `3.d4`, `3.Nf3 c5`, `3...d5 4.d4`, `3...b5 4.d4`, `3...Bb4 4.d4`);
 		- (`A18`) [Abertura Inglesa](Abertura%20Inglesa), [Variante Mikenas-Carls](Mikenas-Carls): `1.c4 Nf6 2.Nc3 e6 3.e4` (sem: `3...c5`);
-		- (`A19`) [Abertura Inglesa](Abertura%20Inglesa), [Mikenas-Carls, variante Siciliana](Mikenas-Carls): `1.c4 Nf6 2.Nc3 e6 3.e4 c5`;
+		- (`A19`) [Abertura Inglesa](Abertura%20Inglesa), [Mikenas-Carls](Mikenas-Carls), variante [[Siciliana]]: `1.c4 Nf6 2.Nc3 e6 3.e4 c5`;
 		-  (`A20`) [Abertura Inglesa](Abertura%20Inglesa): `1.c4 e5` (sem:` 2.e4`, `2.Nc3`, `2.Nf3 Nc6 3.Nc3`, `2.Nf3 Nf6 3.Nc3`, `2.Nf3 d6 3.Nc3`);
 		-  (`A21`) [Abertura Inglesa](Abertura%20Inglesa): `1.c4 e5 2.Nc3` (sem: `2...Nf6`, `2...Nc6`, `2...Bb4 3.g3 Nf6`, `2...Bb4 3.Nf3 Nc6`, `2...Bb4 3.e3 Nf6`);
-		-  (`A22`) [Abertura Inglesa](Abertura%20Inglesa): `1.e5 2.Nc3 Nf6 (without: 3.Nf3 Nc6, 3.e3 Nc6, 3.g3 Nc6, 3.g3 c6, 3.g3 g6, 3.e4 Nc6 4.Nf3)
+		-  (`A22`) [Abertura Inglesa](Abertura%20Inglesa): `1. c4e5 2.Nc3 Nf6` (sem: `3.Nf3 Nc6`, `3.e3 Nc6`, `3.g3 Nc6`, `3.g3 c6`, `3.g3 g6`, `3.e4 Nc6 4.Nf3`);
+		-  (`A23`) [Abertura Inglesa](Abertura%20Inglesa), [Sistema Bremen](Sistema%20Bremen), [Variante Keres](Variante%20Keres): `1.c4 e5 2.Nc3 Nf6 3.g3 c6`;
 - A40–A44: `1.d4` sem a resposta `1...d5`, `1...Nf6` ou `1...f5` (Respostas atípicas contra `1.d4`);
 - A45–A49: `1.d4 Nf6` sem a continuação `2.c4` (Resposta atípica contra `1...Nf6`);
 - A50–A79: `1.d4 Nf6 2.c4` without `2...e6` or `2...g6` ([Defesas Índias](Defesas%20Índias) atípicas);
