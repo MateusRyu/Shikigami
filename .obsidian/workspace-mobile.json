@@ -11,12 +11,8 @@
             "id": "ce852f0937acda09",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "src/pt-br/Xadrez/Abertura/Abertura Inglesa.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -97,7 +93,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "src/pt-br/Xadrez/Abertura/Abertura Inglesa.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -114,7 +109,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "src/pt-br/Xadrez/Abertura/Abertura Inglesa.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -125,9 +119,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "src/pt-br/Xadrez/Abertura/Abertura Inglesa.md"
-          }
+          "state": {}
         }
       },
       {
@@ -156,8 +148,8 @@
   },
   "active": "ce852f0937acda09",
   "lastOpenFiles": [
-    "src/pt-br/Xadrez/Abertura/Abertura Anderssen.md",
     "src/pt-br/Xadrez/Abertura/Abertura Inglesa.md",
+    "src/pt-br/Xadrez/Abertura/Abertura Anderssen.md",
     "Configurando o Live Reload.md",
     "src/pt-br/Xadrez/Abertura/Defesa Nimzowitsch.md",
     "/Configurando o Live Reload.md",
