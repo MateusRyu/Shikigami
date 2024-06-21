@@ -1,0 +1,6 @@
+- [Gambito Englund](Gambito%20Englund);
+- [Defesa Polonesa](Defesa%20Polonesa);
+- [Defesa do Cavalo da Dama](Defesa%20do%20Cavalo%20da%20Dama);
+- [Defesa Franco-India](Defesa%20Franco-India);
+- [Defesa Inglês](Defesa%20Inglês);
+- [Defesa Keres](Defesa%20Keres);

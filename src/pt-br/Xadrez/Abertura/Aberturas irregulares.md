@@ -19,3 +19,5 @@ São raramente adotadas, pois quando comparadas com as aberturas mais usuais, ap
 - [Abertura Clemenz](Abertura%20Clemenz): `1.h3`;
 - [Abertura Desprez](Abertura%20Desprez): `1.h4`;
 - [Abertura Amar](Abertura%20Amar): `1.Nh3`;
+
+^lista-de-aberturas-irregulares
