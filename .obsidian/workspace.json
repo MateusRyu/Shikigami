@@ -11,8 +11,12 @@
             "id": "fb765a0fe6d1f479",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "src/pt-br/Xadrez/Aberturas de flanco.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -82,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "src/pt-br/Xadrez/Aberturas de flanco.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "src/pt-br/Xadrez/Aberturas de flanco.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "src/pt-br/Xadrez/Aberturas de flanco.md"
+              }
             }
           },
           {
@@ -164,8 +172,8 @@
   },
   "active": "fb765a0fe6d1f479",
   "lastOpenFiles": [
-    "src/pt-br/Xadrez/Abertura/Gambito do rei.md",
     "Abertura do Peão da Dama.md",
+    "src/pt-br/Xadrez/Abertura/Gambito do rei.md",
     "Gambito Englund.md",
     "src/pt-br/Xadrez/Aberturas de flanco.md",
     "src/pt-br/Xadrez/Aberturas de xadrez.md",
