@@ -30,7 +30,9 @@
 		-  (`A26`) [Abertura Inglesa, Sistema fechada](Abertura%20Inglesa#Sistema%20Fechada): `1.c4 e5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.d3 d6`;
 		-  (`A27`) [Abertura Inglesa](Abertura%20Inglesa), [Sistema dos Três Cavalos](Sistema%20dos%20Três%20Cavalos): `1.c4 e5 2.Nc3 Nc6 3.Nf3` (sem: `3...Nf6`);
 		-  (`A28`) [Abertura Inglesa](Abertura%20Inglesa), [Sistema dos Quatro Cavalos](Sistema%20dos%20Quatro%20Cavalos): `1.c4 e5 2.Nc3 Nc6 3.Nf3 Nf6` (sem: `4.g3`);
-		-  (`A29`) [Abertura Inglesa](Abertura%20Inglesa), [Sistema dos Quatro Cavalos](Sistema%20dos%20Quatro%20Cavalos), [Fianqueto da ala do Rei](Fianqueto%20da%20ala%20do%20Rei): `1.c4 e5 2.Nc3 Nc6 3.Nf3 Nf6` (sem: `4.g3`);
+		-  (`A29`) [Abertura Inglesa](Abertura%20Inglesa), [Sistema dos Quatro Cavalos](Sistema%20dos%20Quatro%20Cavalos), [Fianqueto da ala do Rei](Fianqueto#Fianqueto%20da%20ala%20do%20Rei): `1.c4 e5 2.Nc3 Nc6 3.Nf3 Nf6 4.g3`);
+		-  (`A30`) [Abertura Inglesa](Abertura%20Inglesa), [Defesa Simétrica](Defesa%20Simétrica): `1.c4 c5` (sem: `2.Nc3`, `2.e4`, `2.g3 g6 3.Nc3`, `2.g3 Nc6 3.Nc3`, `2.Nf3 Nc6 3.Nc3`, `2.e3 Nf6 3.d4`);
+		-  (`A31`) [Abertura Inglesa](Abertura%20Inglesa), [Defesa Simétrica](Defesa%20Simétrica)
 - A40–A44: `1.d4` sem a resposta `1...d5`, `1...Nf6` ou `1...f5` (Respostas atípicas contra `1.d4`);
 - A45–A49: `1.d4 Nf6` sem a continuação `2.c4` (Resposta atípica contra `1...Nf6`);
 - A50–A79: `1.d4 Nf6 2.c4` without `2...e6` or `2...g6` ([Defesas Índias](Defesas%20Índias) atípicas);
