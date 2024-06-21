@@ -15,7 +15,9 @@
 		-  (`A11`) [Abertura Inglesa](Abertura%20Inglesa), [Sistema defensivo Caro-Kann](Sistema%20defensivo%20Caro-Kann): `1.c4 c6` (sem: `2.e4`, `2.d4`) ;
 		-  (`A12`) [Abertura Inglesa](Abertura%20Inglesa), [Sistema defensivo Caro-Kann](Sistema%20defensivo%20Caro-Kann): `1.c4 c6 2.Nf3 d5 3.b3`;
 		-  (`A13`) [Abertura Inglesa](Abertura%20Inglesa): `1.c4 e6` (sem: `2.e4`, `2.d4`);
-		-  (`A14`) [Abertura Inglesa](Abertura%20Inglesa), [Neo-Catalão recusado](Neo-Catalão%20recusado): `1.c4 e6 2.Nf3 d5 3.g3 Nf6 4.
+		-  (`A14`) [Abertura Inglesa](Abertura%20Inglesa), [Neo-Catalão recusado](Neo-Catalão%20recusado): `1.c4 e6 2.Nf3 d5 3.g3 Nf6 4.Bg2 Be7`;
+		-  (`A15`) [Abertura Inglesa](Abertura%20Inglesa), [Defesa Anglo-Indiano](Defesa%20Anglo-Indiano): `1.c4 Nf6` (sem: `2.Nc3`, `2.d4`, `2.g3 c6`, `2.g3 e5`, `2.Nf3 c5`, `2.Nf3 e6`, `2.Nf3 c6`);
+		-  (`A16`) [Abertura Inglesa](Abertura%20Inglesa), [Defesa Anglo-Indiano](Defesa%20Anglo-Indiano): `1.c4 Nf6 2.Nc3` (sem: `2...c5`, `2...e5`, `2...g3 c6`, `2.g3 e5`, `2.Nf3 c5`, `2.Nf3 e6`, `2.Nf3 c6`);
 - A40–A44: `1.d4` sem a resposta `1...d5`, `1...Nf6` ou `1...f5` (Respostas atípicas contra `1.d4`);
 - A45–A49: `1.d4 Nf6` sem a continuação `2.c4` (Resposta atípica contra `1...Nf6`);
 - A50–A79: `1.d4 Nf6 2.c4` without `2...e6` or `2...g6` ([Defesas Índias](Defesas%20Índias) atípicas);
