@@ -1,6 +1,6 @@
 {
-  "collapse-filter": true,
-  "search": "",
+  "collapse-filter": false,
+  "search": "Inglesa",
   "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -32,6 +32,6 @@
   "repelStrength": 20,
   "linkStrength": 0.901041666666667,
   "linkDistance": 30,
-  "scale": 0.3242368510765327,
+  "scale": 0.36084171296150835,
   "close": true
 }
