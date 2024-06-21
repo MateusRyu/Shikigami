@@ -1,1 +1,1 @@
-Pode transpor para uma [Siciliana%20reversa](Abertura%20Inglesa#Siciliana%20reversa)
+Pode transpor para uma [Siciliana%20reversa](Abertura%20Inglesa.md#Siciliana%20reversa)
