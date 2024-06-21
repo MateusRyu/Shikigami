@@ -26,7 +26,9 @@
 		-  (`A22`) [Abertura Inglesa](Abertura%20Inglesa): `1. c4e5 2.Nc3 Nf6` (sem: `3.Nf3 Nc6`, `3.e3 Nc6`, `3.g3 Nc6`, `3.g3 c6`, `3.g3 g6`, `3.e4 Nc6 4.Nf3`);
 		-  (`A23`) [Abertura Inglesa](Abertura%20Inglesa), [Sistema Bremen](Sistema%20Bremen), Variante [Keres](Keres): `1.c4 e5 2.Nc3 Nf6 3.g3 c6`;
 		-  (`A24`) [Abertura Inglesa](Abertura%20Inglesa), [Sistema Bremen](Sistema%20Bremen): `1.c4 e5 2.Nc3 Nf6 3.g3 g6` (sem: `4.Bg2 Bg7 5.d3 d6`);
-		-  (`A25`) [Abertura Inglesa](Abertura%20Inglesa#)
+		-  (`A25`) [Abertura Inglesa, Siciliana reversa](Abertura%20Inglesa#Siciliana%20reversa): `1.c4 e5 2 Nc3 Nc6` (sem: `3.Nf3`, `3.g3 Nf6 4.Nf3`, `3.e3 Nf6 4.Nf3`);
+		-  (`A26`) [Abertura Inglesa, Sistema fechada](Abertura%20Inglesa#Sistema%20Fechada): `1.c4 e5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.d3 d6`;
+		-  (`A27`) [Abertura Inglesa](Abertura%20Inglesa), [Sistema dos três cavalos](Sistema%20dos%20três%20cavalos)
 - A40–A44: `1.d4` sem a resposta `1...d5`, `1...Nf6` ou `1...f5` (Respostas atípicas contra `1.d4`);
 - A45–A49: `1.d4 Nf6` sem a continuação `2.c4` (Resposta atípica contra `1...Nf6`);
 - A50–A79: `1.d4 Nf6 2.c4` without `2...e6` or `2...g6` ([Defesas Índias](Defesas%20Índias) atípicas);
