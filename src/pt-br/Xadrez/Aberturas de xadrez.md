@@ -2,11 +2,11 @@ No [xadrez](Xadrez.md), a abertura é a fase do jogo em que cada jogador desenvo
 
 A lista a seguir vai seguir [Encyclopaedia of Chess Openings](Encyclopaedia%20of%20Chess%20Openings) (ECO) e usará a [Notação algébrica de xadrez](Notação%20algébrica%20de%20xadrez). 
 
-## Aberturas
+## Lista de aberturas
 ---
-[Lista de referencia](https://en.wikipedia.org/wiki/List_of_chess_openings)
-### A -  [Aberturas de flanco](Aberturas%20de%20flanco)
-![Aberturas de flanco](Aberturas%20de%20flanco.md#Lista)
+[Lista de referencia](1)
+### A -  [Aberturas de flanco](Aberturas%20de%20flanco.md)
+![Aberturas de flanco](Aberturas%20de%20flanco.md#^lista-de-aberturas-de-flanco)
  
 ### B – Jogos semi-abertos que não são a Defesa Francesa
 - B00–B19: `1.e4` without 1...c5, 1...e6 or 1...e5;

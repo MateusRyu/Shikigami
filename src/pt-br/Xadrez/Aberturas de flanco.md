@@ -12,8 +12,10 @@
 	-  (`A09`) [Abertura Réti, linha principal](Abertura%20Réti.md): `1. Nf3 d5 2.c4`;
 	-  (`A10`-`A39`) [Abertura Inglesa](Abertura%20Inglesa):
 		-  (`A10`) `1.c4` (sem: `1...e5`, `1...c5`, `1...e6`, `1...c6`, `1...Nf6`, `1...g6 2.d4`, `1...f5 2.d4`, `1...b6 2.d4`, `1...d6 2.e4`, `1...d6 2.d4`, `1...Nc6 2.d4`);
-		-  (`A11`)
+		-  (`A11`) `
 - A40–A44: `1.d4` sem a resposta `1...d5`, `1...Nf6` ou `1...f5` (Respostas atípicas contra `1.d4`);
 - A45–A49: `1.d4 Nf6` sem a continuação `2.c4` (Resposta atípica contra `1...Nf6`);
 - A50–A79: `1.d4 Nf6 2.c4` without `2...e6` or `2...g6` ([Defesas Índias](Defesas%20Índias) atípicas);
 - A80–A99: `1.d4 f5` ([Defesa holandesa](Defesa%20holandesa));
+
+^lista-de-aberturas-de-flanco
