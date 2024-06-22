@@ -32,3 +32,7 @@
 - (`A39`) [Abertura Inglesa](Abertura%20Inglesa.md), [Defesa Simétrica](Defesa%20Simétrica), Linha principal: `1.c4 c5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.Nf3 Nf6 6.0-0 0-0 7.d4` ou `1.c4 c5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.Nf3 Nf6 6.d4 cxd4 7.Nxd4 0-0 8.0-0`;
 
 ^lista-de-linhas-documentados-da-abertura-inglesa
+
+## Siciliana reversa
+
+## Sistema fechado 
