@@ -65,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "90e0184107fbeb3d",
@@ -162,12 +161,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "acf1ec1dabedc464",
+  "active": "d119f22fe88304d8",
   "lastOpenFiles": [
     "src/pt-br/Xadrez/Aberturas de flanco.md",
-    "Abertura do Peão da Dama.md",
+    "src/pt-br/Xadrez/Abertura/Abertura do Peão da Dama.md",
     "src/pt-br/Xadrez/Abertura/Gambito do rei.md",
-    "Gambito Englund.md",
+    "src/pt-br/Xadrez/Abertura/Gambito Englund.md",
     "src/pt-br/Xadrez/Aberturas de xadrez.md",
     "src/pt-br/Xadrez/Fianqueto.md",
     "src/pt-br/Xadrez/Abertura/Abertura Inglesa.md",

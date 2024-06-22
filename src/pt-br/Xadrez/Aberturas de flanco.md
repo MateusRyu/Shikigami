@@ -13,7 +13,7 @@
 	-  (`A10`-`A39`) [Abertura Inglesa](Abertura%20Inglesa.md):
 		-  ![Abertura Inglesa](Abertura%20Inglesa.md#^lista-de-linhas-documentados-da-abertura-inglesa)
 - `A40`–`A44`: `1.d4` sem a resposta `1...d5`, `1...Nf6` ou `1...f5` (Respostas atípicas contra `1.d4`):
-	-  (`A40`) [Abertura do Peão da Dama](Abertura%20do%20Peão%20da%20Dama): `1.d4`;
+	-  (`A40`) [Abertura do Peão da Dama](Abertura%20do%20Peão%20da%20Dama.md): `1.d4`;
 - `A45`–`A49`: `1.d4 Nf6` sem a continuação `2.c4` (Resposta atípica contra `1...Nf6`);
 - `A50`–`A79`: `1.d4 Nf6 2.c4` without `2...e6` or `2...g6` ([Defesas Índias](Defesas%20Índias) atípicas);
 - `A80`–`A99`: `1.d4 f5` ([Defesa holandesa](Defesa%20holandesa));
