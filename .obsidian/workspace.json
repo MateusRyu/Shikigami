@@ -11,8 +11,12 @@
             "id": "acf1ec1dabedc464",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "src/pt-br/Ciências/Psicologia/MBTI/MBTI.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "src/pt-br/Ciências/Psicologia/MBTI/MBTI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "src/pt-br/Ciências/Psicologia/MBTI/MBTI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "src/pt-br/Ciências/Psicologia/MBTI/MBTI.md"
+              }
             }
           },
           {
@@ -163,6 +171,8 @@
   },
   "active": "d119f22fe88304d8",
   "lastOpenFiles": [
+    "src/pt-br/Ciências/Psicologia/MBTI/MBTI.md",
+    "src/pt-br/Ciências/Psicologia/MBTI",
     "src/pt-br/Xadrez/Aberturas de flanco.md",
     "src/pt-br/Xadrez/Abertura/Abertura do Peão da Dama.md",
     "src/pt-br/Xadrez/Abertura/Gambito do rei.md",
@@ -190,7 +200,6 @@
     "src/pt-br/Projetos/Shikigami/Shikigami.md",
     "src/pt-br/Projetos/Shikigami",
     "src/pt-br/Projetos",
-    "src/templates/Anime.tpl.md",
     "src/templates",
     "src/pt-br/Ciências/Psicologia",
     "src/pt-br/Ciências/Ciências da computação/Framework",

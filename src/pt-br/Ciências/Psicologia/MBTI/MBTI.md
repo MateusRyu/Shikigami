@@ -1,0 +1,1 @@
+ O Indicador de Tipologico de Myers-Briggs (_Myers-Briggs Typology Indicator_) ou popularmente conhecido pela s
