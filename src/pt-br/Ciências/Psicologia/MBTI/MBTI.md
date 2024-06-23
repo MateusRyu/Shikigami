@@ -1,1 +1,1 @@
- O Indicador de Tipologico de Myers-Briggs (_Myers-Briggs Typology Indicator_) ou popularmente conhecido pela s
+ O Indicador de Tipologico de Myers-Briggs (_Myers-Briggs Typology Indicator_), ou popularmente conhecido pela suas siglas MBTI, é uma ferramenta de categorização.
