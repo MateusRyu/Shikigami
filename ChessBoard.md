@@ -2,6 +2,7 @@ API de renderização de imagens de xadrez
 
 ## Funcionalidades
 
+- [ ] Página com a documentação
 - [ ] Peças avulsas
 	- [ ] Rei
 	- [ ] Dama
@@ -33,3 +34,4 @@ API de renderização de imagens de xadrez
 		- [ ] Ativo
 		- [ ] Desativo
 		- [ ] Mate
+	- [ ] Último lance
