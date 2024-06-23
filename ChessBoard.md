@@ -1,0 +1,1 @@
+API de criação de imagens de xadrez
