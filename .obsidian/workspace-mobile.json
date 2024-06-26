@@ -11,12 +11,8 @@
             "id": "ce852f0937acda09",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "src/pt-br/Ciências/Psicologia/Psicologia analítica.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -97,7 +93,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "src/pt-br/Ciências/Psicologia/Psicologia analítica.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -114,7 +109,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "src/pt-br/Ciências/Psicologia/Psicologia analítica.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -125,9 +119,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "src/pt-br/Ciências/Psicologia/Psicologia analítica.md"
-          }
+          "state": {}
         }
       },
       {
@@ -156,9 +148,9 @@
   },
   "active": "ce852f0937acda09",
   "lastOpenFiles": [
-    "Self.md",
-    "src/pt-br/Ciências/Psicologia/Psicologia analítica.md",
     "Arquétipos.md",
+    "src/pt-br/Ciências/Psicologia/Psicologia analítica.md",
+    "Self.md",
     "Complexo (Psicologia analítica).md",
     "conflict-files-obsidian-git.md",
     "src/pt-br/Xadrez/Abertura/Abertura Inglesa.md",
