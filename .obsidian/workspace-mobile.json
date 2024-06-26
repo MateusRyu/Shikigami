@@ -11,8 +11,12 @@
             "id": "ce852f0937acda09",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "src/pt-br/Ciências/Psicologia/Psicologia analítica.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -93,6 +97,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "src/pt-br/Ciências/Psicologia/Psicologia analítica.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -109,6 +114,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "src/pt-br/Ciências/Psicologia/Psicologia analítica.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -119,7 +125,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "src/pt-br/Ciências/Psicologia/Psicologia analítica.md"
+          }
         }
       },
       {
@@ -148,6 +156,7 @@
   },
   "active": "ce852f0937acda09",
   "lastOpenFiles": [
+    "Memória.md",
     "Memória de longo prazo.md",
     "src/pt-br/Ciências/Psicologia/Aprendizado.md",
     "src/pt-br/Ciências/Psicologia/Psicologia.md",
@@ -173,7 +182,6 @@
     "/src/pt-br/Xadrez/Fianqueto.md",
     "/src/pt-br/Xadrez/Aberturas de xadrez.md",
     "/src/pt-br/Xadrez/Abertura/Gambito do rei.md",
-    "/src/pt-br/Xadrez/Abertura/Aberturas irregulares.md",
     "src/Assets/Pasted Image 20240613173345_877.png",
     "src/Assets/Pasted Image 20240613172503_261.png",
     "/src/Assets/Pasted Image 20240613173345_877.png",
