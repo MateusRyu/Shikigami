@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Complexo (Psicologia analítica).md",
+                "file": "src/pt-br/Ciências/Psicologia/Psicologia analítica.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Complexo (Psicologia analítica).md",
+            "file": "src/pt-br/Ciências/Psicologia/Psicologia analítica.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Complexo (Psicologia analítica).md",
+            "file": "src/pt-br/Ciências/Psicologia/Psicologia analítica.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -126,7 +126,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Complexo (Psicologia analítica).md"
+            "file": "src/pt-br/Ciências/Psicologia/Psicologia analítica.md"
           }
         }
       },
@@ -156,6 +156,7 @@
   },
   "active": "ce852f0937acda09",
   "lastOpenFiles": [
+    "Arquétipos.md",
     "src/pt-br/Ciências/Psicologia/Psicologia analítica.md",
     "Complexo (Psicologia analítica).md",
     "Self.md",
@@ -181,7 +182,6 @@
     "/src/pt-br/Xadrez/Abertura/Abertura Inglesa.md",
     "/src/pt-br/Xadrez/Abertura/Abertura Anderssen.md",
     "/Gambito Englund.md",
-    "/Abertura do Peão da Dama.md",
     "src/Assets/Pasted Image 20240613173345_877.png",
     "src/Assets/Pasted Image 20240613172503_261.png",
     "/src/Assets/Pasted Image 20240613173345_877.png",
