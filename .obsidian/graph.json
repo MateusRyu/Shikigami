@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "path:src/pt-br/Ciências/Psicologia  ",
@@ -22,23 +22,23 @@
       }
     },
     {
-      "query": "",
+      "query": "path:src/pt-br/Animes  ",
       "color": {
         "a": 1,
         "rgb": 11392604
       }
     }
   ],
-  "collapse-display": true,
+  "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": 0,
+  "textFadeMultiplier": -1.4,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
   "collapse-forces": false,
   "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
+  "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.2830976421698275,
-  "close": false
+  "scale": 0.4246464632547411,
+  "close": true
 }
