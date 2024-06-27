@@ -16,4 +16,4 @@ Vale ressaltar que existe uma diferença entre o ego para a psicologia analític
 ## Individuação
 
 ## Tipos psicológicos  
-[Carl Jung](Carl%20Jung) propôs, com base em uma revisão das histórias humanas (ficcionais e reais), bem como com analise d
+[Carl Jung](Carl%20Jung) propôs, com base em uma revisão das histórias humanas (ficcionais e reais) e com analise dos seus pacientes, uma forma de categorização da personalidade das pessoas 
