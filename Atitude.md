@@ -1,4 +1,4 @@
-- [Atitude extrovertida](Atitude%20extrovertida.md)
-- [Atitude introvertida](Atitude%20introvertida.md)
+- [Extroversão](Extroversão.md)
+- [Introversão](Introversão.md)
 
 ^lista-de-atitudes

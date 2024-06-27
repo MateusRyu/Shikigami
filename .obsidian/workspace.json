@@ -11,8 +11,12 @@
             "id": "a65b83fa3dfca114",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "src/pt-br/Ciências/Psicologia/Psicologia analítica/Psicologia analítica.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "src/pt-br/Ciências/Psicologia/Psicologia analítica/Psicologia analítica.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "src/pt-br/Ciências/Psicologia/Psicologia analítica/Psicologia analítica.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "src/pt-br/Ciências/Psicologia/Psicologia analítica/Psicologia analítica.md"
+              }
             }
           },
           {
@@ -163,10 +171,10 @@
   },
   "active": "a65b83fa3dfca114",
   "lastOpenFiles": [
+    "src/pt-br/Ciências/Psicologia/Psicologia analítica/Introversão.md",
+    "src/pt-br/Ciências/Psicologia/Psicologia analítica/Extroversão.md",
     "src/pt-br/Ciências/Psicologia/Psicologia analítica/Psicologia analítica.md",
     "Atitude.md",
-    "src/pt-br/Ciências/Psicologia/Psicologia analítica/Atitude introvertida.md",
-    "src/pt-br/Ciências/Psicologia/Psicologia analítica/Atitude extrovertida.md",
     "src/pt-br/Ciências/Psicologia/Psicologia analítica/Função.md",
     "src/pt-br/Ciências/Psicologia/Psicologia analítica/Funções irracionais.md",
     "src/pt-br/Ciências/Psicologia/Psicologia analítica/Percepção.md",
