@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "src/templates/Anime.tpl.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "src/templates/Anime.tpl.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "src/templates/Anime.tpl.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "src/templates/Anime.tpl.md"
               }
             }
           },
@@ -171,8 +171,8 @@
   },
   "active": "a65b83fa3dfca114",
   "lastOpenFiles": [
-    "src/pt-br/Ciências/Ciências da computação/Linguagens de marcação/Markdown.md",
     "README.md",
+    "src/pt-br/Ciências/Ciências da computação/Linguagens de marcação/Markdown.md",
     "src/pt-br/Ciências/Psicologia/Psicologia analítica/Psicologia analítica.md",
     "src/pt-br/Ciências/Psicologia/Psicologia analítica/Tipos psicológicos/Funções/Intuição.md",
     "src/pt-br/Ciências/Psicologia/Psicologia analítica/Tipos psicológicos/Funções/Sensação.md",
