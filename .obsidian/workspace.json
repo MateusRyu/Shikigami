@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/templates/Anime.tpl.md",
+                "file": "src/pt-br/Animes/Fall 2009/Kuuchuu Buranko.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2554fb715a27f4c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "src/pt-br/Animes/Date A Live.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "src/templates/Anime.tpl.md",
+                "file": "src/pt-br/Animes/Date A Live.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "src/templates/Anime.tpl.md",
+                "file": "src/pt-br/Animes/Date A Live.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "src/templates/Anime.tpl.md"
+                "file": "src/pt-br/Animes/Date A Live.md"
               }
             }
           },
@@ -169,8 +182,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a65b83fa3dfca114",
+  "active": "d119f22fe88304d8",
   "lastOpenFiles": [
+    "src/pt-br/Animes/Fall 2009/Kuuchuu Buranko.md",
+    "src/pt-br/Animes/Date A Live.md",
+    "src/pt-br/Animes/Fall 2009",
+    "src/templates/Anime.tpl.md",
     "README.md",
     "src/pt-br/Ciências/Ciências da computação/Linguagens de marcação/Markdown.md",
     "src/pt-br/Ciências/Psicologia/Psicologia analítica/Psicologia analítica.md",
@@ -200,12 +217,8 @@
     "src/pt-br/Ciências/Psicologia/Memória de longo prazo.md",
     "src/pt-br/Xadrez/Abertura/Gambito Englund.md",
     "src/pt-br/Ciências/Psicologia/Psicologia analítica/Arquétipos.md",
-    "src/pt-br/Xadrez/Abertura/Abertura do Peão da Dama.md",
-    "src/Excalidraw/Drawing 2024-06-26 22.02.21.excalidraw.md",
-    "src/pt-br/Xadrez/Aberturas de xadrez.md",
     "src/pt-br/Ciências/Psicologia/MBTI",
     "src/Projetos/Shikigami",
-    "src/Projetos",
-    "src/templates"
+    "src/Projetos"
   ]
 }
