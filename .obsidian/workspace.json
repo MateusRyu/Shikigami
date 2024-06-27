@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "ad0218e44b639ebe",
+        "id": "3cbd6370e4ed1f60",
         "type": "tabs",
         "children": [
           {
-            "id": "b7ed7abfa3cae683",
+            "id": "1eace8655f7903bb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "src/pt-br/Xadrez/Aberturas de xadrez.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "src/pt-br/Xadrez/Aberturas de xadrez.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "src/pt-br/Xadrez/Aberturas de xadrez.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "src/pt-br/Xadrez/Aberturas de xadrez.md"
-              }
+              "state": {}
             }
           },
           {
@@ -169,8 +161,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b7ed7abfa3cae683",
+  "active": "1eace8655f7903bb",
   "lastOpenFiles": [
+    "src/Excalidraw/Drawing 2024-06-26 22.02.21.excalidraw.md",
+    "src/pt-br/Xadrez/Aberturas de xadrez.md",
     "ChessBoard.md",
     "src/pt-br/Ciências/Psicologia/MBTI/MBTI.md",
     "src/pt-br/Ciências/Psicologia/MBTI",
@@ -178,7 +172,6 @@
     "src/pt-br/Xadrez/Abertura/Abertura do Peão da Dama.md",
     "src/pt-br/Xadrez/Abertura/Gambito do rei.md",
     "src/pt-br/Xadrez/Abertura/Gambito Englund.md",
-    "src/pt-br/Xadrez/Aberturas de xadrez.md",
     "src/pt-br/Xadrez/Fianqueto.md",
     "src/pt-br/Xadrez/Abertura/Abertura Inglesa.md",
     "src/pt-br/Xadrez/Abertura/Aberturas irregulares.md",
@@ -197,7 +190,6 @@
     "src/pt-br/Ciências/Ciências da computação/Linguagens de programação/Java.md",
     "src/pt-br/Ciências/Psicologia/Psicologia.md",
     "src/pt-br/Ciências/Psicologia/Aprendizado.md",
-    "src/pt-br/Ciências/Ciência.md",
     "src/pt-br/Projetos/Shikigami",
     "src/pt-br/Projetos",
     "src/templates",
