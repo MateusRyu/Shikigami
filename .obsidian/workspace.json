@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/pt-br/Ciências/Psicologia/Psicologia analítica/Psicologia analítica.md",
+                "file": "src/pt-br/Ciências/Psicologia/Ego.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "src/pt-br/Ciências/Psicologia/Psicologia analítica/Psicologia analítica.md",
+                "file": "src/pt-br/Ciências/Psicologia/Ego.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "src/pt-br/Ciências/Psicologia/Psicologia analítica/Psicologia analítica.md",
+                "file": "src/pt-br/Ciências/Psicologia/Ego.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "src/pt-br/Ciências/Psicologia/Psicologia analítica/Psicologia analítica.md"
+                "file": "src/pt-br/Ciências/Psicologia/Ego.md"
               }
             }
           },
@@ -182,23 +182,26 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "eb0f9bfcec746714",
+  "active": "d119f22fe88304d8",
   "lastOpenFiles": [
-    "Tipos psicológicos.md",
+    "src/pt-br/Ciências/Psicologia/Psicologia analítica/Tipos psicológicos/Funções",
+    "src/pt-br/Ciências/Psicologia/Psicologia analítica/Tipos psicológicos",
     "src/pt-br/Ciências/Psicologia/Psicologia analítica/Psicologia analítica.md",
-    "Spring e Spring Boot.md",
+    "src/pt-br/Ciências/Psicologia/Ego.md",
+    "src/pt-br/Ciências/Psicologia/Psicologia analítica/Tipos psicológicos/Tipos psicológicos.md",
+    "src/Estudos/ONE/Spring e Spring Boot.md",
     "src/Estudos/ONE",
     "src/Estudos",
-    "src/pt-br/Ciências/Psicologia/Psicologia analítica/Introversão.md",
-    "src/pt-br/Ciências/Psicologia/Psicologia analítica/Extroversão.md",
-    "src/pt-br/Ciências/Psicologia/Psicologia analítica/Atitude.md",
-    "src/pt-br/Ciências/Psicologia/Psicologia analítica/Função.md",
-    "src/pt-br/Ciências/Psicologia/Psicologia analítica/Funções irracionais.md",
-    "src/pt-br/Ciências/Psicologia/Psicologia analítica/Percepção.md",
-    "src/pt-br/Ciências/Psicologia/Psicologia analítica/Funções racionais.md",
-    "src/pt-br/Ciências/Psicologia/Psicologia analítica/Intuição.md",
-    "src/pt-br/Ciências/Psicologia/Psicologia analítica/Sentimento.md",
-    "src/pt-br/Ciências/Psicologia/Psicologia analítica/Pensamento.md",
+    "src/pt-br/Ciências/Psicologia/Psicologia analítica/Tipos psicológicos/Introversão.md",
+    "src/pt-br/Ciências/Psicologia/Psicologia analítica/Tipos psicológicos/Extroversão.md",
+    "src/pt-br/Ciências/Psicologia/Psicologia analítica/Tipos psicológicos/Atitude.md",
+    "src/pt-br/Ciências/Psicologia/Psicologia analítica/Tipos psicológicos/Funções/Função.md",
+    "src/pt-br/Ciências/Psicologia/Psicologia analítica/Tipos psicológicos/Funções/Funções irracionais.md",
+    "src/pt-br/Ciências/Psicologia/Psicologia analítica/Tipos psicológicos/Funções/Percepção.md",
+    "src/pt-br/Ciências/Psicologia/Psicologia analítica/Tipos psicológicos/Funções/Funções racionais.md",
+    "src/pt-br/Ciências/Psicologia/Psicologia analítica/Tipos psicológicos/Funções/Intuição.md",
+    "src/pt-br/Ciências/Psicologia/Psicologia analítica/Tipos psicológicos/Funções/Sentimento.md",
+    "src/pt-br/Ciências/Psicologia/Psicologia analítica/Tipos psicológicos/Funções/Pensamento.md",
     "src/pt-br/Ciências/Psicologia/Psicologia analítica/Complexo.md",
     "src/pt-br/Ciências/Psicologia/Psicologia analítica",
     "conflict-files-obsidian-git.md",
@@ -211,14 +214,11 @@
     "src/Excalidraw/Drawing 2024-06-26 22.02.21.excalidraw.md",
     "src/pt-br/Xadrez/Aberturas de xadrez.md",
     "ChessBoard.md",
-    "src/pt-br/Ciências/Psicologia/MBTI/MBTI.md",
     "src/pt-br/Ciências/Psicologia/MBTI",
-    "src/pt-br/Xadrez/Aberturas de flanco.md",
     "src/Projetos/Shikigami",
     "src/Projetos",
     "src/templates",
     "src/pt-br/Ciências/Psicologia",
-    "src/pt-br/Ciências/Ciências da computação/Framework",
-    "src/pt-br/Ciências/Ciências da computação/Linguagens de programação"
+    "src/pt-br/Ciências/Ciências da computação/Framework"
   ]
 }
