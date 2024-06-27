@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring e Spring Boot.md",
+                "file": "src/pt-br/Ciências/Psicologia/Psicologia analítica/Psicologia analítica.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spring e Spring Boot.md",
+                "file": "src/pt-br/Ciências/Psicologia/Psicologia analítica/Psicologia analítica.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spring e Spring Boot.md",
+                "file": "src/pt-br/Ciências/Psicologia/Psicologia analítica/Psicologia analítica.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring e Spring Boot.md"
+                "file": "src/pt-br/Ciências/Psicologia/Psicologia analítica/Psicologia analítica.md"
               }
             }
           },
@@ -184,6 +184,7 @@
   },
   "active": "eb0f9bfcec746714",
   "lastOpenFiles": [
+    "Tipos psicológicos.md",
     "src/pt-br/Ciências/Psicologia/Psicologia analítica/Psicologia analítica.md",
     "Spring e Spring Boot.md",
     "src/Estudos/ONE",
@@ -213,7 +214,6 @@
     "src/pt-br/Ciências/Psicologia/MBTI/MBTI.md",
     "src/pt-br/Ciências/Psicologia/MBTI",
     "src/pt-br/Xadrez/Aberturas de flanco.md",
-    "src/pt-br/Xadrez/Abertura/Abertura do Peão da Dama.md",
     "src/Projetos/Shikigami",
     "src/Projetos",
     "src/templates",
