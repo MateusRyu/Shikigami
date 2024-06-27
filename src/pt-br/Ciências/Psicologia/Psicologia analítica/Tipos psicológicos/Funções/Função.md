@@ -1,2 +1,0 @@
-- [Racionais](Funções%20racionais.md): 	![Funções racionais](Funções%20racionais.md#^lista-de-funcoes-racionais)
--  [Irracionais](Funções%20irracionais.md): 	![Funções irracionais](Funções%20irracionais.md#^lista-de-funcoes-irracionais)

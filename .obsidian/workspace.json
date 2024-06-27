@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "130aad334a27e078",
+        "id": "a6d8864b74c3b919",
         "type": "tabs",
         "children": [
           {
-            "id": "a65b83fa3dfca114",
+            "id": "fb765a0fe6d1f479",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/pt-br/Animes/Fall 2009/Kuuchuu Buranko.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2554fb715a27f4c6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "src/pt-br/Animes/Date A Live.md",
+                "file": "src/pt-br/Xadrez/Aberturas de flanco.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "90e0184107fbeb3d",
@@ -98,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "src/pt-br/Animes/Date A Live.md",
+                "file": "src/pt-br/Xadrez/Aberturas de flanco.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "src/pt-br/Animes/Date A Live.md",
+                "file": "src/pt-br/Xadrez/Aberturas de flanco.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "src/pt-br/Animes/Date A Live.md"
+                "file": "src/pt-br/Xadrez/Aberturas de flanco.md"
               }
             }
           },
@@ -182,43 +170,42 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d119f22fe88304d8",
+  "active": "fb765a0fe6d1f479",
   "lastOpenFiles": [
-    "src/pt-br/Animes/Fall 2009/Kuuchuu Buranko.md",
-    "src/pt-br/Animes/Date A Live.md",
-    "src/pt-br/Animes/Fall 2009",
-    "src/templates/Anime.tpl.md",
+    "Abertura do Peão da Dama.md",
+    "src/pt-br/Xadrez/Abertura/Gambito do rei.md",
+    "Gambito Englund.md",
+    "src/pt-br/Xadrez/Aberturas de flanco.md",
+    "src/pt-br/Xadrez/Aberturas de xadrez.md",
+    "src/pt-br/Xadrez/Fianqueto.md",
+    "src/pt-br/Xadrez/Abertura/Abertura Inglesa.md",
+    "src/pt-br/Xadrez/Abertura/Aberturas irregulares.md",
+    "src/pt-br/Ciências/Psicologia/Psicologia analítica.md",
+    "Configurando o Live Reload.md",
+    "src/pt-br/Xadrez/Abertura/Bird.md",
+    "src/pt-br/Xadrez/Abertura/Abertura Anderssen.md",
+    "src/pt-br/Xadrez/Abertura/Abertura Réti.md",
+    "src/pt-br/Xadrez/Abertura/Defesa Nimzowitsch.md",
+    "src/pt-br/Xadrez/Abertura/Van Geet.md",
+    "src/pt-br/Xadrez/Xadrez.md",
+    "src/pt-br/Ferramentas/Obsidian.md",
     "README.md",
-    "src/pt-br/Ciências/Ciências da computação/Linguagens de marcação/Markdown.md",
-    "src/pt-br/Ciências/Psicologia/Psicologia analítica/Psicologia analítica.md",
-    "src/pt-br/Ciências/Psicologia/Psicologia analítica/Tipos psicológicos/Funções/Intuição.md",
-    "src/pt-br/Ciências/Psicologia/Psicologia analítica/Tipos psicológicos/Funções/Sensação.md",
-    "src/pt-br/Ciências/Psicologia/Psicologia analítica/Tipos psicológicos/Funções/Sentimento.md",
-    "src/pt-br/Ciências/Psicologia/Psicologia analítica/Tipos psicológicos/Funções/Pensamento.md",
-    "src/pt-br/Ciências/Psicologia/Ego.md",
-    "src/pt-br/Ciências/Psicologia/Psicologia analítica/Tipos psicológicos/Atitudes",
-    "src/pt-br/Ciências/Psicologia/Psicologia analítica/Tipos psicológicos/Funções",
-    "src/pt-br/Ciências/Psicologia/Psicologia analítica/Tipos psicológicos",
-    "src/pt-br/Ciências/Psicologia/Psicologia analítica/Tipos psicológicos/Tipos psicológicos.md",
-    "src/Estudos/ONE/Spring e Spring Boot.md",
-    "src/Estudos/ONE",
-    "src/Estudos",
-    "src/pt-br/Ciências/Psicologia/Psicologia analítica/Tipos psicológicos/Atitudes/Introversão.md",
-    "src/pt-br/Ciências/Psicologia/Psicologia analítica/Tipos psicológicos/Atitudes/Extroversão.md",
-    "src/pt-br/Ciências/Psicologia/Psicologia analítica/Tipos psicológicos/Atitudes/Atitude.md",
-    "src/pt-br/Ciências/Psicologia/Psicologia analítica/Tipos psicológicos/Funções/Função.md",
-    "src/pt-br/Ciências/Psicologia/Psicologia analítica/Tipos psicológicos/Funções/Funções irracionais.md",
-    "src/pt-br/Ciências/Psicologia/Psicologia analítica/Tipos psicológicos/Funções/Funções racionais.md",
-    "src/pt-br/Ciências/Psicologia/Psicologia analítica/Complexo.md",
-    "src/pt-br/Ciências/Psicologia/Psicologia analítica",
-    "conflict-files-obsidian-git.md",
-    "src/pt-br/Ciências/Psicologia/Psicologia analítica/Self.md",
-    "src/pt-br/Ciências/Psicologia/Memória.md",
-    "src/pt-br/Ciências/Psicologia/Memória de longo prazo.md",
-    "src/pt-br/Xadrez/Abertura/Gambito Englund.md",
-    "src/pt-br/Ciências/Psicologia/Psicologia analítica/Arquétipos.md",
-    "src/pt-br/Ciências/Psicologia/MBTI",
-    "src/Projetos/Shikigami",
-    "src/Projetos"
+    "src/pt-br/Animes/Kuuchuu Buranko.md",
+    "src/pt-br/Animes/Anime.md",
+    "src/pt-br/Ciências/Ciências da computação/Linguagens de programação/Java.md",
+    "src/pt-br/Ciências/Psicologia/Psicologia.md",
+    "src/pt-br/Ciências/Psicologia/Aprendizado.md",
+    "src/pt-br/Ciências/Ciência.md",
+    "src/pt-br/Projetos/Shikigami/Shikigami.md",
+    "src/pt-br/Projetos/Shikigami",
+    "src/pt-br/Projetos",
+    "src/templates/Anime.tpl.md",
+    "src/templates",
+    "src/pt-br/Ciências/Psicologia",
+    "src/pt-br/Ciências/Ciências da computação/Framework",
+    "src/pt-br/Ciências/Ciências da computação/Linguagens de programação",
+    "src/pt-br/Ciências/Ciências da computação",
+    "src/pt-br/Ciências",
+    "src/pt-br/Animes"
   ]
 }
