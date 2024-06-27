@@ -8,4 +8,4 @@ Shikigami is a project to dumb my knowledge at one unique place and serve as API
 
 Each doc is writing with [markdown](src/pt-br/Ciências/Ciências%20da%20computação/Linguagens%20de%20marcação/Markdown.md).
 ## Templates
-- [Anime.tpl](Anime.tpl.md);
+- [Anime.tpl](src/templates/Anime.tpl.md)
