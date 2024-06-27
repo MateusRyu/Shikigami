@@ -3,5 +3,6 @@ Original title:
 English title: 
 Total episodes: 
 Type: 
-Season:
+Season: 
+Score:
 ---
