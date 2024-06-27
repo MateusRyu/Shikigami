@@ -16,4 +16,4 @@ Vale ressaltar que existe uma diferença entre o ego para a psicologia analític
 ## Individuação
 
 ## Tipos psicológicos  
-[Carl Jung](Carl%20Jung) propôs, com base em uma revisão das histórias humanas (ficcionais e reais) e com analise dos seus pacientes, uma forma de categorização da personalidade das pessoas que viria a ser conhecido como [Tipos psicológicos](Tipos%20psicológicos.md). Apesar que cada individuo tenha sua propria identidade (o seu [Self](Self.md) e seu [Ego](Ego.md))
+[Carl Jung](Carl%20Jung) propôs, com base em uma revisão das histórias humanas (ficcionais e reais) e com analise dos seus pacientes, uma forma de categorização da personalidade das pessoas que viria a ser conhecido como [Tipos psicológicos](Tipos%20psicológicos.md). Apesar que cada individuo tenha sua própria identidade (o seu [Self](Self.md) e seu [Ego](Ego.md)) e sua própria historia na sua memoria, [Jung](Carl%20Jung) identificou oito "estilos" de personalidades que moldam a forma como as pessoas percebem o mundo e como eles julgam e expressam esse julgamento.

@@ -23,12 +23,8 @@
             "id": "eb0f9bfcec746714",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "src/pt-br/Ciências/Psicologia/Ego.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -98,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "src/pt-br/Ciências/Psicologia/Ego.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +110,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "src/pt-br/Ciências/Psicologia/Ego.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +131,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "src/pt-br/Ciências/Psicologia/Ego.md"
-              }
+              "state": {}
             }
           },
           {
@@ -182,26 +174,27 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d119f22fe88304d8",
+  "active": "eb0f9bfcec746714",
   "lastOpenFiles": [
-    "src/pt-br/Ciências/Psicologia/Psicologia analítica/Tipos psicológicos/Funções",
-    "src/pt-br/Ciências/Psicologia/Psicologia analítica/Tipos psicológicos",
+    "src/pt-br/Ciências/Psicologia/Psicologia analítica/Tipos psicológicos/Funções/Pensamento.md",
     "src/pt-br/Ciências/Psicologia/Psicologia analítica/Psicologia analítica.md",
     "src/pt-br/Ciências/Psicologia/Ego.md",
+    "src/pt-br/Ciências/Psicologia/Psicologia analítica/Tipos psicológicos/Atitudes",
+    "src/pt-br/Ciências/Psicologia/Psicologia analítica/Tipos psicológicos/Funções",
+    "src/pt-br/Ciências/Psicologia/Psicologia analítica/Tipos psicológicos",
     "src/pt-br/Ciências/Psicologia/Psicologia analítica/Tipos psicológicos/Tipos psicológicos.md",
     "src/Estudos/ONE/Spring e Spring Boot.md",
     "src/Estudos/ONE",
     "src/Estudos",
-    "src/pt-br/Ciências/Psicologia/Psicologia analítica/Tipos psicológicos/Introversão.md",
-    "src/pt-br/Ciências/Psicologia/Psicologia analítica/Tipos psicológicos/Extroversão.md",
-    "src/pt-br/Ciências/Psicologia/Psicologia analítica/Tipos psicológicos/Atitude.md",
+    "src/pt-br/Ciências/Psicologia/Psicologia analítica/Tipos psicológicos/Atitudes/Introversão.md",
+    "src/pt-br/Ciências/Psicologia/Psicologia analítica/Tipos psicológicos/Atitudes/Extroversão.md",
+    "src/pt-br/Ciências/Psicologia/Psicologia analítica/Tipos psicológicos/Atitudes/Atitude.md",
     "src/pt-br/Ciências/Psicologia/Psicologia analítica/Tipos psicológicos/Funções/Função.md",
     "src/pt-br/Ciências/Psicologia/Psicologia analítica/Tipos psicológicos/Funções/Funções irracionais.md",
     "src/pt-br/Ciências/Psicologia/Psicologia analítica/Tipos psicológicos/Funções/Percepção.md",
     "src/pt-br/Ciências/Psicologia/Psicologia analítica/Tipos psicológicos/Funções/Funções racionais.md",
     "src/pt-br/Ciências/Psicologia/Psicologia analítica/Tipos psicológicos/Funções/Intuição.md",
     "src/pt-br/Ciências/Psicologia/Psicologia analítica/Tipos psicológicos/Funções/Sentimento.md",
-    "src/pt-br/Ciências/Psicologia/Psicologia analítica/Tipos psicológicos/Funções/Pensamento.md",
     "src/pt-br/Ciências/Psicologia/Psicologia analítica/Complexo.md",
     "src/pt-br/Ciências/Psicologia/Psicologia analítica",
     "conflict-files-obsidian-git.md",
@@ -217,8 +210,6 @@
     "src/pt-br/Ciências/Psicologia/MBTI",
     "src/Projetos/Shikigami",
     "src/Projetos",
-    "src/templates",
-    "src/pt-br/Ciências/Psicologia",
-    "src/pt-br/Ciências/Ciências da computação/Framework"
+    "src/templates"
   ]
 }
