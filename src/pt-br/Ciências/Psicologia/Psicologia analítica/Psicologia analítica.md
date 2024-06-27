@@ -6,7 +6,7 @@ A psicologia analítica, por se basear na cognição das pessoas, serve como fer
 
 [[Inconsciente]] e [[Consciência]]...  
 
-Segundo Jung, todas as pessoas nascem com o [[Self]] já preenchida com [[Arquétipos]] coletivos para que possamos interagir com o mundo de forma saudável e sem grandes problemas. Após o desenvolvimento da psique da criança, as outras estruturas nascem e crescem dentro do [Self](Self.md), como o [[Ego]], a [[Memória]] e os [[Complexo (Psicologia analítica)]].
+Segundo Jung, todas as pessoas nascem com o [[Self]] já preenchida com [[Arquétipos]] coletivos para que possamos interagir com o mundo de forma saudável e sem grandes problemas. Após o desenvolvimento da psique da criança, as outras estruturas nascem e crescem dentro do [Self](Self.md), como o [[Ego]], a [[Memória]] e os [[Complexo]].
 
 ## Ego  
 Ego é a fração na qual temos consciência do nosso Self. Em palavras mais informal, é aquilo que acreditamos que somos e onde ocorre nossos pensamentos racionais.
@@ -16,7 +16,7 @@ Vale ressaltar que existe uma diferença entre o ego para a psicologia analític
 ## Individuação
 
 ## Tipos psicológicos  
-Os [[Tipos psicológicos]] são uma combinação de uma atitude e uma função. A [[Atitude]] se refere em como o indivíduo interage com o mundo, existindo duas formas: a [[atitude extrovertida]] e a [[atitude introvertida]]. Já a [[função]] se refere ao modo como a psique percebe ou julga o mundo, sendo divididas em duas [[funções racionais]] ([[pensamento]] e [[sentimento]]) e duas [[funções irracionais]] ([[intuição]] e [[percepção]]).
+Os [[Tipos psicológicos]] são uma combinação de uma atitude e uma função. A [[Atitude]] se refere em como o indivíduo interage com o mundo, existindo duas formas: a [[atitude extrovertida]] e a [[atitude introvertida]]. Já a [[Função]] se refere ao modo como a psique percebe ou julga o mundo, sendo divididas em duas [funções racionais](Funções%20racionais.md) ([pensamento](Pensamento.md) e [sentimento](Sentimento.md)) e duas [[funções irracionais]] ([[intuição]] e [[percepção]]).
 
 Segundo a psicologia analítica, todos os indivíduos possuem as quatro funções, apesar que provavelmente tenham níveis diferentes de desenvolvimento, e cada função tem uma atitude preferencial. Cada indivíduo tem uma função na qual tem uma melhor facilidade e desenvolvimento, a **função principal**,
 
