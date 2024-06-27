@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3cbd6370e4ed1f60",
+        "id": "130aad334a27e078",
         "type": "tabs",
         "children": [
           {
-            "id": "1eace8655f7903bb",
+            "id": "a65b83fa3dfca114",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -161,8 +161,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1eace8655f7903bb",
+  "active": "a65b83fa3dfca114",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Self.md",
+    "Memória.md",
+    "Memória de longo prazo.md",
+    "Gambito Englund.md",
+    "Complexo (Psicologia analítica).md",
+    "Arquétipos.md",
+    "Abertura do Peão da Dama.md",
     "src/Excalidraw/Drawing 2024-06-26 22.02.21.excalidraw.md",
     "src/pt-br/Xadrez/Aberturas de xadrez.md",
     "ChessBoard.md",
@@ -182,14 +190,6 @@
     "src/pt-br/Xadrez/Abertura/Abertura Réti.md",
     "src/pt-br/Xadrez/Abertura/Defesa Nimzowitsch.md",
     "src/pt-br/Xadrez/Abertura/Van Geet.md",
-    "src/pt-br/Xadrez/Xadrez.md",
-    "src/pt-br/Ferramentas/Obsidian.md",
-    "README.md",
-    "src/pt-br/Animes/Kuuchuu Buranko.md",
-    "src/pt-br/Animes/Anime.md",
-    "src/pt-br/Ciências/Ciências da computação/Linguagens de programação/Java.md",
-    "src/pt-br/Ciências/Psicologia/Psicologia.md",
-    "src/pt-br/Ciências/Psicologia/Aprendizado.md",
     "src/pt-br/Projetos/Shikigami",
     "src/pt-br/Projetos",
     "src/templates",
