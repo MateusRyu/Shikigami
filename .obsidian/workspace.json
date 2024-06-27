@@ -11,24 +11,23 @@
             "id": "a65b83fa3dfca114",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "src/pt-br/Ciências/Psicologia/Psicologia analítica/Psicologia analítica.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
             "id": "eb0f9bfcec746714",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "src/pt-br/Ciências/Psicologia/Psicologia analítica/Tipos psicológicos/Funções/Intuição.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -174,10 +173,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "eb0f9bfcec746714",
+  "active": "a65b83fa3dfca114",
   "lastOpenFiles": [
-    "src/pt-br/Ciências/Psicologia/Psicologia analítica/Tipos psicológicos/Funções/Pensamento.md",
     "src/pt-br/Ciências/Psicologia/Psicologia analítica/Psicologia analítica.md",
+    "src/pt-br/Ciências/Psicologia/Psicologia analítica/Tipos psicológicos/Funções/Intuição.md",
+    "src/pt-br/Ciências/Psicologia/Psicologia analítica/Tipos psicológicos/Funções/Sensação.md",
+    "src/pt-br/Ciências/Psicologia/Psicologia analítica/Tipos psicológicos/Funções/Sentimento.md",
+    "src/pt-br/Ciências/Psicologia/Psicologia analítica/Tipos psicológicos/Funções/Pensamento.md",
     "src/pt-br/Ciências/Psicologia/Ego.md",
     "src/pt-br/Ciências/Psicologia/Psicologia analítica/Tipos psicológicos/Atitudes",
     "src/pt-br/Ciências/Psicologia/Psicologia analítica/Tipos psicológicos/Funções",
@@ -191,10 +193,7 @@
     "src/pt-br/Ciências/Psicologia/Psicologia analítica/Tipos psicológicos/Atitudes/Atitude.md",
     "src/pt-br/Ciências/Psicologia/Psicologia analítica/Tipos psicológicos/Funções/Função.md",
     "src/pt-br/Ciências/Psicologia/Psicologia analítica/Tipos psicológicos/Funções/Funções irracionais.md",
-    "src/pt-br/Ciências/Psicologia/Psicologia analítica/Tipos psicológicos/Funções/Percepção.md",
     "src/pt-br/Ciências/Psicologia/Psicologia analítica/Tipos psicológicos/Funções/Funções racionais.md",
-    "src/pt-br/Ciências/Psicologia/Psicologia analítica/Tipos psicológicos/Funções/Intuição.md",
-    "src/pt-br/Ciências/Psicologia/Psicologia analítica/Tipos psicológicos/Funções/Sentimento.md",
     "src/pt-br/Ciências/Psicologia/Psicologia analítica/Complexo.md",
     "src/pt-br/Ciências/Psicologia/Psicologia analítica",
     "conflict-files-obsidian-git.md",

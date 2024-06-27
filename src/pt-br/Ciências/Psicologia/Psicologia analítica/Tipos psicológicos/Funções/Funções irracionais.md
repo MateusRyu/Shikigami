@@ -1,5 +1,5 @@
 - [Intuição](Intuição.md)
-- [Percepção](Percepção.md)
+- [Sensação](Sensação.md)
 
 
 ^lista-de-funcoes-irracionais

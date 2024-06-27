@@ -1,0 +1,1 @@
+Sentimento, dentro do contexto da teoria dos [Tipos psicológicos](Tipos%20psicológicos.md), é uma [função](Função.md) de percepção
