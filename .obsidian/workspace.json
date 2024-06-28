@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#AberturaXadrez",
+                "query": "obs",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -171,7 +171,17 @@
   },
   "active": "f7ca2a2cf572f9cf",
   "lastOpenFiles": [
+    "^pinguim.md",
     "_daily/2024-06-28.md",
+    "src/pt-br/Ferramentas/Obsidian.md",
+    "src/pt-br/Ciências/Ciências da computação/Embed.md",
+    "src/pt-br/Ciências/Psicologia/Aprendizado.md",
+    "_daily/images/logotipo-2.jpeg",
+    "_daily/images/logotipo-1.jpeg",
+    "_daily/images/logo.jpeg",
+    "_daily/images/fundo.jpeg",
+    "_daily/images/capa.jpeg",
+    "_daily/images",
     "Sem título.md",
     "src/canvas/Psicologia.canvas",
     "src/canvas",
@@ -200,13 +210,8 @@
     "src/pt-br/Ciências/Psicologia/Psicologia analítica/Psicologia analítica.md",
     "src/pt-br/Ciências/Psicologia/Psicologia analítica/Tipos psicológicos/Funções/Intuição.md",
     "src/pt-br/Ciências/Psicologia/Psicologia analítica/Tipos psicológicos/Funções/Sensação.md",
-    "src/pt-br/Ciências/Psicologia/Psicologia analítica/Tipos psicológicos/Funções/Sentimento.md",
-    "src/pt-br/Ciências/Psicologia/Psicologia analítica/Tipos psicológicos/Funções/Pensamento.md",
-    "src/pt-br/Ciências/Psicologia/Ego.md",
     "src/pt-br/Ciências/Psicologia/Psicologia analítica/Tipos psicológicos/Atitudes",
     "src/pt-br/Ciências/Psicologia/Psicologia analítica/Tipos psicológicos/Funções",
-    "src/pt-br/Ciências/Psicologia/Psicologia analítica/Tipos psicológicos",
-    "src/pt-br/Ciências/Psicologia/Psicologia analítica/Tipos psicológicos/Tipos psicológicos.md",
-    "src/Estudos/ONE"
+    "src/pt-br/Ciências/Psicologia/Psicologia analítica/Tipos psicológicos"
   ]
 }
