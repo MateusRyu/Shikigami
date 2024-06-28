@@ -1,7 +1,0 @@
-{
-	"nodes":[
-		{"id":"3105ee91b935a2c8","x":-280,"y":-200,"width":400,"height":400,"type":"file","file":"src/pt-br/Ciências/Psicologia/Psicologia.md"},
-		{"id":"32b8b72e0aff40f8","x":-240,"y":-60,"width":250,"height":60,"type":"text","text":"Psicologia"}
-	],
-	"edges":[]
-}

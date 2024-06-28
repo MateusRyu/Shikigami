@@ -11,15 +11,8 @@
             "id": "f7ca2a2cf572f9cf",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "src/canvas/Sem título.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -88,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "src/pt-br/Ciências/Psicologia/Psicologia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "src/pt-br/Ciências/Psicologia/Psicologia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "src/pt-br/Ciências/Psicologia/Psicologia.md"
-              }
+              "state": {}
             }
           },
           {
@@ -172,11 +161,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d119f22fe88304d8",
+  "active": "f7ca2a2cf572f9cf",
   "lastOpenFiles": [
+    "src/canvas/Psicologia.canvas",
     "src/canvas",
     "src/Estudos/ONE/Configurando o Live Reload.md",
-    "src/canvas/Sem título.canvas",
     "src/Estudos/ONE",
     "src/Estudos",
     "conflict-files-obsidian-git.md",
@@ -209,7 +198,6 @@
     "src/pt-br/Ciências/Psicologia/Psicologia analítica/Tipos psicológicos",
     "src/pt-br/Ciências/Psicologia/Psicologia analítica/Tipos psicológicos/Tipos psicológicos.md",
     "src/Estudos/ONE/Spring e Spring Boot.md",
-    "src/Estudos/ONE",
-    "src/Estudos"
+    "src/Estudos/ONE"
   ]
 }

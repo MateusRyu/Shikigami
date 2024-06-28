@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"3105ee91b935a2c8","x":-420,"y":-260,"width":400,"height":380,"type":"file","file":"src/pt-br/Ciências/Psicologia/Psicologia.md"},
+		{"id":"8e2ce9d76534db4a","x":80,"y":-260,"width":400,"height":420,"type":"file","file":"src/pt-br/Ciências/Psicologia/Psicologia analítica.md"},
+		{"id":"03c0c39b8900e754","x":80,"y":320,"width":400,"height":400,"type":"file","file":"src/pt-br/Ciências/Psicologia/Arquétipos.md"}
+	],
+	"edges":[
+		{"id":"288656272389bf6f","fromNode":"3105ee91b935a2c8","fromSide":"right","toNode":"8e2ce9d76534db4a","toSide":"left"},
+		{"id":"1098665949ec64f2","fromNode":"8e2ce9d76534db4a","fromSide":"bottom","toNode":"03c0c39b8900e754","toSide":"top"}
+	]
+}
