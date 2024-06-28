@@ -11,8 +11,12 @@
             "id": "f7ca2a2cf572f9cf",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "_daily/2024-06-28.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "_daily/2024-06-28.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "_daily/2024-06-28.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "_daily/2024-06-28.md"
+              }
             }
           },
           {
@@ -163,6 +171,8 @@
   },
   "active": "f7ca2a2cf572f9cf",
   "lastOpenFiles": [
+    "_daily/2024-06-28.md",
+    "Sem título.md",
     "src/canvas/Psicologia.canvas",
     "src/canvas",
     "src/Estudos/ONE/Configurando o Live Reload.md",
@@ -197,7 +207,6 @@
     "src/pt-br/Ciências/Psicologia/Psicologia analítica/Tipos psicológicos/Funções",
     "src/pt-br/Ciências/Psicologia/Psicologia analítica/Tipos psicológicos",
     "src/pt-br/Ciências/Psicologia/Psicologia analítica/Tipos psicológicos/Tipos psicológicos.md",
-    "src/Estudos/ONE/Spring e Spring Boot.md",
     "src/Estudos/ONE"
   ]
 }
