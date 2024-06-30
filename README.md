@@ -3,8 +3,6 @@
 
 Shikigami is a project to keep my knowledge at one unique place and serve as API to be consumed to anyone.
 
-----
-
 ## Features
 ---
 - [ ] Template to each type of knowledge for easy consume;
