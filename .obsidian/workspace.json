@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/pt-br/Xadrez/Finais/Final de peão.md",
+                "file": "src/2024/06/Github.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "src/pt-br/Xadrez/Finais/Final de peão.md",
+                "file": "src/2024/06/Github.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "src/pt-br/Xadrez/Finais/Final de peão.md",
+                "file": "src/2024/06/Github.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "src/pt-br/Xadrez/Finais/Final de peão.md"
+                "file": "src/2024/06/Github.md"
               }
             }
           },
@@ -206,13 +206,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5a9f47b8530ef60b",
+  "active": "d119f22fe88304d8",
   "lastOpenFiles": [
+    "index/Animes.md",
+    "index/Aberturas irregulares.md",
+    "index/Aberturas de xadrez.md",
+    "_draft/Vienna.md",
+    "_draft/Final de peão.md",
     "index/Finais elementais.md",
     "src/pt-br/Xadrez/Fianqueto.md",
     "_draft/Oposição de Rei.md",
     "index/Aberturas de flanco.md",
-    "_draft/Aberturas de xadrez.md",
     "src/pt-br/Xadrez/Peças/Rei.md",
     "src/pt-br/Xadrez/Peças/Cavalo.md",
     "index/Peças de xadrez.md",
@@ -225,21 +229,17 @@
     "index/Frameworks.md",
     "_draft/Spring.md",
     "_draft/2024-06-29-Livros_para_ler.md",
-    "_draft/Animes.md",
     "_draft/Anime.md",
     "_draft/Ciência.md",
     "index/Oracle Next Education.md",
     "_draft/Alura.md",
     "_draft/Oracle.md",
-    "_draft/Configurando o Live Reload.md",
     "index",
     "src/2024/06",
     "src/2024",
     "assets/Pasted Image 20240613173345_877.png",
     "src/canvas/Psicologia.canvas",
-    "_draft/How to Take Smart Notes.md",
     "_draft",
-    "_daily/2024-06-28.md",
     "_daily/images/logotipo-2.jpeg",
     "_daily/images/logotipo-1.jpeg",
     "_daily/images/logo.jpeg",
