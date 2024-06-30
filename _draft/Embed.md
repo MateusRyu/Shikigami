@@ -1,2 +1,2 @@
 ## Dentro do Obsidian
-Dentro do [Obsidian](Obsidian.md#Embed), um embed é a incorporação de um conteúdo externo dentro do arquivo que o chama. Pode ser um outro arquivo, uma seção do arquivo, uma imagem ou outro documento suportado. ^9a9d4c
+Dentro do [2024-06-30-Obsidian](2024-06-30-Obsidian.md#Embed), um embed é a incorporação de um conteúdo externo dentro do arquivo que o chama. Pode ser um outro arquivo, uma seção do arquivo, uma imagem ou outro documento suportado. ^9a9d4c

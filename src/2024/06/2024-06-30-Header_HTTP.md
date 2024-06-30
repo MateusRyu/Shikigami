@@ -1,4 +1,8 @@
+
+# Header HTTP
 Access-Control-Allow-Origin
+
+---
 
 Permitir acesso de uma porta especifica:
 `Access-Control-Allow-Origin: http://localhost:3000/`

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/pt-br/Ciências/Ciências da computação/Protocolos/HTTP/Header (HTTP).md",
+                "file": "src/pt-br/Ciências/Ciências da computação/Protocolos/HTTP/Cross-Origin Resource Sharing (CORS).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "src/pt-br/Ciências/Ciências da computação/Protocolos/HTTP/Header (HTTP).md",
+                "file": "src/pt-br/Ciências/Ciências da computação/Protocolos/HTTP/Cross-Origin Resource Sharing (CORS).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "src/pt-br/Ciências/Ciências da computação/Protocolos/HTTP/Header (HTTP).md",
+                "file": "src/pt-br/Ciências/Ciências da computação/Protocolos/HTTP/Cross-Origin Resource Sharing (CORS).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "src/pt-br/Ciências/Ciências da computação/Protocolos/HTTP/Header (HTTP).md"
+                "file": "src/pt-br/Ciências/Ciências da computação/Protocolos/HTTP/Cross-Origin Resource Sharing (CORS).md"
               }
             }
           },
@@ -169,8 +169,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5a9f47b8530ef60b",
+  "active": "d119f22fe88304d8",
   "lastOpenFiles": [
+    "_ideas",
+    "src/2024/06/2024-06-30-Obsidian.md",
+    "src/2024/06/2024-06-30-Anki.md",
+    "src/pt-br/Ciências/Ciências da computação/Protocolos/HTTP/Cross-Origin Resource Sharing (CORS).md",
+    "src/2024/06/2024-06-30-Header_HTTP.md",
     "_draft/HTTP.md",
     "src/2024/06/2024-06-30-Windows.md",
     "src/2024/06/2024-06-30-SSH.md",
@@ -192,11 +197,6 @@
     "index/Aberturas irregulares.md",
     "index/Aberturas de xadrez.md",
     "_draft/Vienna.md",
-    "_draft/Final de peão.md",
-    "index/Finais elementais.md",
-    "src/pt-br/Xadrez/Fianqueto.md",
-    "_draft/Oposição de Rei.md",
-    "index/Aberturas de flanco.md",
     "index",
     "src/2024/06",
     "src/2024",
