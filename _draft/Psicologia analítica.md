@@ -6,7 +6,7 @@ A psicologia analítica, por se basear na cognição das pessoas, serve como fer
 
 [[Inconsciente]] e [[Consciência]]...  
 
-Segundo Jung, todas as pessoas nascem com o [[Self]] já preenchida com [[Arquétipos]] coletivos para que possamos interagir com o mundo de forma saudável e sem grandes problemas. Após o desenvolvimento da psique da criança, as outras estruturas nascem e crescem dentro do [Self](Self.md), como o [[Ego]], a [[Memória]] e os [[Complexo (Psicologia analítica)]].
+Segundo Jung, todas as pessoas nascem com o [[2024-06-30-Self]] já preenchida com [[2024-06-30-Arquétipos]] coletivos para que possamos interagir com o mundo de forma saudável e sem grandes problemas. Após o desenvolvimento da psique da criança, as outras estruturas nascem e crescem dentro do [2024-06-30-Self](2024-06-30-Self.md), como o [[Ego]], a [[Memória]] e os [[2024-06-30-Complexo]].
 
 ## Ego  
 Ego é a fração na qual temos consciência do nosso Self. Em palavras mais informal, é aquilo que acreditamos que somos e onde ocorre nossos pensamentos racionais.

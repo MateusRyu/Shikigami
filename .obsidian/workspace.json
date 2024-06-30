@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_insight/Linguagem de programação.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_insight/Linguagem de programação.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_insight/Linguagem de programação.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_insight/Linguagem de programação.md"
+                "file": "README.md"
               }
             }
           },
@@ -169,35 +169,36 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d119f22fe88304d8",
+  "active": "5a9f47b8530ef60b",
   "lastOpenFiles": [
+    "src/2024/06/30/2024-06-30-Android.md",
+    "src/2024/06/30/2024-06-30-Teste_de_recordação_ativa.md",
+    "src/2024/06/30",
+    "src/2024/06/30/2024-06-30-Self.md",
+    "_insight/Repetição espaçada.md",
+    "_draft/Psicologia analítica.md",
+    "_draft/Psicologia.md",
+    "_insight/Memória de longo prazo.md",
+    "_insight/Memória.md",
+    "src/2024/06/30/2024-06-30-Complexo.md",
+    "src/2024/06/30/2024-06-30-Arquétipos.md",
+    "src/2024/06/30/2024-06-30-Windows.md",
+    "index/Aprendizado.md",
+    "_insight/Linguagem de programação.md",
     "_draft/Java.md",
     "_insight/Cross-Origin Resource Sharing (CORS).md",
     "_insight",
-    "src/2024/06/2024-06-30-Obsidian.md",
-    "src/2024/06/2024-06-30-Anki.md",
-    "src/2024/06/2024-06-30-Header_HTTP.md",
+    "src/2024/06/30/2024-06-30-Obsidian.md",
+    "src/2024/06/30/2024-06-30-Anki.md",
+    "src/2024/06/30/2024-06-30-Header_HTTP.md",
     "_draft/HTTP.md",
-    "src/2024/06/2024-06-30-Windows.md",
-    "src/2024/06/2024-06-30-SSH.md",
+    "src/2024/06/30/2024-06-30-SSH.md",
     "index/Protocolos.md",
-    "src/2024/06/2024-06-30-Sistema_Operacional.md",
-    "src/2024/06/2024-06-30-Distro_Linux.md",
-    "src/2024/06/2024-06-30-Arch_Linux.md",
-    "src/2024/06/2024-06-30-Linux.md",
-    "src/2024/06/2024-06-30-Android.md",
-    "src/2024/06/2024-06-30-Criptografia.md",
-    "src/pt-br/Ciências/Ciências da computação/Algoritmo.md",
-    "src/2024/06/2024-06-30-Shikigami.md",
-    "index/Desenvolvimento de software.md",
-    "_draft/Embed.md",
-    "src/2024/06/2024-06-30-Git.md",
-    "src/2024/06/2024-06-30-Github.md",
-    "_draft/Linus Torvalds.md",
-    "index/Animes.md",
-    "index/Aberturas irregulares.md",
-    "index/Aberturas de xadrez.md",
-    "_draft/Vienna.md",
+    "src/2024/06/30/2024-06-30-Sistema_Operacional.md",
+    "src/2024/06/30/2024-06-30-Distro_Linux.md",
+    "src/2024/06/30/2024-06-30-Arch_Linux.md",
+    "src/2024/06/30/2024-06-30-Linux.md",
+    "src/2024/06/30/2024-06-30-Criptografia.md",
     "index",
     "src/2024/06",
     "src/2024",
@@ -212,7 +213,6 @@
     "_daily/images",
     "canvas",
     "src/Estudos/ONE",
-    "src/Estudos",
-    "src/pt-br/Projetos/Shikigami"
+    "src/Estudos"
   ]
 }

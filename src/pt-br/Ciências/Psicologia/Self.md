@@ -1,3 +1,0 @@
-é a representação da totalidade da nossa psique, o que na linguagem informal chamamos simplesmente de "mente". Ela engloba tanto a parte consciente, onde ocorre os pensamentos racionais e as nossas memórias mais claras, tanto como a parte inconsciente, onde costuma estar os processos irracionais como por exemplo os medos e outros sentimentos que não podemos explicar.
-
-Apesar de haver uma concordância sobre o conteúdo dentro do Self, não há um consenso  de como o Self é organizado. Inclusive, tem sido um desafio poder representar de forma esquemática como seria um "mapa" do Self.
