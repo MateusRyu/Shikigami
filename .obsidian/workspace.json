@@ -11,11 +11,14 @@
             "id": "f7ca2a2cf572f9cf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "How to Take Smart Notes.md",
-                "mode": "source",
-                "source": false
+                "file": "src/canvas/Psicologia.canvas",
+                "viewState": {
+                  "x": 30,
+                  "y": 230,
+                  "zoom": -0.6969309323639534
+                }
               }
             }
           }
@@ -85,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "How to Take Smart Notes.md",
+                "file": "src/canvas/Psicologia.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "How to Take Smart Notes.md",
+                "file": "src/canvas/Psicologia.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "How to Take Smart Notes.md"
+                "file": "src/canvas/Psicologia.canvas"
               }
             }
           },
@@ -171,9 +174,10 @@
   },
   "active": "f7ca2a2cf572f9cf",
   "lastOpenFiles": [
+    "_draft/2024-06-29-Livros_para_ler.md",
+    "_draft/How to Take Smart Notes.md",
+    "_draft",
     "Sem título.md",
-    "How to Take Smart Notes.md",
-    "2024-06-29-Livros para ler.md",
     "_daily/2024-06-28.md",
     "^pinguim.md",
     "src/pt-br/Ferramentas/Obsidian.md",
@@ -209,9 +213,7 @@
     "src/templates/Anime.tpl.md",
     "README.md",
     "src/pt-br/Ciências/Ciências da computação/Linguagens de marcação/Markdown.md",
-    "src/pt-br/Ciências/Psicologia/Psicologia analítica/Psicologia analítica.md",
     "src/pt-br/Ciências/Psicologia/Psicologia analítica/Tipos psicológicos/Atitudes",
-    "src/pt-br/Ciências/Psicologia/Psicologia analítica/Tipos psicológicos/Funções",
-    "src/pt-br/Ciências/Psicologia/Psicologia analítica/Tipos psicológicos"
+    "src/pt-br/Ciências/Psicologia/Psicologia analítica/Tipos psicológicos/Funções"
   ]
 }
