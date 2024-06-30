@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_daily/2024-06-28.md",
+                "file": "2024-06-29-Livros para ler.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "90e0184107fbeb3d",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_daily/2024-06-28.md",
+                "file": "2024-06-29-Livros para ler.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_daily/2024-06-28.md",
+                "file": "2024-06-29-Livros para ler.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_daily/2024-06-28.md"
+                "file": "2024-06-29-Livros para ler.md"
               }
             }
           },
@@ -172,8 +171,9 @@
   },
   "active": "f7ca2a2cf572f9cf",
   "lastOpenFiles": [
-    "^pinguim.md",
     "_daily/2024-06-28.md",
+    "2024-06-29-Livros para ler.md",
+    "^pinguim.md",
     "src/pt-br/Ferramentas/Obsidian.md",
     "src/pt-br/Ciências/Ciências da computação/Embed.md",
     "src/pt-br/Ciências/Psicologia/Aprendizado.md",
@@ -210,7 +210,6 @@
     "src/pt-br/Ciências/Ciências da computação/Linguagens de marcação/Markdown.md",
     "src/pt-br/Ciências/Psicologia/Psicologia analítica/Psicologia analítica.md",
     "src/pt-br/Ciências/Psicologia/Psicologia analítica/Tipos psicológicos/Funções/Intuição.md",
-    "src/pt-br/Ciências/Psicologia/Psicologia analítica/Tipos psicológicos/Funções/Sensação.md",
     "src/pt-br/Ciências/Psicologia/Psicologia analítica/Tipos psicológicos/Atitudes",
     "src/pt-br/Ciências/Psicologia/Psicologia analítica/Tipos psicológicos/Funções",
     "src/pt-br/Ciências/Psicologia/Psicologia analítica/Tipos psicológicos"
