@@ -31,6 +31,7 @@
       {
         "id": "c4bb36dfc64d123c",
         "type": "tabs",
+        "dimension": 53.42857142857142,
         "children": [
           {
             "id": "d119f22fe88304d8",
@@ -66,19 +67,30 @@
             }
           }
         ]
-      }
-    ],
-    "direction": "horizontal",
-    "width": 300
-  },
-  "right": {
-    "id": "90e0184107fbeb3d",
-    "type": "split",
-    "children": [
+      },
       {
-        "id": "ba33b0496362c4d7",
+        "id": "b12c899f6d1d6f67",
         "type": "tabs",
+        "dimension": 46.57142857142857,
         "children": [
+          {
+            "id": "be53e90a77b82a63",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "9cb7546bf61a2df4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md"
+              }
+            }
+          },
           {
             "id": "43ec2e11a74876d9",
             "type": "leaf",
@@ -107,7 +119,21 @@
                 "unlinkedCollapsed": true
               }
             }
-          },
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "90e0184107fbeb3d",
+    "type": "split",
+    "children": [
+      {
+        "id": "ba33b0496362c4d7",
+        "type": "tabs",
+        "children": [
           {
             "id": "dc61fb602cfdf8b2",
             "type": "leaf",
@@ -116,16 +142,6 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "9cb7546bf61a2df4",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "README.md"
               }
             }
           },
@@ -139,14 +155,6 @@
                 "showSearch": false,
                 "searchQuery": ""
               }
-            }
-          },
-          {
-            "id": "be53e90a77b82a63",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
             }
           }
         ]
@@ -166,13 +174,16 @@
       "templates:Inserir modelo": false,
       "command-palette:Abrir paleta de comandos": false,
       "mermaid-tools:Open Mermaid Toolbar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "zk-prefixer:Criar nova nota única": false
     }
   },
-  "active": "5a9f47b8530ef60b",
+  "active": "d119f22fe88304d8",
   "lastOpenFiles": [
-    "_insight/atomic.md",
+    "__daily/2024-06-28.md",
     "README.md",
+    "202406301556.md",
+    "_insight/atomic.md",
     "src/2024/06/30/2024-06-30-Android.md",
     "src/2024/06/30/2024-06-30-Teste_de_recordação_ativa.md",
     "src/2024/06/30",
@@ -197,20 +208,18 @@
     "src/2024/06/30/2024-06-30-SSH.md",
     "index/Protocolos.md",
     "src/2024/06/30/2024-06-30-Sistema_Operacional.md",
-    "src/2024/06/30/2024-06-30-Distro_Linux.md",
-    "src/2024/06/30/2024-06-30-Arch_Linux.md",
     "index",
     "src/2024/06",
     "src/2024",
     "assets/Pasted Image 20240613173345_877.png",
     "src/canvas/Psicologia.canvas",
     "_draft",
-    "_daily/images/logotipo-2.jpeg",
-    "_daily/images/logotipo-1.jpeg",
-    "_daily/images/logo.jpeg",
-    "_daily/images/fundo.jpeg",
-    "_daily/images/capa.jpeg",
-    "_daily/images",
+    "__daily/images/logotipo-2.jpeg",
+    "__daily/images/logotipo-1.jpeg",
+    "__daily/images/logo.jpeg",
+    "__daily/images/fundo.jpeg",
+    "__daily/images/capa.jpeg",
+    "__daily/images",
     "canvas",
     "src/Estudos/ONE",
     "src/Estudos"
