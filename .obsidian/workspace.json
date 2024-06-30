@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-06-29-Livros para ler.md",
+                "file": "How to Take Smart Notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-06-29-Livros para ler.md",
+                "file": "How to Take Smart Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-06-29-Livros para ler.md",
+                "file": "How to Take Smart Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-06-29-Livros para ler.md"
+                "file": "How to Take Smart Notes.md"
               }
             }
           },
@@ -171,8 +171,9 @@
   },
   "active": "f7ca2a2cf572f9cf",
   "lastOpenFiles": [
-    "_daily/2024-06-28.md",
     "2024-06-29-Livros para ler.md",
+    "How to Take Smart Notes.md",
+    "_daily/2024-06-28.md",
     "^pinguim.md",
     "src/pt-br/Ferramentas/Obsidian.md",
     "src/pt-br/Ciências/Ciências da computação/Embed.md",
@@ -209,7 +210,6 @@
     "README.md",
     "src/pt-br/Ciências/Ciências da computação/Linguagens de marcação/Markdown.md",
     "src/pt-br/Ciências/Psicologia/Psicologia analítica/Psicologia analítica.md",
-    "src/pt-br/Ciências/Psicologia/Psicologia analítica/Tipos psicológicos/Funções/Intuição.md",
     "src/pt-br/Ciências/Psicologia/Psicologia analítica/Tipos psicológicos/Atitudes",
     "src/pt-br/Ciências/Psicologia/Psicologia analítica/Tipos psicológicos/Funções",
     "src/pt-br/Ciências/Psicologia/Psicologia analítica/Tipos psicológicos"
