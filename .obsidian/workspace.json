@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/pt-br/Ciências/Ciências da computação/Protocolos/HTTP/Cross-Origin Resource Sharing (CORS).md",
+                "file": "_insight/Linguagem de programação.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "src/pt-br/Ciências/Ciências da computação/Protocolos/HTTP/Cross-Origin Resource Sharing (CORS).md",
+                "file": "_insight/Linguagem de programação.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "src/pt-br/Ciências/Ciências da computação/Protocolos/HTTP/Cross-Origin Resource Sharing (CORS).md",
+                "file": "_insight/Linguagem de programação.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "src/pt-br/Ciências/Ciências da computação/Protocolos/HTTP/Cross-Origin Resource Sharing (CORS).md"
+                "file": "_insight/Linguagem de programação.md"
               }
             }
           },
@@ -171,10 +171,11 @@
   },
   "active": "d119f22fe88304d8",
   "lastOpenFiles": [
-    "_ideas",
+    "_draft/Java.md",
+    "_insight/Cross-Origin Resource Sharing (CORS).md",
+    "_insight",
     "src/2024/06/2024-06-30-Obsidian.md",
     "src/2024/06/2024-06-30-Anki.md",
-    "src/pt-br/Ciências/Ciências da computação/Protocolos/HTTP/Cross-Origin Resource Sharing (CORS).md",
     "src/2024/06/2024-06-30-Header_HTTP.md",
     "_draft/HTTP.md",
     "src/2024/06/2024-06-30-Windows.md",
@@ -212,7 +213,6 @@
     "canvas",
     "src/Estudos/ONE",
     "src/Estudos",
-    "src/pt-br/Projetos/Shikigami",
-    "src/pt-br/Projetos"
+    "src/pt-br/Projetos/Shikigami"
   ]
 }
