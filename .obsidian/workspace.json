@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_draft/Markdown.md",
+                "file": "src/pt-br/Xadrez/Finais/Final de peão.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_draft/Markdown.md",
+                "file": "src/pt-br/Xadrez/Finais/Final de peão.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_draft/Markdown.md",
+                "file": "src/pt-br/Xadrez/Finais/Final de peão.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_draft/Markdown.md"
+                "file": "src/pt-br/Xadrez/Finais/Final de peão.md"
               }
             }
           },
@@ -206,8 +206,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d119f22fe88304d8",
+  "active": "5a9f47b8530ef60b",
   "lastOpenFiles": [
+    "index/Finais elementais.md",
+    "src/pt-br/Xadrez/Fianqueto.md",
+    "_draft/Oposição de Rei.md",
+    "index/Aberturas de flanco.md",
+    "_draft/Aberturas de xadrez.md",
+    "src/pt-br/Xadrez/Peças/Rei.md",
+    "src/pt-br/Xadrez/Peças/Cavalo.md",
+    "index/Peças de xadrez.md",
+    "index/Xadrez.md",
+    "_draft/Sistema de controle de versões.md",
+    "_draft/Markdown.md",
     "_draft/HyperText Markup Language (HTML).md",
     "index/Linguagem de marcação.md",
     "index/Linguagens.md",
@@ -229,10 +240,6 @@
     "_draft/How to Take Smart Notes.md",
     "_draft",
     "_daily/2024-06-28.md",
-    "^pinguim.md",
-    "src/pt-br/Ferramentas/Obsidian.md",
-    "src/pt-br/Ciências/Ciências da computação/Embed.md",
-    "src/pt-br/Ciências/Psicologia/Aprendizado.md",
     "_daily/images/logotipo-2.jpeg",
     "_daily/images/logotipo-1.jpeg",
     "_daily/images/logo.jpeg",
@@ -242,14 +249,7 @@
     "canvas",
     "src/Estudos/ONE",
     "src/Estudos",
-    "conflict-files-obsidian-git.md",
-    "src/pt-br/Animes/Fall 2009/Kuuchuu Buranko.md",
-    "src/pt-br/Projetos/Shikigami/Shikigami.md",
     "src/pt-br/Projetos/Shikigami",
-    "src/pt-br/Projetos",
-    "src/pt-br/Ciências/Psicologia/Psicologia analítica.md",
-    "_draft/Kuuchuu Buranko.md",
-    "src/pt-br/Ciências/Psicologia/Self.md",
-    "src/pt-br/Ciências/Psicologia/Memória.md"
+    "src/pt-br/Projetos"
   ]
 }
