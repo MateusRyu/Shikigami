@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index/Desenvolvimento de software.md",
+                "file": "src/pt-br/Ciências/Ciências da computação/Protocolos/HTTP/Header (HTTP).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index/Desenvolvimento de software.md",
+                "file": "src/pt-br/Ciências/Ciências da computação/Protocolos/HTTP/Header (HTTP).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index/Desenvolvimento de software.md",
+                "file": "src/pt-br/Ciências/Ciências da computação/Protocolos/HTTP/Header (HTTP).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index/Desenvolvimento de software.md"
+                "file": "src/pt-br/Ciências/Ciências da computação/Protocolos/HTTP/Header (HTTP).md"
               }
             }
           },
@@ -171,6 +171,19 @@
   },
   "active": "5a9f47b8530ef60b",
   "lastOpenFiles": [
+    "_draft/HTTP.md",
+    "src/2024/06/2024-06-30-Windows.md",
+    "src/2024/06/2024-06-30-SSH.md",
+    "index/Protocolos.md",
+    "src/2024/06/2024-06-30-Sistema_Operacional.md",
+    "src/2024/06/2024-06-30-Distro_Linux.md",
+    "src/2024/06/2024-06-30-Arch_Linux.md",
+    "src/2024/06/2024-06-30-Linux.md",
+    "src/2024/06/2024-06-30-Android.md",
+    "src/2024/06/2024-06-30-Criptografia.md",
+    "src/pt-br/Ciências/Ciências da computação/Algoritmo.md",
+    "src/2024/06/2024-06-30-Shikigami.md",
+    "index/Desenvolvimento de software.md",
     "_draft/Embed.md",
     "src/2024/06/2024-06-30-Git.md",
     "src/2024/06/2024-06-30-Github.md",
@@ -184,19 +197,6 @@
     "src/pt-br/Xadrez/Fianqueto.md",
     "_draft/Oposição de Rei.md",
     "index/Aberturas de flanco.md",
-    "src/pt-br/Xadrez/Peças/Rei.md",
-    "src/pt-br/Xadrez/Peças/Cavalo.md",
-    "index/Peças de xadrez.md",
-    "index/Xadrez.md",
-    "_draft/Sistema de controle de versões.md",
-    "_draft/Markdown.md",
-    "_draft/HyperText Markup Language (HTML).md",
-    "index/Linguagem de marcação.md",
-    "index/Linguagens.md",
-    "index/Frameworks.md",
-    "_draft/Spring.md",
-    "_draft/2024-06-29-Livros_para_ler.md",
-    "_draft/Anime.md",
     "index",
     "src/2024/06",
     "src/2024",

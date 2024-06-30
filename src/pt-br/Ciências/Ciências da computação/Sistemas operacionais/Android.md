@@ -1,1 +1,0 @@
-É um [sistema Operacional](Sistema%20Operacional.md) baseada em [Linux](Linux.md), usado principalmente em dispositivos portáteis.

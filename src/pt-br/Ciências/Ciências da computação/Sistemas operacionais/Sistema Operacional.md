@@ -1,1 +1,0 @@
-Os sistemas operacionais são os componentes básicos para que uma máquina se torne funcional (capaz de operar). Os mais relevantes são: [Windows](Windows.md), [Linux](Linux.md), [Mac](Mac), [Android](Android.md).
