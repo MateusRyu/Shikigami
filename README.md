@@ -1,11 +1,11 @@
 # Shikigami
 ---
-Shikigami is a project to dumb my knowledge at one unique place and serve as API to be consumed to anyone.
+Shikigami is a project to keep my knowledge at one unique place and serve as API to be consumed to anyone.
 
 - [ ] Template to each type of knowledge for easy consume;
-- [ ] Private folder to sensitive data (Folder will not be store remotely);
+- [x] Private folder to sensitive data (Folder will not be store remotely);
 - [ ] End-point to consume data;
 
-Each doc is writing with [markdown](Markdown.md).
+Each data is writing with [Markdown](_draft/Markdown.md) with an [atomic](_insight/atomic.md) way to easily recover the information.
 ## Templates
 - [Anime.tpl](Anime.tpl.md);
