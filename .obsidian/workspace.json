@@ -37,14 +37,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Framework.md",
+                "file": "index/Frameworks.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5a9f47b8530ef60b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "src/pt-br/Ciências/Ciências da computação/Linguagens de marcação/Linguagem de marcação.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Framework.md",
+                "file": "src/pt-br/Ciências/Ciências da computação/Linguagens de marcação/Linguagem de marcação.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Framework.md",
+                "file": "src/pt-br/Ciências/Ciências da computação/Linguagens de marcação/Linguagem de marcação.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Framework.md"
+                "file": "src/pt-br/Ciências/Ciências da computação/Linguagens de marcação/Linguagem de marcação.md"
               }
             }
           },
@@ -194,10 +206,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "630ac041d841e992",
+  "active": "5a9f47b8530ef60b",
   "lastOpenFiles": [
+    "index/Linguagens.md",
+    "index/Frameworks.md",
     "_draft/Spring.md",
-    "Framework.md",
     "_draft/2024-06-29-Livros_para_ler.md",
     "_draft/Animes.md",
     "_draft/Anime.md",
@@ -237,7 +250,6 @@
     "src/pt-br/Ciências/Psicologia/Self.md",
     "src/pt-br/Ciências/Psicologia/Memória.md",
     "src/pt-br/Ciências/Psicologia/Memória de longo prazo.md",
-    "src/pt-br/Xadrez/Abertura/Gambito Englund.md",
-    "src/pt-br/Ciências/Psicologia/Complexo (Psicologia analítica).md"
+    "src/pt-br/Xadrez/Abertura/Gambito Englund.md"
   ]
 }
