@@ -8,55 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ec56f237a1f0034f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_draft/Anime.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9d4d443e90390ac1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_draft/Spring.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "630ac041d841e992",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "index/Frameworks.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "5a9f47b8530ef60b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/2024/06/Github.md",
+                "file": "index/Desenvolvimento de software.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "src/2024/06/Github.md",
+                "file": "index/Desenvolvimento de software.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "src/2024/06/Github.md",
+                "file": "index/Desenvolvimento de software.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "src/2024/06/Github.md"
+                "file": "index/Desenvolvimento de software.md"
               }
             }
           },
@@ -206,8 +169,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d119f22fe88304d8",
+  "active": "5a9f47b8530ef60b",
   "lastOpenFiles": [
+    "_draft/Embed.md",
+    "src/2024/06/2024-06-30-Git.md",
+    "src/2024/06/2024-06-30-Github.md",
+    "_draft/Linus Torvalds.md",
     "index/Animes.md",
     "index/Aberturas irregulares.md",
     "index/Aberturas de xadrez.md",
@@ -230,10 +197,6 @@
     "_draft/Spring.md",
     "_draft/2024-06-29-Livros_para_ler.md",
     "_draft/Anime.md",
-    "_draft/Ciência.md",
-    "index/Oracle Next Education.md",
-    "_draft/Alura.md",
-    "_draft/Oracle.md",
     "index",
     "src/2024/06",
     "src/2024",
