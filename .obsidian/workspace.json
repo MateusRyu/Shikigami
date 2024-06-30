@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_draft/Ciência.md",
+                "file": "_draft/Anime.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9d4d443e90390ac1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_draft/Spring.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "630ac041d841e992",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Framework.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_draft/Ciência.md",
+                "file": "Framework.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_draft/Ciência.md",
+                "file": "Framework.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_draft/Ciência.md"
+                "file": "Framework.md"
               }
             }
           },
@@ -169,21 +194,25 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d119f22fe88304d8",
+  "active": "630ac041d841e992",
   "lastOpenFiles": [
-    "_index/Oracle Next Education.md",
+    "_draft/Spring.md",
+    "Framework.md",
+    "_draft/2024-06-29-Livros_para_ler.md",
+    "_draft/Animes.md",
+    "_draft/Anime.md",
+    "_draft/Ciência.md",
+    "index/Oracle Next Education.md",
     "_draft/Alura.md",
     "_draft/Oracle.md",
     "_draft/Configurando o Live Reload.md",
-    "_index",
+    "index",
     "src/2024/06",
     "src/2024",
     "assets/Pasted Image 20240613173345_877.png",
-    "_draft/2024-06-29-Livros_para_ler.md",
     "src/canvas/Psicologia.canvas",
     "_draft/How to Take Smart Notes.md",
     "_draft",
-    "Sem título.md",
     "_daily/2024-06-28.md",
     "^pinguim.md",
     "src/pt-br/Ferramentas/Obsidian.md",
@@ -204,15 +233,11 @@
     "src/pt-br/Projetos/Shikigami",
     "src/pt-br/Projetos",
     "src/pt-br/Ciências/Psicologia/Psicologia analítica.md",
-    "src/pt-br/Animes/Kuuchuu Buranko.md",
+    "_draft/Kuuchuu Buranko.md",
     "src/pt-br/Ciências/Psicologia/Self.md",
     "src/pt-br/Ciências/Psicologia/Memória.md",
     "src/pt-br/Ciências/Psicologia/Memória de longo prazo.md",
     "src/pt-br/Xadrez/Abertura/Gambito Englund.md",
-    "src/pt-br/Ciências/Psicologia/Complexo (Psicologia analítica).md",
-    "src/pt-br/Ciências/Psicologia/Arquétipos.md",
-    "src/pt-br/Xadrez/Abertura/Abertura do Peão da Dama.md",
-    "src/pt-br/Animes/Date A Live.md",
-    "templates/Anime.tpl.md"
+    "src/pt-br/Ciências/Psicologia/Complexo (Psicologia analítica).md"
   ]
 }
