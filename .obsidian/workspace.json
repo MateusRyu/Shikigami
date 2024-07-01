@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_draft/Abertura Inglesa.md",
+                "file": "Abertura Inglesa_Sistema defensivo Caro-Kann.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_draft/Abertura Inglesa.md"
+                "file": "Abertura Inglesa_Sistema defensivo Caro-Kann.md"
               }
             }
           },
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_draft/Abertura Inglesa.md",
+                "file": "Abertura Inglesa_Sistema defensivo Caro-Kann.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_draft/Abertura Inglesa.md",
+                "file": "Abertura Inglesa_Sistema defensivo Caro-Kann.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,8 +179,10 @@
   },
   "active": "7f7a50159207c733",
   "lastOpenFiles": [
-    "Abertura Inglesa_Sistema defensivo Caro-Kann.md",
+    "index/Frameworks.md",
+    "__daily/Sem título.md",
     "_draft/Abertura Inglesa.md",
+    "Abertura Inglesa_Sistema defensivo Caro-Kann.md",
     "_insight/Caro-Kann.md",
     "index/Aberturas de flanco.md",
     "index/Aberturas de xadrez.md",
@@ -188,12 +190,10 @@
     "index/Xadrez.md",
     "__daily/2024-06-28.md",
     "src/2024/06/30/2024-06-30-SSH.md",
-    "__daily/Sem título.md",
     "src/2024/06/30/2024-06-30-Self.md",
     "README.md",
     "_docs",
     "_docs/README-pt_br.md",
-    "index/Frameworks.md",
     "Sem título.canvas",
     "202406301556.md",
     "_insight/atomic.md",
