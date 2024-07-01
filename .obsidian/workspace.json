@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "src/2024/06/30/2024-06-30-Self.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "src/2024/06/30/2024-06-30-Self.md"
               }
             }
           },
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "src/2024/06/30/2024-06-30-Self.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "src/2024/06/30/2024-06-30-Self.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,9 +179,9 @@
   },
   "active": "7f7a50159207c733",
   "lastOpenFiles": [
+    "README.md",
     "Sem título.md",
     "_docs",
-    "README.md",
     "_docs/README-pt_br.md",
     "index/Frameworks.md",
     "Sem título.canvas",
