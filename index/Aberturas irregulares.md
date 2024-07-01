@@ -8,15 +8,15 @@ São raramente adotadas, pois quando comparadas com as aberturas mais usuais, ap
 - [[Abertura Anderssen]]: `1.a3`;
 - [Abertura Ware](_insight/Abertura%20Ware.md): `1.a4`;
 - [Ataque Sódio](_insight/Ataque%20Sódio.md): `1.Na3`;
-- [Abertura Sokolsky](Abertura%20Sokolsky): `1.b4`;
+- [Abertura Sokolsky](_insight/Abertura%20Sokolsky.md): `1.b4`;
 - [Abertura Saragoça](_insight/Abertura%20Saragoça.md): `1.c3`;
 - [Van Geet](Van%20Geet.md): `1.Nc3`;
-- [Abertura Van't Kruijs](Abertura%20Van't%20Kruijs): `1.e3`;
-- [Abertura Mieses](Abertura%20Mieses): `1.d3`;
-- [Abertura Barnes](Abertura%20Barnes): `1. f3`;
+- [Abertura Van't Kruijs](_insight/Abertura%20Van't%20Kruijs.md): `1.e3`;
+- [Abertura Mieses](_insight/Abertura%20Mieses.md): `1.d3`;
+- [Abertura Barnes](_insight/Abertura%20Barnes.md): `1. f3`;
 - [Abertura Benko](_insight/Abertura%20Benko.md): `1.g3`;
 - [Ataque Grob](_insight/Ataque%20Grob.md): `1.g4`;
-- [Abertura Clemenz](Abertura%20Clemenz): `1.h3`;
+- [Abertura Clemenz](_insight/Abertura%20Clemenz.md): `1.h3`;
 - [Abertura Desprez](_insight/Abertura%20Desprez.md): `1.h4`;
 - [Abertura Amar](_insight/Abertura%20Amar.md): `1.Nh3`;
 

@@ -1,0 +1,1 @@
+Gambito, no [Xadrez](index/Xadrez.md), é quando um jogador oferece que seu oponente capture uma peça sem riscos, em trocas, o jogador que perdeu uma peça ganha a oportunidade de algum desenvolvimento.
