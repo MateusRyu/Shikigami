@@ -11,8 +11,12 @@
             "id": "7f7a50159207c733",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "__daily/2024-06-28.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -27,7 +31,7 @@
       {
         "id": "c4bb36dfc64d123c",
         "type": "tabs",
-        "dimension": 71.42857142857143,
+        "dimension": 52.57142857142857,
         "children": [
           {
             "id": "d119f22fe88304d8",
@@ -67,7 +71,7 @@
       {
         "id": "b12c899f6d1d6f67",
         "type": "tabs",
-        "dimension": 28.57142857142857,
+        "dimension": 47.42857142857143,
         "children": [
           {
             "id": "be53e90a77b82a63",
@@ -82,7 +86,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "__daily/2024-06-28.md"
+              }
             }
           },
           {
@@ -91,6 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "__daily/2024-06-28.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,6 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "__daily/2024-06-28.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
