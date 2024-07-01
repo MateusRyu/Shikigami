@@ -1,1 +1,1 @@
-Pode transpor para uma [Siciliana%20reversa](Abertura%20Inglesa.md#Siciliana%20reversa)
+É uma [Aberturas de flanco](index/Aberturas%20de%20flanco.md) incomum e por isso é categorizada como uma [Aberturas irregulares](index/Aberturas%20irregulares.md) com código ECO `A0`. Pode transpor para uma [Siciliana%20reversa](Abertura%20Inglesa.md#Siciliana%20reversa).

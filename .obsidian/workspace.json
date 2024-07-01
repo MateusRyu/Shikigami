@@ -11,12 +11,8 @@
             "id": "7f7a50159207c733",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "index/Aberturas de flanco.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -86,9 +82,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "index/Aberturas de flanco.md"
-              }
+              "state": {}
             }
           },
           {
@@ -97,7 +91,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index/Aberturas de flanco.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +107,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index/Aberturas de flanco.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +171,22 @@
   },
   "active": "7f7a50159207c733",
   "lastOpenFiles": [
-    "Abertura_A11__Inglesa_contra_Caro_Kann.md",
+    "_draft/Abertura Anderssen.md",
+    "Abertura Van't Kruijs.md",
+    "Abertura Barnes.md",
+    "Abertura Sokolsky.md",
+    "Abertura Clemenz.md",
+    "Abertura Mieses.md",
+    "_insight/Abertura Amar.md",
+    "_insight/Abertura Saragoça.md",
+    "_insight/Ataque Grob.md",
+    "_insight/Ataque Sódio.md",
+    "_insight/Abertura_Inglesa_contra_Caro_Kann.md",
+    "_insight/Abertura Ware.md",
+    "_draft/Van Geet.md",
+    "_insight/Abertura Desprez.md",
+    "_insight/Abertura Benko.md",
+    "index/Aberturas irregulares.md",
     "index/Aberturas de flanco.md",
     "_insight/Caro-Kann.md",
     "_draft/Abertura Inglesa.md",
@@ -190,23 +197,9 @@
     "index/Xadrez.md",
     "__daily/2024-06-28.md",
     "src/2024/06/30/2024-06-30-SSH.md",
-    "src/2024/06/30/2024-06-30-Self.md",
-    "README.md",
     "_docs",
-    "_docs/README-pt_br.md",
     "Sem título.canvas",
-    "202406301556.md",
-    "_insight/atomic.md",
-    "src/2024/06/30/2024-06-30-Android.md",
-    "src/2024/06/30/2024-06-30-Teste_de_recordação_ativa.md",
     "src/2024/06/30",
-    "_insight/Repetição espaçada.md",
-    "_draft/Psicologia analítica.md",
-    "_draft/Psicologia.md",
-    "_insight/Memória de longo prazo.md",
-    "_insight/Memória.md",
-    "src/2024/06/30/2024-06-30-Complexo.md",
-    "src/2024/06/30/2024-06-30-Arquétipos.md",
     "_insight",
     "index",
     "src/2024/06",
