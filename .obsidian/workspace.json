@@ -11,12 +11,8 @@
             "id": "7f7a50159207c733",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "src/2024/06/30/2024-06-30-SSH.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -86,9 +82,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "src/2024/06/30/2024-06-30-SSH.md"
-              }
+              "state": {}
             }
           },
           {
@@ -97,7 +91,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "src/2024/06/30/2024-06-30-SSH.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +107,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "src/2024/06/30/2024-06-30-SSH.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,9 +171,10 @@
   },
   "active": "7f7a50159207c733",
   "lastOpenFiles": [
+    "src/2024/06/30/2024-06-30-SSH.md",
+    "__daily/Sem título.md",
     "src/2024/06/30/2024-06-30-Self.md",
     "README.md",
-    "Sem título.md",
     "_docs",
     "_docs/README-pt_br.md",
     "index/Frameworks.md",
