@@ -11,12 +11,8 @@
             "id": "ce852f0937acda09",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "src/pt-br/Ciências/Psicologia/Psicologia analítica.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -97,7 +93,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "src/pt-br/Ciências/Psicologia/Psicologia analítica.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -114,7 +109,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "src/pt-br/Ciências/Psicologia/Psicologia analítica.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -125,9 +119,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "src/pt-br/Ciências/Psicologia/Psicologia analítica.md"
-          }
+          "state": {}
         }
       },
       {
@@ -156,46 +148,50 @@
   },
   "active": "ce852f0937acda09",
   "lastOpenFiles": [
-    "src/pt-br/Ciências/Psicologia/Psicologia analítica.md",
-    "Memória.md",
-    "Memória de longo prazo.md",
-    "src/pt-br/Ciências/Psicologia/Aprendizado.md",
-    "src/pt-br/Ciências/Psicologia/Psicologia.md",
-    "Arquétipos.md",
-    "Self.md",
-    "Complexo (Psicologia analítica).md",
-    "conflict-files-obsidian-git.md",
-    "src/pt-br/Xadrez/Abertura/Abertura Inglesa.md",
-    "src/pt-br/Xadrez/Abertura/Abertura Anderssen.md",
-    "Configurando o Live Reload.md",
-    "src/pt-br/Xadrez/Abertura/Defesa Nimzowitsch.md",
-    "/Configurando o Live Reload.md",
-    "/src/pt-br/Xadrez/Abertura/Van Geet.md",
-    "/src/pt-br/Xadrez/Abertura/Defesa Nimzowitsch.md",
-    "/src/pt-br/Xadrez/Abertura/Bird.md",
-    "src/pt-br/Xadrez/Aberturas de flanco.md",
-    "src/pt-br/Xadrez/Fianqueto.md",
-    "src/pt-br/Xadrez/Abertura/Aberturas irregulares.md",
-    "Gambito Englund.md",
-    "Abertura do Peão da Dama.md",
-    "/src/pt-br/Xadrez/Aberturas de flanco.md",
-    "/src/pt-br/Xadrez/Fianqueto.md",
-    "/src/pt-br/Xadrez/Aberturas de xadrez.md",
-    "/src/pt-br/Xadrez/Abertura/Gambito do rei.md",
+    "_draft/Spring.md",
+    "assets/Pasted Image 20240613173345_877.png",
+    "assets/Pasted Image 20240613172503_261.png",
+    "assets/Excalidraw/final_de_peao_5_fileira.excalidraw.md",
+    "assets/Excalidraw/final_de_peao_2_fileira.excalidraw.md",
+    "_draft/Sistema de controle de versões.md",
+    "_draft/HyperText Markup Language (HTML).md",
+    "index/Xadrez.md",
+    "index/Finais elementais.md",
+    "_draft/Vienna.md",
+    "index/Peças de xadrez.md",
+    "_insight/Linguagem de programação.md",
+    "_insight/Cross-Origin Resource Sharing (CORS).md",
+    "_draft/Oposição de Rei.md",
+    "_draft/Final de peão.md",
+    "_draft/Van Geet.md",
+    "_draft/Defesa Nimzowitsch.md",
+    "_draft/Bird.md",
+    "_draft/Anime.md",
+    "_templates/Anime.tpl.md",
+    "_draft/Markdown.md",
+    "_draft/Kuuchuu Buranko.md",
+    "index/Aberturas de flanco.md",
+    "_draft/Abertura do Peão da Dama.md",
+    "index/Aberturas irregulares.md",
+    "index/Aberturas de xadrez.md",
+    "_draft/Gambito do rei.md",
+    "_draft/Gambito Englund.md",
+    "/assets/Pasted Image 20240613173345_877.png",
+    "/assets/Pasted Image 20240613172503_261.png",
+    "src/2024/06/30",
+    "src/2024/06",
+    "src/2024",
+    "index",
+    "assets/Excalidraw",
+    "assets",
+    "_templates",
+    "_insight",
+    "_draft",
+    "_docs",
     "src/Assets/Pasted Image 20240613173345_877.png",
     "src/Assets/Pasted Image 20240613172503_261.png",
     "/src/Assets/Pasted Image 20240613173345_877.png",
     "/src/Assets/Pasted Image 20240613172503_261.png",
-    "src/templates",
-    "src/pt-br/Ciências/Ciências da computação/Protocolos/HTTP",
-    "src/pt-br/Ciências/Ciências da computação/Linguagens de programação",
-    "src/pt-br/Ciências/Ciências da computação/Linguagens de marcação",
-    "src/pt-br/Ciências/Ciências da computação/Protocolos",
-    "src/pt-br/Ciências/Ciências da computação/Sistemas operacionais",
-    "src/pt-br/Ciências/Ciências da computação/Framework",
-    "src/pt-br/Ciências/Ciências da computação",
-    "src/pt-br/Ciências/Psicologia",
-    "src/pt-br/Ferramentas/Anki",
     "Assets/Pasted Image 20240613173345_877.png",
     "Assets/Pasted Image 20240613172503_261.png"
   ]
