@@ -4,7 +4,6 @@ A lista a seguir vai seguir [Encyclopaedia of Chess Openings](Encyclopaedia%20of
 
 ## Lista de aberturas
 ---
-[Lista de referencia](1)
 ### A -  [Aberturas de flanco](Aberturas%20de%20flanco.md)
 ![Aberturas de flanco](Aberturas%20de%20flanco.md#^lista-de-aberturas-de-flanco)
  

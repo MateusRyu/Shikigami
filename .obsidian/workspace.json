@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "__daily/2024-06-28.md",
+                "file": "_draft/Abertura Inglesa.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "__daily/2024-06-28.md"
+                "file": "_draft/Abertura Inglesa.md"
               }
             }
           },
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "__daily/2024-06-28.md",
+                "file": "_draft/Abertura Inglesa.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "__daily/2024-06-28.md",
+                "file": "_draft/Abertura Inglesa.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,6 +179,11 @@
   },
   "active": "7f7a50159207c733",
   "lastOpenFiles": [
+    "index/Aberturas de flanco.md",
+    "index/Aberturas de xadrez.md",
+    "1.md",
+    "index/Xadrez.md",
+    "__daily/2024-06-28.md",
     "src/2024/06/30/2024-06-30-SSH.md",
     "__daily/Sem título.md",
     "src/2024/06/30/2024-06-30-Self.md",
@@ -187,7 +192,6 @@
     "_docs/README-pt_br.md",
     "index/Frameworks.md",
     "Sem título.canvas",
-    "__daily/2024-06-28.md",
     "202406301556.md",
     "_insight/atomic.md",
     "src/2024/06/30/2024-06-30-Android.md",
@@ -204,11 +208,7 @@
     "index/Aprendizado.md",
     "_insight/Linguagem de programação.md",
     "_draft/Java.md",
-    "_insight/Cross-Origin Resource Sharing (CORS).md",
     "_insight",
-    "src/2024/06/30/2024-06-30-Obsidian.md",
-    "src/2024/06/30/2024-06-30-Anki.md",
-    "src/2024/06/30/2024-06-30-Header_HTTP.md",
     "index",
     "src/2024/06",
     "src/2024",
