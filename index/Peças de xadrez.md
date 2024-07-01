@@ -1,8 +1,8 @@
 # Peças
 ---
--  [Rei](Rei.md);
+-  [Rei](_insight/Rei.md);
 - [Dama](Dama);
 - [Cavalo](Cavalo.md);
-- [Bispo](Bispo);
+- [Bispo](_insight/Bispo.md);
 - [Torre](Torre);
 - [Peão](Peão);
