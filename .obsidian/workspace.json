@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/2024/06/30/2024-06-30-Self.md",
+                "file": "src/2024/06/30/2024-06-30-SSH.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,7 +31,7 @@
       {
         "id": "c4bb36dfc64d123c",
         "type": "tabs",
-        "dimension": 53.142857142857146,
+        "dimension": 71.42857142857143,
         "children": [
           {
             "id": "d119f22fe88304d8",
@@ -71,7 +71,7 @@
       {
         "id": "b12c899f6d1d6f67",
         "type": "tabs",
-        "dimension": 46.85714285714286,
+        "dimension": 28.57142857142857,
         "children": [
           {
             "id": "be53e90a77b82a63",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "src/2024/06/30/2024-06-30-Self.md"
+                "file": "src/2024/06/30/2024-06-30-SSH.md"
               }
             }
           },
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "src/2024/06/30/2024-06-30-Self.md",
+                "file": "src/2024/06/30/2024-06-30-SSH.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "src/2024/06/30/2024-06-30-Self.md",
+                "file": "src/2024/06/30/2024-06-30-SSH.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,6 +179,7 @@
   },
   "active": "7f7a50159207c733",
   "lastOpenFiles": [
+    "src/2024/06/30/2024-06-30-Self.md",
     "README.md",
     "Sem título.md",
     "_docs",
@@ -191,7 +192,6 @@
     "src/2024/06/30/2024-06-30-Android.md",
     "src/2024/06/30/2024-06-30-Teste_de_recordação_ativa.md",
     "src/2024/06/30",
-    "src/2024/06/30/2024-06-30-Self.md",
     "_insight/Repetição espaçada.md",
     "_draft/Psicologia analítica.md",
     "_draft/Psicologia.md",
