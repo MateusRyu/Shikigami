@@ -174,8 +174,7 @@
       "command-palette:Abrir paleta de comandos": false,
       "mermaid-tools:Open Mermaid Toolbar": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "graph:Abrir visualização em gráfico": false,
-      "zk-prefixer:Criar nova nota única": false
+      "graph:Abrir visualização em gráfico": false
     }
   },
   "active": "7f7a50159207c733",
