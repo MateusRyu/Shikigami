@@ -1,8 +1,7 @@
 
 ## Lista de linhas documentados
 - (`A10`) `1.c4` (sem: `1...e5`, `1...c5`, `1...e6`, `1...c6`, `1...Nf6`, `1...g6 2.d4`, `1...f5 2.d4`, `1...b6 2.d4`, `1...d6 2.e4`, `1...d6 2.d4`, `1...Nc6 2.d4`);
--  (`A11`) [Abertura Inglesa](Abertura%20Inglesa.md), [Sistema defensivo Caro-Kann](Sistema%20defensivo%20Caro-Kann): `1.c4 c6` (sem: `2.e4`, `2.d4`) ;
-	-  (`A12`) [Abertura Inglesa](Abertura%20Inglesa.md), [Sistema defensivo Caro-Kann](Sistema%20defensivo%20Caro-Kann): `1.c4 c6 2.Nf3 d5 3.b3`;
+-  ![Abertura Inglesa_Sistema defensivo Caro-Kann](Abertura%20Inglesa_Sistema%20defensivo%20Caro-Kann.md#^lista-de-linhas)
 -  (`A13`) [Abertura Inglesa](Abertura%20Inglesa.md): `1.c4 e6` (sem: `2.e4`, `2.d4`);
 	-  (`A14`) [Abertura Inglesa](Abertura%20Inglesa.md), [Neo-Catalão recusado](Neo-Catalão%20recusado): `1.c4 e6 2.Nf3 d5 3.g3 Nf6 4.Bg2 Be7`;
 -  (`A15`) [Abertura Inglesa](Abertura%20Inglesa.md), [Defesa Anglo-Indiano](Defesa%20Anglo-Indiano): `1.c4 Nf6` (sem: `2.Nc3`, `2.d4`, `2.g3 c6`, `2.g3 e5`, `2.Nf3 c5`, `2.Nf3 e6`, `2.Nf3 c6`);
