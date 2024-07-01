@@ -11,12 +11,8 @@
             "id": "7f7a50159207c733",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_draft/Abertura Inglesa.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -86,9 +82,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "_draft/Abertura Inglesa.md"
-              }
+              "state": {}
             }
           },
           {
@@ -97,7 +91,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_draft/Abertura Inglesa.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +107,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_draft/Abertura Inglesa.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,11 +171,11 @@
   },
   "active": "7f7a50159207c733",
   "lastOpenFiles": [
-    "Caro-Kann.md",
+    "Abertura_A11__Inglesa_contra_Caro_Kann.md",
+    "_insight/Caro-Kann.md",
+    "_draft/Abertura Inglesa.md",
     "index/Frameworks.md",
     "__daily/Sem título.md",
-    "_draft/Abertura Inglesa.md",
-    "_insight/Caro-Kann.md",
     "index/Aberturas de flanco.md",
     "index/Aberturas de xadrez.md",
     "1.md",
@@ -207,7 +199,6 @@
     "_insight/Memória.md",
     "src/2024/06/30/2024-06-30-Complexo.md",
     "src/2024/06/30/2024-06-30-Arquétipos.md",
-    "src/2024/06/30/2024-06-30-Windows.md",
     "_insight",
     "index",
     "src/2024/06",
