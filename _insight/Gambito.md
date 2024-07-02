@@ -1,0 +1,1 @@
+Um gambito no [Xadrez](index/Xadrez.md) é uma jogada em que um jogador sacrifica uma peça com o objetivo de obter uma vantagem posicional ou de desenvolvimento. A ideia por trás do gambito é ceder material temporariamente para alcançar uma posição mais ativa, controlar o centro do tabuleiro, ou criar oportunidades de ataque contra o rei adversário.

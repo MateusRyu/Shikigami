@@ -11,12 +11,8 @@
             "id": "3fc3f81cfc979f20",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_insight/Gambito.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -86,9 +82,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "_insight/Gambito.md"
-              }
+              "state": {}
             }
           },
           {
@@ -97,7 +91,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_insight/Gambito.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +107,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_insight/Gambito.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,12 +172,13 @@
   "active": "3fc3f81cfc979f20",
   "lastOpenFiles": [
     "_draft/Abertura Inglesa.md",
+    "_draft/Abertura do Peão da Dama.md",
+    "_insight/Gambito.md",
     "_insight/Abertura Réti.md",
     "_insight/Caro-Kann.md",
     "_insight/Abertura_Inglesa_contra_Caro_Kann.md",
     "_draft/Final de peão.md",
     "_draft/Gambito Englund.md",
-    "_insight/Gambito.md",
     "_insight/Peão da torre.md",
     "_insight/Final de torres.md",
     "index.md",
@@ -206,7 +199,6 @@
     "_insight/Bispo.md",
     "_insight/Ataque Sódio.md",
     "_insight/Ataque Grob.md",
-    "_insight/Abertura Ware.md",
     "_docs",
     "Sem título.canvas",
     "src/2024/06/30",
