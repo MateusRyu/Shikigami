@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_templates/Anime.tpl.md",
+                "file": "_templates/Anime.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "__private/teste.md",
+                "file": "_templates/Anime.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,20 +87,65 @@
         "dimension": 47.42857142857143,
         "children": [
           {
-            "id": "be53e90a77b82a63",
+            "id": "047ea889dd786e2e",
             "type": "leaf",
             "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
-            "id": "9cb7546bf61a2df4",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
+              "type": "localgraph",
               "state": {
-                "file": "__private/teste.md"
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 2,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": false,
+                  "colorGroups": [
+                    {
+                      "query": "path:_draft  ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 14048348
+                      }
+                    },
+                    {
+                      "query": "path:_insight  ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 14069084
+                      }
+                    },
+                    {
+                      "query": "path:src  ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 11392604
+                      }
+                    },
+                    {
+                      "query": "path:index  ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 6084188
+                      }
+                    }
+                  ],
+                  "collapse-display": true,
+                  "showArrow": true,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.822916666666667,
+                  "repelStrength": 19.7916666666667,
+                  "linkStrength": 1,
+                  "linkDistance": 30,
+                  "scale": 0.2962962962962963,
+                  "close": true
+                }
               }
             }
           },
@@ -110,7 +155,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "__private/teste.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +171,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "__private/teste.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,9 +187,35 @@
     "type": "split",
     "children": [
       {
+        "id": "220eed555dd601e7",
+        "type": "tabs",
+        "dimension": 52.82258064516129,
+        "children": [
+          {
+            "id": "9cb7546bf61a2df4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Insight.md"
+              }
+            }
+          }
+        ]
+      },
+      {
         "id": "ba33b0496362c4d7",
         "type": "tabs",
+        "dimension": 47.17741935483871,
         "children": [
+          {
+            "id": "be53e90a77b82a63",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
           {
             "id": "dc61fb602cfdf8b2",
             "type": "leaf",
@@ -174,8 +243,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -190,9 +258,11 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "179c3cbadac2099c",
+  "active": "d119f22fe88304d8",
   "lastOpenFiles": [
-    "_templates/Anime.tpl.md",
+    "_templates/Anime.md",
+    "Insight.md",
+    "README.md",
     "__private/teste.md",
     "__private",
     "_draft/How to Take Smart Notes.md",
@@ -218,8 +288,6 @@
     "_draft/Abertura do Peão da Dama.md",
     "_insight/Abertura_Inglesa_contra_Caro_Kann.md",
     "_draft/Final de peão.md",
-    "_draft/Gambito Englund.md",
-    "_insight/Peão da torre.md",
     "src/2024/07/01",
     "src/2024/07",
     "_docs",
