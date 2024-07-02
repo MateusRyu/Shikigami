@@ -11,8 +11,12 @@
             "id": "3fc3f81cfc979f20",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Software.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -45,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "git",
+                "query": "tag:#tecnology",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -62,7 +66,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "b12c899f6d1d6f67",
@@ -82,7 +87,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Software.md"
+              }
             }
           },
           {
@@ -91,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Software.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Software.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,6 +180,9 @@
   },
   "active": "3fc3f81cfc979f20",
   "lastOpenFiles": [
+    "2024-07-02-Open_Source.md",
+    "Software.md",
+    "src/2024/06/30/2024-06-30-Linux.md",
     "index/Xadrez.md",
     "_draft/Abertura Inglesa.md",
     "_draft/Abertura do Peão da Dama.md",
@@ -196,9 +208,6 @@
     "_insight/Peão do cavalo.md",
     "_insight/Peão do bispo.md",
     "_insight/Peão do Rei.md",
-    "_insight/Peão da dama.md",
-    "_insight/Bispo.md",
-    "_insight/Ataque Sódio.md",
     "_docs",
     "Sem título.canvas",
     "src/2024/06/30",
