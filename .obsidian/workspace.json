@@ -11,8 +11,12 @@
             "id": "7f7a50159207c733",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "src/2024/06/30/2024-06-30-Git.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -45,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#to-do",
+                "query": "git",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -62,7 +66,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "b12c899f6d1d6f67",
@@ -82,7 +87,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "src/2024/06/30/2024-06-30-Git.md"
+              }
             }
           },
           {
@@ -91,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "src/2024/06/30/2024-06-30-Git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "src/2024/06/30/2024-06-30-Git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
