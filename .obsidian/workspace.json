@@ -11,8 +11,12 @@
             "id": "8af85f765409e8c2",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "_draft/How to Take Smart Notes.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -82,7 +86,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "_draft/How to Take Smart Notes.md"
+              }
             }
           },
           {
@@ -91,6 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "_draft/How to Take Smart Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,6 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "_draft/How to Take Smart Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
