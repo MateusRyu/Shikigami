@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "16b1e852a7c90020",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -66,8 +79,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "b12c899f6d1d6f67",
@@ -88,7 +100,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "src/2024/06/30/2024-06-30-Git.md"
+                "file": "index.md"
               }
             }
           },
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "src/2024/06/30/2024-06-30-Git.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "src/2024/06/30/2024-06-30-Git.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,8 +190,10 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "7f7a50159207c733",
+  "active": "16b1e852a7c90020",
   "lastOpenFiles": [
+    "src/2024/06/30/2024-06-30-Git.md",
+    "index.md",
     "src/2024/07/01/2024-07-01-Gambito.md",
     "src/2024/07/01/2024-07-01-Fianqueto.md",
     "src/2024/07/01",
@@ -206,8 +220,6 @@
     "_insight/Abertura Mieses.md",
     "_insight/Abertura Desprez.md",
     "_insight/Abertura Clemenz.md",
-    "_insight/Abertura Benko.md",
-    "_insight/Abertura Barnes.md",
     "_docs",
     "Sem título.canvas",
     "src/2024/06/30",
