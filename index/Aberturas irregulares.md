@@ -1,3 +1,7 @@
+# Aberturas irregulares
+#v0 #chess 
+
+---
 São um grupo de aberturas de [xadrez](index/Xadrez.md) raramente adotadas, pois quando comparadas com as aberturas mais usuais, apresentam os seguintes problemas: resultam para as Brancas posições passivas ou fracas (como desenvolvimento do cavalo para uma casa inferior), sem desenvolvimento do controle do centro.
 
 - Posições passivas: 1.d3, 1.c3, ou 1.e3;

@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "2dafff8caf1db83d",
+    "id": "0592bd7c18ccc6ef",
     "type": "split",
     "children": [
       {
-        "id": "6fad6327dd649431",
+        "id": "35fdb142929a04dd",
         "type": "tabs",
         "children": [
           {
-            "id": "ce852f0937acda09",
+            "id": "a1c54231a0ae8fd9",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -21,11 +21,11 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "8c22c8dc45ff937b",
+    "id": "cca5761123d30cff",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "97f478947b4fe416",
+        "id": "f165a79bff7dbb33",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
@@ -35,12 +35,12 @@
         }
       },
       {
-        "id": "7f823a58ededa200",
+        "id": "45eb32f0ea0f85f1",
         "type": "leaf",
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "tag:#v0",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -50,7 +50,7 @@
         }
       },
       {
-        "id": "51ae22a40986617b",
+        "id": "331c4eeff99676c7",
         "type": "leaf",
         "state": {
           "type": "tag",
@@ -61,7 +61,7 @@
         }
       },
       {
-        "id": "8792c1e4e75fb6fd",
+        "id": "519d447b58cb1744",
         "type": "leaf",
         "state": {
           "type": "bookmarks",
@@ -69,7 +69,7 @@
         }
       },
       {
-        "id": "bf41ce809e34185c",
+        "id": "da42983a11b3ecce",
         "type": "leaf",
         "state": {
           "type": "all-properties",
@@ -81,14 +81,14 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 1
   },
   "right": {
-    "id": "e53a10136cebfdea",
+    "id": "4e4d8b63cee03e82",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "0bcc2cf94a9e0921",
+        "id": "e791a60648a491e6",
         "type": "leaf",
         "state": {
           "type": "backlink",
@@ -104,7 +104,7 @@
         }
       },
       {
-        "id": "52e182e3e089b302",
+        "id": "1e3824d8e8db6c79",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
@@ -115,7 +115,7 @@
         }
       },
       {
-        "id": "264187b03319d3a6",
+        "id": "d18b5dfb5d150af6",
         "type": "leaf",
         "state": {
           "type": "outline",
@@ -123,7 +123,7 @@
         }
       },
       {
-        "id": "e90a77e8c38c4633",
+        "id": "bed2bafcc89b22bf",
         "type": "leaf",
         "state": {
           "type": "calendar",
@@ -135,9 +135,9 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "mermaid-tools:Open Mermaid Toolbar": false,
       "random-note:Open random note": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -146,53 +146,45 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ce852f0937acda09",
+  "active": "a1c54231a0ae8fd9",
   "lastOpenFiles": [
-    "_draft/Spring.md",
+    "index/Aberturas irregulares.md",
+    "_insight/Peão do Rei.md",
+    "src/2024/07/02/2024-07-02-Software.md",
+    "src/2024/07/02/2024-07-02-Open_Source.md",
+    "src/2024/07/02/2024-07-02-Lichess.md",
+    "src/2024/07/02/2024-07-02-Hardware.md",
+    "src/2024/07/02/2024-07-02-Código_fonte.md",
+    "src/2024/07/01/2024-07-01-Gambito.md",
+    "src/2024/07/01/2024-07-01-Fianqueto.md",
+    "src/2024/06/30/2024-06-30-Windows.md",
+    "src/2024/06/30/2024-06-30-Teste_de_recordação_ativa.md",
+    "src/2024/06/30/2024-06-30-Sistema_Operacional.md",
+    "src/2024/06/30/2024-06-30-Shikigami.md",
+    "src/2024/06/30/2024-06-30-Self.md",
+    "src/2024/06/30/2024-06-30-SSH.md",
+    "src/2024/06/30/2024-06-30-Obsidian.md",
+    "src/2024/06/30/2024-06-30-Linux.md",
+    "src/2024/06/30/2024-06-30-Header_HTTP.md",
+    "src/2024/06/30/2024-06-30-Github.md",
+    "src/2024/06/30/2024-06-30-Git.md",
+    "src/2024/06/30/2024-06-30-Distro_Linux.md",
+    "src/2024/06/30/2024-06-30-Criptografia.md",
+    "src/2024/06/30/2024-06-30-Complexo.md",
+    "src/2024/06/30/2024-06-30-Arquétipos.md",
+    "src/2024/06/30/2024-06-30-Arch_Linux.md",
+    "src/2024/06/30/2024-06-30-Anki.md",
     "assets/Pasted Image 20240613173345_877.png",
     "assets/Pasted Image 20240613172503_261.png",
-    "assets/Excalidraw/final_de_peao_5_fileira.excalidraw.md",
-    "assets/Excalidraw/final_de_peao_2_fileira.excalidraw.md",
-    "_draft/Sistema de controle de versões.md",
-    "_draft/HyperText Markup Language (HTML).md",
-    "index/Xadrez.md",
-    "index/Finais elementais.md",
-    "_draft/Vienna.md",
-    "index/Peças de xadrez.md",
-    "_insight/Linguagem de programação.md",
-    "_insight/Cross-Origin Resource Sharing (CORS).md",
-    "_draft/Oposição de Rei.md",
-    "_draft/Final de peão.md",
-    "_draft/Van Geet.md",
-    "_draft/Defesa Nimzowitsch.md",
-    "_draft/Bird.md",
-    "_draft/Anime.md",
-    "_templates/Anime.tpl.md",
-    "_draft/Markdown.md",
-    "_draft/Kuuchuu Buranko.md",
-    "index/Aberturas de flanco.md",
-    "_draft/Abertura do Peão da Dama.md",
-    "index/Aberturas irregulares.md",
-    "index/Aberturas de xadrez.md",
-    "_draft/Gambito do rei.md",
-    "_draft/Gambito Englund.md",
-    "/assets/Pasted Image 20240613173345_877.png",
-    "/assets/Pasted Image 20240613172503_261.png",
+    "src/2024/07/01",
+    "src/2024/07/02",
     "src/2024/06/30",
+    "src/2024/07",
     "src/2024/06",
     "src/2024",
+    "src",
     "index",
     "assets/Excalidraw",
-    "assets",
-    "_templates",
-    "_insight",
-    "_draft",
-    "_docs",
-    "src/Assets/Pasted Image 20240613173345_877.png",
-    "src/Assets/Pasted Image 20240613172503_261.png",
-    "/src/Assets/Pasted Image 20240613173345_877.png",
-    "/src/Assets/Pasted Image 20240613172503_261.png",
-    "Assets/Pasted Image 20240613173345_877.png",
-    "Assets/Pasted Image 20240613172503_261.png"
+    "assets"
   ]
 }
