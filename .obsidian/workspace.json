@@ -11,8 +11,12 @@
             "id": "8af85f765409e8c2",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "_insight/Caro-Kann.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -82,7 +86,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "_insight/Caro-Kann.md"
+              }
             }
           },
           {
@@ -91,6 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "_insight/Caro-Kann.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,6 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "_insight/Caro-Kann.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,6 +179,9 @@
   },
   "active": "8af85f765409e8c2",
   "lastOpenFiles": [
+    "_insight/Cavalo.md",
+    "_insight/Peão do cavalo.md",
+    "_draft/Abertura Inglesa.md",
     "_insight/Peões.md",
     "_insight/Gambito.md",
     "_insight/Peão da dama.md",
@@ -185,7 +196,6 @@
     "src/2024/07/02",
     "src/2024/07/02/2024-07-02-Hardware.md",
     "src/2024/06/30/2024-06-30-Linux.md",
-    "_draft/Abertura Inglesa.md",
     "_draft/Abertura do Peão da Dama.md",
     "_insight/Caro-Kann.md",
     "_insight/Abertura_Inglesa_contra_Caro_Kann.md",
@@ -196,10 +206,8 @@
     "index.md",
     "src/2024/06/30/2024-06-30-Git.md",
     "src/2024/07/01/2024-07-01-Gambito.md",
-    "src/2024/07/01/2024-07-01-Fianqueto.md",
     "src/2024/07/01",
     "src/2024/07",
-    "_insight/Torre.md",
     "_docs",
     "Sem título.canvas",
     "src/2024/06/30",
