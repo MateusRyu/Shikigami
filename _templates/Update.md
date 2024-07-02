@@ -1,0 +1,3 @@
+---
+updated at: "{{date}} {{time}}"
+---
