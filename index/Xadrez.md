@@ -1,4 +1,7 @@
-[Aprendizado](Aprendizado.md)
+#v0
+
+# Xadrez
+---
 
 ![Peças de xadrez](Peças%20de%20xadrez.md)
 
