@@ -1,0 +1,1 @@
+Peça do jogo de [xadrez](index/Xadrez.md).

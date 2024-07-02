@@ -18,7 +18,7 @@
 -  (`A26`) [Abertura Inglesa, Sistema fechada](Abertura%20Inglesa.md#Sistema%20Fechada): `1.c4 e5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.d3 d6`;
 -  (`A27`) [Abertura Inglesa](Abertura%20Inglesa.md), [Sistema dos Três Cavalos](Sistema%20dos%20Três%20Cavalos): `1.c4 e5 2.Nc3 Nc6 3.Nf3` (sem: `3...Nf6`);
 -  (`A28`) [Abertura Inglesa](Abertura%20Inglesa.md), [Sistema dos Quatro Cavalos](Sistema%20dos%20Quatro%20Cavalos): `1.c4 e5 2.Nc3 Nc6 3.Nf3 Nf6` (sem: `4.g3`);
--  (`A29`) [Abertura Inglesa](Abertura%20Inglesa.md), [Sistema dos Quatro Cavalos](Sistema%20dos%20Quatro%20Cavalos), [Fianqueto da ala do Rei](Fianqueto.md#Fianqueto%20da%20ala%20do%20Rei): `1.c4 e5 2.Nc3 Nc6 3.Nf3 Nf6 4.g3`);
+-  (`A29`) [Abertura Inglesa](Abertura%20Inglesa.md), [Sistema dos Quatro Cavalos](Sistema%20dos%20Quatro%20Cavalos), [Fianqueto da ala do Rei](src/2024/07/01/2024-07-01-Fianqueto.md#Fianqueto%20da%20ala%20do%20Rei): `1.c4 e5 2.Nc3 Nc6 3.Nf3 Nf6 4.g3`);
 -  (`A30`) [Abertura Inglesa](Abertura%20Inglesa.md), [Defesa Simétrica](Defesa%20Simétrica): `1.c4 c5` (sem: `2.Nc3`, `2.e4`, `2.g3 g6 3.Nc3`, `2.g3 Nc6 3.Nc3`, `2.Nf3 Nc6 3.Nc3`, `2.e3 Nf6 3.d4`);
 -  (`A31`) [Abertura Inglesa](Abertura%20Inglesa.md), [Defesa Simétrica](Defesa%20Simétrica), formação [Benoni](Benoni): `1.c4 c5 2.Nf3 Nf6 3.d4` (sem: `3...cxd4 4.Nxd4 e6`, `3...cxd4 4.Nxd4 a6 5.Nc3 e6`, `3...cxd4 4.Nxd4 Nc6 5.Nc3 e6`);
 -  (`A32`) [Abertura Inglesa](Abertura%20Inglesa.md), [Defesa Simétrica](Defesa%20Simétrica): `1.c4 c5 2.Nf3 Nf6 3.d4 cxd4 4.Nxd4 e6` (sem: `5.Nc3 Nc6`);

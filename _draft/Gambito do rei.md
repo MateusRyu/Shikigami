@@ -1,4 +1,1 @@
----
-draft: true
----
-[Gambito](Gambito);
+É uma das [Aberturas de xadrez](index/Aberturas%20de%20xadrez.md) que começa com [Peão do Rei](_insight/Peão%20do%20Rei.md) e depois [Gambita](src/2024/07/01/2024-07-01-Gambito.md) o [Peão do bispo](_insight/Peão%20do%20bispo.md) do rei. Ela foi uma das aberturas mais populares na história do [xadrez](index/Xadrez.md), durante o período romântico.

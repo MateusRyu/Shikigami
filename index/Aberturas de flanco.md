@@ -1,3 +1,5 @@
+[Xadrez](index/Xadrez.md)
+
 ## Lista
 -  (`A00`–`A39`) Primeiro lance das brancas que são diferente de `1.e4` e `1.d4`.
 	-  (`A00`) [Aberturas irregulares](Aberturas%20irregulares.md): ![Aberturas irregulares](Aberturas%20irregulares.md#^lista-de-aberturas-irregulares)

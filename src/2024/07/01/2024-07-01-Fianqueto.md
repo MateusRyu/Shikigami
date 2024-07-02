@@ -1,3 +1,5 @@
+# Fianqueto
+---
 O fianqueto é uma estratégia de desenvolvimento no [Xadrez](index/Xadrez.md), onde um jogador desenvolve um [bispo](_insight/Bispo.md) na segunda fileira (ou sétima fileira, se estiver jogando com as pretas) na diagonal longa, geralmente com os movimentos `g3` e `Bg2` (ou `g6` e `Bg7` para as pretas). Esse desenvolvimento é frequentemente suportado pelo movimento do [peão do cavalo](_insight/Peão%20do%20cavalo.md) (`b` ou `g`) para a terceira fileira (ou sexta fileira para as pretas).
 
 Há várias razões para usar um fianqueto:
