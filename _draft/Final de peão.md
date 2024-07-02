@@ -1,4 +1,4 @@
-Nos finais de peões, o rei precisa guiar e proteger o peão até a casa de promoção. A estratégia principal varia de acordo de qual peão será promovida e de onde o peão está. Entretanto, sempre será importante aplicar a [Oposição de Rei](Oposição%20de%20Rei.md) para controlaras as casa-chaves.
+Nos de peões do [xadrez](index/Xadrez.md), o rei precisa guiar e proteger o peão até a casa de promoção. A estratégia principal varia de acordo de qual peão será promovida e de onde o peão está. Entretanto, sempre será importante aplicar a [Oposição de Rei](Oposição%20de%20Rei.md) para controlaras as casa-chaves.
 
 # Segunda à quarta fileira
 Proteger as casas à duas casas de distancia do peão para frente e as suas duas casas vizinhas.

@@ -5,7 +5,7 @@ São um grupo de aberturas de [xadrez](index/Xadrez.md) raramente adotadas, pois
 - Posições fracas: 1.f3 ou 1.g4;
 - Cavalo em casa inferior: 1.Ch3 ou 1.Ca3.
 ## Lista
-- [[Abertura Anderssen]]: `1.a3`;
+- [[_insight/Abertura Anderssen]]: `1.a3`;
 - [Abertura Ware](_insight/Abertura%20Ware.md): `1.a4`;
 - [Ataque Sódio](_insight/Ataque%20Sódio.md): `1.Na3`;
 - [Abertura Sokolsky](_insight/Abertura%20Sokolsky.md): `1.b4`;
