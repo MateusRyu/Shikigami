@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "22f4c3dfc0234456",
+        "id": "3337bf8a140fd5f0",
         "type": "tabs",
         "children": [
           {
-            "id": "56c912d5a641c7ae",
+            "id": "157f095f5b4c3a2e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "__private/teste.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f9c6e0727fd8535a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_layouts/Insight.md",
+                "file": "_layouts/Update.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#tecnology",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -91,7 +79,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "__private/teste.md"
+                "file": "_layouts/Update.md"
               }
             }
           },
@@ -101,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "__private/teste.md",
+                "file": "_layouts/Update.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "__private/teste.md",
+                "file": "_layouts/Update.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +133,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "__private/teste.md",
+                "file": "_layouts/Update.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -197,7 +185,7 @@
                   "repelStrength": 19.7916666666667,
                   "linkStrength": 1,
                   "linkDistance": 30,
-                  "scale": 0.2962962962962963,
+                  "scale": 0.1316872427983539,
                   "close": true
                 }
               }
@@ -234,14 +222,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "graph:Abrir visualização em gráfico": false,
       "command-palette:Abrir paleta de comandos": false,
-      "templates:Inserir modelo": false
+      "templates:Inserir modelo": false,
+      "workspaces:Gerenciar leiautes da área de trabalho": false
     }
   },
-  "active": "d119f22fe88304d8",
+  "active": "157f095f5b4c3a2e",
   "lastOpenFiles": [
-    "_layouts/Update.md",
+    "index/Xadrez.md",
     "_layouts/Insight.md",
     "__private/teste.md",
+    "_layouts/Update.md",
     "Insight.md",
     "_layouts/Anime.md",
     "README.md",
@@ -256,7 +246,6 @@
     "_insight/Gambito.md",
     "_insight/Peão da dama.md",
     "_insight/Abertura Réti.md",
-    "index/Xadrez.md",
     "_insight/Peão do bispo.md",
     "_insight/Abertura Mieses.md",
     "src/2024/07/02/2024-07-02-Lichess.md",
