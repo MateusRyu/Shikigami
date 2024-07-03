@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_layouts/Insight.md",
+                "file": "_layouts/Update.md",
                 "mode": "source",
                 "source": false
               }
@@ -241,10 +241,10 @@
   },
   "active": "f42a608d6d8c6ef9",
   "lastOpenFiles": [
-    "_layouts/Insight.md",
     "_layouts/Update.md",
-    "index/Xadrez.md",
+    "_layouts/Insight.md",
     "__private/teste.md",
+    "index/Xadrez.md",
     "Insight.md",
     "_layouts/Anime.md",
     "README.md",
