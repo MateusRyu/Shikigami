@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e7c5512c597c5d61",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "src/2024/06/30/2024-06-30-Obsidian.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "f42a608d6d8c6ef9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dashboard.md",
+                "file": "src/2024/07/02/2024-07-02-Hardware.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -92,7 +79,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dashboard.md"
+                "file": "src/2024/07/02/2024-07-02-Hardware.md"
               }
             }
           },
@@ -102,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dashboard.md",
+                "file": "src/2024/07/02/2024-07-02-Hardware.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dashboard.md",
+                "file": "src/2024/07/02/2024-07-02-Hardware.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +133,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Dashboard.md",
+                "file": "src/2024/07/02/2024-07-02-Hardware.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -241,12 +228,13 @@
   },
   "active": "f42a608d6d8c6ef9",
   "lastOpenFiles": [
-    "src/2024/06/30/2024-06-30-Obsidian.md",
-    "Dashboard.md",
-    "__private/teste.md",
-    "_insight/Desperado.md",
+    "src/2024/07/02/2024-07-02-Lichess.md",
     "src/2024/07/02/2024-07-02-Open_Source.md",
     "src/2024/07/02/2024-07-02-Software.md",
+    "Dashboard.md",
+    "src/2024/06/30/2024-06-30-Obsidian.md",
+    "__private/teste.md",
+    "_insight/Desperado.md",
     "_layouts/Insight.md",
     "_layouts/Update.md",
     "index/Xadrez.md",
@@ -266,7 +254,6 @@
     "_insight/Abertura Réti.md",
     "_insight/Peão do bispo.md",
     "_insight/Abertura Mieses.md",
-    "src/2024/07/02/2024-07-02-Lichess.md",
     "src/2024/07/02/2024-07-02-Código_fonte.md",
     "src/2024/07/02",
     "src/2024/07/01",
