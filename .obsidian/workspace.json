@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_layouts/Update.md",
+                "file": "_layouts/Insight.md",
                 "mode": "source",
                 "source": false
               }
@@ -79,7 +79,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_layouts/Update.md"
+                "file": "_layouts/Insight.md"
               }
             }
           },
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_layouts/Update.md",
+                "file": "_layouts/Insight.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_layouts/Update.md",
+                "file": "_layouts/Insight.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "_layouts/Update.md",
+                "file": "_layouts/Insight.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -228,10 +228,10 @@
   },
   "active": "157f095f5b4c3a2e",
   "lastOpenFiles": [
+    "_layouts/Update.md",
     "index/Xadrez.md",
     "_layouts/Insight.md",
     "__private/teste.md",
-    "_layouts/Update.md",
     "Insight.md",
     "_layouts/Anime.md",
     "README.md",
