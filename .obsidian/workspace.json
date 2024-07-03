@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_layouts/Update.md",
+                "file": "_layouts/Insight.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -92,7 +91,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "__private/teste.md"
+                "file": "_layouts/Insight.md"
               }
             }
           },
@@ -102,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "__private/teste.md",
+                "file": "_layouts/Insight.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "__private/teste.md",
+                "file": "_layouts/Insight.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +145,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "__private/teste.md",
+                "file": "_layouts/Insight.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -239,11 +238,11 @@
       "workspaces:Gerenciar leiautes da área de trabalho": false
     }
   },
-  "active": "f42a608d6d8c6ef9",
+  "active": "157f095f5b4c3a2e",
   "lastOpenFiles": [
     "_layouts/Update.md",
-    "_layouts/Insight.md",
     "__private/teste.md",
+    "_layouts/Insight.md",
     "index/Xadrez.md",
     "Insight.md",
     "_layouts/Anime.md",
