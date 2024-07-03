@@ -8,5 +8,6 @@ tags:
 # Dashboard
 ----
 
-```
+```query
+tag: v0
 ```

@@ -8,36 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "157f095f5b4c3a2e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "src/2024/07/02/2024-07-02-Open_Source.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a31bf353f4f8bde1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_insight/Desperado.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "e7c5512c597c5d61",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dashboard.md",
+                "file": "src/2024/06/30/2024-06-30-Obsidian.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,14 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "__private/teste.md",
+                "file": "Dashboard.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -263,15 +239,16 @@
       "workspaces:Gerenciar leiautes da área de trabalho": false
     }
   },
-  "active": "e7c5512c597c5d61",
+  "active": "f42a608d6d8c6ef9",
   "lastOpenFiles": [
-    "_insight/Desperado.md",
+    "src/2024/06/30/2024-06-30-Obsidian.md",
     "Dashboard.md",
+    "__private/teste.md",
+    "_insight/Desperado.md",
     "src/2024/07/02/2024-07-02-Open_Source.md",
     "src/2024/07/02/2024-07-02-Software.md",
     "_layouts/Insight.md",
     "_layouts/Update.md",
-    "__private/teste.md",
     "index/Xadrez.md",
     "Insight.md",
     "_layouts/Anime.md",
@@ -292,7 +269,6 @@
     "src/2024/07/02/2024-07-02-Lichess.md",
     "src/2024/07/02/2024-07-02-Código_fonte.md",
     "src/2024/07/02",
-    "src/2024/07/02/2024-07-02-Hardware.md",
     "src/2024/07/01",
     "src/2024/07",
     "_docs",
