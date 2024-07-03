@@ -38,7 +38,7 @@ Translated versions:
 
 ### Templates
 ___
-- [Anime](_templates/Anime.md) to document animes (without personal opinion like score);
+- [Anime](_layouts/Anime.md) to document animes (without personal opinion like score);
 
 ## License
 ---

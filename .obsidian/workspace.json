@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_templates/Insight.md",
+                "file": "_layouts/Insight.md",
                 "mode": "source",
                 "source": false
               }
@@ -217,29 +217,6 @@
               "type": "calendar",
               "state": {}
             }
-          },
-          {
-            "id": "dc61fb602cfdf8b2",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "0700a07c57cc067c",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
-              }
-            }
           }
         ]
       }
@@ -260,13 +237,13 @@
       "templates:Inserir modelo": false
     }
   },
-  "active": "56c912d5a641c7ae",
+  "active": "d119f22fe88304d8",
   "lastOpenFiles": [
-    "_templates/Update.md",
-    "_templates/Insight.md",
+    "_layouts/Update.md",
+    "_layouts/Insight.md",
     "__private/teste.md",
     "Insight.md",
-    "_templates/Anime.md",
+    "_layouts/Anime.md",
     "README.md",
     "__private",
     "_draft/How to Take Smart Notes.md",
