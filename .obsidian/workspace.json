@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_layouts/Insight.md",
+                "file": "src/2024/07/02/2024-07-02-Open_Source.md",
                 "mode": "source",
                 "source": false
               }
@@ -91,7 +91,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_layouts/Insight.md"
+                "file": "src/2024/07/02/2024-07-02-Open_Source.md"
               }
             }
           },
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_layouts/Insight.md",
+                "file": "src/2024/07/02/2024-07-02-Open_Source.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_layouts/Insight.md",
+                "file": "src/2024/07/02/2024-07-02-Open_Source.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "_layouts/Insight.md",
+                "file": "src/2024/07/02/2024-07-02-Open_Source.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -240,9 +240,10 @@
   },
   "active": "157f095f5b4c3a2e",
   "lastOpenFiles": [
+    "src/2024/07/02/2024-07-02-Software.md",
+    "_layouts/Insight.md",
     "_layouts/Update.md",
     "__private/teste.md",
-    "_layouts/Insight.md",
     "index/Xadrez.md",
     "Insight.md",
     "_layouts/Anime.md",
@@ -263,7 +264,6 @@
     "src/2024/07/02/2024-07-02-Lichess.md",
     "src/2024/07/02/2024-07-02-Open_Source.md",
     "src/2024/07/02/2024-07-02-Código_fonte.md",
-    "src/2024/07/02/2024-07-02-Software.md",
     "src/2024/07/02",
     "src/2024/07/02/2024-07-02-Hardware.md",
     "src/2024/06/30/2024-06-30-Linux.md",
