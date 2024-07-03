@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f42a608d6d8c6ef9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "__private/teste.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -79,7 +92,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_layouts/Insight.md"
+                "file": "__private/teste.md"
               }
             }
           },
@@ -89,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_layouts/Insight.md",
+                "file": "__private/teste.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_layouts/Insight.md",
+                "file": "__private/teste.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "_layouts/Insight.md",
+                "file": "__private/teste.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -226,11 +239,11 @@
       "workspaces:Gerenciar leiautes da área de trabalho": false
     }
   },
-  "active": "157f095f5b4c3a2e",
+  "active": "f42a608d6d8c6ef9",
   "lastOpenFiles": [
+    "_layouts/Insight.md",
     "_layouts/Update.md",
     "index/Xadrez.md",
-    "_layouts/Insight.md",
     "__private/teste.md",
     "Insight.md",
     "_layouts/Anime.md",
