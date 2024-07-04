@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_templates/Insight.md",
+                "file": "_insight/2024-07-03-Abertura_Amar.md",
                 "mode": "source",
                 "source": false
               }
@@ -79,7 +79,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_templates/Insight.md"
+                "file": "_insight/2024-07-03-Abertura_Amar.md"
               }
             }
           },
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_templates/Insight.md",
+                "file": "_insight/2024-07-03-Abertura_Amar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_templates/Insight.md",
+                "file": "_insight/2024-07-03-Abertura_Amar.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "_templates/Insight.md",
+                "file": "_insight/2024-07-03-Abertura_Amar.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -227,7 +227,8 @@
   },
   "active": "f42a608d6d8c6ef9",
   "lastOpenFiles": [
-    "_insight/Abertura Amar.md",
+    "_templates/Insight.md",
+    "_insight/2024-07-03-Abertura_Amar.md",
     "_templates/Anime.md",
     "index/Xadrez.md",
     "_templates",
@@ -239,7 +240,6 @@
     "src/2024/06/30/2024-06-30-Obsidian.md",
     "__private/teste.md",
     "_insight/Desperado.md",
-    "_templates/Insight.md",
     "_templates/Update.md",
     "Insight.md",
     "README.md",

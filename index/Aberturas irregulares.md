@@ -22,6 +22,6 @@ São um grupo de aberturas de [xadrez](index/Xadrez.md) raramente adotadas, pois
 - [Ataque Grob](_insight/Ataque%20Grob.md): `1.g4`;
 - [Abertura Clemenz](_insight/Abertura%20Clemenz.md): `1.h3`;
 - [Abertura Desprez](_insight/Abertura%20Desprez.md): `1.h4`;
-- [Abertura Amar](_insight/Abertura%20Amar.md): `1.Nh3`;
+- [2024-07-03-Abertura_Amar](_insight/2024-07-03-Abertura_Amar.md): `1.Nh3`;
 
 ^lista-de-aberturas-irregulares

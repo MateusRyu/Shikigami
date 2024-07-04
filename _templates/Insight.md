@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "{{title}}"
-created_at: "{{date}}T{{time}}-03:00"
+created_at: "{{date}}T{{time:HH:mm:ssZ}}"
 tags:
   - v0
 ---
