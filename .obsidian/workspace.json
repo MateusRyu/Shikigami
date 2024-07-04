@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/2024/07/02/2024-07-02-Hardware.md",
+                "file": "index/Xadrez.md",
                 "mode": "source",
                 "source": false
               }
@@ -79,7 +79,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "src/2024/07/02/2024-07-02-Hardware.md"
+                "file": "index/Xadrez.md"
               }
             }
           },
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "src/2024/07/02/2024-07-02-Hardware.md",
+                "file": "index/Xadrez.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "src/2024/07/02/2024-07-02-Hardware.md",
+                "file": "index/Xadrez.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "src/2024/07/02/2024-07-02-Hardware.md",
+                "file": "index/Xadrez.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -227,6 +227,7 @@
   },
   "active": "f42a608d6d8c6ef9",
   "lastOpenFiles": [
+    "src/2024/07/02/2024-07-02-Hardware.md",
     "src/2024/07/02/2024-07-02-Lichess.md",
     "src/2024/07/02/2024-07-02-Open_Source.md",
     "src/2024/07/02/2024-07-02-Software.md",
@@ -253,7 +254,6 @@
     "_insight/Abertura Réti.md",
     "_insight/Peão do bispo.md",
     "_insight/Abertura Mieses.md",
-    "src/2024/07/02/2024-07-02-Código_fonte.md",
     "src/2024/07/02",
     "src/2024/07/01",
     "src/2024/07",
