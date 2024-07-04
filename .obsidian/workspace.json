@@ -222,8 +222,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "graph:Abrir visualização em gráfico": false,
       "command-palette:Abrir paleta de comandos": false,
-      "templates:Inserir modelo": false,
-      "workspaces:Gerenciar leiautes da área de trabalho": false
+      "templates:Inserir modelo": false
     }
   },
   "active": "f42a608d6d8c6ef9",
