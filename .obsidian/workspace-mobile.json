@@ -11,8 +11,12 @@
             "id": "74c274a4860d179a",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "autodisciplina.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "autodisciplina.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "autodisciplina.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -107,7 +113,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "autodisciplina.md"
+          }
         }
       },
       {
@@ -136,32 +144,34 @@
   },
   "active": "74c274a4860d179a",
   "lastOpenFiles": [
-    "_draft/How to Take Smart Notes.md",
-    "src/2024/07/02/2024-07-02-Software.md",
-    "src/2024/07/02/2024-07-02-Open_Source.md",
-    "src/2024/07/02/2024-07-02-Lichess.md",
-    "src/2024/07/02/2024-07-02-Hardware.md",
-    "src/2024/07/02/2024-07-02-Código_fonte.md",
-    "src/2024/07/01/2024-07-01-Gambito.md",
-    "src/2024/07/01/2024-07-01-Fianqueto.md",
-    "src/2024/06/30/2024-06-30-Windows.md",
-    "src/2024/06/30/2024-06-30-Teste_de_recordação_ativa.md",
-    "src/2024/06/30/2024-06-30-Sistema_Operacional.md",
-    "src/2024/06/30/2024-06-30-Shikigami.md",
-    "src/2024/06/30/2024-06-30-Self.md",
-    "src/2024/06/30/2024-06-30-SSH.md",
-    "src/2024/06/30/2024-06-30-Obsidian.md",
-    "src/2024/06/30/2024-06-30-Linux.md",
-    "src/2024/06/30/2024-06-30-Header_HTTP.md",
-    "src/2024/06/30/2024-06-30-Github.md",
-    "src/2024/06/30/2024-06-30-Git.md",
-    "src/2024/06/30/2024-06-30-Distro_Linux.md",
-    "src/2024/06/30/2024-06-30-Criptografia.md",
-    "src/2024/06/30/2024-06-30-Complexo.md",
-    "src/2024/06/30/2024-06-30-Arquétipos.md",
-    "src/2024/06/30/2024-06-30-Arch_Linux.md",
-    "src/2024/06/30/2024-06-30-Anki.md",
-    "src/2024/06/30/2024-06-30-Android.md",
+    "_insight/2024-07-03-Abertura_Vant_Kruijs.md",
+    "_insight/2024-07-03-Abertura_Saragoca.md",
+    "_insight/2024-07-03-Abertura_Mieses.md",
+    "_insight/2024-07-03-Abertura_Benko.md",
+    "_insight/2024-07-03-Abertura_Barnes.md",
+    "_insight/2024-07-03-Abertura_Sokolsky.md",
+    "_insight/2024-07-03-Abertura_Desprez.md",
+    "_insight/2024-07-03-Abertura_Anderssen.md",
+    "_insight/2024-07-03-Abertura_Amar.md",
+    "_templates/Update.md",
+    "_templates/Insight.md",
+    "_templates/Anime.md",
+    "_insight/2024-07-03-Abertura_Reti.md",
+    "_insight/2024-07-03-Abertura_Clemenz.md",
+    "/_insight/2024-07-03-Abertura_Vant_Kruijs.md",
+    "/_insight/2024-07-03-Abertura_Saragoca.md",
+    "/_insight/2024-07-03-Abertura_Mieses.md",
+    "/_insight/2024-07-03-Abertura_Benko.md",
+    "/_insight/2024-07-03-Abertura_Barnes.md",
+    "/index/Aberturas irregulares.md",
+    "/_insight/2024-07-03-Abertura_Sokolsky.md",
+    "/_insight/2024-07-03-Abertura_Desprez.md",
+    "/_insight/2024-07-03-Abertura_Anderssen.md",
+    "/_insight/2024-07-03-Abertura_Amar.md",
+    "/src/2024/07/02/2024-07-02-Hardware.md",
+    "/index/Aberturas de flanco.md",
+    "_templates",
+    "/_templates",
     "assets/Pasted Image 20240613173345_877.png",
     "assets/Pasted Image 20240613172503_261.png",
     "src/2024/06/30",
@@ -171,8 +181,6 @@
     "src/2024/07",
     "src/2024",
     "src",
-    "index",
-    "assets/Excalidraw",
-    "assets"
+    "index"
   ]
 }
