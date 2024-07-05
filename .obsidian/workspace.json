@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/2024/07/02/2024-07-02-Hardware.md",
+                "file": "_templates/Update.md",
                 "mode": "source",
                 "source": false
               }
@@ -79,7 +79,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "src/2024/07/02/2024-07-02-Hardware.md"
+                "file": "_templates/Update.md"
               }
             }
           },
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "src/2024/07/02/2024-07-02-Hardware.md",
+                "file": "_templates/Update.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "src/2024/07/02/2024-07-02-Hardware.md",
+                "file": "_templates/Update.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "src/2024/07/02/2024-07-02-Hardware.md",
+                "file": "_templates/Update.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -185,7 +185,7 @@
                   "repelStrength": 19.7916666666667,
                   "linkStrength": 1,
                   "linkDistance": 30,
-                  "scale": 0.1316872427983539,
+                  "scale": 0.19753086419753085,
                   "close": true
                 }
               }
@@ -222,12 +222,29 @@
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "graph:Abrir visualização em gráfico": false,
       "command-palette:Abrir paleta de comandos": false,
-      "templates:Inserir modelo": false,
-      "workspaces:Gerenciar leiautes da área de trabalho": false
+      "templates:Inserir modelo": false
     }
   },
   "active": "f42a608d6d8c6ef9",
   "lastOpenFiles": [
+    "_templates/Insight.md",
+    "_templates/Update.md",
+    "_insight/2024-07-03-Abertura_Amar.md",
+    "_insight/Abertura Ware.md",
+    "_insight/2024-07-03-Abertura_Vant_Kruijs.md",
+    "_insight/2024-07-03-Abertura_Sokolsky.md",
+    "_insight/2024-07-03-Abertura_Saragoca.md",
+    "_insight/2024-07-03-Abertura_Reti.md",
+    "_insight/2024-07-03-Abertura_Mieses.md",
+    "_insight/2024-07-03-Abertura_Desprez.md",
+    "_insight/2024-07-03-Abertura_Clemenz.md",
+    "_insight/2024-07-03-Abertura_Benko.md",
+    "_insight/2024-07-03-Abertura_Barnes.md",
+    "_insight/2024-07-03-Abertura_Anderssen.md",
+    "_templates/Anime.md",
+    "index/Xadrez.md",
+    "_templates",
+    "src/2024/07/02/2024-07-02-Hardware.md",
     "src/2024/07/02/2024-07-02-Lichess.md",
     "src/2024/07/02/2024-07-02-Open_Source.md",
     "src/2024/07/02/2024-07-02-Software.md",
@@ -235,26 +252,9 @@
     "src/2024/06/30/2024-06-30-Obsidian.md",
     "__private/teste.md",
     "_insight/Desperado.md",
-    "_layouts/Insight.md",
-    "_layouts/Update.md",
-    "index/Xadrez.md",
     "Insight.md",
-    "_layouts/Anime.md",
     "README.md",
     "__private",
-    "_draft/How to Take Smart Notes.md",
-    "_insight/Caro-Kann.md",
-    "Defesas do xadrez.md",
-    "_insight/Cavalo.md",
-    "_insight/Peão do cavalo.md",
-    "_draft/Abertura Inglesa.md",
-    "_insight/Peões.md",
-    "_insight/Gambito.md",
-    "_insight/Peão da dama.md",
-    "_insight/Abertura Réti.md",
-    "_insight/Peão do bispo.md",
-    "_insight/Abertura Mieses.md",
-    "src/2024/07/02/2024-07-02-Código_fonte.md",
     "src/2024/07/02",
     "src/2024/07/01",
     "src/2024/07",
@@ -264,7 +264,6 @@
     "_insight",
     "index",
     "src/2024/06",
-    "src/2024",
     "assets/Pasted Image 20240613173345_877.png",
     "src/canvas/Psicologia.canvas",
     "__daily/images/logotipo-2.jpeg",

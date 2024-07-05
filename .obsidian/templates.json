@@ -1,3 +1,4 @@
 {
-  "folder": "_layouts"
+  "folder": "_templates",
+  "timeFormat": "HH:mm"
 }
