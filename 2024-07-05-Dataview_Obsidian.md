@@ -33,3 +33,8 @@ TABLE
 TASK
 ```
 ````
+
+```dataview
+TABLE FROM 'src'
+WHERE file.aliases = SSH
+```

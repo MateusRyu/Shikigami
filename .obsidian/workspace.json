@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -91,7 +92,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "src/2024/06/30/2024-06-30-SSH.md"
+                "file": "2024-07-05-Dataview_Obsidian.md"
               }
             }
           },
@@ -101,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "src/2024/06/30/2024-06-30-SSH.md",
+                "file": "2024-07-05-Dataview_Obsidian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "src/2024/06/30/2024-06-30-SSH.md",
+                "file": "2024-07-05-Dataview_Obsidian.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +146,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "src/2024/06/30/2024-06-30-SSH.md",
+                "file": "2024-07-05-Dataview_Obsidian.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -238,10 +239,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f42a608d6d8c6ef9",
+  "active": "ff476fed25f5940a",
   "lastOpenFiles": [
-    "_templates/Insight.md",
+    "src/2024/06/30/2024-06-30-SSH.md",
     "2024-07-05-Dataview_Obsidian.md",
+    "_templates/Insight.md",
     "Dashboard.md",
     "_draft/2024-07-05-Abertura_Inglesa.md",
     "_insight/2024-07-05-Caro_Kann.md",
@@ -265,7 +267,6 @@
     "_insight/2024-07-03-Abertura_Desprez.md",
     "_insight/2024-07-03-Abertura_Clemenz.md",
     "_insight/2024-07-03-Abertura_Benko.md",
-    "_insight/2024-07-03-Abertura_Barnes.md",
     "_templates",
     "__private",
     "src/2024/07/02",
