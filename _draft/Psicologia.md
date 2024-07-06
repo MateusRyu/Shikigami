@@ -1,1 +1,1 @@
-A Psicologia é o ramo da [ciência](Ciência.md)  que que estuda os processos cognitivos que vão afetar o comportamento dos seres vivos, [aprendizado](Aprendizado.md) e [memória](Memória.md). 
+A Psicologia é o ramo da [ciência](Ciência.md)  que que estuda os processos cognitivos que vão afetar o comportamento dos seres vivos, [aprendizado](maps/Aprendizado.md) e [memória](Memória.md). 

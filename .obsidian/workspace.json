@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/2024/06/30/2024-06-30-SSH.md",
+                "file": "api/2024/06/30/2024-06-30-SSH.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-07-06-Xadrez.md",
+                "file": "api/2024/07/06/2024-07-06-Xadrez.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index/2024-07-06-Pecas_de_xadrez.md",
+                "file": "api/2024/07/06/2024-07-06-Aberturas_de_flanco.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index/2024-07-06-Pecas_de_xadrez.md"
+                "file": "api/2024/07/06/2024-07-06-Aberturas_de_flanco.md"
               }
             }
           },
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index/2024-07-06-Pecas_de_xadrez.md",
+                "file": "api/2024/07/06/2024-07-06-Aberturas_de_flanco.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index/2024-07-06-Pecas_de_xadrez.md",
+                "file": "api/2024/07/06/2024-07-06-Aberturas_de_flanco.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "index/2024-07-06-Pecas_de_xadrez.md",
+                "file": "api/2024/07/06/2024-07-06-Aberturas_de_flanco.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -251,20 +251,27 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "369e777cbb935728",
+  "active": "d119f22fe88304d8",
   "lastOpenFiles": [
-    "index/Protocolos.md",
-    "src/2024/06/30/2024-06-30-SSH.md",
-    "2024-07-06-Xadrez.md",
-    "index/Xadrez.md",
-    "index/Linguagens.md",
-    "index/Oracle Next Education.md",
-    "index/Animes.md",
-    "2024-07-06-Aberturas_irregulares.md",
-    "2024-07-06-Aberturas_de_xadrez.md",
-    "2024-07-06-Aberturas_de_flanco.md",
-    "2024-07-05-Dataview_Obsidian.md",
     "Dashboard.md",
+    "api/2024/07/06/2024-07-06-Aberturas_de_flanco.md",
+    "api/2024/07/06/2024-07-06-Aberturas_de_xadrez.md",
+    "api/2024/07/06",
+    "_draft/2024-07-05-Dataview_Obsidian.md",
+    "_insight/2024-07-06-Pecas_de_xadrez.md",
+    "maps/Desenvolvimento de software.md",
+    "_insight/2024-07-06-Linguagens.md",
+    "_insight/2024-07-06-Linguagem_de_marcação.md",
+    "maps/Aprendizado.md",
+    "_insight/2024-07-06-Frameworks.md",
+    "_insight/2024-07-06-Finais_elementais.md",
+    "maps/Animes.md",
+    "maps/Protocolos.md",
+    "api/2024/06/30/2024-06-30-SSH.md",
+    "api/2024/07/06/2024-07-06-Xadrez.md",
+    "maps/Xadrez.md",
+    "maps/Oracle Next Education.md",
+    "api/2024/07/06/2024-07-06-Aberturas_irregulares.md",
     "_templates/Insight.md",
     "_draft/2024-07-05-Abertura_Inglesa.md",
     "_insight/2024-07-05-Caro_Kann.md",
@@ -272,24 +279,16 @@
     "_insight/2024-07-05-Abertura_Inglesa_contra_a_Caro_Kann.md",
     "_insight/2024-07-05-Ataque-Sodio.md",
     "_insight/2024-07-05-Gambito.md",
-    "src/2024/07/02/2024-07-02-Lichess.md",
-    "_templates/Update.md",
-    "_templates/Post.md",
-    "README.md",
-    "_insight/2024-07-04-Autodisciplina.md",
-    "autodisciplina.md",
-    "_insight/2024-07-03-Abertura_Amar.md",
     "_templates",
     "__private",
-    "src/2024/07/02",
-    "src/2024/07/01",
-    "src/2024/07",
+    "api/2024/07/02",
+    "api/2024/07/01",
+    "api/2024/07",
     "_docs",
     "Sem título.canvas",
-    "src/2024/06/30",
+    "api/2024/06/30",
     "_insight",
-    "index",
-    "src/2024/06",
+    "maps",
     "assets/Pasted Image 20240613173345_877.png",
     "src/canvas/Psicologia.canvas",
     "__daily/images/logotipo-2.jpeg",
