@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_templates/Update.md",
+                "file": "autodisciplina.md",
                 "mode": "source",
                 "source": false
               }
@@ -79,7 +79,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_templates/Update.md"
+                "file": "autodisciplina.md"
               }
             }
           },
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_templates/Update.md",
+                "file": "autodisciplina.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_templates/Update.md",
+                "file": "autodisciplina.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "_templates/Update.md",
+                "file": "autodisciplina.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -214,21 +214,21 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "random-note:Abrir nota aleatória": false,
-      "switcher:Abrir a troca rápida": false,
-      "canvas:Criar novo canvas": false,
-      "daily-notes:Abrir a nota de hoje": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "random-note:Open random note": false,
       "mermaid-tools:Open Mermaid Toolbar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "graph:Abrir visualização em gráfico": false,
-      "command-palette:Abrir paleta de comandos": false,
-      "templates:Inserir modelo": false
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "f42a608d6d8c6ef9",
   "lastOpenFiles": [
-    "_templates/Insight.md",
     "_templates/Update.md",
+    "_templates/Insight.md",
     "_insight/2024-07-03-Abertura_Amar.md",
     "_insight/Abertura Ware.md",
     "_insight/2024-07-03-Abertura_Vant_Kruijs.md",
