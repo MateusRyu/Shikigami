@@ -38,7 +38,10 @@ Translated versions:
 
 ### Templates
 ___
-- [Anime](_templates/Anime.md) to document animes (without personal opinion like score);
+- [Insight](_templates/Insight.md)
+- [Post](_templates/Post.md)
+- [Update](_templates/Update.md)
+- [Anime](_templates/Anime.md)
 
 ## License
 ---
