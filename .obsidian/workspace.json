@@ -96,7 +96,7 @@
       {
         "id": "b12c899f6d1d6f67",
         "type": "tabs",
-        "dimension": 28.818443804034583,
+        "dimension": 28.818443804034576,
         "children": [
           {
             "id": "9cb7546bf61a2df4",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index/Xadrez.md"
+                "file": "src/2024/06/30/2024-06-30-SSH.md"
               }
             }
           },
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index/Xadrez.md",
+                "file": "src/2024/06/30/2024-06-30-SSH.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index/Xadrez.md",
+                "file": "src/2024/06/30/2024-06-30-SSH.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "index/Xadrez.md",
+                "file": "src/2024/06/30/2024-06-30-SSH.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
