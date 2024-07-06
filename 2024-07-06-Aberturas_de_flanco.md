@@ -1,8 +1,20 @@
+---
+layout: post
+title: Aberturas de flanco
+created_at: 2024-07-06T01:56:23-03:00
+tags:
+  - v0
+aliases:
+  - Aberturas de flanco
+---
+# Aberturas de flanco
+----
+
 [Xadrez](index/Xadrez.md)
 
 ## Lista
 -  (`A00`–`A39`) Primeiro lance das brancas que são diferente de `1.e4` e `1.d4`.
-	-  (`A00`) [Aberturas irregulares](Aberturas%20irregulares.md): ![Aberturas irregulares](Aberturas%20irregulares.md#^lista-de-aberturas-irregulares)
+	-  (`A00`) [2024-07-06-Aberturas_irregulares](2024-07-06-Aberturas_irregulares.md): ![2024-07-06-Aberturas_irregulares](2024-07-06-Aberturas_irregulares.md#^lista-de-aberturas-irregulares)
 	-  (`A01`) [Abertura Larsen](Abertura%20Larsen): `1.b3`;
 	-  (`A02`) [Abertura Bird](Bird.md): `1.f4`;
 		-  (`A03`) [Abertura Bird, variante holandesa](Bird.md#variante%20Holandesa): `1.f4 d5`;

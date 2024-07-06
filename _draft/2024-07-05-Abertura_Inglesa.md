@@ -8,7 +8,7 @@ tags:
 # Abertura Inglesa
 ---
 [Xadrez](index/Xadrez.md)
-[Aberturas de xadrez](index/Aberturas%20de%20xadrez.md)
+[2024-07-06-Aberturas_de_xadrez](2024-07-06-Aberturas_de_xadrez.md)
 ## Lista de linhas documentados
 - (`A10`) `1.c4` (sem: `1...e5`, `1...c5`, `1...e6`, `1...c6`, `1...Nf6`, `1...g6 2.d4`, `1...f5 2.d4`, `1...b6 2.d4`, `1...d6 2.e4`, `1...d6 2.d4`, `1...Nc6 2.d4`);
 -  Contra a  [2024-07-05-Caro_Kann](_insight/2024-07-05-Caro_Kann.md): ![2024-07-05-Caro_Kann](_insight/2024-07-05-Caro_Kann.md#^lista-de-linhas-contra-abertura-inglesa)

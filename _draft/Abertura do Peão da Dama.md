@@ -1,5 +1,5 @@
 
-É uma das [Aberturas de xadrez](index/Aberturas%20de%20xadrez.md), conhecido na comunidade de [xadrez](index/Xadrez.md) por ser uma escolha mais sólida e estratégica.
+É uma das [2024-07-06-Aberturas_de_xadrez](2024-07-06-Aberturas_de_xadrez.md), conhecido na comunidade de [xadrez](index/Xadrez.md) por ser uma escolha mais sólida e estratégica.
 
 ---
 

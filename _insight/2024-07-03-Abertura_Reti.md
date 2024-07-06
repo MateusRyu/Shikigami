@@ -9,4 +9,4 @@ tags:
 ----
 
 [Xadrez](index/Xadrez.md)
-[Aberturas de xadrez](index/Aberturas%20de%20xadrez.md)
+[2024-07-06-Aberturas_de_xadrez](2024-07-06-Aberturas_de_xadrez.md)

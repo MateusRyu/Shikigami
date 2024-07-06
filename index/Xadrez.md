@@ -11,4 +11,4 @@
 ![Finais elementais](Finais%20elementais.md)
 
 --- 
-![Aberturas de xadrez](Aberturas%20de%20xadrez.md)
+![2024-07-06-Aberturas_de_xadrez](2024-07-06-Aberturas_de_xadrez.md)

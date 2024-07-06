@@ -1,11 +1,23 @@
+---
+layout: post
+title: Aberturas de xadrez
+created_at: 2024-07-06T01:57:48-03:00
+tags:
+  - v0
+aliases:
+  - Aberturas de xadrez
+---
+# Aberturas de xadrez
+----
+
 No [xadrez](Xadrez.md), a abertura é a fase do jogo em que cada jogador desenvolve as suas peças para conseguir uma posição mais agressiva para iniciar um ataque ou uma posição mais sólida para se defender. Jogadores e estudiosos do temas estudaram varias sequencia de lances e os catalogaram para cada abertura com um nome suas variantes com os lances considerados mais fortes. Os lances já registrados são chamados de `lance de livro` e quando o jogador desvia da teoria é chamado de lances `fora do livro`.
 
 A lista a seguir vai seguir [Encyclopaedia of Chess Openings](Encyclopaedia%20of%20Chess%20Openings) (ECO) e usará a [Notação algébrica de xadrez](Notação%20algébrica%20de%20xadrez). 
 
 ## Lista de aberturas
 ---
-### A -  [Aberturas de flanco](Aberturas%20de%20flanco.md)
-![Aberturas de flanco](Aberturas%20de%20flanco.md#^lista-de-aberturas-de-flanco)
+### A -  [2024-07-06-Aberturas_de_flanco](2024-07-06-Aberturas_de_flanco.md)
+![2024-07-06-Aberturas_de_flanco](2024-07-06-Aberturas_de_flanco.md#^lista-de-aberturas-de-flanco)
  
 ### B – Jogos semi-abertos que não são a Defesa Francesa
 - B00–B19: `1.e4` without 1...c5, 1...e6 or 1...e5;

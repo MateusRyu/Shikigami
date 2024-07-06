@@ -1,6 +1,13 @@
+---
+layout: post
+title: Aberturas irregulares
+created_at: 2024-07-06T01:58:50-03:00
+tags:
+  - v0
+aliases:
+  - Aberturas irregulares
+---
 # Aberturas irregulares
-#v0 #chess 
-
 ---
 São um grupo de aberturas de [xadrez](index/Xadrez.md) raramente adotadas, pois quando comparadas com as aberturas mais usuais, apresentam os seguintes problemas: resultam para as Brancas posições passivas ou fracas (como desenvolvimento do cavalo para uma casa inferior), sem desenvolvimento do controle do centro.
 

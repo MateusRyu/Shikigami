@@ -11,6 +11,6 @@ tags:
 É uma abertura de [xadrez](index/Xadrez.md) em que as branc# Abertura Inglesa contra a Caro Kann
 ----
 
-as começam com a [2024-07-05-Abertura_Inglesa](_draft/2024-07-05-Abertura_Inglesa.md) e as negras respondem com a [2024-07-05-Caro_Kann](_insight/2024-07-05-Caro_Kann.md). Ela é categorizada como uma [Aberturas de flanco](index/Aberturas%20de%20flanco.md) e por isso a sigla `A`.
+as começam com a [2024-07-05-Abertura_Inglesa](_draft/2024-07-05-Abertura_Inglesa.md) e as negras respondem com a [2024-07-05-Caro_Kann](_insight/2024-07-05-Caro_Kann.md). Ela é categorizada como uma [2024-07-06-Aberturas_de_flanco](2024-07-06-Aberturas_de_flanco.md) e por isso a sigla `A`.
 ## Sequencia de lances
 `1.c4 c6` (sem: `2.e4`, `2.d4`) ^sequencia
