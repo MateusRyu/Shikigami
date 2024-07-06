@@ -41,6 +41,7 @@ ___
 - [Insight](_templates/Insight.md)
 - [Post](_templates/Post.md)
 - [Update](_templates/Update.md)
+- [Daily](_templates/Daily.md)
 - [Anime](_templates/Anime.md)
 
 ## License
