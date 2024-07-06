@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ff476fed25f5940a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024-07-05-Dataview_Obsidian.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -79,7 +92,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dashboard.md"
+                "file": "2024-07-05-Dataview_Obsidian.md"
               }
             }
           },
@@ -89,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dashboard.md",
+                "file": "2024-07-05-Dataview_Obsidian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dashboard.md",
+                "file": "2024-07-05-Dataview_Obsidian.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Dashboard.md",
+                "file": "2024-07-05-Dataview_Obsidian.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -226,8 +239,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f42a608d6d8c6ef9",
+  "active": "ff476fed25f5940a",
   "lastOpenFiles": [
+    "Dashboard.md",
+    "2024-07-05-Dataview_Obsidian.md",
     "_draft/2024-07-05-Abertura_Inglesa.md",
     "_insight/2024-07-05-Caro_Kann.md",
     "_insight/2024-07-05-Peao_do_bispo.md",
@@ -239,7 +254,6 @@
     "_templates/Update.md",
     "_templates/Post.md",
     "README.md",
-    "Dashboard.md",
     "_insight/2024-07-04-Autodisciplina.md",
     "autodisciplina.md",
     "_insight/2024-07-03-Abertura_Amar.md",
@@ -253,7 +267,6 @@
     "_insight/2024-07-03-Abertura_Clemenz.md",
     "_insight/2024-07-03-Abertura_Benko.md",
     "_insight/2024-07-03-Abertura_Barnes.md",
-    "_insight/2024-07-03-Abertura_Anderssen.md",
     "_templates",
     "__private",
     "src/2024/07/02",

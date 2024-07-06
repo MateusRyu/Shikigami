@@ -8,6 +8,10 @@ tags:
 # Dashboard
 ----
 
+```dataview
+LIST sort
+```
+
 ## To-do
 ---
 
