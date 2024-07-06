@@ -8,7 +8,7 @@ tags:
 # Desperado
 ----
 
-[[Táticas de xadrez]].
+[[_insight/2024-07-06-Taticas_de_xadrez]].
 
 https://www.youtube.com/watch?v=aME_13KbAHM
 
