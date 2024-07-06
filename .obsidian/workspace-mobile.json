@@ -11,12 +11,8 @@
             "id": "74c274a4860d179a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024-07-04-Autodisciplina.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "2024-07-04-Autodisciplina.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "2024-07-04-Autodisciplina.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -113,9 +107,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "2024-07-04-Autodisciplina.md"
-          }
+          "state": {}
         }
       },
       {
@@ -144,32 +136,32 @@
   },
   "active": "74c274a4860d179a",
   "lastOpenFiles": [
-    "Autodisciplina.md",
-    "_insight/2024-07-03-Abertura_Vant_Kruijs.md",
-    "_insight/2024-07-03-Abertura_Saragoca.md",
-    "_insight/2024-07-03-Abertura_Mieses.md",
-    "_insight/2024-07-03-Abertura_Benko.md",
-    "_insight/2024-07-03-Abertura_Barnes.md",
-    "_insight/2024-07-03-Abertura_Sokolsky.md",
-    "_insight/2024-07-03-Abertura_Desprez.md",
-    "_insight/2024-07-03-Abertura_Anderssen.md",
-    "_insight/2024-07-03-Abertura_Amar.md",
-    "_templates/Update.md",
-    "_templates/Insight.md",
-    "_templates/Anime.md",
-    "_insight/2024-07-03-Abertura_Reti.md",
-    "_insight/2024-07-03-Abertura_Clemenz.md",
-    "/_insight/2024-07-03-Abertura_Vant_Kruijs.md",
-    "/_insight/2024-07-03-Abertura_Saragoca.md",
-    "/_insight/2024-07-03-Abertura_Mieses.md",
-    "/_insight/2024-07-03-Abertura_Benko.md",
-    "/_insight/2024-07-03-Abertura_Barnes.md",
+    "_templates/Post.md",
+    "_insight/2024-07-05-Peao_do_bispo.md",
+    "_insight/2024-07-05-Gambito.md",
+    "_insight/2024-07-05-Caro_Kann.md",
+    "_insight/2024-07-05-Ataque-Sodio.md",
+    "_insight/2024-07-05-Abertura_Inglesa_contra_a_Caro_Kann.md",
+    "_draft/2024-07-05-Abertura_Inglesa.md",
+    "2024-07-05-Dataview_Obsidian.md",
+    "/src/2024/07/02/2024-07-02-Lichess.md",
+    "/src/2024/06/30/2024-06-30-SSH.md",
     "/index/Aberturas irregulares.md",
-    "/_insight/2024-07-03-Abertura_Sokolsky.md",
-    "/_insight/2024-07-03-Abertura_Desprez.md",
+    "/index/Aberturas de flanco.md",
+    "/_templates/Update.md",
+    "/_templates/Post.md",
+    "/_templates/Insight.md",
+    "/_insight/Peões.md",
+    "/_insight/2024-07-05-Peao_do_bispo.md",
+    "/_insight/2024-07-05-Gambito.md",
+    "/_insight/2024-07-05-Caro_Kann.md",
+    "/_insight/2024-07-05-Ataque-Sodio.md",
+    "/_insight/2024-07-05-Abertura_Inglesa_contra_a_Caro_Kann.md",
+    "_insight/2024-07-04-Autodisciplina.md",
     "/_insight/2024-07-03-Abertura_Anderssen.md",
-    "/_insight/2024-07-03-Abertura_Amar.md",
-    "/src/2024/07/02/2024-07-02-Hardware.md",
+    "/_draft/How to Take Smart Notes.md",
+    "/_draft/Gambito do rei.md",
+    "/_draft/Gambito Englund.md",
     "_templates",
     "/_templates",
     "assets/Pasted Image 20240613173345_877.png",
