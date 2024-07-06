@@ -11,7 +11,7 @@ aliases:
 ----
 -  [Rei](_insight/Rei.md);
 - [Dama](Dama);
-- [Cavalo](_insight/Cavalo.md);
+- [2024-07-06-Cavalo](_insight/2024-07-06-Cavalo.md);
 - [Bispo](_insight/Bispo.md);
 - [2024-07-06-Torre](_insight/2024-07-06-Torre.md);
 - [2024-07-06-Peão](_insight/2024-07-06-Peão.md);

@@ -8,7 +8,7 @@ Proteger as duas casas à duas casas de distancia do peão para frente e as suas
 
 ![Final de peão na quinta fileira](final_de_peao_5_fileira.excalidraw.md)
 ## Peão do cavalo na sexta fileira
-Quando o peão do [Cavalo](_insight/Cavalo.md) Evitar afogamento ou empate por repetição, posicionando primeiro o rei na coluna da torre da ala do peão.
+Quando o peão do [2024-07-06-Cavalo](_insight/2024-07-06-Cavalo.md) Evitar afogamento ou empate por repetição, posicionando primeiro o rei na coluna da torre da ala do peão.
 
 ## Peão da torre na sexta fileira
 Proteger as duas últimas casas na coluna adjacente da promoção.

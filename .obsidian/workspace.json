@@ -186,8 +186,8 @@
                   "repelStrength": 19.7916666666667,
                   "linkStrength": 1,
                   "linkDistance": 30,
-                  "scale": 0.08779149519890259,
-                  "close": true
+                  "scale": 0.19753086419753058,
+                  "close": false
                 }
               }
             }
@@ -228,8 +228,10 @@
   },
   "active": "047ea889dd786e2e",
   "lastOpenFiles": [
-    "maps/Xadrez.md",
+    "_insight/2024-07-06-Cavalo.md",
     "api/2024/07/06/2024-07-06-Xadrez.md",
+    "_insight/2024-07-06-Pecas_de_xadrez.md",
+    "maps/Xadrez.md",
     "_insight/2024-07-06-Torre.md",
     "_insight/Peão da torre.md",
     "_insight/2024-07-06-Peão.md",
@@ -257,8 +259,6 @@
     "Dashboard.md",
     "api/2024/07/06/2024-07-06-Aberturas_de_xadrez.md",
     "api/2024/07/06",
-    "_draft/2024-07-05-Dataview_Obsidian.md",
-    "_insight/2024-07-06-Pecas_de_xadrez.md",
     "_templates",
     "__private",
     "api/2024/07/02",
