@@ -136,7 +136,7 @@
               "state": {
                 "file": "api/2024/07/06/2024-07-06-Xadrez.md",
                 "options": {
-                  "collapse-filter": true,
+                  "collapse-filter": false,
                   "search": "",
                   "localJumps": 2,
                   "localBacklinks": true,
@@ -145,34 +145,34 @@
                   "showTags": false,
                   "showAttachments": false,
                   "hideUnresolved": false,
-                  "collapse-color-groups": false,
+                  "collapse-color-groups": true,
                   "colorGroups": [
                     {
                       "query": "path:_draft  ",
                       "color": {
                         "a": 1,
-                        "rgb": 14048348
+                        "rgb": 13908223
                       }
                     },
                     {
                       "query": "path:_insight  ",
                       "color": {
                         "a": 1,
-                        "rgb": 14069084
+                        "rgb": 16777215
                       }
                     },
                     {
-                      "query": "path:src  ",
+                      "query": "path:api  ",
                       "color": {
                         "a": 1,
-                        "rgb": 11392604
+                        "rgb": 11007
                       }
                     },
                     {
-                      "query": "path:index  ",
+                      "query": "path:maps  ",
                       "color": {
                         "a": 1,
-                        "rgb": 6084188
+                        "rgb": 15662848
                       }
                     }
                   ],
@@ -186,7 +186,7 @@
                   "repelStrength": 19.7916666666667,
                   "linkStrength": 1,
                   "linkDistance": 30,
-                  "scale": 0.19753086419753058,
+                  "scale": 0.19753086419753055,
                   "close": false
                 }
               }
