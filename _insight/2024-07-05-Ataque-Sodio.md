@@ -1,1 +1,11 @@
+---
+layout: post
+title: Ataque Sódio
+created_at: 2024-07-05T21:37:07-03:00
+tags:
+  - v0
+---
+# Ataque Sódio
+----
+
 É uma [Aberturas de flanco](index/Aberturas%20de%20flanco.md) incomum no [xadrez](index/Xadrez.md) e por isso é categorizada como uma [Aberturas irregulares](index/Aberturas%20irregulares.md) com código ECO `A0`.

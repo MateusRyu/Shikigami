@@ -11,8 +11,12 @@
             "id": "f42a608d6d8c6ef9",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "_insight/Abertura_Inglesa_contra_Caro_Kann.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -74,7 +78,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "_insight/Abertura_Inglesa_contra_Caro_Kann.md"
+              }
             }
           },
           {
@@ -83,6 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "_insight/Abertura_Inglesa_contra_Caro_Kann.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,6 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "_insight/Abertura_Inglesa_contra_Caro_Kann.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,6 +133,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "_insight/Abertura_Inglesa_contra_Caro_Kann.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -218,6 +227,7 @@
   },
   "active": "f42a608d6d8c6ef9",
   "lastOpenFiles": [
+    "_insight/2024-07-05-Ataque-Sodio.md",
     "_insight/2024-07-05-Gambito.md",
     "src/2024/07/02/2024-07-02-Lichess.md",
     "_templates/Insight.md",
@@ -244,7 +254,6 @@
     "_templates",
     "src/2024/07/02/2024-07-02-Hardware.md",
     "src/2024/07/02/2024-07-02-Open_Source.md",
-    "src/2024/07/02/2024-07-02-Software.md",
     "__private",
     "src/2024/07/02",
     "src/2024/07/01",
