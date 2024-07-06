@@ -7,13 +7,6 @@ tags:
 ---
 # Dashboard
 ----
-[Dataview](2024-07-05-Dataview_Obsidian.md)
-
-```dataview
-TABLE 
-WHERE file.tags = '#v0'
-```
-
 ## To-do
 ---
 
