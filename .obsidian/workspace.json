@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dashboard.md",
+                "file": "src/2024/06/30/2024-06-30-SSH.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "ssh",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -91,7 +91,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dashboard.md"
+                "file": "src/2024/06/30/2024-06-30-SSH.md"
               }
             }
           },
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dashboard.md",
+                "file": "src/2024/06/30/2024-06-30-SSH.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dashboard.md",
+                "file": "src/2024/06/30/2024-06-30-SSH.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Dashboard.md",
+                "file": "src/2024/06/30/2024-06-30-SSH.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -238,8 +238,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f42a608d6d8c6ef9",
+  "active": "d119f22fe88304d8",
   "lastOpenFiles": [
+    "_templates/Insight.md",
     "2024-07-05-Dataview_Obsidian.md",
     "Dashboard.md",
     "_draft/2024-07-05-Abertura_Inglesa.md",
@@ -249,7 +250,6 @@
     "_insight/2024-07-05-Ataque-Sodio.md",
     "_insight/2024-07-05-Gambito.md",
     "src/2024/07/02/2024-07-02-Lichess.md",
-    "_templates/Insight.md",
     "_templates/Update.md",
     "_templates/Post.md",
     "README.md",

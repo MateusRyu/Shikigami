@@ -4,6 +4,7 @@ title: Dataview (Obsidian)
 created_at: 2024-07-05T21:47:59-03:00
 tags:
   - v0
+aliases: Dataview
 ---
 # Dataview (Obsidian)
 ----
