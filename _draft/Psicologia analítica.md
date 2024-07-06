@@ -1,4 +1,4 @@
-É uma vertente da [Psicologia](Psicologia.md) que vai se preocupar em entender como se dá a cognição das pessoas. Ele foi elaborado por [[Carl Jung]] e por essa vertente pode ser chamada de psicologia Junguiana e suas ramificações de neo-junguiana.
+É uma vertente da [Psicologia](_draft/Psicologia.md) que vai se preocupar em entender como se dá a cognição das pessoas. Ele foi elaborado por [[Carl Jung]] e por essa vertente pode ser chamada de psicologia Junguiana e suas ramificações de neo-junguiana.
 
 ## Autoconhecimento
 
