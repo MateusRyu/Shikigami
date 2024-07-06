@@ -1,1 +1,0 @@
-Peça do jogo de [xadrez](api/2024/07/06/2024-07-06-Xadrez.md).

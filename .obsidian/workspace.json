@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "3337bf8a140fd5f0",
+        "id": "8b3f2e21a3476413",
         "type": "tabs",
         "children": [
           {
-            "id": "952a9f288b775a60",
+            "id": "4ee79e2ec7507fec",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "73b8b25f104370cf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "maps/Animes.md",
+                "file": "api/2024/07/06/2024-07-06-Xadrez.md",
                 "mode": "source",
                 "source": false
               }
@@ -91,7 +79,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "api/2024/07/06/2024-07-06-Xadrez.md"
               }
             }
           },
@@ -101,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "api/2024/07/06/2024-07-06-Xadrez.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "api/2024/07/06/2024-07-06-Xadrez.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +116,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 261.5,
+    "collapsed": true
   },
   "right": {
     "id": "90e0184107fbeb3d",
@@ -145,7 +134,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "index.md",
+                "file": "api/2024/07/06/2024-07-06-Xadrez.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -197,7 +186,7 @@
                   "repelStrength": 19.7916666666667,
                   "linkStrength": 1,
                   "linkDistance": 30,
-                  "scale": 0.6666666666666666,
+                  "scale": 0.08779149519890259,
                   "close": true
                 }
               }
@@ -239,15 +228,18 @@
   },
   "active": "047ea889dd786e2e",
   "lastOpenFiles": [
-    "maps/Animes.md",
-    "maps/Auto-desenvolvimento.md",
     "maps/Xadrez.md",
-    "maps/Psicologia.md",
+    "api/2024/07/06/2024-07-06-Xadrez.md",
+    "_insight/2024-07-06-Torre.md",
+    "_insight/Peão da torre.md",
+    "_insight/2024-07-06-Peão.md",
+    "maps/Animes.md",
+    "_posts/2024/07/2024-07-06.md",
     "index.md",
+    "maps/Auto-desenvolvimento.md",
+    "maps/Psicologia.md",
     "_insight/2024-07-06-Protocolo.md",
     "_draft/2024-07-06-Toram.md",
-    "api/2024/07/06/2024-07-06-Xadrez.md",
-    "_posts/2024/07/2024-07-06.md",
     "maps/Toram.md",
     "Untitled",
     "_insight/2024-07-06-Taticas_de_xadrez.md",
@@ -267,9 +259,6 @@
     "api/2024/07/06",
     "_draft/2024-07-05-Dataview_Obsidian.md",
     "_insight/2024-07-06-Pecas_de_xadrez.md",
-    "_insight/2024-07-06-Linguagens.md",
-    "_insight/2024-07-06-Linguagem_de_marcação.md",
-    "_insight/2024-07-06-Frameworks.md",
     "_templates",
     "__private",
     "api/2024/07/02",
