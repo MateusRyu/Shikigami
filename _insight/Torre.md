@@ -1,1 +1,1 @@
-Peça do jogo de [xadrez](index/Xadrez.md).
+Peça do jogo de [xadrez](2024-07-06-Xadrez.md).

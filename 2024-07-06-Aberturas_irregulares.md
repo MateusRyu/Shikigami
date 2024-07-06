@@ -9,7 +9,7 @@ aliases:
 ---
 # Aberturas irregulares
 ---
-São um grupo de aberturas de [xadrez](index/Xadrez.md) raramente adotadas, pois quando comparadas com as aberturas mais usuais, apresentam os seguintes problemas: resultam para as Brancas posições passivas ou fracas (como desenvolvimento do cavalo para uma casa inferior), sem desenvolvimento do controle do centro.
+São um grupo de aberturas de [xadrez](2024-07-06-Xadrez.md) raramente adotadas, pois quando comparadas com as aberturas mais usuais, apresentam os seguintes problemas: resultam para as Brancas posições passivas ou fracas (como desenvolvimento do cavalo para uma casa inferior), sem desenvolvimento do controle do centro.
 
 - Posições passivas: 1.d3, 1.c3, ou 1.e3;
 - Sem controle do centro: 1.a3, 1.a4, 1.h3, ou 1.h4

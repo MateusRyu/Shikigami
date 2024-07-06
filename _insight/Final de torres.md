@@ -1,1 +1,1 @@
-[Xadrez](index/Xadrez.md)
+[2024-07-06-Xadrez](2024-07-06-Xadrez.md)

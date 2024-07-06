@@ -10,7 +10,7 @@ aliases:
 # Aberturas de flanco
 ----
 
-[Xadrez](index/Xadrez.md)
+[2024-07-06-Xadrez](2024-07-06-Xadrez.md)
 
 ## Lista
 -  (`A00`–`A39`) Primeiro lance das brancas que são diferente de `1.e4` e `1.d4`.
