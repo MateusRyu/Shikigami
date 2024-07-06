@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index/Xadrez.md",
+                "file": "index/2024-07-06-Pecas_de_xadrez.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "src/2024/06/30/2024-06-30-SSH.md"
+                "file": "index/2024-07-06-Pecas_de_xadrez.md"
               }
             }
           },
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "src/2024/06/30/2024-06-30-SSH.md",
+                "file": "index/2024-07-06-Pecas_de_xadrez.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "src/2024/06/30/2024-06-30-SSH.md",
+                "file": "index/2024-07-06-Pecas_de_xadrez.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "src/2024/06/30/2024-06-30-SSH.md",
+                "file": "index/2024-07-06-Pecas_de_xadrez.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -251,11 +251,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d119f22fe88304d8",
+  "active": "369e777cbb935728",
   "lastOpenFiles": [
+    "index/Protocolos.md",
+    "src/2024/06/30/2024-06-30-SSH.md",
     "2024-07-06-Xadrez.md",
     "index/Xadrez.md",
-    "index/Protocolos.md",
     "index/Linguagens.md",
     "index/Oracle Next Education.md",
     "index/Animes.md",
@@ -264,7 +265,6 @@
     "2024-07-06-Aberturas_de_flanco.md",
     "2024-07-05-Dataview_Obsidian.md",
     "Dashboard.md",
-    "src/2024/06/30/2024-06-30-SSH.md",
     "_templates/Insight.md",
     "_draft/2024-07-05-Abertura_Inglesa.md",
     "_insight/2024-07-05-Caro_Kann.md",
