@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "autodisciplina.md",
+                "file": "_templates/Insight.md",
                 "mode": "source",
                 "source": false
               }
@@ -79,7 +79,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "autodisciplina.md"
+                "file": "_templates/Insight.md"
               }
             }
           },
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "autodisciplina.md",
+                "file": "_templates/Insight.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "autodisciplina.md",
+                "file": "_templates/Insight.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "autodisciplina.md",
+                "file": "_templates/Insight.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -229,6 +229,11 @@
   "lastOpenFiles": [
     "_templates/Update.md",
     "_templates/Insight.md",
+    "_templates/Post.md",
+    "README.md",
+    "Dashboard.md",
+    "_insight/2024-07-04-Autodisciplina.md",
+    "autodisciplina.md",
     "_insight/2024-07-03-Abertura_Amar.md",
     "_insight/Abertura Ware.md",
     "_insight/2024-07-03-Abertura_Vant_Kruijs.md",
@@ -248,12 +253,7 @@
     "src/2024/07/02/2024-07-02-Lichess.md",
     "src/2024/07/02/2024-07-02-Open_Source.md",
     "src/2024/07/02/2024-07-02-Software.md",
-    "Dashboard.md",
     "src/2024/06/30/2024-06-30-Obsidian.md",
-    "__private/teste.md",
-    "_insight/Desperado.md",
-    "Insight.md",
-    "README.md",
     "__private",
     "src/2024/07/02",
     "src/2024/07/01",

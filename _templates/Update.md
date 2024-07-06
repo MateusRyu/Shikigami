@@ -1,3 +1,3 @@
 ---
-updated at: "{{date}}T{{time}}:00-03:00"
+updated at: "{{date}}T{{time:HH:mm:ssZ}}"
 ---
