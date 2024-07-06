@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "maps/Oracle Next Education.md",
                 "mode": "source",
                 "source": false
               }
@@ -79,7 +79,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "maps/Oracle Next Education.md"
               }
             }
           },
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "maps/Oracle Next Education.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "maps/Oracle Next Education.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "README.md",
+                "file": "maps/Oracle Next Education.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -210,7 +210,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 373.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -227,27 +227,27 @@
   },
   "active": "369e777cbb935728",
   "lastOpenFiles": [
+    "maps/Desenvolvimento de software.md",
+    "maps/Aprendizado.md",
+    "maps/Animes.md",
+    "maps/Xadrez.md",
+    "maps/Oracle Next Education.md",
+    "README.md",
     "_templates/Post.md",
     "_templates/Update.md",
-    "README.md",
     "api/2024/07/06/2024-07-06-Aberturas_de_flanco.md",
     "Dashboard.md",
     "api/2024/07/06/2024-07-06-Aberturas_de_xadrez.md",
     "api/2024/07/06",
     "_draft/2024-07-05-Dataview_Obsidian.md",
     "_insight/2024-07-06-Pecas_de_xadrez.md",
-    "maps/Desenvolvimento de software.md",
     "_insight/2024-07-06-Linguagens.md",
     "_insight/2024-07-06-Linguagem_de_marcação.md",
-    "maps/Aprendizado.md",
     "_insight/2024-07-06-Frameworks.md",
     "_insight/2024-07-06-Finais_elementais.md",
-    "maps/Animes.md",
     "maps/Protocolos.md",
     "api/2024/06/30/2024-06-30-SSH.md",
     "api/2024/07/06/2024-07-06-Xadrez.md",
-    "maps/Xadrez.md",
-    "maps/Oracle Next Education.md",
     "api/2024/07/06/2024-07-06-Aberturas_irregulares.md",
     "_templates/Insight.md",
     "_draft/2024-07-05-Abertura_Inglesa.md",
