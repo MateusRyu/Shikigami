@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -92,7 +91,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-07-05-Dataview_Obsidian.md"
+                "file": "Dashboard.md"
               }
             }
           },
@@ -102,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-07-05-Dataview_Obsidian.md",
+                "file": "Dashboard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-07-05-Dataview_Obsidian.md",
+                "file": "Dashboard.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +145,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024-07-05-Dataview_Obsidian.md",
+                "file": "Dashboard.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -239,10 +238,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ff476fed25f5940a",
+  "active": "f42a608d6d8c6ef9",
   "lastOpenFiles": [
-    "Dashboard.md",
     "2024-07-05-Dataview_Obsidian.md",
+    "Dashboard.md",
     "_draft/2024-07-05-Abertura_Inglesa.md",
     "_insight/2024-07-05-Caro_Kann.md",
     "_insight/2024-07-05-Peao_do_bispo.md",

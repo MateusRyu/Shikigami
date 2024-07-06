@@ -9,7 +9,8 @@ tags:
 ----
 
 ```dataview
-LIST sort
+TABLE 
+WHERE file.tags = '#v0'
 ```
 
 ## To-do

@@ -20,3 +20,15 @@ Dataview é um plugin do [Obsidian](src/2024/06/30/2024-06-30-Obsidian.md) para 
 LIST
 ```
 ````
+
+````
+```dataview
+TABLE
+```
+````
+
+````
+```dataview
+TASK
+```
+````
