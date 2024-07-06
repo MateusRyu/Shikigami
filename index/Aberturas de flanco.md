@@ -12,8 +12,8 @@
 			-  (`A07`) [Abertura Réti, ataque Índia do rei](_insight/2024-07-03-Abertura_Reti.md): `1. Nf3 d5 2.g3`;
 				-  (`A08`) [Abertura Réti, ataque Índia do rei](_insight/2024-07-03-Abertura_Reti.md): `1. Nf3 d5 2.g3 c5 3.Bg2`;
 			-  (`A09`) [Abertura Réti, linha principal](_insight/2024-07-03-Abertura_Reti.md): `1. Nf3 d5 2.c4`;
-	-  (`A10`-`A39`) [Abertura Inglesa](Abertura%20Inglesa.md):
-		-  ![Abertura Inglesa](Abertura%20Inglesa.md#^lista-de-linhas-documentados-da-abertura-inglesa)
+	-  (`A10`-`A39`) [2024-07-05-Abertura_Inglesa](_draft/2024-07-05-Abertura_Inglesa.md):
+		-  ![2024-07-05-Abertura_Inglesa](_draft/2024-07-05-Abertura_Inglesa.md#^lista-de-linhas-documentados-da-abertura-inglesa)
 - `A40`–`A44`: `1.d4` sem a resposta `1...d5`, `1...Nf6` ou `1...f5` (Respostas atípicas contra `1.d4`):
 	-  (`A40`) [Abertura do Peão da Dama](Abertura%20do%20Peão%20da%20Dama.md): `1.d4`;
 - `A45`–`A49`: `1.d4 Nf6` sem a continuação `2.c4` (Resposta atípica contra `1...Nf6`);

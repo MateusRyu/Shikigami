@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_insight/Abertura_Inglesa_contra_Caro_Kann.md",
+                "file": "Dashboard.md",
                 "mode": "source",
                 "source": false
               }
@@ -79,7 +79,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_insight/Abertura_Inglesa_contra_Caro_Kann.md"
+                "file": "Dashboard.md"
               }
             }
           },
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_insight/Abertura_Inglesa_contra_Caro_Kann.md",
+                "file": "Dashboard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_insight/Abertura_Inglesa_contra_Caro_Kann.md",
+                "file": "Dashboard.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "_insight/Abertura_Inglesa_contra_Caro_Kann.md",
+                "file": "Dashboard.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -210,7 +210,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -227,6 +228,10 @@
   },
   "active": "f42a608d6d8c6ef9",
   "lastOpenFiles": [
+    "_draft/2024-07-05-Abertura_Inglesa.md",
+    "_insight/2024-07-05-Caro_Kann.md",
+    "_insight/2024-07-05-Peao_do_bispo.md",
+    "_insight/2024-07-05-Abertura_Inglesa_contra_a_Caro_Kann.md",
     "_insight/2024-07-05-Ataque-Sodio.md",
     "_insight/2024-07-05-Gambito.md",
     "src/2024/07/02/2024-07-02-Lichess.md",
@@ -249,11 +254,7 @@
     "_insight/2024-07-03-Abertura_Benko.md",
     "_insight/2024-07-03-Abertura_Barnes.md",
     "_insight/2024-07-03-Abertura_Anderssen.md",
-    "_templates/Anime.md",
-    "index/Xadrez.md",
     "_templates",
-    "src/2024/07/02/2024-07-02-Hardware.md",
-    "src/2024/07/02/2024-07-02-Open_Source.md",
     "__private",
     "src/2024/07/02",
     "src/2024/07/01",
