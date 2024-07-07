@@ -11,8 +11,12 @@
             "id": "4ee79e2ec7507fec",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "api/2024/07/2024-07-06-Xadrez.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -62,8 +66,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "b12c899f6d1d6f67",
@@ -75,7 +78,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "api/2024/07/2024-07-06-Xadrez.md"
+              }
             }
           },
           {
@@ -84,6 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "api/2024/07/2024-07-06-Xadrez.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,6 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "api/2024/07/2024-07-06-Xadrez.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,6 +133,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "api/2024/07/2024-07-06-Xadrez.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -202,7 +210,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 373.5
+    "width": 373.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -217,11 +226,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e18e3cca90e46fbd",
+  "active": "4ee79e2ec7507fec",
   "lastOpenFiles": [
+    "api/2024/07/2024-07-07-Arco_Linux.md",
+    "_insight/2024-07-07-MMORPG.md",
+    "_draft/2024-07-06-Toram.md",
     "_insight/2024-07-07-Kernel.md",
     "_insight/2024-07-07-Regras_do_xadrez.md",
-    "api/2024/07/2024-07-07-Arco_Linux.md",
     "api/2024/07/2024-07-01-Fianqueto.md",
     "api/2024/07/2024-07-06-Aberturas_de_flanco.md",
     "api/2024/07/2024-07-02-Código_fonte.md",
@@ -243,8 +254,6 @@
     "_insight/Peão da torre.md",
     "_insight/2024-07-06-Peão.md",
     "maps/Animes.md",
-    "maps/Auto-desenvolvimento.md",
-    "maps/Psicologia.md",
     "Untitled",
     "_posts/2024/07",
     "_posts/2024",
