@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "_posts/2024/07/2024-07-06.md",
                 "mode": "source",
                 "source": false
               }
@@ -79,7 +79,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "_posts/2024/07/2024-07-06.md"
               }
             }
           },
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "_posts/2024/07/2024-07-06.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "_posts/2024/07/2024-07-06.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,8 +116,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 261.5,
-    "collapsed": true
+    "width": 261.5
   },
   "right": {
     "id": "90e0184107fbeb3d",
@@ -134,7 +133,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "index.md",
+                "file": "_posts/2024/07/2024-07-06.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -226,8 +225,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "047ea889dd786e2e",
+  "active": "4ee79e2ec7507fec",
   "lastOpenFiles": [
+    "_draft/How to Take Smart Notes.md",
+    "_posts/2024/07/2024-07-06.md",
+    "index.md",
     "maps/Xadrez.md",
     "api/2024/07/06/2024-07-06-Xadrez.md",
     "Regras do xadrez.md",
@@ -237,8 +239,6 @@
     "_insight/Peão da torre.md",
     "_insight/2024-07-06-Peão.md",
     "maps/Animes.md",
-    "_posts/2024/07/2024-07-06.md",
-    "index.md",
     "maps/Auto-desenvolvimento.md",
     "maps/Psicologia.md",
     "_insight/2024-07-06-Protocolo.md",
@@ -257,7 +257,6 @@
     "_templates/Post.md",
     "_templates/Update.md",
     "api/2024/07/06/2024-07-06-Aberturas_de_flanco.md",
-    "Dashboard.md",
     "api/2024/07/06",
     "_templates",
     "__private",
