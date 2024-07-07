@@ -17,5 +17,6 @@ Tomar notas é uma etapa intermediária entre adquirir um novo conhecimento e pr
 
 O livro assume que existem outros motivos para a dificuldade pra produção de obras mas destaca que são pouquíssimos o casos em que essa é o verdadeiro motivo. Segundo o autor, o problema é acreditar que tudo começa da tela em branco pois as ideias na cabeça são diferentes do que anotações tangíveis e organizados em alguma tela. Ninguém consegue distinguir a inteligência da cabeça de alguém, mesmo que ela seja, sem verificar o que ela já produziu. Sendo assim, aqueles que tem o hábito de tomar notas sempre tem como basear sua produção em suas notas (em contraste com  ideia da tela vazia), ao invés de depender dos pensamentos e memórias na cabeça. O autor defende que o que separa as pessoas que tem sucesso nas suas produções é a capacidade de [[autocontrole]] e [[_insight/2024-07-04-Autodisciplina]] para concretizar seu trabalho e não a inteligência. 
 
+
 ## Referencia
 AHRENS, Sönke. **How to take smart notes: One simple technique to boost writing, learning and thinking**. Sönke Ahrens, 2022
