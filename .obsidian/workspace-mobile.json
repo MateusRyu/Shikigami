@@ -11,12 +11,8 @@
             "id": "74c274a4860d179a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_draft/2024-07-06-Toram.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "_draft/2024-07-06-Toram.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "_draft/2024-07-06-Toram.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -113,9 +107,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "_draft/2024-07-06-Toram.md"
-          }
+          "state": {}
         }
       },
       {
@@ -144,32 +136,32 @@
   },
   "active": "74c274a4860d179a",
   "lastOpenFiles": [
-    "maps/Toram.md",
     "_draft/2024-07-06-Toram.md",
-    "_draft/How to Take Smart Notes.md",
-    "_posts/2024/07/2024-07-06.md",
-    "_insight/2024-07-06-Torre.md",
-    "_insight/2024-07-06-Peão.md",
-    "_insight/2024-07-06-Cavalo.md",
-    "/api/2024/07/06/2024-07-06-Xadrez.md",
-    "/_insight/Peão do cavalo.md",
-    "/_insight/Peão do Rei.md",
-    "/_insight/Peão da torre.md",
-    "/_insight/Peão da dama.md",
-    "/_insight/2024-07-06-Torre.md",
-    "/_insight/2024-07-06-Peão.md",
-    "/_insight/2024-07-06-Pecas_de_xadrez.md",
-    "/_insight/2024-07-06-Cavalo.md",
-    "/_draft/Final de peão.md",
-    "maps/Oracle Next Education.md",
-    "maps/Animes.md",
-    "/maps/Oracle Next Education.md",
-    "/maps/Animes.md",
-    "maps/Xadrez.md",
-    "maps/Psicologia.md",
-    "maps/Desenvolvimento de software.md",
-    "maps/Auto-desenvolvimento.md",
-    "index.md",
+    "maps/Habilidades.md",
+    "api/2024/07/2024-07-07-Arco_Linux.md",
+    "api/2024/07/2024-07-06-Xadrez.md",
+    "api/2024/07/2024-07-06-Aberturas_irregulares.md",
+    "api/2024/07/2024-07-06-Aberturas_de_xadrez.md",
+    "api/2024/07/2024-07-06-Aberturas_de_flanco.md",
+    "api/2024/07/2024-07-02-Software.md",
+    "api/2024/07/2024-07-02-Open_Source.md",
+    "api/2024/07/2024-07-02-Lichess.md",
+    "api/2024/07/2024-07-02-Hardware.md",
+    "api/2024/07/2024-07-02-Código_fonte.md",
+    "api/2024/07/2024-07-01-Gambito.md",
+    "api/2024/07/2024-07-01-Fianqueto.md",
+    "_posts/2024/07/2024-07-07.md",
+    "_insight/Jogo.md",
+    "_insight/Jogo de tabuleiro.md",
+    "_insight/2024-07-07-Xeque_mate.md",
+    "_insight/2024-07-07-Rei_xadrez.md",
+    "_insight/2024-07-07-Regras_do_xadrez.md",
+    "_insight/2024-07-07-MMORPG.md",
+    "_insight/2024-07-07-Kernel.md",
+    "_insight/2024-07-07-Dama_xadrez.md",
+    "_insight/2024-07-07-Bispo_xadrez.md",
+    "_insight/2024-07-06-Torre_xadrez.md",
+    "_insight/2024-07-06-Peão_xadrez.md",
     "maps",
     "api/2024/06/30",
     "api/2024/07/06",
