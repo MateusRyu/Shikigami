@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_insight/2024-07-06-Torre.md",
+                "file": "api/2024/07/2024-07-06-Xadrez.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3fb06a9b1d0a3096",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "maps/Habilidades.md",
                 "mode": "source",
                 "source": false
               }
@@ -79,7 +91,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_insight/2024-07-06-Torre.md"
+                "file": "api/2024/07/2024-07-06-Xadrez.md"
               }
             }
           },
@@ -89,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_insight/2024-07-06-Torre.md",
+                "file": "api/2024/07/2024-07-06-Xadrez.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_insight/2024-07-06-Torre.md",
+                "file": "api/2024/07/2024-07-06-Xadrez.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +145,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "_insight/2024-07-06-Torre.md",
+                "file": "api/2024/07/2024-07-06-Xadrez.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -228,12 +240,21 @@
   },
   "active": "4ee79e2ec7507fec",
   "lastOpenFiles": [
-    "_insight/2024-07-06-Pecas_de_xadrez.md",
-    "_insight/2024-07-07-Bispo.md",
-    "_insight/2024-07-06-Cavalo.md",
-    "_insight/2024-07-07-Dama.md",
-    "_insight/2024-07-07-Rei.md",
+    "2024-07-07-Raciocínio_logico.md",
+    "maps/Habilidades.md",
+    "maps/Animes.md",
+    "Untitled",
     "api/2024/07/2024-07-06-Xadrez.md",
+    "2024-07-07-Planejamento_estrategico.md",
+    "2024-07-07-Habilidade.md",
+    "_insight/2024-07-07-Xeque_mate.md",
+    "_insight/2024-07-06-Pecas_de_xadrez.md",
+    "_insight/2024-07-06-Peão_xadrez.md",
+    "_insight/2024-07-06-Torre_xadrez.md",
+    "_insight/2024-07-07-Bispo_xadrez.md",
+    "_insight/2024-07-06-Cavalo_xadrez.md",
+    "_insight/2024-07-07-Dama_xadrez.md",
+    "_insight/2024-07-07-Rei_xadrez.md",
     "_insight/Jogo de tabuleiro.md",
     "_insight/Jogo.md",
     "api/2024/07/2024-07-07-Arco_Linux.md",
@@ -246,15 +267,6 @@
     "api/2024/07/2024-07-02-Código_fonte.md",
     "_posts/2024/07/2024-07-07.md",
     "_posts/2024/07/2024-07-06.md",
-    "api/2024/06/30/2024-06-30-Distro_Linux.md",
-    "api/2024/06/30/2024-06-30-Linux.md",
-    "_templates/Post.md",
-    "api/2024/07/2024-07-02-Open_Source.md",
-    "api/2024/06/30/2024-06-30-Sistema_Operacional.md",
-    "api/2024/06/30/2024-06-30-Arch_Linux.md",
-    "_draft/How to Take Smart Notes.md",
-    "index.md",
-    "Untitled",
     "_posts/2024/07",
     "_posts/2024",
     "_posts",

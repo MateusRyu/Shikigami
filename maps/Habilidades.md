@@ -1,0 +1,3 @@
+- [Raciocínio lógico](2024-07-07-Raciocínio_logico.md);
+- [Planejamento estratégico](2024-07-07-Planejamento_estrategico.md);
+- 

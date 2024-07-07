@@ -8,6 +8,7 @@ aliases:
   - Cavalo
   - cavalo
   - cavalos
+  - Cavalos
 updated at: 2024-07-07T16:19:55-03:00
 ---
 # Cavalo

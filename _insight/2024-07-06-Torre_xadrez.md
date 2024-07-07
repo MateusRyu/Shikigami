@@ -8,6 +8,7 @@ aliases:
   - Torre
   - torre
   - torres
+  - Torres
 updated at: 2024-07-07T16:21:00-03:00
 ---
 # Torre

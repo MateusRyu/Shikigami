@@ -8,6 +8,7 @@ aliases:
   - Rei
   - rei
   - reis
+  - Reis
 ---
 # Rei
 ----

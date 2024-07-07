@@ -8,6 +8,7 @@ aliases:
   - Dama
   - dama
   - damas
+  - Damas
 ---
 # Dama
 ----

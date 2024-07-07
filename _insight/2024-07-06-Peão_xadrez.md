@@ -6,6 +6,10 @@ tags:
   - v0
 aliases:
   - Peão
+  - Peões
+  - peão
+  - peões
+updated at: 2024-07-07T16:24:29-03:00
 ---
 # Peão
 ----

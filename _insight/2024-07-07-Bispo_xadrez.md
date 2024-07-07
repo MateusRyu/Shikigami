@@ -8,6 +8,7 @@ aliases:
   - Bispo
   - bispo
   - bispos
+  - Bispos
 ---
 # Bispo
 ----
