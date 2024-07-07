@@ -4,6 +4,10 @@ title: Abertura Clemenz
 created_at: 2024-07-03T23:27:10-03:00
 tags:
   - v0
+aliases:
+  - Abertura Clemenz
+  - abertura Clemenz
+  - Clemenz
 ---
 # Abertura Clemenz
 ----
