@@ -31,7 +31,7 @@ São um grupo de aberturas de [xadrez](api/2024/07/2024-07-06-Xadrez.md) raramen
 - [2024-07-03-Abertura_Benko](_insight/2024/07/2024-07-03-Abertura_Benko.md): `1.g3`;
 - [Ataque Grob](_insight/Ataque%20Grob.md): `1.g4`;
 - [2024-07-03-Abertura_Clemenz](_insight/2024/07/2024-07-03-Abertura_Clemenz.md): `1.h3`;
-- [2024-07-03-Abertura_Desprez](_insight/2024-07-03-Abertura_Desprez.md): `1.h4`;
+- [2024-07-03-Abertura_Desprez](_insight/2024/07/2024-07-03-Abertura_Desprez.md): `1.h4`;
 - [2024-07-03-Abertura_Amar](_insight/2024/07/2024-07-03-Abertura_Amar.md): `1.Nh3`;
 
 ^lista-de-aberturas-irregulares
