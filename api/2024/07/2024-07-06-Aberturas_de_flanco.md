@@ -6,6 +6,9 @@ tags:
   - v0
 aliases:
   - Aberturas de flanco
+  - Abertura de flanco
+  - aberturas de flanco
+  - abertura de flanco
 ---
 # Aberturas de flanco
 ----
