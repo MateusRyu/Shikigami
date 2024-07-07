@@ -4,6 +4,13 @@ title: Abertura Inglesa
 created_at: 2024-07-05T21:42:15-03:00
 tags:
   - v0
+aliases:
+  - Abertura Inglesa
+  - Inglesa
+  - abertura Inglesa
+  - inglesa
+  - Siciliana reversa
+  - siciliana reversa
 ---
 # Abertura Inglesa
 ---
