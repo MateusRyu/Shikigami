@@ -13,19 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "api/2024/07/2024-07-06-Xadrez.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3fb06a9b1d0a3096",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "maps/Habilidades.md",
+                "file": "_insight/2024-07-03-Abertura_Amar.md",
                 "mode": "source",
                 "source": false
               }
@@ -91,7 +79,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "api/2024/07/2024-07-06-Xadrez.md"
+                "file": "_insight/2024-07-03-Abertura_Amar.md"
               }
             }
           },
@@ -101,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "api/2024/07/2024-07-06-Xadrez.md",
+                "file": "_insight/2024-07-03-Abertura_Amar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "api/2024/07/2024-07-06-Xadrez.md",
+                "file": "_insight/2024-07-03-Abertura_Amar.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +133,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "api/2024/07/2024-07-06-Xadrez.md",
+                "file": "_insight/2024-07-03-Abertura_Amar.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -240,18 +228,22 @@
   },
   "active": "4ee79e2ec7507fec",
   "lastOpenFiles": [
-    "_insight/2024-07-07-Regras_do_xadrez.md",
-    "api/2024/07/2024-07-06-Xadrez.md",
-    "2024-07-07-Chaturanga.md",
-    "História do xadrez.md",
-    "2024-07-07-Decisoes_sob_pressao.md",
-    "maps/Habilidades.md",
-    "2024-07-07-Planejamento_estrategico.md",
     "2024-07-07-Raciocínio_logico.md",
-    "maps/Animes.md",
-    "Untitled",
-    "2024-07-07-Habilidade.md",
+    "_insight/2024/07",
+    "_insight/2024",
+    "2024-07-07-Planejamento_estrategico.md",
+    "2024-07-07-Historia_do_xadrez.md",
+    "api/2024/07/2024-07-07-Habilidade.md",
+    "_insight/2024-07-07-Decisoes_sob_pressao.md",
+    "_insight/2024-07-07-Chaturanga.md",
+    "api/2024/07/2024-07-06-Xadrez.md",
+    "_insight/2024-07-07-Regras_do_xadrez.md",
     "_insight/2024-07-07-Xeque_mate.md",
+    "api/2024/07/2024-07-07-Arco_Linux.md",
+    "api/2024/06/30/2024-06-30-Distro_Linux.md",
+    "api/2024/06/30/2024-06-30-Linux.md",
+    "maps/Habilidades.md",
+    "maps/Animes.md",
     "_insight/2024-07-06-Pecas_de_xadrez.md",
     "_insight/2024-07-06-Peão_xadrez.md",
     "_insight/2024-07-06-Torre_xadrez.md",
@@ -261,12 +253,8 @@
     "_insight/2024-07-07-Rei_xadrez.md",
     "_insight/Jogo de tabuleiro.md",
     "_insight/Jogo.md",
-    "api/2024/07/2024-07-07-Arco_Linux.md",
     "_insight/2024-07-07-MMORPG.md",
     "_draft/2024-07-06-Toram.md",
-    "_insight/2024-07-07-Kernel.md",
-    "api/2024/07/2024-07-01-Fianqueto.md",
-    "api/2024/07/2024-07-06-Aberturas_de_flanco.md",
     "_posts/2024/07",
     "_posts/2024",
     "_posts",
@@ -275,7 +263,6 @@
     "__private",
     "api/2024/07/02",
     "api/2024/07/01",
-    "api/2024/07",
     "Sem título.canvas",
     "assets/Pasted Image 20240613173345_877.png",
     "src/canvas/Psicologia.canvas",

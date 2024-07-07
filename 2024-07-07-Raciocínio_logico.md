@@ -10,4 +10,4 @@ aliases:
 ---
 # Raciocínio lógico
 ----
-[habilidade](2024-07-07-Habilidade.md)
+[habilidade](api/2024/07/2024-07-07-Habilidade.md)
