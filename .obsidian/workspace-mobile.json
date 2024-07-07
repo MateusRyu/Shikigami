@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2024/07/2024-07-06.md",
+                "file": "_draft/How to Take Smart Notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "_posts/2024/07/2024-07-06.md",
+            "file": "_draft/How to Take Smart Notes.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "_posts/2024/07/2024-07-06.md",
+            "file": "_draft/How to Take Smart Notes.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "_posts/2024/07/2024-07-06.md"
+            "file": "_draft/How to Take Smart Notes.md"
           }
         }
       },
@@ -144,6 +144,7 @@
   },
   "active": "74c274a4860d179a",
   "lastOpenFiles": [
+    "_posts/2024/07/2024-07-06.md",
     "_insight/2024-07-06-Torre.md",
     "_insight/2024-07-06-Peão.md",
     "_insight/2024-07-06-Cavalo.md",
@@ -169,7 +170,6 @@
     "api/2024/07/06/2024-07-06-Xadrez.md",
     "api/2024/07/06/2024-07-06-Aberturas_irregulares.md",
     "api/2024/07/06/2024-07-06-Aberturas_de_xadrez.md",
-    "api/2024/07/06/2024-07-06-Aberturas_de_flanco.md",
     "maps",
     "api/2024/06/30",
     "api/2024/07/06",
