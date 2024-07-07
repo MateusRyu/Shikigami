@@ -4,6 +4,10 @@ title: Abertura Benko
 created_at: 2024-07-03T23:26:46-03:00
 tags:
   - v0
+aliases:
+  - Abertura Benko
+  - abertura Benko
+  - Benko
 ---
 # Abertura Benko
 ----

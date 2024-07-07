@@ -11,8 +11,12 @@
             "id": "4ee79e2ec7507fec",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "_insight/2024-07-03-Abertura_Benko.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -86,7 +90,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "_insight/2024-07-03-Abertura_Benko.md"
+              }
             }
           },
           {
@@ -95,6 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "_insight/2024-07-03-Abertura_Benko.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,6 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "_insight/2024-07-03-Abertura_Benko.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,6 +145,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "_insight/2024-07-03-Abertura_Benko.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
