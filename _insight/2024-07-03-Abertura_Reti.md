@@ -8,5 +8,5 @@ tags:
 # Abertura Réti
 ----
 
-[2024-07-06-Xadrez](api/2024/07/06/2024-07-06-Xadrez.md)
-[2024-07-06-Aberturas_de_xadrez](api/2024/07/06/2024-07-06-Aberturas_de_xadrez.md)
+[2024-07-06-Xadrez](api/2024/07/2024-07-06-Xadrez.md)
+[2024-07-06-Aberturas_de_xadrez](api/2024/07/2024-07-06-Aberturas_de_xadrez.md)

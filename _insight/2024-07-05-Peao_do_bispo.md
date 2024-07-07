@@ -8,4 +8,4 @@ tags:
 # Peão do bispo
 ----
 
-[2024-07-06-Xadrez](api/2024/07/06/2024-07-06-Xadrez.md)
+[2024-07-06-Xadrez](api/2024/07/2024-07-06-Xadrez.md)

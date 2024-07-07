@@ -11,12 +11,8 @@
             "id": "4ee79e2ec7507fec",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/2024/07/2024-07-06.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -49,7 +45,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ssh",
+                "query": "toram",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,7 +62,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "b12c899f6d1d6f67",
@@ -78,9 +75,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "_posts/2024/07/2024-07-06.md"
-              }
+              "state": {}
             }
           },
           {
@@ -89,7 +84,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2024/07/2024-07-06.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +100,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2024/07/2024-07-06.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +126,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "_posts/2024/07/2024-07-06.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -225,14 +217,26 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4ee79e2ec7507fec",
+  "active": "e18e3cca90e46fbd",
   "lastOpenFiles": [
-    "_draft/How to Take Smart Notes.md",
+    "_insight/2024-07-07-Kernel.md",
+    "_insight/2024-07-07-Regras_do_xadrez.md",
+    "api/2024/07/2024-07-07-Arco_Linux.md",
+    "api/2024/07/2024-07-01-Fianqueto.md",
+    "api/2024/07/2024-07-06-Aberturas_de_flanco.md",
+    "api/2024/07/2024-07-02-Código_fonte.md",
+    "_posts/2024/07/2024-07-07.md",
     "_posts/2024/07/2024-07-06.md",
+    "api/2024/06/30/2024-06-30-Distro_Linux.md",
+    "api/2024/06/30/2024-06-30-Linux.md",
+    "_templates/Post.md",
+    "api/2024/07/2024-07-02-Open_Source.md",
+    "api/2024/06/30/2024-06-30-Sistema_Operacional.md",
+    "api/2024/06/30/2024-06-30-Arch_Linux.md",
+    "_draft/How to Take Smart Notes.md",
     "index.md",
     "maps/Xadrez.md",
-    "api/2024/07/06/2024-07-06-Xadrez.md",
-    "Regras do xadrez.md",
+    "api/2024/07/2024-07-06-Xadrez.md",
     "_insight/2024-07-06-Cavalo.md",
     "_insight/2024-07-06-Pecas_de_xadrez.md",
     "_insight/2024-07-06-Torre.md",
@@ -241,22 +245,10 @@
     "maps/Animes.md",
     "maps/Auto-desenvolvimento.md",
     "maps/Psicologia.md",
-    "_insight/2024-07-06-Protocolo.md",
-    "_draft/2024-07-06-Toram.md",
-    "maps/Toram.md",
     "Untitled",
-    "_insight/2024-07-06-Taticas_de_xadrez.md",
-    "README.md",
     "_posts/2024/07",
     "_posts/2024",
-    "_templates/Daily.md",
-    "_templates/Insight.md",
     "_posts",
-    "maps/Oracle Next Education.md",
-    "maps/Desenvolvimento de software.md",
-    "_templates/Post.md",
-    "_templates/Update.md",
-    "api/2024/07/06/2024-07-06-Aberturas_de_flanco.md",
     "api/2024/07/06",
     "_templates",
     "__private",

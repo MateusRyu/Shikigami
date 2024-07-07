@@ -10,4 +10,4 @@ aliases:
 # Táticas de xadrez
 ----
 
-[Xadrez](api/2024/07/06/2024-07-06-Xadrez.md)
+[Xadrez](api/2024/07/2024-07-06-Xadrez.md)

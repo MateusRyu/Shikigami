@@ -7,8 +7,8 @@ tags:
 ---
 # Abertura Inglesa
 ---
-[2024-07-06-Xadrez](api/2024/07/06/2024-07-06-Xadrez.md)
-[2024-07-06-Aberturas_de_xadrez](api/2024/07/06/2024-07-06-Aberturas_de_xadrez.md)
+[2024-07-06-Xadrez](api/2024/07/2024-07-06-Xadrez.md)
+[2024-07-06-Aberturas_de_xadrez](api/2024/07/2024-07-06-Aberturas_de_xadrez.md)
 ## Lista de linhas documentados
 - (`A10`) `1.c4` (sem: `1...e5`, `1...c5`, `1...e6`, `1...c6`, `1...Nf6`, `1...g6 2.d4`, `1...f5 2.d4`, `1...b6 2.d4`, `1...d6 2.e4`, `1...d6 2.d4`, `1...Nc6 2.d4`);
 -  Contra a  [2024-07-05-Caro_Kann](_insight/2024-07-05-Caro_Kann.md): ![2024-07-05-Caro_Kann](_insight/2024-07-05-Caro_Kann.md#^lista-de-linhas-contra-abertura-inglesa)
@@ -28,7 +28,7 @@ tags:
 -  (`A26`) [Abertura Inglesa, Sistema fechada](_draft/2024-07-05-Abertura_Inglesa.md#Sistema%20Fechada): `1.c4 e5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.d3 d6`;
 -  (`A27`) [2024-07-05-Abertura_Inglesa](_draft/2024-07-05-Abertura_Inglesa.md), [Sistema dos Três Cavalos](Sistema%20dos%20Três%20Cavalos): `1.c4 e5 2.Nc3 Nc6 3.Nf3` (sem: `3...Nf6`);
 -  (`A28`) [2024-07-05-Abertura_Inglesa](_draft/2024-07-05-Abertura_Inglesa.md), [Sistema dos Quatro Cavalos](Sistema%20dos%20Quatro%20Cavalos): `1.c4 e5 2.Nc3 Nc6 3.Nf3 Nf6` (sem: `4.g3`);
--  (`A29`) [2024-07-05-Abertura_Inglesa](_draft/2024-07-05-Abertura_Inglesa.md), [Sistema dos Quatro Cavalos](Sistema%20dos%20Quatro%20Cavalos), [Fianqueto da ala do Rei](api/2024/07/01/2024-07-01-Fianqueto.md#Fianqueto%20da%20ala%20do%20Rei): `1.c4 e5 2.Nc3 Nc6 3.Nf3 Nf6 4.g3`);
+-  (`A29`) [2024-07-05-Abertura_Inglesa](_draft/2024-07-05-Abertura_Inglesa.md), [Sistema dos Quatro Cavalos](Sistema%20dos%20Quatro%20Cavalos), [Fianqueto da ala do Rei](api/2024/07/2024-07-01-Fianqueto.md#Fianqueto%20da%20ala%20do%20Rei): `1.c4 e5 2.Nc3 Nc6 3.Nf3 Nf6 4.g3`);
 -  (`A30`) [2024-07-05-Abertura_Inglesa](_draft/2024-07-05-Abertura_Inglesa.md), [Defesa Simétrica](Defesa%20Simétrica): `1.c4 c5` (sem: `2.Nc3`, `2.e4`, `2.g3 g6 3.Nc3`, `2.g3 Nc6 3.Nc3`, `2.Nf3 Nc6 3.Nc3`, `2.e3 Nf6 3.d4`);
 -  (`A31`) [2024-07-05-Abertura_Inglesa](_draft/2024-07-05-Abertura_Inglesa.md), [Defesa Simétrica](Defesa%20Simétrica), formação [Benoni](Benoni): `1.c4 c5 2.Nf3 Nf6 3.d4` (sem: `3...cxd4 4.Nxd4 e6`, `3...cxd4 4.Nxd4 a6 5.Nc3 e6`, `3...cxd4 4.Nxd4 Nc6 5.Nc3 e6`);
 -  (`A32`) [2024-07-05-Abertura_Inglesa](_draft/2024-07-05-Abertura_Inglesa.md), [Defesa Simétrica](Defesa%20Simétrica): `1.c4 c5 2.Nf3 Nf6 3.d4 cxd4 4.Nxd4 e6` (sem: `5.Nc3 Nc6`);
