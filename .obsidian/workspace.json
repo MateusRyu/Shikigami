@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "api/2024/07/2024-07-06-Xadrez.md",
+                "file": "_insight/2024-07-06-Torre.md",
                 "mode": "source",
                 "source": false
               }
@@ -79,7 +79,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "api/2024/07/2024-07-06-Xadrez.md"
+                "file": "_insight/2024-07-06-Torre.md"
               }
             }
           },
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "api/2024/07/2024-07-06-Xadrez.md",
+                "file": "_insight/2024-07-06-Torre.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "api/2024/07/2024-07-06-Xadrez.md",
+                "file": "_insight/2024-07-06-Torre.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "api/2024/07/2024-07-06-Xadrez.md",
+                "file": "_insight/2024-07-06-Torre.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -228,6 +228,14 @@
   },
   "active": "4ee79e2ec7507fec",
   "lastOpenFiles": [
+    "_insight/2024-07-06-Pecas_de_xadrez.md",
+    "_insight/2024-07-07-Bispo.md",
+    "_insight/2024-07-06-Cavalo.md",
+    "_insight/2024-07-07-Dama.md",
+    "_insight/2024-07-07-Rei.md",
+    "api/2024/07/2024-07-06-Xadrez.md",
+    "_insight/Jogo de tabuleiro.md",
+    "_insight/Jogo.md",
     "api/2024/07/2024-07-07-Arco_Linux.md",
     "_insight/2024-07-07-MMORPG.md",
     "_draft/2024-07-06-Toram.md",
@@ -246,14 +254,6 @@
     "api/2024/06/30/2024-06-30-Arch_Linux.md",
     "_draft/How to Take Smart Notes.md",
     "index.md",
-    "maps/Xadrez.md",
-    "api/2024/07/2024-07-06-Xadrez.md",
-    "_insight/2024-07-06-Cavalo.md",
-    "_insight/2024-07-06-Pecas_de_xadrez.md",
-    "_insight/2024-07-06-Torre.md",
-    "_insight/Peão da torre.md",
-    "_insight/2024-07-06-Peão.md",
-    "maps/Animes.md",
     "Untitled",
     "_posts/2024/07",
     "_posts/2024",

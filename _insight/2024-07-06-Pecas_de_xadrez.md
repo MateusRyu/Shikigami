@@ -6,12 +6,16 @@ tags:
   - v0
 aliases:
   - Peças de xadrez
+  - peças de xadrez
+updated at: 2024-07-07T16:16:59-03:00
 ---
 # Peças de xadrez
 ----
--  [Rei](_insight/Rei.md);
-- [Dama](Dama);
-- [2024-07-06-Cavalo](_insight/2024-07-06-Cavalo.md);
-- [Bispo](_insight/Bispo.md);
-- [2024-07-06-Torre](_insight/2024-07-06-Torre.md);
-- [2024-07-06-Peão](_insight/2024-07-06-Peão.md);
+-  1 [rei](_insight/2024-07-07-Rei.md);
+-  1 [dama](_insight/2024-07-07-Dama.md);
+-  2 [cavalos](_insight/2024-07-06-Cavalo.md);
+-  2 [bispos](_insight/2024-07-07-Bispo.md);
+-  2 [2024-07-06-Torre](_insight/2024-07-06-Torre.md);
+-  8 [2024-07-06-Peão](_insight/2024-07-06-Peão.md);
+
+^lista-de-pecas
