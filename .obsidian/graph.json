@@ -1,38 +1,45 @@
 {
   "collapse-filter": false,
   "search": "",
-  "showTags": true,
+  "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "path:_insight  ",
       "color": {
         "a": 1,
-        "rgb": 14967014
+        "rgb": 16777215
       }
     },
     {
       "query": "path:_draft  ",
       "color": {
         "a": 1,
-        "rgb": 14048348
+        "rgb": 10770651
       }
     },
     {
-      "query": "path:src  ",
+      "query": "path:api  ",
       "color": {
         "a": 1,
-        "rgb": 11392604
+        "rgb": 255
       }
     },
     {
-      "query": "path:index  ",
+      "query": "path:maps  ",
       "color": {
         "a": 1,
-        "rgb": 6084188
+        "rgb": 16776960
+      }
+    },
+    {
+      "query": "path:_posts  ",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
       }
     }
   ],
@@ -46,6 +53,6 @@
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.221238694202479,
-  "close": false
+  "scale": 0.1847929795239716,
+  "close": true
 }
