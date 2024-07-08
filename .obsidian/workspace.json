@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2024-07-07.md",
+                "file": "2024-07-07-Metodos_de_estudo.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,7 +31,7 @@
       {
         "id": "c4bb36dfc64d123c",
         "type": "tabs",
-        "dimension": 55.47550432276657,
+        "dimension": 71.18155619596543,
         "children": [
           {
             "id": "d119f22fe88304d8",
@@ -71,7 +71,7 @@
       {
         "id": "b12c899f6d1d6f67",
         "type": "tabs",
-        "dimension": 44.524495677233425,
+        "dimension": 28.818443804034583,
         "children": [
           {
             "id": "9cb7546bf61a2df4",
@@ -79,7 +79,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2024-07-07.md"
+                "file": "2024-07-07-Metodos_de_estudo.md"
               }
             }
           },
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2024-07-07.md",
+                "file": "2024-07-07-Metodos_de_estudo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2024-07-07.md",
+                "file": "2024-07-07-Metodos_de_estudo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "_posts/2024-07-07.md",
+                "file": "2024-07-07-Metodos_de_estudo.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -230,6 +230,7 @@
   "active": "3e5fe2a2c0c2ee10",
   "lastOpenFiles": [
     "api/2024/06/2024-06-30-Anki.md",
+    "2024-07-07-Metodos_de_estudo.md",
     "_posts/2024-07-07.md",
     "api/2024/06/2024-06-30-Arch_Linux.md",
     "_insight/2024/07/2024-07-07-Rolling_Release.md",
@@ -254,7 +255,6 @@
     "api/2024/07/2024-07-01-Fianqueto.md",
     "api/2024/07/2024-07-01-Gambito.md",
     "api/2024/07/2024-07-02-Código_fonte.md",
-    "_templates/Insight.md",
     "_insight/2024/07",
     "_insight/2024",
     "_posts/2024/07",
