@@ -33,4 +33,4 @@ A lista a seguir vai seguir [Encyclopaedia of Chess Openings](api/2024/07/2024-0
 1.e4 without 1...c5, 1...e6 or 1...e5
 
 - B00 [[Abertura peão do rei]] sem `1...e5`, `1...e6`, `1...d5`, `1...Nf6`, `1...g6`, `1...d6`, `1...c6`, `1...c5`.
-    -  [Defesa Nimzowitsch](Defesa%20Nimzowitsch.md): `1...Nc6` (sem `2.Nf3 e5` (C44, C50, C60))
+    -  [2024-07-08-Defesa_Nimzowitsch](_draft/2024/08/2024-07-08-Defesa_Nimzowitsch.md): `1...Nc6` (sem `2.Nf3 e5` (C44, C50, C60))
