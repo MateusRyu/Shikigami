@@ -1,7 +1,7 @@
 
 [[Ryu]]
 [[Aoi]]
-[[Kanna]]
+[[Toram - Kanna]]
 [[Aria]]
 [[Yuu]]
 [[Komari]]

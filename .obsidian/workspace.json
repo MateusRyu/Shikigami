@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Toram - AoiRyuu.md",
+                "file": "Toram - Kanna.md",
                 "mode": "source",
                 "source": false
               }
@@ -92,7 +92,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Toram - AoiRyuu.md"
+                "file": "Toram - Kanna.md"
               }
             }
           },
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Toram - AoiRyuu.md",
+                "file": "Toram - Kanna.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Toram - AoiRyuu.md",
+                "file": "Toram - Kanna.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Toram - AoiRyuu.md",
+                "file": "Toram - Kanna.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -241,8 +241,9 @@
   },
   "active": "9abad50a8419c19e",
   "lastOpenFiles": [
-    "_draft/2024-07-06-Toram.md",
     "Toram - AoiRyuu.md",
+    "Toram - Kanna.md",
+    "_draft/2024-07-06-Toram.md",
     "conflict-files-obsidian-git.md",
     "_insight/atomic.md",
     "_insight/Desperado.md",
@@ -266,7 +267,6 @@
     "_insight/2024-07-07-Bispo_xadrez.md",
     "_insight/2024-07-06-Torre_xadrez.md",
     "_insight/2024-07-06-Taticas_de_xadrez.md",
-    "_insight/2024-07-06-Protocolo.md",
     "assets/Pasted Image 20240613173345_877.png",
     "assets/Pasted Image 20240613172503_261.png",
     "_insight/2024/07",
