@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_insight/2024/07/2024-07-07-DIY.md",
+                "file": "maps/Toram.md",
                 "mode": "source",
                 "source": false
               }
@@ -71,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_insight/2024/07/2024-07-07-DIY.md",
+                "file": "maps/Toram.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +88,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_insight/2024/07/2024-07-07-DIY.md",
+                "file": "maps/Toram.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -100,7 +100,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_insight/2024/07/2024-07-07-DIY.md"
+                "file": "maps/Toram.md"
               }
             }
           }
@@ -125,7 +125,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "_insight/2024/07/2024-07-07-DIY.md",
+                "file": "maps/Toram.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -217,10 +217,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d119f22fe88304d8",
+  "active": "62979b0e1b40ac9e",
   "lastOpenFiles": [
-    "_insight/2024/07/2024-07-08-Ciencia.md",
     "_insight/2024/07/2024-07-07-DIY.md",
+    "_insight/2024/07/2024-07-08-Ciencia.md",
     "_draft/2024/08/2024-07-08-Abertura_Van_Geet.md",
     "_insight/2024/07/2024-07-08-Abertura_Vienna.md",
     "_insight/2024/07/2024-07-08-Spring.md",
