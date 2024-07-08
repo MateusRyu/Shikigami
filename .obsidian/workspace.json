@@ -23,8 +23,12 @@
             "id": "7f2e758cfa35656a",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "api/2024/06/30/2024-06-30-Shikigami.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -87,7 +91,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "api/2024/06/30/2024-06-30-Shikigami.md"
+              }
             }
           },
           {
@@ -96,6 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "api/2024/06/30/2024-06-30-Shikigami.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,6 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "api/2024/06/30/2024-06-30-Shikigami.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,6 +146,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "api/2024/06/30/2024-06-30-Shikigami.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -232,6 +241,9 @@
   },
   "active": "7f2e758cfa35656a",
   "lastOpenFiles": [
+    "_posts/2024/07/2024-07-07.md",
+    "api/2024/07/2024-07-07-Arco_Linux.md",
+    "api/2024/06/30/2024-06-30-Shikigami.md",
     "conflict-files-obsidian-git.md",
     "api/2024/07/2024-07-06-Aberturas_de_flanco.md",
     "_insight/2024/07/2024-07-03-Abertura_Saragoca.md",
@@ -257,9 +269,6 @@
     "_insight/2024-07-07-Chaturanga.md",
     "api/2024/07/2024-07-06-Xadrez.md",
     "_insight/2024-07-07-Regras_do_xadrez.md",
-    "_insight/2024-07-07-Xeque_mate.md",
-    "api/2024/07/2024-07-07-Arco_Linux.md",
-    "api/2024/06/30/2024-06-30-Distro_Linux.md",
     "_posts/2024/07",
     "_posts/2024",
     "_posts",
