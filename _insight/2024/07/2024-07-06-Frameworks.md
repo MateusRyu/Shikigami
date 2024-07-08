@@ -6,8 +6,9 @@ tags:
   - v0
 aliases:
   - Frameworks
+  - frameworks
+  - Framework
+  - framework
 ---
 # Frameworks
 ----
-
-- [Spring](_draft/Spring.md);

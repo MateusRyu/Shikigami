@@ -11,8 +11,12 @@
             "id": "3e5fe2a2c0c2ee10",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "maps/Desenvolvimento de software.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -74,7 +78,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "maps/Desenvolvimento de software.md"
+              }
             }
           },
           {
@@ -83,6 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "maps/Desenvolvimento de software.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,6 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "maps/Desenvolvimento de software.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,6 +134,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "maps/Desenvolvimento de software.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -220,12 +229,14 @@
   },
   "active": "3e5fe2a2c0c2ee10",
   "lastOpenFiles": [
+    "_insight/2024-07-06-Linguagem_de_marcação.md",
+    "_insight/2024/07/2024-07-06-Frameworks.md",
     "_posts/2024/07/2024-07-07.md",
     "_posts/2024/07/2024-07-06.md",
+    "api/2024/06/2024-06-30-Android.md",
     "assets/Pasted Image 20240613173345_877.png",
     "assets/Pasted Image 20240613172503_261.png",
     "api/2024/06/2024-06-30-Anki.md",
-    "api/2024/06/2024-06-30-Android.md",
     "_insight/2024-07-07-Repeticao_espacada.md",
     "2024-07-07-LaTeX.md",
     "_insight/2024-07-07-Metodos_de_estudo.md",
@@ -246,8 +257,6 @@
     "_insight/2024/07/2024-07-07-Microsoft.md",
     "_draft/2024-06-30-Git.md",
     "maps/Desenvolvimento de software.md",
-    "index.md",
-    "api/2024/06/2024-06-30-Windows.md",
     "_insight/2024/07",
     "_insight/2024",
     "_posts/2024/07",
