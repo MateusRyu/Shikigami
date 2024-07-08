@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-07-08-colorschemes.md",
+                "file": "_posts/2024-07-08.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,7 +31,6 @@
       {
         "id": "c4bb36dfc64d123c",
         "type": "tabs",
-        "dimension": 56.628242074927954,
         "children": [
           {
             "id": "d119f22fe88304d8",
@@ -65,23 +64,6 @@
               "type": "bookmarks",
               "state": {}
             }
-          }
-        ]
-      },
-      {
-        "id": "b12c899f6d1d6f67",
-        "type": "tabs",
-        "dimension": 43.371757925072046,
-        "children": [
-          {
-            "id": "9cb7546bf61a2df4",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "2024-07-08-colorschemes.md"
-              }
-            }
           },
           {
             "id": "43ec2e11a74876d9",
@@ -89,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-07-08-colorschemes.md",
+                "file": "_posts/2024-07-08.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,14 +88,23 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-07-08-colorschemes.md",
+                "file": "_posts/2024-07-08.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "9cb7546bf61a2df4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "_posts/2024-07-08.md"
+              }
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -134,7 +125,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024-07-08-colorschemes.md",
+                "file": "_posts/2024-07-08.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -228,7 +219,9 @@
   },
   "active": "62979b0e1b40ac9e",
   "lastOpenFiles": [
+    "_posts/2024-07-08.md",
     "2024-07-08-lazy_nvim.md",
+    "2024-07-08-Statusline.md",
     "2024-07-08-colorschemes.md",
     "2024-07-08-rockspecs.md",
     "2024-07-08-luarocks.md",
@@ -252,8 +245,6 @@
     "maps/Toram.md",
     "api/2024/06/2024-06-30-Android.md",
     "_insight/2024-07-06-Taticas_de_xadrez.md",
-    "_insight/2024/07/2024-07-06-Protocolo.md",
-    "_insight/2024/07/2024-07-06-Peão_xadrez.md",
     "assets/Pasted Image 20240613173345_877.png",
     "assets/Pasted Image 20240613172503_261.png",
     "_insight/2024/07",
