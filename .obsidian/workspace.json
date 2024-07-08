@@ -13,19 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_insight/2024-07-03-Abertura_Sokolsky.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7f2e758cfa35656a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "api/2024/06/30/2024-06-30-Shikigami.md",
+                "file": "_insight/2024-07-03-Abertura_Vant_Kruijs.md",
                 "mode": "source",
                 "source": false
               }
@@ -91,7 +79,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_insight/2024-07-03-Abertura_Sokolsky.md"
+                "file": "_insight/2024-07-03-Abertura_Vant_Kruijs.md"
               }
             }
           },
@@ -101,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_insight/2024-07-03-Abertura_Sokolsky.md",
+                "file": "_insight/2024-07-03-Abertura_Vant_Kruijs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_insight/2024-07-03-Abertura_Sokolsky.md",
+                "file": "_insight/2024-07-03-Abertura_Vant_Kruijs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +133,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "_insight/2024-07-03-Abertura_Sokolsky.md",
+                "file": "_insight/2024-07-03-Abertura_Vant_Kruijs.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -156,7 +144,7 @@
                   "showTags": false,
                   "showAttachments": false,
                   "hideUnresolved": false,
-                  "collapse-color-groups": true,
+                  "collapse-color-groups": false,
                   "colorGroups": [
                     {
                       "query": "path:_draft  ",
@@ -240,12 +228,14 @@
   },
   "active": "9d9533146dd69483",
   "lastOpenFiles": [
+    "api/2024/06/30/2024-06-30-Shikigami.md",
+    "_insight/2024-07-03-Abertura_Vant_Kruijs.md",
+    "_insight/2024/07/2024-07-03-Abertura_Sokolsky.md",
     "_insight/2024-07-07-Raciocínio_logico.md",
     "_insight/2024-07-07-Planejamento_estrategico.md",
     "_insight/2024-07-07-Historia_do_xadrez.md",
     "_insight/2024-07-07-Encyclopaedia_of_Chess_Openings.md",
     "_insight/2024/07/2024-07-03-Abertura_Saragoca.md",
-    "api/2024/06/30/2024-06-30-Shikigami.md",
     "_posts/2024/07/2024-07-07.md",
     "api/2024/07/2024-07-07-Arco_Linux.md",
     "conflict-files-obsidian-git.md",
@@ -266,8 +256,6 @@
     "api/2024/07/2024-07-07-Habilidade.md",
     "_insight/2024-07-07-Decisoes_sob_pressao.md",
     "_insight/2024-07-07-Chaturanga.md",
-    "api/2024/07/2024-07-06-Xadrez.md",
-    "_insight/2024-07-07-Regras_do_xadrez.md",
     "_posts/2024/07",
     "_posts/2024",
     "_posts",
