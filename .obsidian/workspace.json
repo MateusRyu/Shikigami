@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0b4103d7722f72e3",
+            "id": "3e5fe2a2c0c2ee10",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Defesas Índias.md",
+                "file": "api/2024/06/2024-06-30-Criptografia.md",
                 "mode": "source",
                 "source": false
               }
@@ -79,7 +79,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Defesas Índias.md"
+                "file": "api/2024/06/2024-06-30-Criptografia.md"
               }
             }
           },
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Defesas Índias.md",
+                "file": "api/2024/06/2024-06-30-Criptografia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Defesas Índias.md",
+                "file": "api/2024/06/2024-06-30-Criptografia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Defesas Índias.md",
+                "file": "api/2024/06/2024-06-30-Criptografia.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -227,34 +227,34 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0b4103d7722f72e3",
+  "active": "3e5fe2a2c0c2ee10",
   "lastOpenFiles": [
-    "api/2024/07/2024-07-06-Aberturas_de_flanco.md",
-    "Defesas Índias.md",
-    "_insight/2024-07-07-Encyclopaedia_of_Chess_Openings.md",
+    "api/2024/06/2024-06-30-GitHub.md",
+    "api/2024/06/2024-06-30-Distro_Linux.md",
+    "_insight/2024/07/2024-07-07-Microsoft.md",
+    "_draft/2024-06-30-Git.md",
+    "maps/Desenvolvimento de software.md",
+    "index.md",
+    "api/2024/06/2024-06-30-Windows.md",
+    "api/2024/06/2024-06-30-Sistema_Operacional.md",
+    "api/2024/06/2024-06-30-Android.md",
+    "_insight/2024/07/2024-07-07-Defesas_indias.md",
+    "api/2024/07/2024-07-01-Fianqueto.md",
+    "api/2024/07/2024-07-01-Gambito.md",
+    "api/2024/07/2024-07-02-Código_fonte.md",
+    "_templates/Insight.md",
+    "api/2024/07/2024-07-02-Hardware.md",
+    "api/2024/07/2024-07-02-Lichess.md",
+    "api/2024/07/2024-07-02-Open_Source.md",
+    "api/2024/07/2024-07-02-Software.md",
+    "api/2024/07/2024-07-06-Xadrez.md",
+    "api/2024/07/2024-07-07-Arco_Linux.md",
+    "api/2024/07/2024-07-07-Encyclopaedia_of_Chess_Openings.md",
+    "api/2024/07/2024-07-07-Habilidade.md",
+    "_draft/2024-07-06-Aberturas_de_flanco.md",
+    "_draft/2024-07-06-Aberturas_de_xadrez.md",
+    "_insight/2024/07/2024-07-03-Abertura_Barnes.md",
     "_insight/2024/07/2024-07-07-Aberturas_abertas.md",
-    "_insight/2024/07/2024-07-07-Defesas_Semiabertas.md",
-    "_insight/2024/07/2024-07-07-Aberturas_fechadas.md",
-    "_insight/2024/07/2024-07-07-Aberturas_semi_fechadas.md",
-    "_insight/2024/07/2024-07-05-Ataque-Sodio.md",
-    "_insight/2024/07/2024-07-06-Cavalo_xadrez.md",
-    "_insight/2024/07/2024-07-06-Finais_elementais.md",
-    "_insight/2024/07/2024-07-07-Defesa_Francesa.md",
-    "_insight/2024/07/2024-07-05-Caro_Kann.md",
-    "_insight/2024/07/2024-07-05-Peao_do_bispo.md",
-    "_insight/2024-07-06-Pecas_de_xadrez.md",
-    "_insight/2024/07/2024-07-05-Gambito.md",
-    "_insight/2024/07/2024-07-03-Abertura_Vant_Kruijs.md",
-    "_insight/2024/07/2024-07-04-Autodisciplina.md",
-    "_insight/2024/07/2024-07-05-Abertura_Inglesa_contra_a_Caro_Kann.md",
-    "api/2024/07/2024-07-06-Aberturas_de_xadrez.md",
-    "_draft/2024-07-05-Abertura_Inglesa.md",
-    "api/2024/06/30/2024-06-30-Shikigami.md",
-    "_insight/2024/07/2024-07-03-Abertura_Sokolsky.md",
-    "_insight/2024-07-07-Raciocínio_logico.md",
-    "_insight/2024-07-07-Planejamento_estrategico.md",
-    "_insight/2024-07-07-Historia_do_xadrez.md",
-    "_insight/2024/07/2024-07-03-Abertura_Saragoca.md",
     "_insight/2024/07",
     "_insight/2024",
     "_posts/2024/07",

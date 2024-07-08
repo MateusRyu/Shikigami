@@ -9,7 +9,7 @@ aliases: Dataview
 # Dataview (Obsidian)
 ----
 
-Dataview é um plugin do [Obsidian](api/2024/06/30/2024-06-30-Obsidian.md) para consulta de documentos e seus metadados.
+Dataview é um plugin do [Obsidian](api/2024/06/2024-06-30-Obsidian.md) para consulta de documentos e seus metadados.
 
 ````
 ```dataview

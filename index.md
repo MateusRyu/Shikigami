@@ -17,4 +17,4 @@ aliases:
 	- [Oracle Next Education](maps/Oracle%20Next%20Education.md);
 	- [Psicologia](maps/Psicologia.md)
 - Projetos:
-	- [Shikigami](api/2024/06/30/2024-06-30-Shikigami.md)
+	- [Shikigami](api/2024/06/2024-06-30-Shikigami.md)
