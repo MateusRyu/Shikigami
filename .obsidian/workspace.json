@@ -1,0 +1,268 @@
+{
+  "main": {
+    "id": "628d87c2f8cfef6c",
+    "type": "split",
+    "children": [
+      {
+        "id": "12460c2d2edb81db",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "62979b0e1b40ac9e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "maps/Toram.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4fcdc6381936cc9a",
+    "type": "split",
+    "children": [
+      {
+        "id": "c4bb36dfc64d123c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d119f22fe88304d8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e18e3cca90e46fbd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "be2647f2eeba63c8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "43ec2e11a74876d9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "maps/Toram.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5f2bd064f4f4b0be",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "maps/Toram.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9cb7546bf61a2df4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "maps/Toram.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 261.5
+  },
+  "right": {
+    "id": "90e0184107fbeb3d",
+    "type": "split",
+    "children": [
+      {
+        "id": "220eed555dd601e7",
+        "type": "tabs",
+        "dimension": 52.82258064516129,
+        "children": [
+          {
+            "id": "047ea889dd786e2e",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "maps/Toram.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 2,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": false,
+                  "colorGroups": [
+                    {
+                      "query": "path:_draft  ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 13908223
+                      }
+                    },
+                    {
+                      "query": "path:_insight  ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 16777215
+                      }
+                    },
+                    {
+                      "query": "path:api  ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 11007
+                      }
+                    },
+                    {
+                      "query": "path:maps  ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 15662848
+                      }
+                    }
+                  ],
+                  "collapse-display": true,
+                  "showArrow": true,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.822916666666667,
+                  "repelStrength": 19.7916666666667,
+                  "linkStrength": 1,
+                  "linkDistance": 30,
+                  "scale": 0.19753086419753055,
+                  "close": true
+                }
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "ba33b0496362c4d7",
+        "type": "tabs",
+        "dimension": 47.17741935483871,
+        "children": [
+          {
+            "id": "be53e90a77b82a63",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 373.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "random-note:Open random note": false,
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "62979b0e1b40ac9e",
+  "lastOpenFiles": [
+    "_insight/2024/07/2024-07-07-DIY.md",
+    "_insight/2024/07/2024-07-08-Ciencia.md",
+    "_draft/2024/08/2024-07-08-Abertura_Van_Geet.md",
+    "_insight/2024/07/2024-07-08-Abertura_Vienna.md",
+    "_insight/2024/07/2024-07-08-Spring.md",
+    "_insight/2024/07/2024-07-08-Sistema_de_controle_de_versoes.md",
+    "_draft/2024/06/2024-06-30-Git.md",
+    "_draft/2024/08/2024-07-08-Psicologia.md",
+    "_insight/2024/07/2024-07-08-HTTP.md",
+    "_insight/2024/07/2024-07-08-Java.md",
+    "_insight/2024/07/2024-07-08-Linus_Torvalds.md",
+    "_insight/2024/07/2024-07-08-Oracle.md",
+    "_draft/2024/08/2024-07-08-Markdown.md",
+    "_draft/2024/08/2024-07-08-Oposição_de_Rei.md",
+    "_draft/2024/08/2024-07-08-Final_de_peao.md",
+    "api/2024/06/2024-06-30-Linux.md",
+    "api/2024/06/2024-06-30-GitHub.md",
+    "_draft/2024/08/2024-07-08-Kuuchuu_Buranko.md",
+    "_draft/2024/08/2024-07-08-HyperText_Markup_Language.md",
+    "_insight/2024/07/2024-07-06-Linguagem_de_marcação.md",
+    "_insight/2024/07/2024-07-08-Cross_Origin_Resource_Sharing.md",
+    "_insight/2024/07/2024-07-06-Protocolo.md",
+    "_draft/2024/07/2024-07-03-How_to_Take_Smart_Notes.md",
+    "_draft/2024/08/2024-07-08-Gambito_Englund.md",
+    "_draft/2024/08/2024-07-08-Gambito_do_rei.md",
+    "maps/Livros para ler.md",
+    "_draft/2024/08",
+    "_draft/2024/07",
+    "_draft/2024/06",
+    "_draft/2024",
+    "assets/Pasted Image 20240613173345_877.png",
+    "assets/Pasted Image 20240613172503_261.png",
+    "_insight/2024/07",
+    "_insight/2024",
+    "_posts/2024/07",
+    "_posts/2024",
+    "_posts",
+    "api/2024/07/06",
+    "Sem título.canvas",
+    "src/canvas/Psicologia.canvas",
+    "__daily/images/logotipo-2.jpeg",
+    "__daily/images/logotipo-1.jpeg",
+    "__daily/images/logo.jpeg",
+    "__daily/images/fundo.jpeg",
+    "__daily/images/capa.jpeg"
+  ]
+}
