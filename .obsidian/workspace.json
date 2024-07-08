@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "api/2024/06/2024-06-30-Criptografia.md",
+                "file": "_posts/2024-07-07.md",
                 "mode": "source",
                 "source": false
               }
@@ -79,7 +79,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "api/2024/06/2024-06-30-Criptografia.md"
+                "file": "_posts/2024-07-07.md"
               }
             }
           },
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "api/2024/06/2024-06-30-Criptografia.md",
+                "file": "_posts/2024-07-07.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "api/2024/06/2024-06-30-Criptografia.md",
+                "file": "_posts/2024-07-07.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "api/2024/06/2024-06-30-Criptografia.md",
+                "file": "_posts/2024-07-07.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -229,6 +229,19 @@
   },
   "active": "3e5fe2a2c0c2ee10",
   "lastOpenFiles": [
+    "api/2024/06/2024-06-30-Anki.md",
+    "_posts/2024-07-07.md",
+    "api/2024/06/2024-06-30-Arch_Linux.md",
+    "_insight/2024/07/2024-07-07-Rolling_Release.md",
+    "api/2024/07/2024-07-07-Arco_Linux.md",
+    "api/2024/06/2024-06-30-Sistema_Operacional.md",
+    "_draft/2024-07-07-DIY.md",
+    "api/2024/06/2024-06-30-Criptografia.md",
+    "_draft/2024-06-30-Arquétipos.md",
+    "_insight/2024-07-07-Inconsciente_coletivo.md",
+    "_draft/2024-07-07-Psicologia_analitica.md",
+    "_insight/2024/07/2024-07-07-Carl_Jung.md",
+    "_draft/2024-06-30-Complexo.md",
     "api/2024/06/2024-06-30-GitHub.md",
     "api/2024/06/2024-06-30-Distro_Linux.md",
     "_insight/2024/07/2024-07-07-Microsoft.md",
@@ -236,25 +249,12 @@
     "maps/Desenvolvimento de software.md",
     "index.md",
     "api/2024/06/2024-06-30-Windows.md",
-    "api/2024/06/2024-06-30-Sistema_Operacional.md",
     "api/2024/06/2024-06-30-Android.md",
     "_insight/2024/07/2024-07-07-Defesas_indias.md",
     "api/2024/07/2024-07-01-Fianqueto.md",
     "api/2024/07/2024-07-01-Gambito.md",
     "api/2024/07/2024-07-02-Código_fonte.md",
     "_templates/Insight.md",
-    "api/2024/07/2024-07-02-Hardware.md",
-    "api/2024/07/2024-07-02-Lichess.md",
-    "api/2024/07/2024-07-02-Open_Source.md",
-    "api/2024/07/2024-07-02-Software.md",
-    "api/2024/07/2024-07-06-Xadrez.md",
-    "api/2024/07/2024-07-07-Arco_Linux.md",
-    "api/2024/07/2024-07-07-Encyclopaedia_of_Chess_Openings.md",
-    "api/2024/07/2024-07-07-Habilidade.md",
-    "_draft/2024-07-06-Aberturas_de_flanco.md",
-    "_draft/2024-07-06-Aberturas_de_xadrez.md",
-    "_insight/2024/07/2024-07-03-Abertura_Barnes.md",
-    "_insight/2024/07/2024-07-07-Aberturas_abertas.md",
     "_insight/2024/07",
     "_insight/2024",
     "_posts/2024/07",

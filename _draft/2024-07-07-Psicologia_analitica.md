@@ -1,4 +1,17 @@
-É uma vertente da [Psicologia](_draft/Psicologia.md) que vai se preocupar em entender como se dá a cognição das pessoas. Ele foi elaborado por [[Carl Jung]] e por essa vertente pode ser chamada de psicologia Junguiana e suas ramificações de neo-junguiana.
+---
+layout: post
+title: Psicologia analítica
+created_at: 2024-07-07T22:44:01-03:00
+tags:
+  - v0
+aliases:
+  - Psicologia analítica
+  - psicologia analítica
+---
+# Psicologia analítica
+---
+
+É uma vertente da [Psicologia](_draft/Psicologia.md) que vai se preocupar em entender como se dá a cognição das pessoas. Ele foi elaborado por [[_insight/2024/07/2024-07-07-Carl_Jung]] e por essa vertente pode ser chamada de psicologia Junguiana e suas ramificações de neo-junguiana.
 
 ## Autoconhecimento
 
@@ -6,7 +19,7 @@ A psicologia analítica, por se basear na cognição das pessoas, serve como fer
 
 [[Inconsciente]] e [[Consciência]]...  
 
-Segundo Jung, todas as pessoas nascem com o [[api/2024/06/2024-06-30-Self]] já preenchida com [[api/2024/06/2024-06-30-Arquétipos]] coletivos para que possamos interagir com o mundo de forma saudável e sem grandes problemas. Após o desenvolvimento da psique da criança, as outras estruturas nascem e crescem dentro do [2024-06-30-Self](api/2024/06/2024-06-30-Self.md), como o [[Ego]], a [[Memória]] e os [[api/2024/06/2024-06-30-Complexo]].
+Segundo Jung, todas as pessoas nascem com o [[api/2024/06/2024-06-30-Self]] já preenchida com [[_draft/2024-06-30-Arquétipos]] coletivos para que possamos interagir com o mundo de forma saudável e sem grandes problemas. Após o desenvolvimento da psique da criança, as outras estruturas nascem e crescem dentro do [2024-06-30-Self](api/2024/06/2024-06-30-Self.md), como o [[Ego]], a [[Memória]] e os [[_draft/2024-06-30-Complexo]].
 
 ## Ego  
 Ego é a fração na qual temos consciência do nosso Self. Em palavras mais informal, é aquilo que acreditamos que somos e onde ocorre nossos pensamentos racionais.
