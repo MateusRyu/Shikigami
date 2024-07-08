@@ -14,8 +14,21 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "47ef1907b58f35d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -67,6 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -83,6 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -93,7 +108,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "conflict-files-obsidian-git.md"
+              }
             }
           }
         ],
@@ -118,6 +135,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -210,35 +228,35 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "62979b0e1b40ac9e",
+  "active": "47ef1907b58f35d8",
   "lastOpenFiles": [
-    "_insight/2024/07/2024-07-08-ssh_agent.md",
-    "api/2024/06/2024-06-30-SSH.md",
+    "conflict-files-obsidian-git.md",
+    "_insight/atomic.md",
+    "_insight/Roque.md",
+    "_insight/Peões.md",
+    "_insight/Peão do cavalo.md",
+    "_insight/Peão do Rei.md",
+    "_insight/Peão da torre.md",
+    "_insight/Peão da dama.md",
+    "_insight/Memória.md",
+    "_insight/Memória de longo prazo.md",
+    "_insight/Linguagem de programação.md",
+    "_insight/Jogo.md",
+    "_insight/Jogo de tabuleiro.md",
+    "_insight/Final de torres.md",
+    "_insight/Desperado.md",
+    "_insight/Cross-Origin Resource Sharing (CORS).md",
+    "_insight/Ataque Grob.md",
+    "_insight/Abertura Ware.md",
+    "_insight/2024-07-07-Xeque_mate.md",
+    "_insight/2024-07-07-Repeticao_espacada.md",
+    "_insight/2024-07-07-Rei_xadrez.md",
+    "_insight/2024-07-07-Regras_do_xadrez.md",
+    "_insight/2024-07-07-Raciocínio_logico.md",
+    "_insight/2024-07-07-Planejamento_estrategico.md",
+    "_insight/2024-07-07-Metodos_de_estudo.md",
+    "_insight/2024-07-07-MMORPG.md",
     "_insight/2024/08",
-    "api/2024/07/2024-07-06-Xadrez.md",
-    "maps/Toram.md",
-    "_insight/2024/07/2024-07-07-DIY.md",
-    "_insight/2024/07/2024-07-08-Ciencia.md",
-    "_draft/2024/08/2024-07-08-Abertura_Van_Geet.md",
-    "_insight/2024/07/2024-07-08-Abertura_Vienna.md",
-    "_insight/2024/07/2024-07-08-Spring.md",
-    "_insight/2024/07/2024-07-08-Sistema_de_controle_de_versoes.md",
-    "_draft/2024/06/2024-06-30-Git.md",
-    "_draft/2024/08/2024-07-08-Psicologia.md",
-    "_insight/2024/07/2024-07-08-HTTP.md",
-    "_insight/2024/07/2024-07-08-Java.md",
-    "_insight/2024/07/2024-07-08-Linus_Torvalds.md",
-    "_insight/2024/07/2024-07-08-Oracle.md",
-    "_draft/2024/08/2024-07-08-Markdown.md",
-    "_draft/2024/08/2024-07-08-Oposição_de_Rei.md",
-    "_draft/2024/08/2024-07-08-Final_de_peao.md",
-    "api/2024/06/2024-06-30-Linux.md",
-    "api/2024/06/2024-06-30-GitHub.md",
-    "_draft/2024/08/2024-07-08-Kuuchuu_Buranko.md",
-    "_draft/2024/08/2024-07-08-HyperText_Markup_Language.md",
-    "_insight/2024/07/2024-07-06-Linguagem_de_marcação.md",
-    "_insight/2024/07/2024-07-08-Cross_Origin_Resource_Sharing.md",
-    "_insight/2024/07/2024-07-06-Protocolo.md",
     "_draft/2024/08",
     "_draft/2024/07",
     "_draft/2024/06",

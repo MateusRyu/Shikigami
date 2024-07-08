@@ -1,0 +1,1 @@
+Meio para criar um [Algoritmo](Algoritmo.md) computacional.
