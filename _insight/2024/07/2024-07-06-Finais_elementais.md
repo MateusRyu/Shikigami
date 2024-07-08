@@ -19,5 +19,5 @@ Os finais elementares no [xadrez](api/2024/07/2024-07-06-Xadrez.md) são aqueles
 
 ## Lista de finais elementais
 ---
-- [2024-07-08-Final_de_peao](_draft/2024/08/2024-07-08-Final_de_peao.md);
-- [2024-07-08-Final_de_torres](_insight/2024/07/2024-07-08-Final_de_torres.md);
+- [Final de peão](Final%20de%20peão.md);
+- [Final de torres](_insight/Final%20de%20torres.md);

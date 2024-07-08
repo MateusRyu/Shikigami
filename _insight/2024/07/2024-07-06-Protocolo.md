@@ -11,5 +11,5 @@ aliases:
 # Protocolos
 ----
 
-- [2024-07-08-HTTP](_insight/2024/07/2024-07-08-HTTP.md);
+- [HTTP](HTTP.md);
 - [SSH](api/2024/06/2024-06-30-SSH.md)
