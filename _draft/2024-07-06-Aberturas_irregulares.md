@@ -20,7 +20,7 @@ São um grupo de aberturas de [xadrez](api/2024/07/2024-07-06-Xadrez.md) raramen
 - Cavalo em casa inferior: 1.Ch3 ou 1.Ca3.
 ## Lista
 - [[_insight/2024/07/2024-07-03-Abertura_Anderssen]]: `1.a3`;
-- [2024-07-08-Abertura_Ware](_insight/2024-07-08-Abertura_Ware.md): `1.a4`;
+- [2024-07-08-Abertura_Ware](_insight/2024/07/2024-07-08-Abertura_Ware.md): `1.a4`;
 - [2024-07-05-Ataque-Sodio](_insight/2024/07/2024-07-05-Ataque-Sodio.md): `1.Na3`;
 - [2024-07-03-Abertura_Sokolsky](_insight/2024/07/2024-07-03-Abertura_Sokolsky.md): `1.b4`;
 - [2024-07-03-Abertura_Saragoca](_insight/2024/07/2024-07-03-Abertura_Saragoca.md): `1.c3`;

@@ -11,6 +11,7 @@ aliases:
 	- [Animes](maps/Animes.md);
 	- [Xadrez](maps/Xadrez.md)
 	- [Toram](maps/Toram.md);
+	- [Livros para ler](maps/Livros%20para%20ler.md)
 - Estudos:
 	- [Auto-desenvolvimento](maps/Auto-desenvolvimento.md);
 	- [Desenvolvimento de software](maps/Desenvolvimento%20de%20software.md);
