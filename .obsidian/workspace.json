@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-07-08-lazy_nvim.md",
+                "file": "2024-07-08-colorschemes.md",
                 "mode": "source",
                 "source": false
               }
@@ -79,7 +79,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-07-08-lazy_nvim.md"
+                "file": "2024-07-08-colorschemes.md"
               }
             }
           },
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-07-08-lazy_nvim.md",
+                "file": "2024-07-08-colorschemes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-07-08-lazy_nvim.md",
+                "file": "2024-07-08-colorschemes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024-07-08-lazy_nvim.md",
+                "file": "2024-07-08-colorschemes.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -228,13 +228,18 @@
   },
   "active": "62979b0e1b40ac9e",
   "lastOpenFiles": [
-    "2024-07-08-LazyVim.md",
     "2024-07-08-lazy_nvim.md",
+    "2024-07-08-colorschemes.md",
+    "2024-07-08-rockspecs.md",
+    "2024-07-08-luarocks.md",
+    "2024-07-08-Nerd_Font.md",
+    "2024-07-08-Editor_de_texto.md",
+    "2024-07-08-LuaJIT.md",
+    "2024-07-08-Neovim.md",
+    "2024-07-08-LazyVim.md",
     "2024-07-08-Integrated_Development_Environment.md",
-    "2024-07-08-Editor de texto.md",
     "2024-07-08-Vim.md",
     "index.md",
-    "2024-07-08-Neovim.md",
     "2024-07-08-Toram_Yuu.md",
     "2024-07-08-Toram_Ryu.md",
     "2024-07-08-Toram_Komari.md",
@@ -249,11 +254,6 @@
     "_insight/2024-07-06-Taticas_de_xadrez.md",
     "_insight/2024/07/2024-07-06-Protocolo.md",
     "_insight/2024/07/2024-07-06-Peão_xadrez.md",
-    "_insight/2024/07/2024-07-06-Frameworks.md",
-    "_insight/2024/07/2024-07-07-LaTeX.md",
-    "conflict-files-obsidian-git.md",
-    "_insight/atomic.md",
-    "_insight/Desperado.md",
     "assets/Pasted Image 20240613173345_877.png",
     "assets/Pasted Image 20240613172503_261.png",
     "_insight/2024/07",
