@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_draft/HTTP.md",
+                "file": "_draft/2024-06-29-Livros_para_ler.md",
                 "mode": "source",
                 "source": false
               }
@@ -79,7 +79,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_draft/HTTP.md"
+                "file": "_draft/2024-06-29-Livros_para_ler.md"
               }
             }
           },
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_draft/HTTP.md",
+                "file": "_draft/2024-06-29-Livros_para_ler.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_draft/HTTP.md",
+                "file": "_draft/2024-06-29-Livros_para_ler.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "_draft/HTTP.md",
+                "file": "_draft/2024-06-29-Livros_para_ler.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -229,10 +229,13 @@
   },
   "active": "3e5fe2a2c0c2ee10",
   "lastOpenFiles": [
-    "_insight/2024-07-08-Cross_Origin_Resource_Sharing.md",
-    "_insight/2024-07-08-Atomico.md",
-    "README.md",
+    "_insight/2024/07/2024-07-03-Desperado.md",
+    "_insight/2024/07/2024-07-06-Taticas_de_xadrez.md",
     "_insight/2024-07-08-Ataque_Grob.md",
+    "_insight/2024/07/2024-07-08-Cross_Origin_Resource_Sharing.md",
+    "_draft/HTTP.md",
+    "_insight/2024/07/2024-07-08-Atomico.md",
+    "README.md",
     "_insight/2024-07-08-Abertura_Ware.md",
     "_draft/2024-07-06-Aberturas_irregulares.md",
     "_insight/2024/07/2024-07-03-Abertura_Amar.md",
@@ -252,9 +255,6 @@
     "_insight/2024/07/2024-07-07-Chaturanga.md",
     "_insight/2024/07/2024-07-07-Bispo_xadrez.md",
     "_insight/2024/07/2024-07-06-Torre_xadrez.md",
-    "_insight/2024/07/2024-07-06-Taticas_de_xadrez.md",
-    "_insight/2024/07/2024-07-06-Protocolo.md",
-    "api/2024/07/2024-07-06-Pecas_de_xadrez.md",
     "assets/Pasted Image 20240613173345_877.png",
     "assets/Pasted Image 20240613172503_261.png",
     "_insight/2024/07",
