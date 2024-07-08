@@ -1,3 +1,3 @@
-- [Raciocínio lógico](_insight/2024-07-07-Raciocínio_logico.md);
-- [Planejamento estratégico](_insight/2024-07-07-Planejamento_estrategico.md);
-- [Decisões sob pressão](_insight/2024-07-07-Decisoes_sob_pressao.md);
+- [Raciocínio lógico](_insight/2024/07/2024-07-07-Raciocínio_logico.md);
+- [Planejamento estratégico](_insight/2024/07/2024-07-07-Planejamento_estrategico.md);
+- [Decisões sob pressão](_insight/2024/07/2024-07-07-Decisoes_sob_pressao.md);

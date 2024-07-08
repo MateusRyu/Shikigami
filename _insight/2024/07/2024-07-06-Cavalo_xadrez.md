@@ -14,4 +14,4 @@ updated at: 2024-07-07T16:19:55-03:00
 # Cavalo
 ---
 
-É uma [peças](_insight/2024-07-06-Pecas_de_xadrez.md) do jogo de [xadrez](api/2024/07/2024-07-06-Xadrez.md). Dentro do jogo, ele é conhecido por ser uma peça caótica e difícil de prever seu lance.
+É uma [peças](api/2024/07/2024-07-06-Pecas_de_xadrez.md) do jogo de [xadrez](api/2024/07/2024-07-06-Xadrez.md). Dentro do jogo, ele é conhecido por ser uma peça caótica e difícil de prever seu lance.

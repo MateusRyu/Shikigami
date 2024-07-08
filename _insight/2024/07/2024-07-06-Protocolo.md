@@ -6,6 +6,9 @@ tags:
   - v0
 aliases:
   - Protocolo
+  - protocolo
+  - Protocolos
+  - protocolos
 ---
 
 # Protocolos
