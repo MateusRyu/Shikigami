@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2024-07-08.md",
+                "file": "api/2024/07/2024-07-08-LazyVim.md",
                 "mode": "source",
                 "source": false
               }
@@ -71,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2024-07-08.md",
+                "file": "api/2024/07/2024-07-08-LazyVim.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +88,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2024-07-08.md",
+                "file": "api/2024/07/2024-07-08-LazyVim.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -100,7 +100,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2024-07-08.md"
+                "file": "api/2024/07/2024-07-08-LazyVim.md"
               }
             }
           }
@@ -125,7 +125,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "_posts/2024-07-08.md",
+                "file": "api/2024/07/2024-07-08-LazyVim.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -219,18 +219,19 @@
   },
   "active": "62979b0e1b40ac9e",
   "lastOpenFiles": [
-    "_posts/2024-07-08.md",
-    "2024-07-08-lazy_nvim.md",
-    "2024-07-08-Statusline.md",
-    "2024-07-08-colorschemes.md",
-    "2024-07-08-rockspecs.md",
-    "2024-07-08-luarocks.md",
-    "2024-07-08-Nerd_Font.md",
-    "2024-07-08-Editor_de_texto.md",
-    "2024-07-08-LuaJIT.md",
     "2024-07-08-Neovim.md",
-    "2024-07-08-LazyVim.md",
-    "2024-07-08-Integrated_Development_Environment.md",
+    "2024-07-08-Toram_Aoi.md",
+    "_insight/2024-07-08-Nerd_Font.md",
+    "_insight/2024-07-08-LuaJIT.md",
+    "api/2024/07/2024-07-08-LazyVim.md",
+    "_draft/2024-07-08-lazy_nvim.md",
+    "_posts/2024-07-08.md",
+    "_insight/2024-07-08-Statusline.md",
+    "_insight/2024-07-08-colorschemes.md",
+    "_insight/2024-07-08-rockspecs.md",
+    "_insight/2024-07-08-luarocks.md",
+    "_insight/2024-07-08-Editor_de_texto.md",
+    "_insight/2024-07-08-Integrated_Development_Environment.md",
     "2024-07-08-Vim.md",
     "index.md",
     "2024-07-08-Toram_Yuu.md",
@@ -238,9 +239,8 @@
     "2024-07-08-Toram_Komari.md",
     "2024-07-08-Toram_Kanna.md",
     "2024-07-08-Toram_Aria.md",
-    "2024-07-08-Toram_Aoi.md",
     "_draft/2024-07-06-Toram.md",
-    "2024-07-08-Asobismo.md",
+    "_insight/2024-07-08-Asobismo.md",
     "maps/Toram-AoiRyuu.md",
     "maps/Toram.md",
     "api/2024/06/2024-06-30-Android.md",
