@@ -1,1 +1,0 @@
-bowgun dangger (dex > str)

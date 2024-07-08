@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_draft/2024-07-06-Toram.md",
+                "file": "2024-07-08-Toram_Yuu.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "720f7da7fee7b812",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024-07-08-Vim.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "62979b0e1b40ac9e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024-07-08-Vim.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -79,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_draft/2024-07-06-Toram.md"
+                "file": "2024-07-08-Vim.md"
               }
             }
           },
@@ -89,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_draft/2024-07-06-Toram.md",
+                "file": "2024-07-08-Vim.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_draft/2024-07-06-Toram.md",
+                "file": "2024-07-08-Vim.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +159,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "_draft/2024-07-06-Toram.md",
+                "file": "2024-07-08-Vim.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -226,24 +251,27 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "40363ce5135ac212",
+  "active": "62979b0e1b40ac9e",
   "lastOpenFiles": [
-    "2024-07-08-Asobismo.md",
+    "2024-07-08-Nvim.md",
+    "2024-07-08-Vim.md",
+    "2024-07-08-Toram_Yuu.md",
+    "2024-07-08-Toram_Ryu.md",
+    "2024-07-08-Toram_Komari.md",
+    "2024-07-08-Toram_Kanna.md",
+    "index.md",
+    "2024-07-08-Toram_Aria.md",
+    "2024-07-08-Toram_Aoi.md",
     "_draft/2024-07-06-Toram.md",
+    "2024-07-08-Asobismo.md",
     "maps/Toram-AoiRyuu.md",
     "maps/Toram.md",
-    "Ryu.md",
     "api/2024/06/2024-06-30-Android.md",
     "_insight/2024-07-06-Taticas_de_xadrez.md",
     "_insight/2024/07/2024-07-06-Protocolo.md",
     "_insight/2024/07/2024-07-06-Peão_xadrez.md",
     "_insight/2024/07/2024-07-06-Frameworks.md",
     "_insight/2024/07/2024-07-07-LaTeX.md",
-    "Yuu.md",
-    "Komari.md",
-    "Aria.md",
-    "Aoi.md",
-    "Toram - Kanna.md",
     "conflict-files-obsidian-git.md",
     "_insight/atomic.md",
     "_insight/Desperado.md",
@@ -251,9 +279,6 @@
     "_insight/Ataque Grob.md",
     "_insight/Abertura Ware.md",
     "_insight/2024-07-07-Xeque_mate.md",
-    "_insight/2024-07-07-Repeticao_espacada.md",
-    "_insight/2024-07-07-Rei_xadrez.md",
-    "_insight/2024-07-07-Regras_do_xadrez.md",
     "assets/Pasted Image 20240613173345_877.png",
     "assets/Pasted Image 20240613172503_261.png",
     "_insight/2024/07",
