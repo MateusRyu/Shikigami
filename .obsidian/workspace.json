@@ -118,7 +118,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 261.5
+    "width": 261.5,
+    "collapsed": true
   },
   "right": {
     "id": "90e0184107fbeb3d",
@@ -227,10 +228,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2fd843a9c8c12652",
+  "active": "62979b0e1b40ac9e",
   "lastOpenFiles": [
-    "2024-07-08-Vim.md",
     "2024-07-08-Nvim.md",
+    "2024-07-08-Vim.md",
     "2024-07-08-Toram_Yuu.md",
     "2024-07-08-Toram_Ryu.md",
     "2024-07-08-Toram_Komari.md",
