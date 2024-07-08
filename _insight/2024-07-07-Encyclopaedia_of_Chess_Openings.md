@@ -17,9 +17,9 @@ A "Encyclopaedia of Chess Openings" (ECO) é uma das obras de referência mais i
 ---
 As aberturas são classificadas em cinco volumes, identificados por letras de "A" a "E". Cada letra corresponde a um conjunto de aberturas:
 	- `A`: [Aberturas de flanco](api/2024/07/2024-07-06-Aberturas_de_flanco.md);
-	- `B`: Defesas Semiabertas (sem 1.e4 e5)
-	- `C`: Aberturas abertas (1.e4 e5)
-	- `D`: Defesas semifechadas (Defesa Grünfeld, Defesa Eslava, etc.)
+	- `B`: [Defesa Semiaberta](_insight/2024/07/2024-07-07-Defesas_Semiabertas.md) sem a [Defesa Francesa](_insight/2024/07/2024-07-07-Defesa_Francesa.md);
+	- `C`: [Abertura aberta](2024-07-07-Aberturas_abertas.md) com a [Defesa Francesa](_insight/2024/07/2024-07-07-Defesa_Francesa.md)
+	- `D`: [Aberturas fechadas](Aberturas%20fechadas.md) e [[Aberturas semi]]
 	- `E`: Aberturas fechadas (1.d4 d5, Defesas Indianas, etc.)
 1. **Sistematização**:
     
