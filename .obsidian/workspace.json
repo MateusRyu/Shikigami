@@ -11,8 +11,12 @@
             "id": "3e5fe2a2c0c2ee10",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "_draft/2024-07-06-Toram.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -45,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "spring",
+                "query": "toram",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -62,8 +66,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "b12c899f6d1d6f67",
@@ -75,7 +78,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "_draft/2024-07-06-Toram.md"
+              }
             }
           },
           {
@@ -84,6 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "_draft/2024-07-06-Toram.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,6 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "_draft/2024-07-06-Toram.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,6 +134,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "_draft/2024-07-06-Toram.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -219,7 +227,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3e5fe2a2c0c2ee10",
+  "active": "d119f22fe88304d8",
   "lastOpenFiles": [
     "_draft/Configurando o Live Reload.md",
     "_draft/2024-07-08-Spring.md",
