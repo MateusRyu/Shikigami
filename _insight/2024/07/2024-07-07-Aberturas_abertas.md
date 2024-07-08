@@ -9,6 +9,10 @@ aliases:
   - aberturas abertas
   - Abertura aberta
   - abertura aberta
+  - abertas
+  - Abertas
+  - Aberta
+  - Aberta
 ---
 # Aberturas abertas
 ----

@@ -17,10 +17,11 @@ A "Encyclopaedia of Chess Openings" (ECO) é uma das obras de referência mais i
 ---
 As aberturas são classificadas em cinco volumes, identificados por letras de "A" a "E". Cada letra corresponde a um conjunto de aberturas:
 	- `A`: [Aberturas de flanco](api/2024/07/2024-07-06-Aberturas_de_flanco.md);
-	- `B`: [Defesa Semiaberta](_insight/2024/07/2024-07-07-Defesas_Semiabertas.md) sem a [Defesa Francesa](_insight/2024/07/2024-07-07-Defesa_Francesa.md);
-	- `C`: [Abertura aberta](2024-07-07-Aberturas_abertas.md) com a [Defesa Francesa](_insight/2024/07/2024-07-07-Defesa_Francesa.md)
-	- `D`: [Aberturas fechadas](Aberturas%20fechadas.md) e [[Aberturas semi]]
-	- `E`: Aberturas fechadas (1.d4 d5, Defesas Indianas, etc.)
+	- `B`: [Defesa Semi-aberta](_insight/2024/07/2024-07-07-Defesas_Semiabertas.md) sem a [Defesa Francesa](_insight/2024/07/2024-07-07-Defesa_Francesa.md);
+	- `C`: [Abertura aberta](_insight/2024/07/2024-07-07-Aberturas_abertas.md) com a [Defesa Francesa](_insight/2024/07/2024-07-07-Defesa_Francesa.md)
+	- `D`: [Aberturas fechadas](_insight/2024/07/2024-07-07-Aberturas_fechadas.md) e [semi-fechadas](_insight/2024/07/2024-07-07-Aberturas_semi_fechadas.md)
+	- `E`: [Defesas Índias](Defesas%20Índias)
+	- 
 1. **Sistematização**:
     
     - Dentro de cada volume, as aberturas são subdivididas em códigos numéricos para facilitar a referência. Por exemplo, a Defesa Siciliana (1.e4 c5) é encontrada no volume B, com variações específicas numeradas como B20 a B99.

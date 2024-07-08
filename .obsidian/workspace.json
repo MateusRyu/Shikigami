@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_insight/2024-07-07-Encyclopaedia_of_Chess_Openings.md",
+                "file": "Defesas Índias.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,7 +31,7 @@
       {
         "id": "c4bb36dfc64d123c",
         "type": "tabs",
-        "dimension": 71.18155619596543,
+        "dimension": 55.47550432276657,
         "children": [
           {
             "id": "d119f22fe88304d8",
@@ -71,7 +71,7 @@
       {
         "id": "b12c899f6d1d6f67",
         "type": "tabs",
-        "dimension": 28.818443804034583,
+        "dimension": 44.524495677233425,
         "children": [
           {
             "id": "9cb7546bf61a2df4",
@@ -79,7 +79,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_insight/2024-07-07-Encyclopaedia_of_Chess_Openings.md"
+                "file": "Defesas Índias.md"
               }
             }
           },
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_insight/2024-07-07-Encyclopaedia_of_Chess_Openings.md",
+                "file": "Defesas Índias.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,13 +106,14 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_insight/2024-07-07-Encyclopaedia_of_Chess_Openings.md",
+                "file": "Defesas Índias.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -133,7 +134,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "_insight/2024-07-07-Encyclopaedia_of_Chess_Openings.md",
+                "file": "Defesas Índias.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -228,14 +229,17 @@
   },
   "active": "0b4103d7722f72e3",
   "lastOpenFiles": [
-    "Aberturas fechadas.md",
+    "api/2024/07/2024-07-06-Aberturas_de_flanco.md",
+    "Defesas Índias.md",
     "_insight/2024-07-07-Encyclopaedia_of_Chess_Openings.md",
-    "2024-07-07-Aberturas_abertas.md",
+    "_insight/2024/07/2024-07-07-Aberturas_abertas.md",
+    "_insight/2024/07/2024-07-07-Defesas_Semiabertas.md",
+    "_insight/2024/07/2024-07-07-Aberturas_fechadas.md",
+    "_insight/2024/07/2024-07-07-Aberturas_semi_fechadas.md",
     "_insight/2024/07/2024-07-05-Ataque-Sodio.md",
     "_insight/2024/07/2024-07-06-Cavalo_xadrez.md",
     "_insight/2024/07/2024-07-06-Finais_elementais.md",
     "_insight/2024/07/2024-07-07-Defesa_Francesa.md",
-    "_insight/2024/07/2024-07-07-Defesas_Semiabertas.md",
     "_insight/2024/07/2024-07-05-Caro_Kann.md",
     "_insight/2024/07/2024-07-05-Peao_do_bispo.md",
     "_insight/2024-07-06-Pecas_de_xadrez.md",
@@ -251,9 +255,6 @@
     "_insight/2024-07-07-Planejamento_estrategico.md",
     "_insight/2024-07-07-Historia_do_xadrez.md",
     "_insight/2024/07/2024-07-03-Abertura_Saragoca.md",
-    "_posts/2024/07/2024-07-07.md",
-    "api/2024/07/2024-07-07-Arco_Linux.md",
-    "conflict-files-obsidian-git.md",
     "_insight/2024/07",
     "_insight/2024",
     "_posts/2024/07",
