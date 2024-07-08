@@ -4,6 +4,10 @@ title: Abertura Sokolsky
 created_at: 2024-07-03T23:32:10-03:00
 tags:
   - v0
+aliases:
+  - Abertura Sokolsky
+  - abertura Sokolsky
+  - Sokolsky
 ---
 # Abertura Sokolsky
 ----
