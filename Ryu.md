@@ -1,0 +1,1 @@
+suporte (dex > agi)
