@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_insight/Ataque Grob.md",
+                "file": "_insight/Cross-Origin Resource Sharing (CORS).md",
                 "mode": "source",
                 "source": false
               }
@@ -71,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_insight/Ataque Grob.md",
+                "file": "_insight/Cross-Origin Resource Sharing (CORS).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +88,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_insight/Ataque Grob.md",
+                "file": "_insight/Cross-Origin Resource Sharing (CORS).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -100,7 +100,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_insight/Ataque Grob.md"
+                "file": "_insight/Cross-Origin Resource Sharing (CORS).md"
               }
             }
           }
@@ -125,7 +125,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "_insight/Ataque Grob.md",
+                "file": "_insight/Cross-Origin Resource Sharing (CORS).md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -219,6 +219,9 @@
   },
   "active": "62979b0e1b40ac9e",
   "lastOpenFiles": [
+    "_insight/2024/07/2024-07-08-atomico.md",
+    "README.md",
+    "_insight/2024/07/2024-07-08-Ataque_Grob.md",
     "_insight/2024/07/2024-07-08-Abertura_Ware.md",
     "_draft/2024-07-06-Aberturas_irregulares.md",
     "_insight/2024/07/2024-07-08-Statusline.md",
@@ -242,9 +245,6 @@
     "_insight/2024/07/2024-07-07-Kernel.md",
     "_insight/2024/07/2024-07-07-Inconsciente_coletivo.md",
     "_insight/2024/07/2024-07-07-Decisoes_sob_pressao.md",
-    "_insight/2024/07/2024-07-07-Dama_xadrez.md",
-    "_insight/2024/07/2024-07-07-Chaturanga.md",
-    "_insight/2024/07/2024-07-07-Bispo_xadrez.md",
     "assets/Pasted Image 20240613173345_877.png",
     "assets/Pasted Image 20240613172503_261.png",
     "_insight/2024/07",

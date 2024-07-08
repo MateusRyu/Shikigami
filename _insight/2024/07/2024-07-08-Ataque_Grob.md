@@ -7,6 +7,7 @@ tags:
 aliases:
   - Ataque Grob
   - ataque Grob
+  - Grob
 ---
 # Ataque Grob
 ---
