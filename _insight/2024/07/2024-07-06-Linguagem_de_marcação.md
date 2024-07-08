@@ -10,8 +10,8 @@ aliases:
 # Linguagem de marcação
 ## Lista de linguagens de marcação
 ---
--  [HTML](HyperText%20Markup%20Language%20(HTML).md);
--  [Markdown](Markdown.md);
+-  [HTML](_draft/2024/08/2024-07-08-HyperText_Markup_Language.md);
+-  [2024-07-08-Markdown](_draft/2024/08/2024-07-08-Markdown.md);
 
 ^lista-de-linguagens-de-marcacao
 

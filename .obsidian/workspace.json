@@ -11,12 +11,8 @@
             "id": "62979b0e1b40ac9e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024-07-08-Nvim.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -31,7 +27,6 @@
       {
         "id": "c4bb36dfc64d123c",
         "type": "tabs",
-        "dimension": 56.628242074927954,
         "children": [
           {
             "id": "d119f22fe88304d8",
@@ -65,23 +60,6 @@
               "type": "bookmarks",
               "state": {}
             }
-          }
-        ]
-      },
-      {
-        "id": "b12c899f6d1d6f67",
-        "type": "tabs",
-        "dimension": 43.371757925072046,
-        "children": [
-          {
-            "id": "9cb7546bf61a2df4",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "2024-07-08-Nvim.md"
-              }
-            }
           },
           {
             "id": "43ec2e11a74876d9",
@@ -89,7 +67,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-07-08-Nvim.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,19 +83,24 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-07-08-Nvim.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "9cb7546bf61a2df4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 261.5,
-    "collapsed": true
+    "width": 261.5
   },
   "right": {
     "id": "90e0184107fbeb3d",
@@ -135,7 +117,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024-07-08-Nvim.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -229,32 +210,36 @@
   },
   "active": "62979b0e1b40ac9e",
   "lastOpenFiles": [
-    "2024-07-08-Nvim.md",
-    "2024-07-08-Vim.md",
-    "2024-07-08-Toram_Yuu.md",
-    "2024-07-08-Toram_Ryu.md",
-    "2024-07-08-Toram_Komari.md",
-    "2024-07-08-Toram_Kanna.md",
-    "index.md",
-    "2024-07-08-Toram_Aria.md",
-    "2024-07-08-Toram_Aoi.md",
-    "_draft/2024-07-06-Toram.md",
-    "2024-07-08-Asobismo.md",
-    "maps/Toram-AoiRyuu.md",
+    "api/2024/07/2024-07-06-Xadrez.md",
     "maps/Toram.md",
-    "api/2024/06/2024-06-30-Android.md",
-    "_insight/2024-07-06-Taticas_de_xadrez.md",
+    "_insight/2024/07/2024-07-07-DIY.md",
+    "_insight/2024/07/2024-07-08-Ciencia.md",
+    "_draft/2024/08/2024-07-08-Abertura_Van_Geet.md",
+    "_insight/2024/07/2024-07-08-Abertura_Vienna.md",
+    "_insight/2024/07/2024-07-08-Spring.md",
+    "_insight/2024/07/2024-07-08-Sistema_de_controle_de_versoes.md",
+    "_draft/2024/06/2024-06-30-Git.md",
+    "_draft/2024/08/2024-07-08-Psicologia.md",
+    "_insight/2024/07/2024-07-08-HTTP.md",
+    "_insight/2024/07/2024-07-08-Java.md",
+    "_insight/2024/07/2024-07-08-Linus_Torvalds.md",
+    "_insight/2024/07/2024-07-08-Oracle.md",
+    "_draft/2024/08/2024-07-08-Markdown.md",
+    "_draft/2024/08/2024-07-08-Oposição_de_Rei.md",
+    "_draft/2024/08/2024-07-08-Final_de_peao.md",
+    "api/2024/06/2024-06-30-Linux.md",
+    "api/2024/06/2024-06-30-GitHub.md",
+    "_draft/2024/08/2024-07-08-Kuuchuu_Buranko.md",
+    "_draft/2024/08/2024-07-08-HyperText_Markup_Language.md",
+    "_insight/2024/07/2024-07-06-Linguagem_de_marcação.md",
+    "_insight/2024/07/2024-07-08-Cross_Origin_Resource_Sharing.md",
     "_insight/2024/07/2024-07-06-Protocolo.md",
-    "_insight/2024/07/2024-07-06-Peão_xadrez.md",
-    "_insight/2024/07/2024-07-06-Frameworks.md",
-    "_insight/2024/07/2024-07-07-LaTeX.md",
-    "conflict-files-obsidian-git.md",
-    "_insight/atomic.md",
-    "_insight/Desperado.md",
-    "_insight/Cross-Origin Resource Sharing (CORS).md",
-    "_insight/Ataque Grob.md",
-    "_insight/Abertura Ware.md",
-    "_insight/2024-07-07-Xeque_mate.md",
+    "_draft/2024/07/2024-07-03-How_to_Take_Smart_Notes.md",
+    "_draft/2024/08/2024-07-08-Gambito_Englund.md",
+    "_draft/2024/08",
+    "_draft/2024/07",
+    "_draft/2024/06",
+    "_draft/2024",
     "assets/Pasted Image 20240613173345_877.png",
     "assets/Pasted Image 20240613172503_261.png",
     "_insight/2024/07",
@@ -263,10 +248,6 @@
     "_posts/2024",
     "_posts",
     "api/2024/07/06",
-    "_templates",
-    "__private",
-    "api/2024/07/02",
-    "api/2024/07/01",
     "Sem título.canvas",
     "src/canvas/Psicologia.canvas",
     "__daily/images/logotipo-2.jpeg",

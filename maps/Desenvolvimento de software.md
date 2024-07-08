@@ -1,6 +1,6 @@
 [2024-07-06-Protocolo](_insight/2024/07/2024-07-06-Protocolo.md)
 [2024-07-06-Linguagem_de_marcação](_insight/2024/07/2024-07-06-Linguagem_de_marcação.md)
-[Linguagem de programação](Linguagem%20de%20programação.md)
+[2024-07-08-Linguagem_de_programacao](_insight/2024/07/2024-07-08-Linguagem_de_programacao.md)
 [Algoritmo](Algoritmo.md)
-[Git](_draft/2024-06-30-Git.md)
+[Git](_draft/2024/06/2024-06-30-Git.md)
 [Auto-desenvolvimento](maps/Auto-desenvolvimento.md)
