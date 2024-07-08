@@ -1,1 +1,1 @@
-É um [peão](_insight/2024/07/2024-07-06-Peão_xadrez.md) do jogo de [xadrez](api/2024/07/2024-07-06-Xadrez.md) que fica na frente da [torre](_insight/2024-07-06-Torre_xadrez.md).
+É um [peão](_insight/2024/07/2024-07-06-Peão_xadrez.md) do jogo de [xadrez](api/2024/07/2024-07-06-Xadrez.md) que fica na frente da [torre](_insight/2024/07/2024-07-06-Torre_xadrez.md).

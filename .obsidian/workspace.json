@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "api/2024/07/2024-07-08-LazyVim.md",
+                "file": "_insight/Abertura Ware.md",
                 "mode": "source",
                 "source": false
               }
@@ -71,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "api/2024/07/2024-07-08-LazyVim.md",
+                "file": "_insight/Abertura Ware.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +88,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "api/2024/07/2024-07-08-LazyVim.md",
+                "file": "_insight/Abertura Ware.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -100,7 +100,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "api/2024/07/2024-07-08-LazyVim.md"
+                "file": "_insight/Abertura Ware.md"
               }
             }
           }
@@ -125,7 +125,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "api/2024/07/2024-07-08-LazyVim.md",
+                "file": "_insight/Abertura Ware.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -219,32 +219,32 @@
   },
   "active": "62979b0e1b40ac9e",
   "lastOpenFiles": [
-    "2024-07-08-Neovim.md",
-    "2024-07-08-Toram_Aoi.md",
-    "_insight/2024-07-08-Nerd_Font.md",
-    "_insight/2024-07-08-LuaJIT.md",
-    "api/2024/07/2024-07-08-LazyVim.md",
-    "_draft/2024-07-08-lazy_nvim.md",
-    "_posts/2024-07-08.md",
-    "_insight/2024-07-08-Statusline.md",
-    "_insight/2024-07-08-colorschemes.md",
-    "_insight/2024-07-08-rockspecs.md",
-    "_insight/2024-07-08-luarocks.md",
-    "_insight/2024-07-08-Editor_de_texto.md",
-    "_insight/2024-07-08-Integrated_Development_Environment.md",
-    "2024-07-08-Vim.md",
-    "index.md",
-    "2024-07-08-Toram_Yuu.md",
-    "2024-07-08-Toram_Ryu.md",
-    "2024-07-08-Toram_Komari.md",
-    "2024-07-08-Toram_Kanna.md",
-    "2024-07-08-Toram_Aria.md",
-    "_draft/2024-07-06-Toram.md",
-    "_insight/2024-07-08-Asobismo.md",
-    "maps/Toram-AoiRyuu.md",
-    "maps/Toram.md",
-    "api/2024/06/2024-06-30-Android.md",
-    "_insight/2024-07-06-Taticas_de_xadrez.md",
+    "_insight/2024/07/2024-07-08-Statusline.md",
+    "_insight/Abertura Ware.md",
+    "_insight/2024/07/2024-07-08-rockspecs.md",
+    "_insight/2024/07/2024-07-08-Nerd_Font.md",
+    "_insight/2024/07/2024-07-08-luarocks.md",
+    "_insight/2024/07/2024-07-08-LuaJIT.md",
+    "_insight/2024/07/2024-07-08-Integrated_Development_Environment.md",
+    "_insight/2024/07/2024-07-08-Editor_de_texto.md",
+    "_insight/2024/07/2024-07-08-colorschemes.md",
+    "_insight/2024/07/2024-07-08-Asobismo.md",
+    "_insight/2024/07/2024-07-07-Xeque_mate.md",
+    "_insight/2024/07/2024-07-07-Repeticao_espacada.md",
+    "_insight/2024/07/2024-07-07-Rei_xadrez.md",
+    "_insight/2024/07/2024-07-07-Regras_do_xadrez.md",
+    "_insight/2024/07/2024-07-07-Raciocínio_logico.md",
+    "_insight/2024/07/2024-07-07-Planejamento_estrategico.md",
+    "_insight/2024/07/2024-07-07-MMORPG.md",
+    "_insight/2024/07/2024-07-07-Metodos_de_estudo.md",
+    "_insight/2024/07/2024-07-07-Historia_do_xadrez.md",
+    "_insight/2024/07/2024-07-07-Kernel.md",
+    "_insight/2024/07/2024-07-07-Inconsciente_coletivo.md",
+    "_insight/2024/07/2024-07-07-Decisoes_sob_pressao.md",
+    "_insight/2024/07/2024-07-07-Dama_xadrez.md",
+    "_insight/2024/07/2024-07-07-Chaturanga.md",
+    "_insight/2024/07/2024-07-07-Bispo_xadrez.md",
+    "_insight/2024/07/2024-07-06-Torre_xadrez.md",
     "assets/Pasted Image 20240613173345_877.png",
     "assets/Pasted Image 20240613172503_261.png",
     "_insight/2024/07",

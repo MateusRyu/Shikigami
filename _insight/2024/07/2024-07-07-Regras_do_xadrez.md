@@ -13,4 +13,4 @@ aliases:
 ----
 [Xadrez](maps/Xadrez.md)
 
-[Xeque-mate](_insight/2024-07-07-Xeque_mate.md)
+[Xeque-mate](_insight/2024/07/2024-07-07-Xeque_mate.md)
