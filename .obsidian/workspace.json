@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4ee79e2ec7507fec",
+            "id": "9d9533146dd69483",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_insight/2024/07/2024-07-03-Abertura_Desprez.md",
+                "file": "_insight/2024/07/2024-07-03-Abertura_Saragoca.md",
                 "mode": "source",
                 "source": false
               }
@@ -27,7 +27,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,9 +87,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "_insight/2024/07/2024-07-03-Abertura_Desprez.md"
-              }
+              "state": {}
             }
           },
           {
@@ -97,7 +96,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_insight/2024/07/2024-07-03-Abertura_Desprez.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +112,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_insight/2024/07/2024-07-03-Abertura_Desprez.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +138,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "_insight/2024/07/2024-07-03-Abertura_Desprez.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -234,17 +230,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4ee79e2ec7507fec",
+  "active": "7f2e758cfa35656a",
   "lastOpenFiles": [
-    "_templates/Insight.md",
+    "api/2024/07/2024-07-06-Aberturas_de_flanco.md",
+    "_insight/2024/07/2024-07-03-Abertura_Saragoca.md",
+    "_insight/2024/07/2024-07-03-Abertura_Reti.md",
+    "_insight/2024/07/2024-07-03-Abertura_Mieses.md",
     "_insight/2024/07/2024-07-03-Abertura_Desprez.md",
+    "_templates/Insight.md",
     "_insight/2024/07/2024-07-03-Abertura_Clemenz.md",
     "_insight/2024/07/2024-07-03-Abertura_Benko.md",
     "_insight/2024/07/2024-07-03-Abertura_Barnes.md",
     "_insight/2024/07/2024-07-03-Abertura_Anderssen.md",
     "_insight/2024/07/2024-07-03-Abertura_Amar.md",
-    "_insight/2024/07/2024-07-03-Abertura_Mieses.md",
-    "api/2024/07/2024-07-06-Aberturas_de_flanco.md",
     "_draft/2024-07-05-Abertura_Inglesa.md",
     "Encyclopaedia of Chess Openings.md",
     "api/2024/07/2024-07-06-Aberturas_irregulares.md",
@@ -262,8 +260,6 @@
     "api/2024/07/2024-07-07-Arco_Linux.md",
     "api/2024/06/30/2024-06-30-Distro_Linux.md",
     "api/2024/06/30/2024-06-30-Linux.md",
-    "maps/Habilidades.md",
-    "maps/Animes.md",
     "_posts/2024/07",
     "_posts/2024",
     "_posts",
