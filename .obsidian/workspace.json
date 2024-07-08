@@ -17,7 +17,6 @@
                 "mode": "source",
                 "source": false
               }
-<<<<<<< HEAD
             }
           },
           {
@@ -30,8 +29,6 @@
                 "mode": "source",
                 "source": false
               }
-=======
->>>>>>> parent of aeb02b2 (vault backup: 2024-07-08 12:07:08)
             }
           }
         ],
@@ -94,11 +91,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-<<<<<<< HEAD
-=======
               "state": {
->>>>>>> parent of aeb02b2 (vault backup: 2024-07-08 12:07:08)
-                "file": "2024-07-08-Nvim.md"
               }
             }
           },
@@ -108,11 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-                "file": "conflict-files-obsidian-git.md",
-=======
-                "file": "2024-07-08-Nvim.md",
->>>>>>> parent of aeb02b2 (vault backup: 2024-07-08 12:07:08)
+
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,11 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< HEAD
-                "file": "conflict-files-obsidian-git.md",
-=======
-                "file": "2024-07-08-Nvim.md",
->>>>>>> parent of aeb02b2 (vault backup: 2024-07-08 12:07:08)
+
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,11 +146,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-<<<<<<< HEAD
-                "file": "conflict-files-obsidian-git.md",
-=======
-                "file": "2024-07-08-Nvim.md",
->>>>>>> parent of aeb02b2 (vault backup: 2024-07-08 12:07:08)
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -259,8 +239,6 @@
   },
   "active": "2fd843a9c8c12652",
   "lastOpenFiles": [
-<<<<<<< HEAD
-=======
     "2024-07-08-Vim.md",
     "2024-07-08-Nvim.md",
     "2024-07-08-Toram_Yuu.md",
@@ -306,6 +284,5 @@
     "__daily/images/logo.jpeg",
     "__daily/images/fundo.jpeg",
     "__daily/images/capa.jpeg"
->>>>>>> parent of aeb02b2 (vault backup: 2024-07-08 12:07:08)
   ]
 }
