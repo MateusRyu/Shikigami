@@ -96,7 +96,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -193,7 +194,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 373.5
+    "width": 373.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -210,6 +212,9 @@
   },
   "active": "62979b0e1b40ac9e",
   "lastOpenFiles": [
+    "_insight/2024/07/2024-07-08-ssh_agent.md",
+    "api/2024/06/2024-06-30-SSH.md",
+    "_insight/2024/08",
     "api/2024/07/2024-07-06-Xadrez.md",
     "maps/Toram.md",
     "_insight/2024/07/2024-07-07-DIY.md",
@@ -234,8 +239,6 @@
     "_insight/2024/07/2024-07-06-Linguagem_de_marcação.md",
     "_insight/2024/07/2024-07-08-Cross_Origin_Resource_Sharing.md",
     "_insight/2024/07/2024-07-06-Protocolo.md",
-    "_draft/2024/07/2024-07-03-How_to_Take_Smart_Notes.md",
-    "_draft/2024/08/2024-07-08-Gambito_Englund.md",
     "_draft/2024/08",
     "_draft/2024/07",
     "_draft/2024/06",
@@ -247,7 +250,6 @@
     "_posts/2024/07",
     "_posts/2024",
     "_posts",
-    "api/2024/07/06",
     "Sem título.canvas",
     "src/canvas/Psicologia.canvas",
     "__daily/images/logotipo-2.jpeg",
