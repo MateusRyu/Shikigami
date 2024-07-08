@@ -10,6 +10,6 @@ aliases:
 # Linguagens
 ---
 ## Linguagens de marcação
-![2024-07-06-Linguagem_de_marcação](_insight/2024/07/2024-07-06-Linguagem_de_marcação.md#^lista-de-linguagens-de-marcacao)
+![2024-07-06-Linguagem_de_marcação](_insight/2024-07-06-Linguagem_de_marcação.md#^lista-de-linguagens-de-marcacao)
 
 ---
