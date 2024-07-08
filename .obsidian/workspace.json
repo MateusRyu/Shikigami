@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_insight/Cross-Origin Resource Sharing (CORS).md",
+                "file": "_draft/2024/07/2024-07-08-lazy_nvim.md",
                 "mode": "source",
                 "source": false
               }
@@ -71,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_insight/Cross-Origin Resource Sharing (CORS).md",
+                "file": "_draft/2024/07/2024-07-08-lazy_nvim.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +88,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_insight/Cross-Origin Resource Sharing (CORS).md",
+                "file": "_draft/2024/07/2024-07-08-lazy_nvim.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -100,7 +100,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_insight/Cross-Origin Resource Sharing (CORS).md"
+                "file": "_draft/2024/07/2024-07-08-lazy_nvim.md"
               }
             }
           }
@@ -125,7 +125,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "_insight/Cross-Origin Resource Sharing (CORS).md",
+                "file": "_draft/2024/07/2024-07-08-lazy_nvim.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -217,13 +217,27 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "62979b0e1b40ac9e",
+  "active": "d119f22fe88304d8",
   "lastOpenFiles": [
+    "_draft/Abertura do Peão da Dama.md",
+    "_draft/2024/07/2024-07-08-lazy_nvim.md",
+    "_draft/2024/07/2024-07-07-Psicologia_analitica.md",
+    "_draft/2024/07/2024-07-07-DIY.md",
+    "_draft/2024/07/2024-07-06-Toram.md",
+    "_draft/2024/07/2024-07-06-Aberturas_irregulares.md",
+    "_draft/2024/07/2024-07-06-Aberturas_de_xadrez.md",
+    "_draft/2024/07/2024-07-06-Aberturas_de_flanco.md",
+    "_draft/2024/07/2024-07-05-Dataview_Obsidian.md",
+    "_draft/2024/07/2024-07-05-Abertura_Inglesa.md",
+    "_draft/2024/06/2024-06-29-Livros_para_ler.md",
+    "_draft/2024/07",
+    "_insight/Cross-Origin Resource Sharing (CORS).md",
+    "_draft/2024/06",
+    "_draft/2024",
     "_insight/2024/07/2024-07-08-atomico.md",
     "README.md",
     "_insight/2024/07/2024-07-08-Ataque_Grob.md",
     "_insight/2024/07/2024-07-08-Abertura_Ware.md",
-    "_draft/2024-07-06-Aberturas_irregulares.md",
     "_insight/2024/07/2024-07-08-Statusline.md",
     "_insight/2024/07/2024-07-08-rockspecs.md",
     "_insight/2024/07/2024-07-08-Nerd_Font.md",
@@ -234,17 +248,6 @@
     "_insight/2024/07/2024-07-08-colorschemes.md",
     "_insight/2024/07/2024-07-08-Asobismo.md",
     "_insight/2024/07/2024-07-07-Xeque_mate.md",
-    "_insight/2024/07/2024-07-07-Repeticao_espacada.md",
-    "_insight/2024/07/2024-07-07-Rei_xadrez.md",
-    "_insight/2024/07/2024-07-07-Regras_do_xadrez.md",
-    "_insight/2024/07/2024-07-07-Raciocínio_logico.md",
-    "_insight/2024/07/2024-07-07-Planejamento_estrategico.md",
-    "_insight/2024/07/2024-07-07-MMORPG.md",
-    "_insight/2024/07/2024-07-07-Metodos_de_estudo.md",
-    "_insight/2024/07/2024-07-07-Historia_do_xadrez.md",
-    "_insight/2024/07/2024-07-07-Kernel.md",
-    "_insight/2024/07/2024-07-07-Inconsciente_coletivo.md",
-    "_insight/2024/07/2024-07-07-Decisoes_sob_pressao.md",
     "assets/Pasted Image 20240613173345_877.png",
     "assets/Pasted Image 20240613172503_261.png",
     "_insight/2024/07",
@@ -254,9 +257,6 @@
     "_posts",
     "api/2024/07/06",
     "_templates",
-    "__private",
-    "api/2024/07/02",
-    "api/2024/07/01",
     "Sem título.canvas",
     "src/canvas/Psicologia.canvas",
     "__daily/images/logotipo-2.jpeg",

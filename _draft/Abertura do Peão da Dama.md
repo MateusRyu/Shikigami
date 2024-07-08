@@ -1,5 +1,5 @@
 
-É uma das [2024-07-06-Aberturas_de_xadrez](_draft/2024-07-06-Aberturas_de_xadrez.md), conhecido na comunidade de [xadrez](api/2024/07/2024-07-06-Xadrez.md) por ser uma escolha mais sólida e estratégica.
+É uma das [2024-07-06-Aberturas_de_xadrez](_draft/2024/07/2024-07-06-Aberturas_de_xadrez.md), conhecido na comunidade de [xadrez](api/2024/07/2024-07-06-Xadrez.md) por ser uma escolha mais sólida e estratégica.
 
 ---
 

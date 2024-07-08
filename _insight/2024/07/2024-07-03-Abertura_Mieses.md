@@ -13,4 +13,4 @@ updated at: 2024-07-07T20:57:15-03:00
 # Abertura Mieses
 ----
 
-É uma [aberturas de flanco](_draft/2024-07-06-Aberturas_de_flanco.md) incomum no [xadrez](api/2024/07/2024-07-06-Xadrez.md) e por isso é categorizada como uma [abertura irregular](_draft/2024-07-06-Aberturas_irregulares.md) com código [ECO](api/2024/07/2024-07-07-Encyclopaedia_of_Chess_Openings.md) `A0` na lista de [aberturas de xadrez](_draft/2024-07-06-Aberturas_de_xadrez.md).
+É uma [aberturas de flanco](_draft/2024/07/2024-07-06-Aberturas_de_flanco.md) incomum no [xadrez](api/2024/07/2024-07-06-Xadrez.md) e por isso é categorizada como uma [abertura irregular](_draft/2024/07/2024-07-06-Aberturas_irregulares.md) com código [ECO](api/2024/07/2024-07-07-Encyclopaedia_of_Chess_Openings.md) `A0` na lista de [aberturas de xadrez](_draft/2024/07/2024-07-06-Aberturas_de_xadrez.md).

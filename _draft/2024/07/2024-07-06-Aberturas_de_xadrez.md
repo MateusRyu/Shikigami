@@ -22,8 +22,8 @@ A lista a seguir vai seguir [Encyclopaedia of Chess Openings](api/2024/07/2024-0
 
 ## Lista de aberturas
 ---
-### A -  [2024-07-06-Aberturas_de_flanco](_draft/2024-07-06-Aberturas_de_flanco.md)
-![2024-07-06-Aberturas_de_flanco](_draft/2024-07-06-Aberturas_de_flanco.md#^lista-de-aberturas-de-flanco)
+### A -  [2024-07-06-Aberturas_de_flanco](_draft/2024/07/2024-07-06-Aberturas_de_flanco.md)
+![2024-07-06-Aberturas_de_flanco](_draft/2024/07/2024-07-06-Aberturas_de_flanco.md#^lista-de-aberturas-de-flanco)
  
 ### B – Jogos semi-abertos que não são a Defesa Francesa
 - B00–B19: `1.e4` without 1...c5, 1...e6 or 1...e5;
