@@ -6,13 +6,6 @@ tags:
   - v0
 aliases:
   - Táticas de xadrez
-  - Tática de xadrez
-  - Táticas
-  - Tática
-  - táticas de xadrez
-  - tática de xadrez
-  - táticas
-  - tática
 ---
 # Táticas de xadrez
 ----
