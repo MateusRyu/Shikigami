@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "12460c2d2edb81db",
+        "id": "8b3f2e21a3476413",
         "type": "tabs",
         "children": [
           {
-            "id": "62979b0e1b40ac9e",
+            "id": "3e5fe2a2c0c2ee10",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -27,7 +27,7 @@
       {
         "id": "c4bb36dfc64d123c",
         "type": "tabs",
-        "dimension": 56.628242074927954,
+        "dimension": 71.18155619596543,
         "children": [
           {
             "id": "d119f22fe88304d8",
@@ -45,7 +45,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "toram",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -67,7 +67,7 @@
       {
         "id": "b12c899f6d1d6f67",
         "type": "tabs",
-        "dimension": 43.371757925072046,
+        "dimension": 28.818443804034583,
         "children": [
           {
             "id": "9cb7546bf61a2df4",
@@ -109,8 +109,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 261.5,
-    "collapsed": true
+    "width": 261.5
   },
   "right": {
     "id": "90e0184107fbeb3d",
@@ -203,7 +202,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 373.5
+    "width": 373.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -218,36 +218,36 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "62979b0e1b40ac9e",
+  "active": "3e5fe2a2c0c2ee10",
   "lastOpenFiles": [
-    "2024-07-08-Nvim.md",
-    "2024-07-08-Vim.md",
-    "2024-07-08-Toram_Yuu.md",
-    "2024-07-08-Toram_Ryu.md",
-    "2024-07-08-Toram_Komari.md",
-    "2024-07-08-Toram_Kanna.md",
-    "index.md",
-    "2024-07-08-Toram_Aria.md",
-    "2024-07-08-Toram_Aoi.md",
-    "_draft/2024-07-06-Toram.md",
-    "2024-07-08-Asobismo.md",
-    "maps/Toram-AoiRyuu.md",
-    "maps/Toram.md",
-    "api/2024/06/2024-06-30-Android.md",
-    "_insight/2024-07-06-Taticas_de_xadrez.md",
-    "_insight/2024/07/2024-07-06-Protocolo.md",
-    "_insight/2024/07/2024-07-06-Peão_xadrez.md",
-    "_insight/2024/07/2024-07-06-Frameworks.md",
-    "_insight/2024/07/2024-07-07-LaTeX.md",
-    "conflict-files-obsidian-git.md",
-    "_insight/atomic.md",
-    "_insight/Desperado.md",
-    "_insight/Cross-Origin Resource Sharing (CORS).md",
-    "_insight/Ataque Grob.md",
-    "_insight/Abertura Ware.md",
-    "_insight/2024-07-07-Xeque_mate.md",
+    "_posts/2024/07/2024-07-07.md",
+    "_posts/2024/07/2024-07-06.md",
     "assets/Pasted Image 20240613173345_877.png",
     "assets/Pasted Image 20240613172503_261.png",
+    "api/2024/06/2024-06-30-Anki.md",
+    "api/2024/06/2024-06-30-Android.md",
+    "_insight/2024-07-07-Repeticao_espacada.md",
+    "2024-07-07-LaTeX.md",
+    "_insight/2024-07-07-Metodos_de_estudo.md",
+    "_posts/2024-07-07.md",
+    "api/2024/06/2024-06-30-Arch_Linux.md",
+    "_insight/2024/07/2024-07-07-Rolling_Release.md",
+    "api/2024/07/2024-07-07-Arco_Linux.md",
+    "api/2024/06/2024-06-30-Sistema_Operacional.md",
+    "_draft/2024-07-07-DIY.md",
+    "api/2024/06/2024-06-30-Criptografia.md",
+    "_draft/2024-06-30-Arquétipos.md",
+    "_insight/2024-07-07-Inconsciente_coletivo.md",
+    "_draft/2024-07-07-Psicologia_analitica.md",
+    "_insight/2024/07/2024-07-07-Carl_Jung.md",
+    "_draft/2024-06-30-Complexo.md",
+    "api/2024/06/2024-06-30-GitHub.md",
+    "api/2024/06/2024-06-30-Distro_Linux.md",
+    "_insight/2024/07/2024-07-07-Microsoft.md",
+    "_draft/2024-06-30-Git.md",
+    "maps/Desenvolvimento de software.md",
+    "index.md",
+    "api/2024/06/2024-06-30-Windows.md",
     "_insight/2024/07",
     "_insight/2024",
     "_posts/2024/07",
