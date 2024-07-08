@@ -11,12 +11,8 @@
             "id": "3e5fe2a2c0c2ee10",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024-07-07-Metodos_de_estudo.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -78,9 +74,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "2024-07-07-Metodos_de_estudo.md"
-              }
+              "state": {}
             }
           },
           {
@@ -89,7 +83,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-07-07-Metodos_de_estudo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +99,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-07-07-Metodos_de_estudo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +126,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2024-07-07-Metodos_de_estudo.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -229,8 +220,15 @@
   },
   "active": "3e5fe2a2c0c2ee10",
   "lastOpenFiles": [
+    "_posts/2024/07/2024-07-07.md",
+    "_posts/2024/07/2024-07-06.md",
+    "assets/Pasted Image 20240613173345_877.png",
+    "assets/Pasted Image 20240613172503_261.png",
     "api/2024/06/2024-06-30-Anki.md",
-    "2024-07-07-Metodos_de_estudo.md",
+    "api/2024/06/2024-06-30-Android.md",
+    "_insight/2024-07-07-Repeticao_espacada.md",
+    "2024-07-07-LaTeX.md",
+    "_insight/2024-07-07-Metodos_de_estudo.md",
     "_posts/2024-07-07.md",
     "api/2024/06/2024-06-30-Arch_Linux.md",
     "_insight/2024/07/2024-07-07-Rolling_Release.md",
@@ -250,11 +248,6 @@
     "maps/Desenvolvimento de software.md",
     "index.md",
     "api/2024/06/2024-06-30-Windows.md",
-    "api/2024/06/2024-06-30-Android.md",
-    "_insight/2024/07/2024-07-07-Defesas_indias.md",
-    "api/2024/07/2024-07-01-Fianqueto.md",
-    "api/2024/07/2024-07-01-Gambito.md",
-    "api/2024/07/2024-07-02-Código_fonte.md",
     "_insight/2024/07",
     "_insight/2024",
     "_posts/2024/07",
@@ -266,7 +259,6 @@
     "api/2024/07/02",
     "api/2024/07/01",
     "Sem título.canvas",
-    "assets/Pasted Image 20240613173345_877.png",
     "src/canvas/Psicologia.canvas",
     "__daily/images/logotipo-2.jpeg",
     "__daily/images/logotipo-1.jpeg",
