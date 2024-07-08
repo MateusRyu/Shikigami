@@ -11,12 +11,8 @@
             "id": "74c274a4860d179a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "api/2024/06/2024-06-30-Shikigami.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "api/2024/06/2024-06-30-Shikigami.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "api/2024/06/2024-06-30-Shikigami.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -113,9 +107,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "api/2024/06/2024-06-30-Shikigami.md"
-          }
+          "state": {}
         }
       },
       {
@@ -145,8 +137,8 @@
   "active": "74c274a4860d179a",
   "lastOpenFiles": [
     "index.md",
-    "_insight/2024-07-07-Xeque_mate.md",
     "api/2024/06/2024-06-30-Shikigami.md",
+    "_insight/2024-07-07-Xeque_mate.md",
     "/api/2024/06/2024-06-30-Shikigami.md",
     "api/2024/06/2024-06-30-Teste_de_recordação_ativa.md",
     "api/2024/06/2024-06-30-Self.md",

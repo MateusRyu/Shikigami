@@ -14,4 +14,4 @@ updated at: 2024-07-07T16:24:29-03:00
 # Peão
 ----
 
-É uma das [Peças](api/2024/07/2024-07-06-Pecas_de_xadrez.md) do jogo de [xadrez](api/2024/07/2024-07-06-Xadrez.md).
+É uma das [Peças](_insight/2024-07-06-Pecas_de_xadrez.md) do jogo de [xadrez](api/2024/07/2024-07-06-Xadrez.md).

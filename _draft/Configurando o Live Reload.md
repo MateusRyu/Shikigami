@@ -1,6 +1,6 @@
 Aula do [[maps/Oracle Next Education]]
 
-[Spring](_draft/2024-07-08-Spring.md);
+[Spring](Spring.md);
 [DevTools](DevTools) 
 
 [Maven](Maven);
