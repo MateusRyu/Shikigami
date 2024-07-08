@@ -17,6 +17,7 @@
                 "mode": "source",
                 "source": false
               }
+<<<<<<< HEAD
             }
           },
           {
@@ -29,6 +30,8 @@
                 "mode": "source",
                 "source": false
               }
+=======
+>>>>>>> parent of aeb02b2 (vault backup: 2024-07-08 12:07:08)
             }
           }
         ],
@@ -91,6 +94,10 @@
             "type": "leaf",
             "state": {
               "type": "outline",
+<<<<<<< HEAD
+=======
+              "state": {
+>>>>>>> parent of aeb02b2 (vault backup: 2024-07-08 12:07:08)
                 "file": "2024-07-08-Nvim.md"
               }
             }
@@ -101,7 +108,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "conflict-files-obsidian-git.md",
+=======
+                "file": "2024-07-08-Nvim.md",
+>>>>>>> parent of aeb02b2 (vault backup: 2024-07-08 12:07:08)
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +129,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
                 "file": "conflict-files-obsidian-git.md",
+=======
+                "file": "2024-07-08-Nvim.md",
+>>>>>>> parent of aeb02b2 (vault backup: 2024-07-08 12:07:08)
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +161,11 @@
             "state": {
               "type": "localgraph",
               "state": {
+<<<<<<< HEAD
                 "file": "conflict-files-obsidian-git.md",
+=======
+                "file": "2024-07-08-Nvim.md",
+>>>>>>> parent of aeb02b2 (vault backup: 2024-07-08 12:07:08)
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -240,5 +259,53 @@
   },
   "active": "2fd843a9c8c12652",
   "lastOpenFiles": [
+<<<<<<< HEAD
+=======
+    "2024-07-08-Vim.md",
+    "2024-07-08-Nvim.md",
+    "2024-07-08-Toram_Yuu.md",
+    "2024-07-08-Toram_Ryu.md",
+    "2024-07-08-Toram_Komari.md",
+    "2024-07-08-Toram_Kanna.md",
+    "index.md",
+    "2024-07-08-Toram_Aria.md",
+    "2024-07-08-Toram_Aoi.md",
+    "_draft/2024-07-06-Toram.md",
+    "2024-07-08-Asobismo.md",
+    "maps/Toram-AoiRyuu.md",
+    "maps/Toram.md",
+    "api/2024/06/2024-06-30-Android.md",
+    "_insight/2024-07-06-Taticas_de_xadrez.md",
+    "_insight/2024/07/2024-07-06-Protocolo.md",
+    "_insight/2024/07/2024-07-06-Peão_xadrez.md",
+    "_insight/2024/07/2024-07-06-Frameworks.md",
+    "_insight/2024/07/2024-07-07-LaTeX.md",
+    "conflict-files-obsidian-git.md",
+    "_insight/atomic.md",
+    "_insight/Desperado.md",
+    "_insight/Cross-Origin Resource Sharing (CORS).md",
+    "_insight/Ataque Grob.md",
+    "_insight/Abertura Ware.md",
+    "_insight/2024-07-07-Xeque_mate.md",
+    "assets/Pasted Image 20240613173345_877.png",
+    "assets/Pasted Image 20240613172503_261.png",
+    "_insight/2024/07",
+    "_insight/2024",
+    "_posts/2024/07",
+    "_posts/2024",
+    "_posts",
+    "api/2024/07/06",
+    "_templates",
+    "__private",
+    "api/2024/07/02",
+    "api/2024/07/01",
+    "Sem título.canvas",
+    "src/canvas/Psicologia.canvas",
+    "__daily/images/logotipo-2.jpeg",
+    "__daily/images/logotipo-1.jpeg",
+    "__daily/images/logo.jpeg",
+    "__daily/images/fundo.jpeg",
+    "__daily/images/capa.jpeg"
+>>>>>>> parent of aeb02b2 (vault backup: 2024-07-08 12:07:08)
   ]
 }
