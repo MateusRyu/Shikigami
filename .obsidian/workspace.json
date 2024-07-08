@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LazyVim.md",
+                "file": "2024-07-08-lazy_nvim.md",
                 "mode": "source",
                 "source": false
               }
@@ -79,7 +79,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LazyVim.md"
+                "file": "2024-07-08-lazy_nvim.md"
               }
             }
           },
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LazyVim.md",
+                "file": "2024-07-08-lazy_nvim.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LazyVim.md",
+                "file": "2024-07-08-lazy_nvim.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "LazyVim.md",
+                "file": "2024-07-08-lazy_nvim.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -228,17 +228,17 @@
   },
   "active": "62979b0e1b40ac9e",
   "lastOpenFiles": [
-    "Integrated Development Environment.md",
-    "LazyVim.md",
+    "2024-07-08-LazyVim.md",
     "2024-07-08-lazy_nvim.md",
+    "2024-07-08-Integrated_Development_Environment.md",
     "2024-07-08-Editor de texto.md",
-    "2024-07-08-Neovim.md",
     "2024-07-08-Vim.md",
+    "index.md",
+    "2024-07-08-Neovim.md",
     "2024-07-08-Toram_Yuu.md",
     "2024-07-08-Toram_Ryu.md",
     "2024-07-08-Toram_Komari.md",
     "2024-07-08-Toram_Kanna.md",
-    "index.md",
     "2024-07-08-Toram_Aria.md",
     "2024-07-08-Toram_Aoi.md",
     "_draft/2024-07-06-Toram.md",
