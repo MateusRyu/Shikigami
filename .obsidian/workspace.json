@@ -11,12 +11,8 @@
             "id": "62979b0e1b40ac9e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "maps/Toram.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -71,7 +67,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "maps/Toram.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +83,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "maps/Toram.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -99,9 +93,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "maps/Toram.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -125,7 +117,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "maps/Toram.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -219,6 +210,8 @@
   },
   "active": "62979b0e1b40ac9e",
   "lastOpenFiles": [
+    "api/2024/07/2024-07-06-Xadrez.md",
+    "maps/Toram.md",
     "_insight/2024/07/2024-07-07-DIY.md",
     "_insight/2024/07/2024-07-08-Ciencia.md",
     "_draft/2024/08/2024-07-08-Abertura_Van_Geet.md",
@@ -243,8 +236,6 @@
     "_insight/2024/07/2024-07-06-Protocolo.md",
     "_draft/2024/07/2024-07-03-How_to_Take_Smart_Notes.md",
     "_draft/2024/08/2024-07-08-Gambito_Englund.md",
-    "_draft/2024/08/2024-07-08-Gambito_do_rei.md",
-    "maps/Livros para ler.md",
     "_draft/2024/08",
     "_draft/2024/07",
     "_draft/2024/06",
