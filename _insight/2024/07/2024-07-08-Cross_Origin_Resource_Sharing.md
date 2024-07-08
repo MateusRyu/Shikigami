@@ -12,4 +12,4 @@ aliases:
 ---
 
 [Artigo da Alura sobre CORS](https://www.alura.com.br/artigos/como-resolver-erro-de-cross-origin-resource-sharing)
-[HTTP](HTTP.md)
+[2024-07-08-HTTP](_insight/2024/07/2024-07-08-HTTP.md)

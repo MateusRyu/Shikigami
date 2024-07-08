@@ -10,4 +10,4 @@ aliases:
 # Frameworks
 ----
 
-- [Spring](_draft/Spring.md);
+- [2024-07-08-Spring](_insight/2024/07/2024-07-08-Spring.md);

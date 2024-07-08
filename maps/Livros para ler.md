@@ -1,2 +1,2 @@
-- [How to take smart notes](How%20to%20Take%20Smart%20Notes.md)
+- [How to take smart notes](_draft/2024/07/2024-07-03-How_to_Take_Smart_Notes.md)
 - 
