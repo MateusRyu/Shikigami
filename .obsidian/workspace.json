@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aria.md",
+                "file": "Yuu.md",
                 "mode": "source",
                 "source": false
               }
@@ -92,7 +92,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Aria.md"
+                "file": "Yuu.md"
               }
             }
           },
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Aria.md",
+                "file": "Yuu.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Aria.md",
+                "file": "Yuu.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Aria.md",
+                "file": "Yuu.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -242,6 +242,8 @@
   "active": "9abad50a8419c19e",
   "lastOpenFiles": [
     "Toram - AoiRyuu.md",
+    "Yuu.md",
+    "Komari.md",
     "Aria.md",
     "Aoi.md",
     "Ryu.md",
@@ -265,8 +267,6 @@
     "_insight/2024-07-07-Inconsciente_coletivo.md",
     "_insight/2024-07-07-Historia_do_xadrez.md",
     "_insight/2024-07-07-Decisoes_sob_pressao.md",
-    "_insight/2024-07-07-Dama_xadrez.md",
-    "_insight/2024-07-07-Chaturanga.md",
     "assets/Pasted Image 20240613173345_877.png",
     "assets/Pasted Image 20240613172503_261.png",
     "_insight/2024/07",
