@@ -1,1 +1,0 @@
-É um [gambito](_insight/2024/07/2024-07-05-Gambito.md) do [2024-07-06-Xadrez](api/2024/07/2024-07-06-Xadrez.md) usado contra a [abertura do Peão da Dama](_draft/Abertura%20do%20Peão%20da%20Dama.md). Apesar de ser uma [aberturas de xadrez](_draft/2024-07-06-Aberturas_de_xadrez.md) considerado matematicamente inferior, muitos jogadores não encontram as linhas de refutação.

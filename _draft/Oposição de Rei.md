@@ -1,1 +1,0 @@
-Oposição de [2024-07-07-Rei_xadrez](_insight/2024-07-07-Rei_xadrez.md) é quanto os dois reis estão na mesma coluna ou na mesma fileira, mas à duas casas de distancia entre eles.

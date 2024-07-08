@@ -1,2 +1,2 @@
--  [Kuuchuu Buranko](Kuuchuu%20Buranko.md);
+-  [2024-07-08-Kuuchuu_Buranko](_draft/2024/08/2024-07-08-Kuuchuu_Buranko.md);
 - 
