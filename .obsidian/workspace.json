@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "maps/Desenvolvimento de software.md",
+                "file": "_insight/2024-07-06-Linguagem_de_marcação.md",
                 "mode": "source",
                 "source": false
               }
@@ -79,7 +79,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "maps/Desenvolvimento de software.md"
+                "file": "_insight/2024-07-06-Linguagem_de_marcação.md"
               }
             }
           },
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "maps/Desenvolvimento de software.md",
+                "file": "_insight/2024-07-06-Linguagem_de_marcação.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "maps/Desenvolvimento de software.md",
+                "file": "_insight/2024-07-06-Linguagem_de_marcação.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "maps/Desenvolvimento de software.md",
+                "file": "_insight/2024-07-06-Linguagem_de_marcação.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -229,6 +229,7 @@
   },
   "active": "3e5fe2a2c0c2ee10",
   "lastOpenFiles": [
+    "maps/Desenvolvimento de software.md",
     "_insight/2024-07-06-Linguagem_de_marcação.md",
     "_insight/2024/07/2024-07-06-Frameworks.md",
     "_posts/2024/07/2024-07-07.md",
@@ -256,7 +257,6 @@
     "api/2024/06/2024-06-30-Distro_Linux.md",
     "_insight/2024/07/2024-07-07-Microsoft.md",
     "_draft/2024-06-30-Git.md",
-    "maps/Desenvolvimento de software.md",
     "_insight/2024/07",
     "_insight/2024",
     "_posts/2024/07",

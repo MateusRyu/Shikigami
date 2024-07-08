@@ -6,6 +6,7 @@ tags:
   - v0
 aliases:
   - Linguagem de marcação
+  - linguagem de marcação
 ---
 # Linguagem de marcação
 ## Lista de linguagens de marcação
