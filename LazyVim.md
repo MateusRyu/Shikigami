@@ -10,4 +10,4 @@ aliases:
 # LazyVim
 ---
 
-LazyVim é uma configuração para o  [Neovim](2024-07-08-Neovim.md) usando o  
+LazyVim é uma configuração para o  [Neovim](2024-07-08-Neovim.md) usando o plugin [lazy.nvim](2024-07-08-lazy_nvim.md) para facilitar a configuração e customização do [Neovim](2024-07-08-Neovim.md)
