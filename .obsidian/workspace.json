@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "9abad50a8419c19e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Yuu.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -92,7 +79,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Yuu.md"
+                "file": "_draft/2024-07-06-Toram.md"
               }
             }
           },
@@ -102,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Yuu.md",
+                "file": "_draft/2024-07-06-Toram.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Yuu.md",
+                "file": "_draft/2024-07-06-Toram.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +134,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Yuu.md",
+                "file": "_draft/2024-07-06-Toram.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -239,10 +226,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9abad50a8419c19e",
+  "active": "40363ce5135ac212",
   "lastOpenFiles": [
-    "Toram - AoiRyuu.md",
+    "api/2024/06/2024-06-30-Android.md",
+    "_insight/2024-07-06-Taticas_de_xadrez.md",
+    "_insight/2024/07/2024-07-06-Protocolo.md",
+    "_insight/2024/07/2024-07-06-Peão_xadrez.md",
+    "_insight/2024/07/2024-07-06-Frameworks.md",
+    "_insight/2024/07/2024-07-07-LaTeX.md",
     "Yuu.md",
+    "Toram - AoiRyuu.md",
     "Komari.md",
     "Aria.md",
     "Aoi.md",
@@ -261,12 +254,6 @@
     "_insight/2024-07-07-Regras_do_xadrez.md",
     "_insight/2024-07-07-Raciocínio_logico.md",
     "_insight/2024-07-07-Planejamento_estrategico.md",
-    "_insight/2024-07-07-Metodos_de_estudo.md",
-    "_insight/2024-07-07-MMORPG.md",
-    "_insight/2024-07-07-Kernel.md",
-    "_insight/2024-07-07-Inconsciente_coletivo.md",
-    "_insight/2024-07-07-Historia_do_xadrez.md",
-    "_insight/2024-07-07-Decisoes_sob_pressao.md",
     "assets/Pasted Image 20240613173345_877.png",
     "assets/Pasted Image 20240613172503_261.png",
     "_insight/2024/07",
