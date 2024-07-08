@@ -11,12 +11,8 @@
             "id": "3e5fe2a2c0c2ee10",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_draft/Configurando o Live Reload.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -31,7 +27,7 @@
       {
         "id": "c4bb36dfc64d123c",
         "type": "tabs",
-        "dimension": 56.62824207492796,
+        "dimension": 56.628242074927954,
         "children": [
           {
             "id": "d119f22fe88304d8",
@@ -79,9 +75,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "_draft/Configurando o Live Reload.md"
-              }
+              "state": {}
             }
           },
           {
@@ -90,7 +84,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_draft/Configurando o Live Reload.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +100,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_draft/Configurando o Live Reload.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +127,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "_draft/Configurando o Live Reload.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -230,6 +221,9 @@
   },
   "active": "3e5fe2a2c0c2ee10",
   "lastOpenFiles": [
+    "_draft/Configurando o Live Reload.md",
+    "_draft/2024-07-08-Spring.md",
+    "_draft/Java.md",
     "_insight/2024/07/2024-07-07-LaTeX.md",
     "index.md",
     "maps/Livros para ler.md",
@@ -253,9 +247,6 @@
     "_insight/2024/07/2024-07-07-Metodos_de_estudo.md",
     "_insight/2024/07/2024-07-07-Kernel.md",
     "_insight/2024/07/2024-07-07-Inconsciente_coletivo.md",
-    "_insight/2024/07/2024-07-07-Historia_do_xadrez.md",
-    "_insight/2024/07/2024-07-07-Decisoes_sob_pressao.md",
-    "_insight/2024/07/2024-07-07-Dama_xadrez.md",
     "assets/Pasted Image 20240613173345_877.png",
     "assets/Pasted Image 20240613172503_261.png",
     "_insight/2024/07",
