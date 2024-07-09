@@ -14,7 +14,7 @@ aliases:
 > [!note] Observação
 > As informações são baseados no que os jogadores descobriram e alguma informação pode não estar certo!
 
-Status é a base matemática para o jogo calcular todas as interações de batalha no jogo, que inclui danos, velocidade de ataque, velocidade de conjuração e entre outros. Os status são os dados que o jogador pode distribuir para cada vez que ele aumentar de nível ou através de recompensas no jogo.
+No [Toram](_draft/2024/07/2024-07-06-Toram.md), o status é a base matemática para o jogo calcular todas as interações de batalha no jogo, que inclui danos, velocidade de ataque, velocidade de conjuração e entre outros. Os status são os dados que o jogador pode distribuir para cada vez que ele aumentar de nível ou através de recompensas no jogo.
 ## Calculo do status total
 ---
 
@@ -50,7 +50,7 @@ Alguns status dependem de outros status, então é necessario um calculo na orde
 Para fins didáticos, os jogadores separaram os status em algumas categorias:
 1. [Status básico](2024-07-09-Toram_Status_basico.md): Aqueles que podem ser adicionados ao aumentar de level;
 2. [Status de equipamento](2024-07-09-Toram_Status_de_equipamento.md): ATK da arma, Equipment DEF, Weapon Stability, Refinement Resistance
-3. [Status derivados](2024-07-09-Toram_Status%20derivados.md): Status que se derivam dos [Status básicos](2024-07-09-Toram_Status_basico.md).
+3. [Status derivados](2024-07-09-Toram_Status_derivados.md): Status que se derivam dos [Status básicos](2024-07-09-Toram_Status_basico.md).
 4. [Status não-derivados](2024-07-09-Toram_Status%20não-derivados.md): Aqueles obtidos exclusivamente de equipamentos ou habilidade.
 5. Status Especial: [AMPR](2024-07-09-Toram_AMPR.md), [Motion Speed](2024-07-09-Toram_Motion_Speed.md), [Unsheathe Attack](2024-07-09-Toram_Unsheathe_Attack.md).
 

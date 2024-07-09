@@ -15,6 +15,8 @@ aliases:
 # Status básico
 ---
 
+[Toram](_draft/2024/07/2024-07-06-Toram.md)
+
 - [STR](2024-07-09-Toram_STR.md);
 - [INT](2024-07-09-Toram_INT.md);
 - [AGI](2024-07-09-Toram_AGI.md); 

@@ -1,14 +1,12 @@
 ---
 layout: post
-title: AGI
-created_at: 2024-07-09T00:17:30-03:00
+title: Staff
+created_at: 2024-07-09T02:59:49-03:00
 tags:
   - v0
 aliases:
-  - AGI
-  - Agility
-  - Agilidade
+  - Staff
 ---
-# AGI
+# Staff
 ---
 [Toram](_draft/2024/07/2024-07-06-Toram.md)

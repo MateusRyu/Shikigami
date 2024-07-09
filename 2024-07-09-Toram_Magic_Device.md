@@ -1,13 +1,13 @@
 ---
 layout: post
-title: CRT
-created_at: 2024-07-09T01:10:27-03:00
+title: Magic Device
+created_at: 2024-07-09T03:00:15-03:00
 tags:
   - v0
 aliases:
-  - CRT
+  - Magic Device
 ---
-# CRT
+# Magic Device
 ---
 
 [Toram](_draft/2024/07/2024-07-06-Toram.md)

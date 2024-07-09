@@ -1,13 +1,13 @@
 ---
 layout: post
-title: CRT
-created_at: 2024-07-09T01:10:27-03:00
+title: Armor
+created_at: 2024-07-09T03:02:28-03:00
 tags:
   - v0
 aliases:
-  - CRT
+  - Armor
 ---
-# CRT
+# Armor
 ---
 
 [Toram](_draft/2024/07/2024-07-06-Toram.md)

@@ -1,14 +1,12 @@
 ---
 layout: post
-title: AGI
-created_at: 2024-07-09T00:17:30-03:00
+title: Halberd
+created_at: 2024-07-09T03:01:32-03:00
 tags:
   - v0
 aliases:
-  - AGI
-  - Agility
-  - Agilidade
+  - Halberd
 ---
-# AGI
+# Halberd
 ---
 [Toram](_draft/2024/07/2024-07-06-Toram.md)

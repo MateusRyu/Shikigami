@@ -1,14 +1,12 @@
 ---
 layout: post
-title: AGI
-created_at: 2024-07-09T00:17:30-03:00
+title: Katana
+created_at: 2024-07-09T03:02:09-03:00
 tags:
   - v0
 aliases:
-  - AGI
-  - Agility
-  - Agilidade
+  - Katana
 ---
-# AGI
+# Katana
 ---
 [Toram](_draft/2024/07/2024-07-06-Toram.md)

@@ -1,13 +1,13 @@
 ---
 layout: post
-title: CRT
-created_at: 2024-07-09T01:10:27-03:00
+title: Knuckle
+created_at: 2024-07-09T03:01:13-03:00
 tags:
   - v0
 aliases:
-  - CRT
+  - Knuckle
 ---
-# CRT
+# Knuckle
 ---
 
 [Toram](_draft/2024/07/2024-07-06-Toram.md)
