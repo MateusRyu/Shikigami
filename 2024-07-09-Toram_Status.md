@@ -82,7 +82,7 @@ subgraph calculo dos ATK
 	c[ATK da arma]
 	
 	subgraph 4
-	c --> c1([ATK * ATK% da arma]) --> c2([ATK + ATK+ da arma])
+	c --> |Multiplica|c1([ATK% da arma]) --> |Soma|c2([ATK+ da arma])
 	end
 	
 	subgraph 3
