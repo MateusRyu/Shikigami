@@ -66,13 +66,13 @@ Por exemplo, digamos que queremos calcular o valor de [ATK](2024-07-09-Toram_ATK
 ```mermaid
 flowchart TD
 subgraph 1
-a[STR original] --> a1([STR * STR%]) 
-b[DEX original] --> b1([DEX * DEX%])
+a[STR orig.] --> |Multiplica|a1([STR%]) 
+b[DEX orig.] --> |Multiplica|b1([DEX%])
 end
 
 subgraph 2
-a1 --> a2([STR + STR+]) --> a3[STR final]
-b1 --> b2([DEX + DEX+]) --> b3[DEX final]
+a1 --> |Soma|a2([STR+]) --> a3[STR final]
+b1 --> |Soma|b2([DEX+]) --> b3[DEX final]
 end
 
 subgraph 3
