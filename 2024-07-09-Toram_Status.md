@@ -69,7 +69,8 @@ a[STR original] --> a1([STR * STR%]) --> a2([STR + STR+]) --> a3[STR final]
 b[DEX original] --> b1([DEX * DEX%]) --> b2([DEX + DEX+]) --> b3[DEX final]
 c[ATK da arma] --> c0([Bônus de refin.]) --> c3[ATK final da arma]
 c --> c1([ATK * ATK% da arma]) --> c2([ATK + ATK+ da arma]) --> c3
-d[LV] --> e[ATK original]
+a3 & b3 & c3 & d[LV]  --> e[ATK original]
+e --> e1([ATK * ATK%]) --> e2([ATK + ATK+]) --> e3[ATK final]
 
 
 ```
