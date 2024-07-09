@@ -50,11 +50,11 @@ Alguns status dependem de outros status, então é necessario um calculo na orde
 Para fins didáticos, os jogadores separaram os status em algumas categorias:
 1. [Status básico](2024-07-09-Toram_Status_basico.md): Aqueles que podem ser adicionados ao aumentar de level;
 2. [Status de equipamento](2024-07-09-Toram_Status_de_equipamento.md): ATK da arma, Equipment DEF, Weapon Stability, Refinement Resistance
-3. **Derived Stat:** Those derived from basic stat, such as ATK, HIT, Critical, etc.
-4. **Non-Derived Stat:** Those obtained from equipment/skill only, such as Aggro, Evasion, etc.
-5. **Special:** AMPR, Motion Speed, Unsheathe Attack
+3. [Status derivados](2024-07-09-Toram_Status%20derivados.md): Status que se derivam dos [Status básicos](2024-07-09-Toram_Status_basico.md).
+4. [Status não-derivados](2024-07-09-Toram_Status%20não-derivados.md): Aqueles obtidos exclusivamente de equipamentos ou habilidade.
+5. Status Especial: [AMPR](2024-07-09-Toram_AMPR.md), [Motion Speed](2024-07-09-Toram_Motion_Speed.md), [Unsheathe Attack](2024-07-09-Toram_Unsheathe_Attack.md).
 
-For example, let say we want to calculate ATK value for One-Handed Sword user. This stat is based on _basic stat STR and DEX_, and _Equipment Stat WeaponATK_. So the steps will be as follows:
+For example, let say we want to calculate ATK value for One-Handed Sword user. This stat is based on _basic stat STR and DEX_, and _Equipment Stat Weapon ATK_. So the steps will be as follows:
 
 1. Take original STR and DEX. Apply STR% & DEX% modifier to them.
 2. Apply STR+ and DEX+ flat modifier to result of (1), we get final STR and final DEX.

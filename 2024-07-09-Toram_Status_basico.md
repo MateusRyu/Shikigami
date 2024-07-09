@@ -9,6 +9,8 @@ aliases:
   - basic Stat
   - Status básico
   - status básico
+  - Status básicos
+  - status básicos
 ---
 # Status básico
 ---
