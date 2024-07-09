@@ -12,4 +12,4 @@ aliases:
 # Vienna
 ---
 
-pode transpor para o [2024-07-08-Gambito_do_rei](_draft/2024/08/2024-07-08-Gambito_do_rei.md)
+pode transpor para o [2024-07-08-Gambito_do_rei](_draft/2024/07/2024-07-08-Gambito_do_rei.md)

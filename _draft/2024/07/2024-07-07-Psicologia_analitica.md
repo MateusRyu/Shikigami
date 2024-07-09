@@ -11,7 +11,7 @@ aliases:
 # Psicologia analítica
 ---
 
-É uma vertente da [2024-07-08-Psicologia](_draft/2024/08/2024-07-08-Psicologia.md) que vai se preocupar em entender como se dá a cognição das pessoas. Ele foi elaborado por [[_insight/2024/07/2024-07-07-Carl_Jung]] e por essa vertente pode ser chamada de psicologia Junguiana e suas ramificações de neo-junguiana.
+É uma vertente da [2024-07-08-Psicologia](_draft/2024/07/2024-07-08-Psicologia.md) que vai se preocupar em entender como se dá a cognição das pessoas. Ele foi elaborado por [[_insight/2024/07/2024-07-07-Carl_Jung]] e por essa vertente pode ser chamada de psicologia Junguiana e suas ramificações de neo-junguiana.
 
 ## Autoconhecimento
 

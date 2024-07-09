@@ -24,7 +24,7 @@ São um grupo de aberturas de [xadrez](api/2024/07/2024-07-06-Xadrez.md) raramen
 - [2024-07-05-Ataque-Sodio](_insight/2024/07/2024-07-05-Ataque-Sodio.md): `1.Na3`;
 - [2024-07-03-Abertura_Sokolsky](_insight/2024/07/2024-07-03-Abertura_Sokolsky.md): `1.b4`;
 - [2024-07-03-Abertura_Saragoca](_insight/2024/07/2024-07-03-Abertura_Saragoca.md): `1.c3`;
-- [2024-07-08-Abertura_Van_Geet](_draft/2024/08/2024-07-08-Abertura_Van_Geet.md): `1.Nc3`;
+- [2024-07-08-Abertura_Van_Geet](_draft/2024/07/2024-07-08-Abertura_Van_Geet.md): `1.Nc3`;
 - [2024-07-03-Abertura_Vant_Kruijs](_insight/2024/07/2024-07-03-Abertura_Vant_Kruijs.md): `1.e3`;
 - [2024-07-03-Abertura_Mieses](_insight/2024/07/2024-07-03-Abertura_Mieses.md): `1.d3`;
 - [2024-07-03-Abertura_Barnes](_insight/2024/07/2024-07-03-Abertura_Barnes.md): `1. f3`;

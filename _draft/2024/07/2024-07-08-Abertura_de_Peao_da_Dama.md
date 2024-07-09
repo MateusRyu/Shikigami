@@ -18,7 +18,7 @@ aliases:
 ---
 
 
-- [2024-07-08-Gambito_Englund](_draft/2024/08/2024-07-08-Gambito_Englund.md);
+- [2024-07-08-Gambito_Englund](_draft/2024/07/2024-07-08-Gambito_Englund.md);
 - [Defesa Polonesa](Defesa%20Polonesa);
 - [Defesa do Cavalo da Dama](Defesa%20do%20Cavalo%20da%20Dama);
 - [Defesa Franco-India](Defesa%20Franco-India);
