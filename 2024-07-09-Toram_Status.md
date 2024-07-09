@@ -43,5 +43,8 @@ Status é a base matemática para o jogo calcular todas as interações de batal
 ---
 Alguns status já são valores percentuais (exemplo: [Guard Rate](2024-07-09-Toram_Guard_Rate.md), [Guard Power](2024-07-09-Toram_Guard_Power.md), [Evasion Rate](2024-07-09-Toram_Evasion_Rate.md)). Nesses casos, basta somar todos os valores!
 
+## Referencia
+---
+[Coryn Club](https://coryn.club/guide.php?key=status)
 
 
