@@ -78,21 +78,19 @@ subgraph calculo dos ATK
 		b1 --> |Soma|b2([DEX+]) --> b3[DEX final]
 		end
 	end
+	subgraph arma
+		subgraph 3
+			direction LR
+			c[ATK da arma] --> c0([Bônus de refin.]) 
+		end
 	
-	c[ATK da arma]
+		subgraph 4
+			c --> |Multiplica|c1([ATK% da arma]) --> |Soma|c2([ATK+ da arma])
+		end
 	
-	subgraph 4
-	c --> |Multiplica|c1([ATK% da arma]) --> |Soma|c2([ATK+ da arma])
-	end
-	
-	subgraph 3
-	c --> c0([Bônus de refin.]) 
-	end
-	
-	
-	
-	subgraph 5
-	c0 & c2 --> c3[ATK final da arma]
+		subgraph 5
+			c0 & c2 --> c3[ATK final da arma]
+		end
 	end
 end
 
