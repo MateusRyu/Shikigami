@@ -63,45 +63,6 @@ Por exemplo, digamos que queremos calcular o valor de [ATK](_insight/2024/07/202
 6. Calcule o [ATK](_insight/2024/07/2024-07-09-Toram_ATK.md) a partir do nível do personagem, resultado de (2) e (5).
 7. Aplique [ATK](_insight/2024/07/2024-07-09-Toram_ATK.md)% e [ATK](_insight/2024/07/2024-07-09-Toram_ATK.md)+ em (6), obtemos o [ATK](_insight/2024/07/2024-07-09-Toram_ATK.md) final.
 
-```mermaid
-flowchart TD
-subgraph calculo dos ATK
-	direction LR
-	subgraph Status básico
-		subgraph 1
-		a[STR orig.] --> |Multiplica|a1([STR%]) 
-		b[DEX orig.] --> |Multiplica|b1([DEX%])
-		end
-		
-		subgraph 2
-		a1 --> |Soma|a2([STR+]) --> a3[STR final]
-		b1 --> |Soma|b2([DEX+]) --> b3[DEX final]
-		end
-	end
-	subgraph arma
-		subgraph 3
-			direction LR
-			c[ATK da arma] --> c0([Bônus de refin.]) 
-		end
-	
-		subgraph 4
-			c --> |Multiplica|c1([ATK% da arma]) --> |Soma|c2([ATK+ da arma])
-		end
-	
-		subgraph 5
-			c0 & c2 --> c3[ATK final da arma]
-		end
-	end
-end
-
-subgraph 6
-a3 & b3 & c3 & d[LV]  --> e[ATK original]
-end
-
-subgraph 7
-e --> e1([ATK * ATK%]) --> e2([ATK + ATK+]) --> e3[ATK final]
-end
-```
 
 
 ## Referencia
