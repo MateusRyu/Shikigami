@@ -75,13 +75,17 @@ a1 --> |Soma|a2([STR+]) --> a3[STR final]
 b1 --> |Soma|b2([DEX+]) --> b3[DEX final]
 end
 
-subgraph 3
-c[ATK da arma] --> c0([Bônus de refin.]) 
-end
+c[ATK da arma]
 
 subgraph 4
 c --> c1([ATK * ATK% da arma]) --> c2([ATK + ATK+ da arma])
 end
+
+subgraph 3
+c --> c0([Bônus de refin.]) 
+end
+
+
 
 subgraph 5
 c0 & c2 --> c3[ATK final da arma]
