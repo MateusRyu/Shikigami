@@ -1,13 +1,12 @@
 ---
 layout: post
-title: Aria
-created_at: 2024-07-08T12:00:31-03:00
+title: Bowgun
+created_at: 2024-07-09T02:49:53-03:00
 tags:
   - v0
 aliases:
-  - Aria
+  - Bowgun
 ---
-# Aria
+# Bowgun
 ---
 [Toram](_draft/2024/07/2024-07-06-Toram.md)
-mago int
