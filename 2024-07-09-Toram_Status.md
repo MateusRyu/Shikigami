@@ -65,10 +65,28 @@ Por exemplo, digamos que queremos calcular o valor de [ATK](2024-07-09-Toram_ATK
 
 ```mermaid
 flowchart TD
-a[STR original] --> a1([STR * STR%]) --> a2([STR + STR+]) --> a3[STR final]
-b[DEX original] --> b1([DEX * DEX%]) --> b2([DEX + DEX+]) --> b3[DEX final]
-c[ATK da arma] --> c0([Bônus de refin.]) --> c3[ATK final da arma]
-c --> c1([ATK * ATK% da arma]) --> c2([ATK + ATK+ da arma]) --> c3
+subgraph 1
+a[STR original] --> a1([STR * STR%]) 
+b[DEX original] --> b1([DEX * DEX%])
+end
+
+subgraph 2
+a1 --> a2([STR + STR+]) --> a3[STR final]
+b1 --> b2([DEX + DEX+]) --> b3[DEX final]
+end
+
+subgraph 3
+c[ATK da arma] --> c0([Bônus de refin.]) 
+end
+
+subgraph 4
+c --> c1([ATK * ATK% da arma]) --> c2([ATK + ATK+ da arma])
+end
+
+subgraph 5
+c0 & c2 --> c3[ATK final da arma]
+end
+
 a3 & b3 & c3 & d[LV]  --> e[ATK original]
 e --> e1([ATK * ATK%]) --> e2([ATK + ATK+]) --> e3[ATK final]
 
