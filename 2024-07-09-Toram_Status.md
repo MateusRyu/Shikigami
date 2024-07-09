@@ -26,7 +26,7 @@ Status é a base matemática para o jogo calcular todas as interações de batal
 	3. Arredonda o valor para baixo;
 	4. Aplica os modificadores puros.
 
-#### Exemplo
+Por exemplo:
  - Personagem tem 255 de [STR](2024-07-09-Toram_STR.md);
  - Armadura tem 8% de [STR](2024-07-09-Toram_STR.md);
  - Arma tem -1% de [STR](2024-07-09-Toram_STR.md);
@@ -54,15 +54,26 @@ Para fins didáticos, os jogadores separaram os status em algumas categorias:
 4. [Status não-derivados](2024-07-09-Toram_Status%20não-derivados.md): Aqueles obtidos exclusivamente de equipamentos ou habilidade.
 5. Status Especial: [AMPR](2024-07-09-Toram_AMPR.md), [Motion Speed](2024-07-09-Toram_Motion_Speed.md), [Unsheathe Attack](2024-07-09-Toram_Unsheathe_Attack.md).
 
-For example, let say we want to calculate ATK value for One-Handed Sword user. This stat is based on _basic stat STR and DEX_, and _Equipment Stat Weapon ATK_. So the steps will be as follows:
+Por exemplo, digamos que queremos calcular o valor de [ATK](2024-07-09-Toram_ATK.md) para o usuário da [[Espada de uma mão]]. Este status é baseada em ([Status básicos](2024-07-09-Toram_Status_basico.md)) [STR](2024-07-09-Toram_STR.md) e [DEX](2024-07-09-Toram_DEX.md) e ([Status de equipamento](2024-07-09-Toram_Status_de_equipamento.md)) [ATK](2024-07-09-Toram_ATK.md). Portanto os passos serão os seguintes:
+1. Pegue [STR](2024-07-09-Toram_STR.md) e [DEX](2024-07-09-Toram_DEX.md) originais. Aplique o modificador [STR](2024-07-09-Toram_STR.md)% e [DEX](2024-07-09-Toram_DEX.md)% a eles.
+2. Aplique o modificador plano [STR](2024-07-09-Toram_STR.md)+ e [DEX](2024-07-09-Toram_DEX.md)+ ao resultado de (1), obtemos [STR](2024-07-09-Toram_STR.md) final e [DEX](2024-07-09-Toram_DEX.md) final.
+3. Pegue o [ATK](2024-07-09-Toram_ATK.md) da arma e calcule seu bônus de refinamento.
+4. Pegue o [ATK](2024-07-09-Toram_ATK.md) da arma, aplique o [ATK](2024-07-09-Toram_ATK.md)% da arma e o modificador do [ATK](2024-07-09-Toram_ATK.md)+ da arma a ele.
+5. Somando (3) e (4), obtemos o [ATK](2024-07-09-Toram_ATK.md) final da arma.
+6. Calcule o [ATK](2024-07-09-Toram_ATK.md) a partir do nível do personagem, resultado de (2) e (5).
+7. Aplique [ATK](2024-07-09-Toram_ATK.md)% e [ATK](2024-07-09-Toram_ATK.md)+ em (6), obtemos o [ATK](2024-07-09-Toram_ATK.md) final.
 
-1. Take original STR and DEX. Apply STR% & DEX% modifier to them.
-2. Apply STR+ and DEX+ flat modifier to result of (1), we get final STR and final DEX.
-3. Take weaponATK, calculate its refinement bonus.
-4. Take weaponATK, Apply weaponATK% and weaponATK+ modifier to it.
-5. Adds up (3) and (4), we get final WeaponATK.
-6. Calculate ATK from char's level, result of (2) and (5).
-7. Apply ATK% and ATK+ to (6), we get final ATK.
+```mermaid
+flowchart TD
+a[STR original] --> a1([Aplicar STR%]) --> a2([Aplicar STR+]) --> a3[STR final]
+b[DEX original] --> b1([Aplicar DEX%]) --> b2([Aplicar DEX+]) --> b3[DEX final]
+c[ATK da arma] --> c0([Bônus de refinamento]) --> c3[ATK final da arma]
+c --> c1([Aplicar ATK% da arma]) --> c2([Aplicar ATK+ da arma])
+
+
+```
+
+
 ## Referencia
 ---
 [Coryn Club](https://coryn.club/guide.php?key=status)
