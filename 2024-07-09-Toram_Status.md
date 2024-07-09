@@ -87,10 +87,13 @@ subgraph 5
 c0 & c2 --> c3[ATK final da arma]
 end
 
+subgraph 6
 a3 & b3 & c3 & d[LV]  --> e[ATK original]
+end
+
+subgraph 7
 e --> e1([ATK * ATK%]) --> e2([ATK + ATK+]) --> e3[ATK final]
-
-
+end
 ```
 
 
