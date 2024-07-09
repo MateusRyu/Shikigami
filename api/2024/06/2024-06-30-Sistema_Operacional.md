@@ -10,6 +10,8 @@ aliases:
   - SO
   - Sistema operacional
   - sistema operacional
+  - Sistemas operacionais
+  - sistemas operacionais
 ---
 # Sistema Operacional
 ---
