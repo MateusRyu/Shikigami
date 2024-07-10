@@ -18,7 +18,7 @@ No [Toram](_draft/2024/07/2024-07-06-Toram.md), são os status que podem ser mod
 ## Lista de status básico
 ---
 - [STR](api/2024/07/2024-07-09-Toram_STR.md): Força física do personagem;
-- [INT](_insight/2024/07/2024-07-09-Toram_INT.md): Força intelectual do personagem;
+- [INT](api/2024/07/2024-07-09-Toram_INT.md): Força intelectual do personagem;
 - [AGI](_insight/2024/07/2024-07-09-Toram_AGI.md): Agilidade do personagem; 
 - [DEX](_insight/2024/07/2024-07-09-Toram_DEX.md): Destreza do personagem; 
 - [VIT](_insight/2024/07/2024-07-09-Toram_VIT.md): Vitalidade do personagem;
