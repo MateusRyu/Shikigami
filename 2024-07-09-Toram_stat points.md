@@ -10,4 +10,4 @@ aliases:
 # stat points
 ---
 
-Usado para aumentar os [status básico](_insight/2024/07/2024-07-09-Toram_Status_basico.md) do personagem do jogador.
+Usado para aumentar os [status básico](api/2024/07/2024-07-09-Toram_Status_basico.md) do personagem do jogador.
