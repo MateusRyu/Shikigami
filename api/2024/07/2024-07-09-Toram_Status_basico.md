@@ -17,7 +17,7 @@ aliases:
 No [Toram](_draft/2024/07/2024-07-06-Toram.md), são os status que podem ser modificados pelo jogador através dos [stat points](_insight/2024/07/2024-07-09-Toram_stat%20points.md). Para cada vez que o jogador sobe de level, ele ganha 2 [stat points](_insight/2024/07/2024-07-09-Toram_stat%20points.md). Depois do LV 40, o jogador pode escolher desbloquear um (e apenas um) status personalizado daquele personagem especifico. O jogador também ganha [stat points](_insight/2024/07/2024-07-09-Toram_stat%20points.md) a mais através de [emblemas](2024-07-09-Toram_emblemas.md) conquistadas durante o jogo, sendo [stat points](_insight/2024/07/2024-07-09-Toram_stat%20points.md) compartilhadas por todos os personagens do jogador.
 ## Lista de status básico
 ---
-- [STR](_insight/2024/07/2024-07-09-Toram_STR.md): Força física do personagem;
+- [STR](api/2024/07/2024-07-09-Toram_STR.md): Força física do personagem;
 - [INT](_insight/2024/07/2024-07-09-Toram_INT.md): Força intelectual do personagem;
 - [AGI](_insight/2024/07/2024-07-09-Toram_AGI.md): Agilidade do personagem; 
 - [DEX](_insight/2024/07/2024-07-09-Toram_DEX.md): Destreza do personagem; 

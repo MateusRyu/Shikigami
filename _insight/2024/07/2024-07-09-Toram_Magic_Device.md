@@ -6,6 +6,7 @@ tags:
   - v0
 aliases:
   - Magic Device
+  - Dispositivo Mágico
 ---
 # Magic Device
 ---

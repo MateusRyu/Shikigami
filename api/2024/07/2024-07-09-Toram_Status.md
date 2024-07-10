@@ -27,10 +27,10 @@ No [Toram](_draft/2024/07/2024-07-06-Toram.md), o status é a base matemática p
 	4. Aplica os modificadores puros.
 
 Por exemplo:
- - Personagem tem 255 de [STR](_insight/2024/07/2024-07-09-Toram_STR.md);
- - Armadura tem 8% de [STR](_insight/2024/07/2024-07-09-Toram_STR.md);
- - Arma tem -1% de [STR](_insight/2024/07/2024-07-09-Toram_STR.md);
- - Buff de comida [STR](_insight/2024/07/2024-07-09-Toram_STR.md)+18;
+ - Personagem tem 255 de [STR](api/2024/07/2024-07-09-Toram_STR.md);
+ - Armadura tem 8% de [STR](api/2024/07/2024-07-09-Toram_STR.md);
+ - Arma tem -1% de [STR](api/2024/07/2024-07-09-Toram_STR.md);
+ - Buff de comida [STR](api/2024/07/2024-07-09-Toram_STR.md)+18;
 
 1. Soma dos modificadores percentual = 8% - 1% = 7%
 2. Valor com modificadores percentual = 255 * 107% = 272.85
@@ -45,7 +45,7 @@ Alguns status já são valores percentuais (exemplo: [Guard Rate](_insight/2024/
 
 ### Calculo final
 ---
-Alguns status dependem de outros status, então é necessario um calculo na ordem certa! Por exemplo, [Critical Damage](_insight/2024/07/2024-07-09-Toram_Critical_Damage.md) é calculado baseado no [STR](_insight/2024/07/2024-07-09-Toram_STR.md), então será necessario calcular o [STR](_insight/2024/07/2024-07-09-Toram_STR.md) primeiro par poder usar no calculo do [Critical Damage](_insight/2024/07/2024-07-09-Toram_Critical_Damage.md).  
+Alguns status dependem de outros status, então é necessario um calculo na ordem certa! Por exemplo, [Critical Damage](_insight/2024/07/2024-07-09-Toram_Critical_Damage.md) é calculado baseado no [STR](api/2024/07/2024-07-09-Toram_STR.md), então será necessario calcular o [STR](api/2024/07/2024-07-09-Toram_STR.md) primeiro par poder usar no calculo do [Critical Damage](_insight/2024/07/2024-07-09-Toram_Critical_Damage.md).  
 
 Para fins didáticos, os jogadores separaram os status em algumas categorias:
 1. [Status básico](api/2024/07/2024-07-09-Toram_Status_basico.md): Aqueles que podem ser adicionados ao aumentar de level;
@@ -54,9 +54,9 @@ Para fins didáticos, os jogadores separaram os status em algumas categorias:
 4. [Status não-derivados](_insight/2024/07/2024-07-09-Toram_Status%20não-derivados.md): Aqueles obtidos exclusivamente de equipamentos ou habilidade.
 5. [Status Especial](_insight/2024/07/2024-07-09-Toram_Status_Especial.md): Status que não se encaixam nas classificações anteriores.
 
-Por exemplo, digamos que queremos calcular o valor de [ATK](_insight/2024/07/2024-07-09-Toram_ATK.md) para o usuário da [[Espada de uma mão]]. Este status é baseada em ([Status básicos](api/2024/07/2024-07-09-Toram_Status_basico.md)) [STR](_insight/2024/07/2024-07-09-Toram_STR.md) e [DEX](_insight/2024/07/2024-07-09-Toram_DEX.md) e ([Status de equipamento](_insight/2024/07/2024-07-09-Toram_Status_de_equipamento.md)) [ATK](_insight/2024/07/2024-07-09-Toram_ATK.md). Portanto os passos serão os seguintes:
-1. Pegue [STR](_insight/2024/07/2024-07-09-Toram_STR.md) e [DEX](_insight/2024/07/2024-07-09-Toram_DEX.md) originais. Aplique o modificador [STR](_insight/2024/07/2024-07-09-Toram_STR.md)% e [DEX](_insight/2024/07/2024-07-09-Toram_DEX.md)% a eles.
-2. Aplique o modificador plano [STR](_insight/2024/07/2024-07-09-Toram_STR.md)+ e [DEX](_insight/2024/07/2024-07-09-Toram_DEX.md)+ ao resultado de (1), obtemos [STR](_insight/2024/07/2024-07-09-Toram_STR.md) final e [DEX](_insight/2024/07/2024-07-09-Toram_DEX.md) final.
+Por exemplo, digamos que queremos calcular o valor de [ATK](_insight/2024/07/2024-07-09-Toram_ATK.md) para o usuário da [[Espada de uma mão]]. Este status é baseada em ([Status básicos](api/2024/07/2024-07-09-Toram_Status_basico.md)) [STR](api/2024/07/2024-07-09-Toram_STR.md) e [DEX](_insight/2024/07/2024-07-09-Toram_DEX.md) e ([Status de equipamento](_insight/2024/07/2024-07-09-Toram_Status_de_equipamento.md)) [ATK](_insight/2024/07/2024-07-09-Toram_ATK.md). Portanto os passos serão os seguintes:
+1. Pegue [STR](api/2024/07/2024-07-09-Toram_STR.md) e [DEX](_insight/2024/07/2024-07-09-Toram_DEX.md) originais. Aplique o modificador [STR](api/2024/07/2024-07-09-Toram_STR.md)% e [DEX](_insight/2024/07/2024-07-09-Toram_DEX.md)% a eles.
+2. Aplique o modificador plano [STR](api/2024/07/2024-07-09-Toram_STR.md)+ e [DEX](_insight/2024/07/2024-07-09-Toram_DEX.md)+ ao resultado de (1), obtemos [STR](api/2024/07/2024-07-09-Toram_STR.md) final e [DEX](_insight/2024/07/2024-07-09-Toram_DEX.md) final.
 3. Pegue o [ATK](_insight/2024/07/2024-07-09-Toram_ATK.md) da arma e calcule seu bônus de refinamento.
 4. Pegue o [ATK](_insight/2024/07/2024-07-09-Toram_ATK.md) da arma, aplique o [ATK](_insight/2024/07/2024-07-09-Toram_ATK.md)% da arma e o modificador do [ATK](_insight/2024/07/2024-07-09-Toram_ATK.md)+ da arma a ele.
 5. Somando (3) e (4), obtemos o [ATK](_insight/2024/07/2024-07-09-Toram_ATK.md) final da arma.
