@@ -6,6 +6,9 @@ tags:
   - v0
 aliases:
   - Staff
+  - staff
+  - Cajado
+  - cajado
 ---
 # Staff
 ---

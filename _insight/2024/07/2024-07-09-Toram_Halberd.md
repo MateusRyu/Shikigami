@@ -6,6 +6,9 @@ tags:
   - v0
 aliases:
   - Halberd
+  - halberd
+  - Alabarda
+  - alabarda
 ---
 # Halberd
 ---

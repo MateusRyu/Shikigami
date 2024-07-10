@@ -6,6 +6,9 @@ tags:
   - v0
 aliases:
   - One-Handed Sword
+  - espada de uma mão
+  - Espada de uma mão
+  - OHS
 ---
 # One-Handed Sword
 ---

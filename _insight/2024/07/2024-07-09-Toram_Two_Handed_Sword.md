@@ -6,6 +6,9 @@ tags:
   - v0
 aliases:
   - Two-Handed Sword
+  - Espada de duas mãos
+  - espada de duas mãos
+  - 2HS
 ---
 # Two-Handed Sword
 ---
