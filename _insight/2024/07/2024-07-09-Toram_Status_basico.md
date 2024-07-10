@@ -14,8 +14,7 @@ aliases:
 ---
 # Status básico
 ---
-
-[Toram](_draft/2024/07/2024-07-06-Toram.md)
+No [Toram](_draft/2024/07/2024-07-06-Toram.md), são os status que podem ser modificados pelo jogador a cada aumento de level através dos  
 
 - [STR](_insight/2024/07/2024-07-09-Toram_STR.md);
 - [INT](_insight/2024/07/2024-07-09-Toram_INT.md);

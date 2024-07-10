@@ -52,7 +52,7 @@ Para fins didáticos, os jogadores separaram os status em algumas categorias:
 2. [Status de equipamento](_insight/2024/07/2024-07-09-Toram_Status_de_equipamento.md): ATK da arma, Equipment DEF, Weapon Stability, Refinement Resistance
 3. [Status derivados](_insight/2024/07/2024-07-09-Toram_Status_derivados.md): Status que se derivam dos [Status básicos](_insight/2024/07/2024-07-09-Toram_Status_basico.md).
 4. [Status não-derivados](_insight/2024/07/2024-07-09-Toram_Status%20não-derivados.md): Aqueles obtidos exclusivamente de equipamentos ou habilidade.
-5. Status Especial: [AMPR](_insight/2024/07/2024-07-09-Toram_AMPR.md), [Motion Speed](_insight/2024/07/2024-07-09-Toram_Motion_Speed.md), [Unsheathe Attack](_insight/2024/07/2024-07-09-Toram_Unsheathe_Attack.md).
+5. [Status Especial](2024-07-09-Toram_Status_Especial.md): Status que não se encaixam nas classificações anteriores.
 
 Por exemplo, digamos que queremos calcular o valor de [ATK](_insight/2024/07/2024-07-09-Toram_ATK.md) para o usuário da [[Espada de uma mão]]. Este status é baseada em ([Status básicos](_insight/2024/07/2024-07-09-Toram_Status_basico.md)) [STR](_insight/2024/07/2024-07-09-Toram_STR.md) e [DEX](_insight/2024/07/2024-07-09-Toram_DEX.md) e ([Status de equipamento](_insight/2024/07/2024-07-09-Toram_Status_de_equipamento.md)) [ATK](_insight/2024/07/2024-07-09-Toram_ATK.md). Portanto os passos serão os seguintes:
 1. Pegue [STR](_insight/2024/07/2024-07-09-Toram_STR.md) e [DEX](_insight/2024/07/2024-07-09-Toram_DEX.md) originais. Aplique o modificador [STR](_insight/2024/07/2024-07-09-Toram_STR.md)% e [DEX](_insight/2024/07/2024-07-09-Toram_DEX.md)% a eles.
