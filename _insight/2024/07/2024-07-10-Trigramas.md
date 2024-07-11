@@ -11,7 +11,7 @@ aliases:
 # trigramas
 ---
 
-[[2024-07-10-Bigrama]]
-[[2024-07-10-Yin]] e [[2024-07-10-Yang]]
+[[_insight/2024/07/2024-07-10-Bigrama]]
+[[_insight/2024/07/2024-07-10-Yin]] e [[_insight/2024/07/2024-07-10-Yang]]
 
 ![Drawing 2024-07-10 21.11.07.excalidraw](assets/Excalidraw/Drawing%202024-07-10%2021.11.07.excalidraw.md)
