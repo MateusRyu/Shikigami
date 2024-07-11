@@ -2,3 +2,10 @@
 .obsidian/workspace.json
 .obsidian/graph.json
 __*/
+
+\Jekyll
+_site
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+vendor
