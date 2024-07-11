@@ -41,8 +41,7 @@ Translated versions:
 	```sh
     bundle exec jekyll serve
 	```
-4.  1. Browse to [http://localhost:4000](http://localhost:4000/)
-5. 
+4. Browse to [http://localhost:4000](http://localhost:4000/)
 ## Usage
 ### Structure
 ---
