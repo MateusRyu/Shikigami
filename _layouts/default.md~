@@ -1,0 +1,5 @@
+---
+layout: web
+---
+
+{{ content | erase_md_extensions}}
