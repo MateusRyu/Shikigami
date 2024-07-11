@@ -18,8 +18,7 @@ Translated versions:
 - [x] Private folder to sensitive data (Folder will not be store remotely);
 - [ ] End-point to consume data;
 - [x] Each data is writing with [2024-07-08-Markdown](_draft/2024/07/2024-07-08-Markdown.md) with an [atomic](_insight/2024/07/2024-07-08-atomico.md)] way to easily recover the information.
-- [ ] [[Jekyll]] to publish at web
-
+- [ ] [[Jekyll]] ready to use
 ## Installation
 ---
 ### Requirements
