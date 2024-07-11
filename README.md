@@ -27,11 +27,22 @@ Translated versions:
 - [GCC](https://gcc.gnu.org/install/) and [Make](https://www.gnu.org/software/make/) (check versions using `gcc -v`,`g++ -v`, and `make -v`)
 
 
-## Setup Jekyll
-
-```sh
-bundle install
-```
+### Setup
+1. Clone this project:
+	```sh
+	git clone https://github.com/MateusRyu/Shikigami.git
+	cd Shikigami
+	```
+2. Bundle [gems](https://jekyllrb.com/docs/ruby-101/#gems) with:
+	```sh
+	bundle install
+	```
+3. Build the site and make it available on a local server:
+	```sh
+    bundle exec jekyll serve
+	```
+4.  1. Browse to [http://localhost:4000](http://localhost:4000/)
+5. 
 ## Usage
 ### Structure
 ---
