@@ -10,16 +10,24 @@ aliases:
 # Correlação entre Taoismo e Tipologia Junguiana
 ---
 
-[[2024-07-10-Taoismo]]
-[Tipos psicológicos](Tipos%20psicológicos)
+[Taoismo](2024-07-10-Taoismo.md)
 
-| [[tip]] | [Trigramas](2024-07-10-Trigramas.md) |
-| ------- | ------------------------------------ |
-| Fi      | Céu                                  |
-| Fe      | Lago                                 |
-| Ti      | Fogo                                 |
-| Te      | Trovão                               |
-| Ni      | Vento                                |
-| Ne      | Água                                 |
-| Si      | Montanha                             |
-| Se      | Terra                                |
+Stack:
+1. e - e
+2. Temperamento:
+	- F (-)
+	- Q (+)
+1. Função:
+	- J (+)
+	- P (-)
+
+| [Tipos psicológicos](2024-07-10-Tipos_psicologicos.md) | [Trigramas](2024-07-10-Trigramas.md) |
+| ------------------------------------------------------ | ------------------------------------ |
+| Fi                                                     | Céu                                  |
+| Fe                                                     | Lago                                 |
+| Ti                                                     | Fogo                                 |
+| Te                                                     | Trovão                               |
+| Ni                                                     | Vento                                |
+| Ne                                                     | Água                                 |
+| Si                                                     | Montanha                             |
+| Se                                                     | Terra                                |

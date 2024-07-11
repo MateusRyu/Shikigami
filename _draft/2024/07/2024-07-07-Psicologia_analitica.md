@@ -29,7 +29,7 @@ Vale ressaltar que existe uma diferença entre o ego para a psicologia analític
 ## Individuação
 
 ## Tipos psicológicos  
-Os [[Tipos psicológicos]] são uma combinação de uma atitude e uma função. A [[Atitude]] se refere em como o indivíduo interage com o mundo, existindo duas formas: a [[atitude extrovertida]] e a [[atitude introvertida]]. Já a [[função]] se refere ao modo como a psique percebe ou julga o mundo, sendo divididas em duas [[funções racionais]] ([[pensamento]] e [[sentimento]]) e duas [[funções irracionais]] ([[intuição]] e [[percepção]]).
+Os [[2024-07-10-Tipos_psicologicos]] são uma combinação de uma atitude e uma função. A [[Atitude]] se refere em como o indivíduo interage com o mundo, existindo duas formas: a [[atitude extrovertida]] e a [[atitude introvertida]]. Já a [[função]] se refere ao modo como a psique percebe ou julga o mundo, sendo divididas em duas [[funções racionais]] ([[pensamento]] e [[sentimento]]) e duas [[funções irracionais]] ([[intuição]] e [[percepção]]).
 
 Segundo a psicologia analítica, todos os indivíduos possuem as quatro funções, apesar que provavelmente tenham níveis diferentes de desenvolvimento, e cada função tem uma atitude preferencial. Cada indivíduo tem uma função na qual tem uma melhor facilidade e desenvolvimento, a **função principal**,
 
