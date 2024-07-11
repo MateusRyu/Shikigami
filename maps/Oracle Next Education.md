@@ -1,1 +1,0 @@
-Projeto de educação proposto pela [2024-07-08-Oracle](_insight/2024/07/2024-07-08-Oracle.md) e a [2024-07-08-Alura](_insight/2024/07/2024-07-08-Alura.md).

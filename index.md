@@ -8,13 +8,13 @@ aliases:
   - Index
 ---
 - lazer:
-	- [Animes](maps/Animes.md);
-	- [Xadrez](maps/Xadrez.md)
-	- [Toram](maps/Toram.md);
+	- [Animes](maps/2024-07-11-Animes);
+	- [Xadrez](maps/2024-07-11-Xadrez.md)
+	- [Toram](maps/2024-07-11-Toram.md);
 - Estudos:
-	- [Auto-desenvolvimento](maps/Auto-desenvolvimento.md);
-	- [Desenvolvimento de software](maps/Desenvolvimento%20de%20software.md);
-	- [Oracle Next Education](maps/Oracle%20Next%20Education.md);
-	- [Psicologia](maps/Psicologia.md)
+	- [Auto-desenvolvimento](maps/2024-07-11-Auto_desenvolvimento.md);
+	- [Desenvolvimento de software](maps/2024-07-11-Desenvolvimento_de_software.md);
+	- [Oracle Next Education](maps/2024-07-11-Oracle_Next_Education.md);
+	- [Psicologia](maps/2024-07-11-Psicologia.md)
 - Projetos:
 	- [Shikigami](api/2024/06/2024-06-30-Shikigami.md)

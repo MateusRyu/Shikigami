@@ -1,0 +1,5 @@
+---
+layout: web
+---
+
+{{ content }}

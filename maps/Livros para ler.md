@@ -1,2 +1,0 @@
-- [How to take smart notes](_draft/2024/07/2024-07-03-How_to_Take_Smart_Notes.md)
-- 
