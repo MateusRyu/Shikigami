@@ -26,6 +26,12 @@ Translated versions:
 - [RubyGems](https://rubygems.org/pages/download) (check your Gems version using `gem -v`)
 - [GCC](https://gcc.gnu.org/install/) and [Make](https://www.gnu.org/software/make/) (check versions using `gcc -v`,`g++ -v`, and `make -v`)
 
+
+## Setup Jekyll
+
+```sh
+bundle install
+```
 ## Usage
 ### Structure
 ---
