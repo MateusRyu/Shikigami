@@ -12,4 +12,4 @@ aliases:
 # Defesa Nimzowitsch
 ---
 
-Pode transpor para a [abertura escocesa](Abertura%20escocesa)
+Pode transpor para a [abertura escocesa](_insight/2024/07/2024-07-12-Abertura_escocesa.md)
