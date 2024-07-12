@@ -13,6 +13,6 @@ aliases:
 [2024-07-06-Protocolo](_insight/2024/07/2024-07-06-Protocolo.md)
 [2024-07-06-Linguagem_de_marcação](_insight/2024/07/2024-07-06-Linguagem_de_marcação.md)
 [2024-07-08-Linguagem_de_programacao](_insight/2024/07/2024-07-08-Linguagem_de_programacao.md)
-[Algoritmo](Algoritmo.md)
+[2024-07-12-Algoritmo](2024-07-12-Algoritmo.md)
 [Git](_draft/2024/06/2024-06-30-Git.md)
 [2024-07-11-Auto_desenvolvimento](maps/2024-07-11-Auto_desenvolvimento.md)
