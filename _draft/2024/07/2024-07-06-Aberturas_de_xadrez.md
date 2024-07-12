@@ -18,7 +18,7 @@ updated at: 2024-07-07T21:34:27-03:00
 
 No [xadrez](api/2024/07/2024-07-06-Xadrez.md), a abertura é a fase do jogo em que cada jogador desenvolve as suas peças para conseguir uma posição mais agressiva para iniciar um ataque ou uma posição mais sólida para se defender. Jogadores e estudiosos do temas estudaram varias sequencia de lances e os catalogaram para cada abertura com um nome suas variantes com os lances considerados mais fortes. Os lances já registrados são chamados de `lance de livro` e quando o jogador desvia da teoria é chamado de lances `fora do livro`.
 
-A lista a seguir vai seguir [Encyclopaedia of Chess Openings](api/2024/07/2024-07-07-Encyclopaedia_of_Chess_Openings.md) (ECO) e usará a [Notação algébrica de xadrez](Notação%20algébrica%20de%20xadrez). 
+A lista a seguir vai seguir [Encyclopaedia of Chess Openings](api/2024/07/2024-07-07-Encyclopaedia_of_Chess_Openings.md) (ECO) e usará a [2024-07-12-Notacao_algebrica_de_xadrez](_insight/2024/07/2024-07-12-Notacao_algebrica_de_xadrez.md). 
 
 ## Lista de aberturas
 ---
