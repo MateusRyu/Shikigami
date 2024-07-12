@@ -18,6 +18,6 @@ Não existe uma forma conhecida de como destruir ou descartar um arquétipo, o q
 
 ## lista de arquétipos
 - [[Persona]]
-- [[Sombra]]
+- [[_insight/2024/07/2024-07-12-Sombra]]
 - [[Animus]]
 - [[Anima]]

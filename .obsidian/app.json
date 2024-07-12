@@ -3,5 +3,8 @@
   "useMarkdownLinks": true,
   "newLinkFormat": "absolute",
   "showUnsupportedFiles": true,
-  "propertiesInDocument": "source"
+  "propertiesInDocument": "source",
+  "userIgnoreFilters": [
+    "_site/"
+  ]
 }
