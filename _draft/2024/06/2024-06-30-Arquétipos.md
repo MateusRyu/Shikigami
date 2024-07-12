@@ -17,7 +17,7 @@ Arquétipos, dentro da [psicologia analítica](_draft/2024/07/2024-07-07-Psicolo
 Não existe uma forma conhecida de como destruir ou descartar um arquétipo, o que Inclusive pode levar à problemas psicológicos visto que os arquétipos habitam a região do inconsciente. Um exemplo, que tem se tornado comum após Iluminismo, é a tentativa de renegar o arquétipo de Deus, que normalmente é preenchido com algum Deus, um panteão de deuses, o Universo ou a natureza. Na tentativa de não aceitar esse arquétipo, ele passou a ser preenchido com a ciência e qualquer ideia relacionada à "Deus" passou a formar um complexo que despertar reações defensivas irracionais que podem ser prejudiciais a si próprio ou para a convivência do indivíduo em sociedade.
 
 ## lista de arquétipos
-- [[Persona]]
+- [[2024-07-12-Persona]]
 - [[_insight/2024/07/2024-07-12-Sombra]]
 - [[Animus]]
 - [[_insight/2024/07/2024-07-12-Anima]]
