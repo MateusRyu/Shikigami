@@ -20,4 +20,4 @@ Não existe uma forma conhecida de como destruir ou descartar um arquétipo, o q
 - [[Persona]]
 - [[_insight/2024/07/2024-07-12-Sombra]]
 - [[Animus]]
-- [[2024-07-12-Anima]]
+- [[_insight/2024/07/2024-07-12-Anima]]

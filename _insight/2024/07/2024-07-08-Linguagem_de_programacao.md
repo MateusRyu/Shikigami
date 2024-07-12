@@ -10,4 +10,4 @@ aliases:
 # Linguagem de programação
 ---
 
-Meio para criar um [algoritmo](2024-07-12-Algoritmo.md) computacional.
+Meio para criar um [algoritmo](_insight/2024/07/2024-07-12-Algoritmo.md) computacional.
