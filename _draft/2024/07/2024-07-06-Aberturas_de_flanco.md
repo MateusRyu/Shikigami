@@ -17,7 +17,7 @@ aliases:
 ## Lista
 -  (`A00`–`A39`) Primeiro lance das brancas que são diferente de `1.e4` e `1.d4`.
 	-  (`A00`) [2024-07-06-Aberturas_irregulares](_draft/2024/07/2024-07-06-Aberturas_irregulares.md): ![2024-07-06-Aberturas_irregulares](_draft/2024/07/2024-07-06-Aberturas_irregulares.md#^lista-de-aberturas-irregulares)
-	-  (`A01`) [Abertura Larsen](Abertura%20Larsen): `1.b3`;
+	-  (`A01`) [2024-07-12-Abertura_Larsen](_insight/2024/07/2024-07-12-Abertura_Larsen.md): `1.b3`;
 	-  (`A02`) [Abertura Bird](_draft/2024/07/2024-07-08-Abertura_Bird.md): `1.f4`;
 		-  (`A03`) [Abertura Bird, variante holandesa](_draft/2024/07/2024-07-08-Abertura_Bird.md#variante%20Holandesa): `1.f4 d5`;
 	-  (`A04`) [Abertura Zukertort](_insight/2024/07/2024-07-03-Abertura_Reti.md): `1.Nf3`;
@@ -32,6 +32,6 @@ aliases:
 	-  (`A40`) [2024-07-08-Abertura_de_Peao_da_Dama](_draft/2024/07/2024-07-08-Abertura_de_Peao_da_Dama.md): `1.d4`;
 - `A45`–`A49`: `1.d4 Nf6` sem a continuação `2.c4` (Resposta atípica contra `1...Nf6`);
 - `A50`–`A79`: `1.d4 Nf6 2.c4` without `2...e6` or `2...g6` ([Defesas Índias](_insight/2024/07/2024-07-07-Defesas_indias.md) atípicas);
-- `A80`–`A99`: `1.d4 f5` ([Defesa holandesa](Defesa%20holandesa));
+- `A80`–`A99`: `1.d4 f5` ([2024-07-12-Defesa_holandesa](_insight/2024/07/2024-07-12-Defesa_holandesa.md));
 
 ^lista-de-aberturas-de-flanco

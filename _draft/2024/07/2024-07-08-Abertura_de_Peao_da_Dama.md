@@ -19,8 +19,8 @@ aliases:
 
 
 - [2024-07-08-Gambito_Englund](_draft/2024/07/2024-07-08-Gambito_Englund.md);
-- [Defesa Polonesa](Defesa%20Polonesa);
-- [Defesa do Cavalo da Dama](Defesa%20do%20Cavalo%20da%20Dama);
-- [Defesa Franco-India](Defesa%20Franco-India);
-- [Defesa Inglês](Defesa%20Inglês);
-- [Defesa Keres](Defesa%20Keres);
+- [2024-07-12-Xadrez_Defesa_Polonesa](_insight/2024/07/2024-07-12-Xadrez_Defesa_Polonesa.md);
+- [2024-07-12-Defesa_do_Cavalo_da_Dama](_insight/2024/07/2024-07-12-Defesa_do_Cavalo_da_Dama.md);
+- [2024-07-12-Xadrez_Defesa_Franco_India](_insight/2024/07/2024-07-12-Xadrez_Defesa_Franco_India.md);
+- [2024-07-12-Xadrez_Defesa_Ingles](_insight/2024/07/2024-07-12-Xadrez_Defesa_Ingles.md);
+- [2024-07-12_Defesa_Keres](_insight/2024/07/2024-07-12_Defesa_Keres.md);

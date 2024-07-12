@@ -20,7 +20,7 @@ O fianqueto é uma estratégia de desenvolvimento no [xadrez](api/2024/07/2024-0
 Há várias razões para usar um fianqueto:
 
 1. **Controle das Diagonais Longas**: O [bispo](_insight/2024/07/2024-07-07-Bispo_xadrez.md) fianquetado controla uma longa diagonal, muitas vezes incluindo o importante centro do tabuleiro.
-2. **Segurança do Rei**: Quando o fianqueto é combinado com o [roque](_insight/2024/07/2024-07-08-Roque.md), o [rei](_insight/2024/07/2024-07-07-Rei_xadrez.md) costuma ficar bem protegido, já que os [peões](_insight/2024/07/2024-07-08-Peoes.md) ao redor são menos propensos a serem trocados rapidamente.
+2. **Segurança do Rei**: Quando o fianqueto é combinado com o [roque](_insight/2024/07/2024-07-08-Roque.md), o [rei](_insight/2024/07/2024-07-07-Rei_xadrez.md) costuma ficar bem protegido, já que os [peões](_insight/2024/07/2024-07-06-Peão_xadrez.md)) ao redor são menos propensos a serem trocados rapidamente.
 3. **Flexibilidade Posicional**: O fianqueto permite um desenvolvimento flexível das outras peças, mantendo opções abertas para diferentes planos estratégicos.
 
 ^vantagens
