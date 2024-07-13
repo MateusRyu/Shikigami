@@ -6,12 +6,7 @@ tags:
   - v0
 aliases:
   - Sistema Operacional
-  - OS
-  - SO
-  - Sistema operacional
-  - sistema operacional
   - Sistemas operacionais
-  - sistemas operacionais
 ---
 # Sistema Operacional
 ---
