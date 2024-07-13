@@ -6,12 +6,12 @@ tags:
 aliases:
   - Fraction of Flame
 name: Fraction of Flame
-artist: 
-released_at: 
+artist: empleh
+released_at: 2023-11-7
 genres:
 ---
 # Fraction of Flame
 ---
+![Fraction of Flame - Empleh](https://www.youtube.com/watch?v=9g-FbdDevx8)
 
-
-
+É uma música da [[empleh]] disponivél
