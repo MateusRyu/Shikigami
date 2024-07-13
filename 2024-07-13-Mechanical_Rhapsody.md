@@ -16,4 +16,6 @@ genres:
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3lRql8S2uSXZ3qrvBIYbDY?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-Morimori Atsushi The Unattended ℗ [#ffffff](https://www.youtube.com/hashtag/ffffff) Records Released on: 2022-04-24
+[Morimori Atsushi](Morimori%20Atsushi) The Unattended 
+Released on: [[2022-04-24]]
+
