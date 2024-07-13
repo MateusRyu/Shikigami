@@ -12,6 +12,8 @@ genres:
 ---
 # Mechanical Rhapsody
 ---
-![Mechanical Rhapsody](https://www.youtube.com/channel/UCCjofagQ-ZQnrhLj4hZoWZQ)
+[Link oficial no Spotify](https://open.spotify.com/intl-pt/track/3lRql8S2uSXZ3qrvBIYbDY?si=f274f829228a4928) | [Link da música no Youtube](https://www.youtube.com/channel/UCCjofagQ-ZQnrhLj4hZoWZQ)
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3lRql8S2uSXZ3qrvBIYbDY?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 Morimori Atsushi The Unattended ℗ [#ffffff](https://www.youtube.com/hashtag/ffffff) Records Released on: 2022-04-24
