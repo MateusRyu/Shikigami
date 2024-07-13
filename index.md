@@ -11,7 +11,7 @@ aliases:
 	- [Animes](maps/2024-07-11-Animes);
 	- [Xadrez](maps/2024-07-11-Xadrez.md)
 	- [Toram](maps/2024-07-11-Toram.md);
-	- [2024-07-11-Livros](maps/2024-07-11-Livros.md)
+	- [Livros](maps/2024-07-11-Livros.md)
 - Estudos:
 	- [Auto-desenvolvimento](maps/2024-07-11-Auto_desenvolvimento.md);
 	- [Desenvolvimento de software](maps/2024-07-11-Desenvolvimento_de_software.md);
