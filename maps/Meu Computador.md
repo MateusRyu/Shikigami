@@ -9,11 +9,11 @@ aliases:
 
 # Meu Computador
 ---
-Dual boot com a [[Pasta home]] compartilhada para ter um [Sistema Operacional](api/2024/06/2024-06-30-Sistema_Operacional.md) de backup pra caso algo dê errado no [sistema](api/2024/06/2024-06-30-Sistema_Operacional.md) principal.
+Dual boot com a [pasta home](2024-07-14-Pasta_home.md) compartilhada para ter um [Sistema Operacional](api/2024/06/2024-06-30-Sistema_Operacional.md) de backup pra caso algo dê errado no [sistema](api/2024/06/2024-06-30-Sistema_Operacional.md) principal.
 ## Particionamento
 ---
 - `sda1`: `/boot/efi`
-- `sda2`: `/` [Zorin OS Lite]((Zorin%20OS%20Lite))
+- `sda2`: `/` ([Zorin OS Lite](Zorin%20OS%20Lite))
 - `sda3`: `/` ([Arco Linux](api/2024/07/2024-07-07-Arco_Linux.md))
 - `sda4`: [SWAP](SWAP)
 -  `sda6`: `/home` 
