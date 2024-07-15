@@ -15,5 +15,5 @@ Dual boot com a [pasta home](2024-07-14-Pasta_home.md) compartilhada para ter um
 - `sda1`: `/boot/efi`
 - `sda2`: `/` ([Zorin OS Lite](Zorin%20OS%20Lite))
 - `sda3`: `/` ([Arco Linux](api/2024/07/2024-07-07-Arco_Linux.md))
-- `sda4`: [SWAP](SWAP)
+- `sda4`: [SWAP](2024-07-14-SWAP.md)
 -  `sda6`: `/home` 
