@@ -8,6 +8,6 @@ aliases:
 ---
 # Lolita: Dreaming, Despairing, Defying
 ---
-
+YOUNKER, Terasa. Lolita: Dreaming, despairing, defying. **Stanford Journal of East Asian Affairs**, v. 11, n. 1, p. 97-110, 2011.
 
 ![Lolita_Dreaming_Despairing_Defying](assets/docs/Lolita_Dreaming_Despairing_Defying.pdf)
