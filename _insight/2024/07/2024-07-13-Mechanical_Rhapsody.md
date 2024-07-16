@@ -16,6 +16,6 @@ genres:
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3lRql8S2uSXZ3qrvBIYbDY?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-[Morimori Atsushi](Morimori%20Atsushi) The Unattended 
-Released on: [[2022-04-24]]
+[Morimori Atsushi](_insight/2024/07/2024-07-16-Morimori_Atsushi.md) The Unattended 
+Released on: [2022-04-24](datas/2022-04-24.md)
 
