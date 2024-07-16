@@ -15,4 +15,4 @@ aliases:
 [2024-07-08-Linguagem_de_programacao](_insight/2024/07/2024-07-08-Linguagem_de_programacao.md)
 [2024-07-12-Algoritmo](_insight/2024/07/2024-07-12-Algoritmo.md)
 [Git](_draft/2024/06/2024-06-30-Git.md)
-[2024-07-11-Auto_desenvolvimento](maps/2024-07-11-Auto_desenvolvimento.md)
+[2024-07-11-Auto_desenvolvimento](mapas/2024-07-11-Auto_desenvolvimento.md)

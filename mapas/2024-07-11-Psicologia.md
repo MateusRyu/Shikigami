@@ -10,5 +10,5 @@ aliases:
 # Psicologia
 ---
 
-[2024-07-11-Psicologia](maps/2024-07-11-Psicologia.md)
+[2024-07-11-Psicologia](mapas/2024-07-11-Psicologia.md)
 [2024-07-07-Psicologia_analitica](_draft/2024/07/2024-07-07-Psicologia_analitica.md)

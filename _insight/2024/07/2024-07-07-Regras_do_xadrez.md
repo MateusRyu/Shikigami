@@ -11,6 +11,6 @@ aliases:
 ---
 # Regras do xadrez
 ----
-[2024-07-11-Xadrez](maps/2024-07-11-Xadrez.md)
+[2024-07-11-Xadrez](mapas/2024-07-11-Xadrez.md)
 
 [Xeque-mate](_insight/2024/07/2024-07-07-Xeque_mate.md)

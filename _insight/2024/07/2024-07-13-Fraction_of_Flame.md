@@ -14,4 +14,4 @@ genres: hard renaissance
 ---
 ![Fraction of Flame - Empleh](https://www.youtube.com/watch?v=9g-FbdDevx8)
 
-É uma música da [empleh](_insight/2024/07/2024-07-13-empleh.md), lançada no [[YouTube]] em [7 de novembro de 2023](2023-11-7). Ela segue o estilo do gênero [hard renaissance](_insight/2024/07/2024-07-13-hard_renaissance.md).
+É uma música da [empleh](_insight/2024/07/2024-07-13-empleh.md), lançada no [[YouTube]] em [7 de novembro de 2023](Datas/2023-11-7.md). Ela segue o estilo do gênero [hard renaissance](_insight/2024/07/2024-07-13-hard_renaissance.md).
