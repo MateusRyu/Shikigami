@@ -11,4 +11,4 @@ aliases:
 # Planejamento estratégico
 ----
 
-[[_insight/2024/07/2024-07-12-Habilidade]]
+[[api/2024/07/2024-07-12-Habilidade]]
