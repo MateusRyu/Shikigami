@@ -12,22 +12,19 @@ aliases:
 ---
 # Aberturas irregulares
 ---
-São um grupo de aberturas de [xadrez](api/2024/07/2024-07-06-Xadrez.md) raramente adotadas, pois quando comparadas com as aberturas mais usuais, apresentam os seguintes problemas: resultam para as Brancas posições passivas ou fracas (como desenvolvimento do cavalo para uma casa inferior), sem desenvolvimento do controle do centro.
-
-- Posições passivas: 1.d3, 1.c3, ou 1.e3;
-- Sem controle do centro: 1.a3, 1.a4, 1.h3, ou 1.h4
-- Posições fracas: 1.f3 ou 1.g4;
-- Cavalo em casa inferior: 1.Ch3 ou 1.Ca3.
+São um grupo de aberturas de [xadrez](api/2024/07/2024-07-06-Xadrez.md) raramente adotadas, pois quando comparadas com as aberturas mais usuais, apresentam os seguintes problemas:  
+1. Posições passivas ou fracas
+2. Perda do controle do centro.
 ## Lista
-- [[_insight/2024/07/2024-07-03-Abertura_Anderssen]]: `1.a3`;
-- [2024-07-08-Abertura_Ware](_insight/2024/07/2024-07-08-Abertura_Ware.md): `1.a4`;
-- [2024-07-05-Ataque-Sodio](_insight/2024/07/2024-07-05-Ataque-Sodio.md): `1.Na3`;
-- [2024-07-03-Abertura_Sokolsky](_insight/2024/07/2024-07-03-Abertura_Sokolsky.md): `1.b4`;
-- [2024-07-03-Abertura_Saragoca](_insight/2024/07/2024-07-03-Abertura_Saragoca.md): `1.c3`;
-- [2024-07-08-Abertura_Van_Geet](_draft/2024/07/2024-07-08-Abertura_Van_Geet.md): `1.Nc3`;
-- [2024-07-03-Abertura_Vant_Kruijs](_insight/2024/07/2024-07-03-Abertura_Vant_Kruijs.md): `1.e3`;
-- [2024-07-03-Abertura_Mieses](_insight/2024/07/2024-07-03-Abertura_Mieses.md): `1.d3`;
-- [2024-07-03-Abertura_Barnes](_insight/2024/07/2024-07-03-Abertura_Barnes.md): `1. f3`;
+- [Abertura Anderssen](_insight/2024/07/2024-07-03-Abertura_Anderssen.md): `1.a3`;
+- [Abertura Ware](_insight/2024/07/2024-07-08-Abertura_Ware.md): `1.a4`;
+- [Ataque Sódio](_insight/2024/07/2024-07-05-Ataque-Sodio.md): `1.Na3`;
+- [Abertura Sokolsky](_insight/2024/07/2024-07-03-Abertura_Sokolsky.md): `1.b4`;
+- [Abertura Saragoça](_insight/2024/07/2024-07-03-Abertura_Saragoca.md): `1.c3`;
+- [Abertura Van Geet](_draft/2024/07/2024-07-08-Abertura_Van_Geet.md): `1.Nc3`;
+- [Abertura Van't Kruijs](_insight/2024/07/2024-07-03-Abertura_Vant_Kruijs.md): `1.e3`;
+- [Abertura Mieses](_insight/2024/07/2024-07-03-Abertura_Mieses.md): `1.d3`;
+- [Abertura Barnes](_insight/2024/07/2024-07-03-Abertura_Barnes.md): `1. f3`;
 - [2024-07-03-Abertura_Benko](_insight/2024/07/2024-07-03-Abertura_Benko.md): `1.g3`;
 - [2024-07-08-Ataque_Grob](_insight/2024/07/2024-07-08-Ataque_Grob.md): `1.g4`;
 - [2024-07-03-Abertura_Clemenz](_insight/2024/07/2024-07-03-Abertura_Clemenz.md): `1.h3`;
