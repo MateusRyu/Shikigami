@@ -16,7 +16,7 @@ aliases:
 
 ## Lista
 -  (`A00`–`A39`) Primeiro lance das brancas que são diferente de `1.e4` e `1.d4`.
-	-  (`A00`) [2024-07-06-Aberturas_irregulares](_draft/2024/07/2024-07-06-Aberturas_irregulares.md): ![2024-07-06-Aberturas_irregulares](_draft/2024/07/2024-07-06-Aberturas_irregulares.md#^lista-de-aberturas-irregulares)
+	-  (`A00`) [2024-07-06-Aberturas_irregulares](api/2024/07/2024-07-06-Aberturas_irregulares.md): ![2024-07-06-Aberturas_irregulares](api/2024/07/2024-07-06-Aberturas_irregulares.md#^lista-de-aberturas-irregulares)
 	-  (`A01`) [2024-07-12-Abertura_Larsen](_insight/2024/07/2024-07-12-Abertura_Larsen.md): `1.b3`;
 	-  (`A02`) [Abertura Bird](_draft/2024/07/2024-07-08-Abertura_Bird.md): `1.f4`;
 		-  (`A03`) [Abertura Bird, variante holandesa](_draft/2024/07/2024-07-08-Abertura_Bird.md#variante%20Holandesa): `1.f4 d5`;
