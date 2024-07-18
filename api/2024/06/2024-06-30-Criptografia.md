@@ -7,7 +7,7 @@ tags:
 aliases:
   - Criptografia
   - criptografia
-updated at: 2024-07-07T22:39:59-03:00
+updated_at: 2024-07-17T21:00:46-03:00
 ---
 # Criptografia
 ---

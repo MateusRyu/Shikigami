@@ -9,6 +9,7 @@ name: Fraction of Flame
 artist: empleh
 released_at: 2023-11-7
 genres: hard renaissance
+updated_at: 2024-07-16T01:29:38-03:00
 ---
 # Fraction of Flame
 ---

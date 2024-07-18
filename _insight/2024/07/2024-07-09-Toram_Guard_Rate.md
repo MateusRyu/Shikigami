@@ -6,6 +6,7 @@ tags:
   - v0
 aliases:
   - Guard Rate
+updated_at: 2024-07-09T02:57:38-03:00
 ---
 # Guard Rate
 ---

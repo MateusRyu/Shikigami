@@ -6,6 +6,7 @@ tags:
   - v0
 aliases:
   - Desenvolvimento de software
+updated_at: 2024-07-16T01:24:20-03:00
 ---
 # Desenvolvimento de software
 ---

@@ -6,6 +6,7 @@ tags:
   - v0
 aliases:
   - Psicologia
+updated_at: 2024-07-16T01:24:20-03:00
 ---
 # Psicologia
 ---

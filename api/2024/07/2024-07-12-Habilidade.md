@@ -5,6 +5,7 @@ tags:
   - v1
 aliases:
   - habilidade
+updated_at: 2024-07-16T23:10:36-03:00
 ---
 # Habilidade
 ---

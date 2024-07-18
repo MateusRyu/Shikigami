@@ -6,6 +6,7 @@ tags:
   - v0
 aliases:
   - Status não-derivados
+updated_at: 2024-07-09T02:58:41-03:00
 ---
 # Status não-derivados
 ---

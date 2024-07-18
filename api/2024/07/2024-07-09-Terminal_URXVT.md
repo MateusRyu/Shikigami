@@ -7,6 +7,7 @@ tags:
 aliases:
   - URXVT
   - rxvt-unicode
+updated_at: 2024-07-09T17:19:52-03:00
 ---
 # URXVT
 ---

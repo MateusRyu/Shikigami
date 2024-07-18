@@ -9,6 +9,7 @@ aliases:
   - Abertura de flanco
   - aberturas de flanco
   - abertura de flanco
+updated_at: 2024-07-16T23:19:35-03:00
 ---
 # Aberturas de flanco
 ----

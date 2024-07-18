@@ -6,6 +6,7 @@ tags:
   - v0
 aliases:
   - Usabilidade vs Utilidade
+updated_at: 2024-07-10T23:47:41-03:00
 ---
 # Usabilidade vs Utilidade
 ---

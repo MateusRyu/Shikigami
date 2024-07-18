@@ -9,6 +9,7 @@ aliases:
   - halberd
   - Alabarda
   - alabarda
+updated_at: 2024-07-10T00:07:19-03:00
 ---
 # Halberd
 ---

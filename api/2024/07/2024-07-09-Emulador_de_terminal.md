@@ -9,6 +9,7 @@ aliases:
   - terminal
   - Emulador de terminal
   - Terminal
+updated_at: 2024-07-12T19:02:58-03:00
 ---
 # Emulador de terminal
 ---

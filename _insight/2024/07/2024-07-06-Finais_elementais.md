@@ -12,6 +12,7 @@ aliases:
   - final
   - Final
 updated at: 2024-07-07T21:51:56-03:00
+updated_at: 2024-07-09T03:06:14-03:00
 ---
 ## Finais elementais
 ---

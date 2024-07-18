@@ -9,6 +9,7 @@ aliases:
   - open source
   - código aberto
 updated at: 2024-07-07T16:00:52-03:00
+updated_at: 2024-07-07T22:21:37-03:00
 ---
 # Open Source
 ---

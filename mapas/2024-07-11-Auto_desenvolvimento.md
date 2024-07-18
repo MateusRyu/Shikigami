@@ -6,6 +6,7 @@ tags:
   - v0
 aliases:
   - Auto-desenvolvimento
+updated_at: 2024-07-12T19:32:13-03:00
 ---
 # Auto-desenvolvimento
 ---

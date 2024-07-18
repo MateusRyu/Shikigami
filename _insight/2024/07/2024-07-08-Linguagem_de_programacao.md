@@ -6,6 +6,7 @@ tags:
   - v0
 aliases:
   - Linguagem de programação
+updated_at: 2024-07-12T18:51:25-03:00
 ---
 # Linguagem de programação
 ---

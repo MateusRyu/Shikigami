@@ -9,6 +9,7 @@ aliases:
   - defesas Índias
   - Defesa Índia
   - defesa Índia
+updated_at: 2024-07-07T22:10:52-03:00
 ---
 # Defesas Índias
 ----

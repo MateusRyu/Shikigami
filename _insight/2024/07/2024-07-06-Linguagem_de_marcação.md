@@ -6,6 +6,7 @@ tags:
   - v0
 aliases:
   - Linguagem de marcação
+updated_at: 2024-07-09T03:06:14-03:00
 ---
 # Linguagem de marcação
 ## Lista de linguagens de marcação

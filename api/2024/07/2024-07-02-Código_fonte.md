@@ -8,6 +8,7 @@ aliases:
   - Código-fonte
   - código-fonte
 updated at: 2024-07-07T22:20:49-03:00
+updated_at: 2024-07-08T17:33:33-03:00
 ---
 # Código-fonte
 ---

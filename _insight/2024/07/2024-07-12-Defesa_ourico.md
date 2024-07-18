@@ -5,6 +5,7 @@ tags:
   - v1
 aliases:
   - Defesa ouriço
+updated_at: 2024-07-12T20:03:41-03:00
 ---
 # Defesa ouriço
 ---

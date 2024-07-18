@@ -5,6 +5,7 @@ tags:
   - v1
 aliases:
   - plataforma de comércio eletrônico
+updated_at: 2024-07-13T00:54:38-03:00
 ---
 # plataforma de comércio eletrônico
 ---

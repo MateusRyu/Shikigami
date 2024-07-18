@@ -6,6 +6,7 @@ tags:
   - v0
 aliases:
   - Utilidade
+updated_at: 2024-07-10T23:47:32-03:00
 ---
 # Utilidade
 ---

@@ -5,6 +5,7 @@ tags:
   - v1
 aliases:
   - Sintaxe
+updated_at: 2024-07-12T19:23:13-03:00
 ---
 # Sintaxe
 ---

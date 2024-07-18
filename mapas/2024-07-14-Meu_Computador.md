@@ -5,6 +5,7 @@ tags:
   - v1
 aliases:
   - Meu Computador
+updated_at: 2024-07-16T01:19:52-03:00
 ---
 
 # Meu Computador

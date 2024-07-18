@@ -11,7 +11,7 @@ aliases:
   - distribuição
   - Distro
   - distro
-updated at: 2024-07-07T16:05:01-03:00
+updated_at: 2024-07-17T21:02:14-03:00
 ---
 # Distro Linux
 ---

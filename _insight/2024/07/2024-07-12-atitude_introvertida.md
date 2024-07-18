@@ -5,6 +5,7 @@ tags:
   - v1
 aliases:
   - atitude introvertida
+updated_at: 2024-07-12T19:52:39-03:00
 ---
 # atitude introvertida
 ---

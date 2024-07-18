@@ -11,6 +11,7 @@ tags:
   - v0
 aliases:
   - Kuuchuu Buranko
+updated_at: 2024-07-12T19:30:14-03:00
 ---
 # Kuuchuu Buranko
 ---

@@ -9,6 +9,7 @@ aliases:
   - defesa Francesa
   - Francesa
   - francesa
+updated_at: 2024-07-07T22:00:01-03:00
 ---
 # Defesa Francesa
 ----

@@ -7,6 +7,7 @@ tags:
 aliases:
   - Gambito do rei
   - gambito do rei
+updated_at: 2024-07-08T17:33:33-03:00
 ---
 # Gambito do rei
 ---

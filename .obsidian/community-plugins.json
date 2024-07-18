@@ -3,5 +3,7 @@
   "obsidian-excalidraw-plugin",
   "obsidian-git",
   "nldates-obsidian",
-  "dataview"
+  "dataview",
+  "obsidian-front-matter-title-plugin",
+  "update-time-on-edit"
 ]

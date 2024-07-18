@@ -7,6 +7,7 @@ tags:
 aliases:
   - Peão da torre
   - peão da torre
+updated_at: 2024-07-08T17:33:33-03:00
 ---
 # Peão da torre
 ---

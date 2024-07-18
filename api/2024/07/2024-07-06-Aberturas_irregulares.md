@@ -9,6 +9,7 @@ aliases:
   - Abertura irregular
   - aberturas irregulares
   - abertura irregular
+updated_at: 2024-07-16T23:18:49-03:00
 ---
 # Aberturas irregulares
 ---

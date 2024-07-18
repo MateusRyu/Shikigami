@@ -6,6 +6,7 @@ tags:
   - v0
 aliases:
   - Guard Power
+updated_at: 2024-07-09T02:57:34-03:00
 ---
 # Guard Power
 ---

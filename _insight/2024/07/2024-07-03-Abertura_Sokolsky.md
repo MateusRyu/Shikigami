@@ -8,6 +8,7 @@ aliases:
   - Abertura Sokolsky
   - abertura Sokolsky
   - Sokolsky
+updated_at: 2024-07-16T23:19:36-03:00
 ---
 # Abertura Sokolsky
 ----

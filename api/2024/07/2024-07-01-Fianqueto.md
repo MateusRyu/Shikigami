@@ -12,6 +12,7 @@ aliases:
   - fianquetos
   - fianchetto
 updated at: 2024-07-07T22:27:12-03:00
+updated_at: 2024-07-12T19:45:20-03:00
 ---
 # Fianqueto
 ---

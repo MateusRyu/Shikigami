@@ -5,6 +5,7 @@ created_at: 2024-07-05T21:47:59-03:00
 tags:
   - v0
 aliases: Dataview
+updated_at: 2024-07-08T17:33:33-03:00
 ---
 # Dataview (Obsidian)
 ----

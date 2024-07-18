@@ -7,6 +7,7 @@ tags:
 aliases:
   - Arco Linux
   - Arco
+updated_at: 2024-07-07T22:51:57-03:00
 ---
 # Arco Linux
 ----

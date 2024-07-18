@@ -6,6 +6,7 @@ tags:
   - v0
 aliases:
   - MaxMP
+updated_at: 2024-07-10T00:25:58-03:00
 ---
 # MaxMP
 ---

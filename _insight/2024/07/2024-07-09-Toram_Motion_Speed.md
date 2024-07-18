@@ -6,6 +6,7 @@ tags:
   - v0
 aliases:
   - Motion Speed
+updated_at: 2024-07-09T01:35:17-03:00
 ---
 # Motion Speed
 ---

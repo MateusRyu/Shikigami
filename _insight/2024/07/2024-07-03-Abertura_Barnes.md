@@ -9,6 +9,7 @@ aliases:
   - abertura Barnes
   - Barnes
 updated at: 2024-07-07T17:54:22-03:00
+updated_at: 2024-07-16T23:19:36-03:00
 ---
 # Abertura Barnes
 ----

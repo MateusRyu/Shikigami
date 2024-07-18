@@ -9,6 +9,7 @@ aliases:
   - aberturas fechadas
   - Abertura fechada
   - abertura fechada
+updated_at: 2024-07-07T22:04:53-03:00
 ---
 # Aberturas fechadas
 ----

@@ -5,6 +5,7 @@ tags:
   - v1
 aliases:
   - administradores de sistemas
+updated_at: 2024-07-12T19:00:44-03:00
 ---
 # Administradores de sistemas
 ---

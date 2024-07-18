@@ -12,6 +12,7 @@ aliases:
   - abertura Zukertort
   - Zukertort
 updated at: 2024-07-07T21:08:36-03:00
+updated_at: 2024-07-08T17:33:33-03:00
 ---
 # Abertura Réti
 ----

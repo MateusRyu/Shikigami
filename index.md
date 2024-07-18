@@ -6,6 +6,7 @@ tags:
   - v0
 aliases:
   - Index
+updated_at: 2024-07-16T01:24:20-03:00
 ---
 - lazer:
 	- [Animes](mapas/2024-07-11-Animes.md);

@@ -9,6 +9,7 @@ aliases:
   - espada de uma mão
   - Espada de uma mão
   - OHS
+updated_at: 2024-07-10T00:04:26-03:00
 ---
 # One-Handed Sword
 ---

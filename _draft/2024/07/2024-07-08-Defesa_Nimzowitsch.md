@@ -8,6 +8,7 @@ aliases:
   - Defesa Nimzowitsch
   - defesa Nimzowitsch
   - Nimzowitsch
+updated_at: 2024-07-12T19:39:48-03:00
 ---
 # Defesa Nimzowitsch
 ---

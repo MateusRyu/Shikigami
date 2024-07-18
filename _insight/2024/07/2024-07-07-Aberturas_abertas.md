@@ -13,6 +13,7 @@ aliases:
   - Abertas
   - Aberta
   - Aberta
+updated_at: 2024-07-07T22:09:54-03:00
 ---
 # Aberturas abertas
 ----

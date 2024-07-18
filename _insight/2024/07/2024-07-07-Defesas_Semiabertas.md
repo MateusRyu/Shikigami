@@ -13,6 +13,7 @@ aliases:
   - Semi-abertas
   - semi-aberta
   - semi-abertas
+updated_at: 2024-07-07T22:09:13-03:00
 ---
 # Defesas Semi-abertas
 ----

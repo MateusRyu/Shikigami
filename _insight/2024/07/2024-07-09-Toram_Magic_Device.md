@@ -7,6 +7,7 @@ tags:
 aliases:
   - Magic Device
   - Dispositivo Mágico
+updated_at: 2024-07-10T00:24:38-03:00
 ---
 # Magic Device
 ---

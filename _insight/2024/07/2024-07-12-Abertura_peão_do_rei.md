@@ -5,6 +5,7 @@ tags:
   - v1
 aliases:
   - Abertura peão do rei
+updated_at: 2024-07-12T19:46:19-03:00
 ---
 # Abertura peão do rei
 ---

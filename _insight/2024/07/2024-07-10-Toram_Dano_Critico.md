@@ -6,6 +6,7 @@ tags:
   - v0
 aliases:
   - Dano Crítico
+updated_at: 2024-07-10T00:14:46-03:00
 ---
 # Dano Crítico
 ---

@@ -6,6 +6,7 @@ tags:
   - v0
 aliases:
   - Habilidades
+updated_at: 2024-07-11T00:31:23-03:00
 ---
 # Habilidades
 ---

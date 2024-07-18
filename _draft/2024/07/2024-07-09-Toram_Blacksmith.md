@@ -6,6 +6,7 @@ tags:
   - v0
 aliases:
   - Blacksmith
+updated_at: 2024-07-10T01:08:55-03:00
 ---
 # Blacksmith
 ---

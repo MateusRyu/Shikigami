@@ -8,6 +8,7 @@ aliases:
   - Regras do xadrez
   - regras do xadrez
   - regras
+updated_at: 2024-07-16T01:24:20-03:00
 ---
 # Regras do xadrez
 ----

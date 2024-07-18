@@ -5,6 +5,7 @@ tags:
   - v1
 aliases:
   - atitude extrovertida
+updated_at: 2024-07-12T19:52:05-03:00
 ---
 # atitude extrovertida
 ---

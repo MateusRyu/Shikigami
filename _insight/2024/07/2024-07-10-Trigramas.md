@@ -7,6 +7,7 @@ tags:
 aliases:
   - trigramas
   - trigramas
+updated_at: 2024-07-10T23:47:47-03:00
 ---
 # trigramas
 ---

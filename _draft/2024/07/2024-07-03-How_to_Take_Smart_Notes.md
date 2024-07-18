@@ -6,6 +6,7 @@ tags:
   - v0
 aliases:
   - How to Take Smart Notes
+updated_at: 2024-07-12T18:51:25-03:00
 ---
 # How to Take Smart Notes
 ----

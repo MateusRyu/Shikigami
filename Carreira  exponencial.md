@@ -1,3 +1,7 @@
+---
+created_at: 2024-07-17T16:27:38-03:00
+updated_at: 2024-07-17T16:38:52-03:00
+---
 [[Inteligencia artificial]]
 [[LMM]]
 [[Acurácia]]

@@ -5,6 +5,7 @@ tags:
   - v1
 aliases:
   - Sistema dos Três Cavalos
+updated_at: 2024-07-12T20:04:17-03:00
 ---
 # Sistema dos Três Cavalos
 ---

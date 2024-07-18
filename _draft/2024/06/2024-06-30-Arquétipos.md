@@ -9,6 +9,7 @@ aliases:
   - arquétipos
   - Arquétipo
   - arquétipo
+updated_at: 2024-07-12T19:37:39-03:00
 ---
 # Arquétipos
 ---

@@ -5,6 +5,7 @@ tags:
   - v1
 aliases:
   - Defesa Polonesa
+updated_at: 2024-07-12T19:59:01-03:00
 ---
 # Defesa Polonesa
 ---

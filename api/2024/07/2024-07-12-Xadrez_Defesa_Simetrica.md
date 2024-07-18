@@ -5,6 +5,7 @@ tags:
   - v1
 aliases:
   - Defesa Simétrica
+updated_at: 2024-07-12T20:27:05-03:00
 ---
 # Defesa Simétrica
 ---

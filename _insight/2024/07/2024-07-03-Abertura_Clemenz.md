@@ -9,6 +9,7 @@ aliases:
   - abertura Clemenz
   - Clemenz
 updated at: 2024-07-07T20:48:02-03:00
+updated_at: 2024-07-16T23:19:36-03:00
 ---
 # Abertura Clemenz
 ----

@@ -6,6 +6,7 @@ tags:
   - v0
 aliases:
   - Qualidade
+updated_at: 2024-07-10T23:33:43-03:00
 ---
 # Qualidade
 ---

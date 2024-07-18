@@ -11,6 +11,7 @@ aliases:
   - status básico
   - Status básicos
   - status básicos
+updated_at: 2024-07-10T01:10:04-03:00
 ---
 # Status básico
 ---

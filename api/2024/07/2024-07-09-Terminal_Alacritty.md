@@ -6,6 +6,7 @@ tags:
   - v0
 aliases:
   - Alacritty
+updated_at: 2024-07-10T23:46:00-03:00
 ---
 # Alacritty
 ---

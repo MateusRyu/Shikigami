@@ -11,6 +11,7 @@ aliases:
   - skill
   - Skills
   - skills
+updated_at: 2024-07-07T16:32:25-03:00
 ---
 # Habilidade
 ----

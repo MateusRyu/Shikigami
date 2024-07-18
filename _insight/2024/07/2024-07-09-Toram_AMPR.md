@@ -6,6 +6,7 @@ tags:
   - v0
 aliases:
   - AMPR
+updated_at: 2024-07-09T01:34:43-03:00
 ---
 # AMPR
 ---

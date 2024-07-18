@@ -8,6 +8,7 @@ aliases:
   - Bird
   - Abertura Bird
   - abertura Bird
+updated_at: 2024-07-12T19:49:23-03:00
 ---
 # Bird
 ---
