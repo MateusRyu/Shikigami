@@ -1,6 +1,6 @@
 ---
 created_at: 2024-07-17T16:27:38-03:00
-updated_at: 2024-07-17T21:23:57-03:00
+updated_at: 2024-07-17T21:26:17-03:00
 ---
 [[Inteligencia artificial]]
 [[LMM]]
@@ -23,3 +23,4 @@ prompt: "Eu gostaria de reservar um quarto individual em um hotel no Rio de Jane
 dar feedback com base nos prompts anteriores para ter resultados melhores.
 
 I-N-T
+E-L-I
