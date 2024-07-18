@@ -1,6 +1,6 @@
 ---
 created_at: 2024-07-17T16:27:38-03:00
-updated_at: 2024-07-17T21:21:57-03:00
+updated_at: 2024-07-17T21:23:57-03:00
 ---
 [[Inteligencia artificial]]
 [[LMM]]
@@ -19,5 +19,7 @@ Tipos de IA:
 prompt: "Eu gostaria de reservar um quarto individual em um hotel no Rio de Janeiro no dia 06 de Setembro"
 - Intenção (assunto principal): "reservar um quarto"
 - Entidades (Especificar o assunto principal e delimitar o contexto): "quarto individual", "hotel", "no Rio de Janeiro", "dia 06 de Setembro"
+
+dar feedback com base nos prompts anteriores para ter resultados melhores.
 
 I-N-T
