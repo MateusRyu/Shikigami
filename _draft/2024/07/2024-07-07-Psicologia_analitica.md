@@ -7,7 +7,7 @@ tags:
 aliases:
   - Psicologia analítica
   - psicologia analítica
-updated_at: 2024-07-12T19:58:05-03:00
+updated_at: 2024-07-18T20:57:07-03:00
 ---
 # Psicologia analítica
 ---
@@ -20,7 +20,7 @@ A psicologia analítica, por se basear na cognição das pessoas, serve como fer
 
 [[_insight/2024/07/2024-07-12-Inconsciente]] e [[_insight/2024/07/2024-07-12-Consciencia]]...  
 
-Segundo Jung, todas as pessoas nascem com o [[api/2024/06/2024-06-30-Self]] já preenchida com [[_draft/2024/06/2024-06-30-Arquétipos]] coletivos para que possamos interagir com o mundo de forma saudável e sem grandes problemas. Após o desenvolvimento da psique da criança, as outras estruturas nascem e crescem dentro do [2024-06-30-Self](api/2024/06/2024-06-30-Self.md), como o [[_insight/2024/07/2024-07-12-Ego]], a [memória](_insight/2024/07/2024-07-08-Memoria.md) e os [[_draft/2024/06/2024-06-30-Complexo]].
+Segundo Jung, todas as pessoas nascem com o [[api/2024/06/2024-06-30-Self]] já preenchida com [[_draft/2024/06/2024-06-30-Arquetipos_psicologia]] coletivos para que possamos interagir com o mundo de forma saudável e sem grandes problemas. Após o desenvolvimento da psique da criança, as outras estruturas nascem e crescem dentro do [2024-06-30-Self](api/2024/06/2024-06-30-Self.md), como o [[_insight/2024/07/2024-07-12-Ego]], a [memória](_insight/2024/07/2024-07-08-Memoria.md) e os [[_draft/2024/06/2024-06-30-Complexo]].
 
 ## Ego  
 Ego é a fração na qual temos consciência do nosso Self. Em palavras mais informal, é aquilo que acreditamos que somos e onde ocorre nossos pensamentos racionais.
