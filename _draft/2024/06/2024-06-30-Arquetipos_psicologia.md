@@ -9,7 +9,7 @@ aliases:
   - arquétipos
   - Arquétipo
   - arquétipo
-updated_at: 2024-07-18T22:57:38-03:00
+updated_at: 2024-07-18T23:06:30-03:00
 ---
 # Arquétipos
 ---
@@ -23,11 +23,11 @@ Não existe uma forma conhecida de como destruir ou descartar um arquétipo, o q
 - [Self](api/2024/06/2024-06-30-Self.md)
 - [Persona](_insight/2024/07/2024-07-12-Persona.md)
 - [Ego](_insight/2024/07/2024-07-12-Ego.md)
-- [Herói](2024-07-18-Arquetipo_heroi.md)
+- [Herói](_insight/2024/07/2024-07-18-Arquetipo_heroi.md)
 - [Sombra](_insight/2024/07/2024-07-12-Sombra.md)
 - [Animus](_insight/2024/07/2024-07-12-Animus.md)
 - [Anima](_insight/2024/07/2024-07-12-Anima.md)
-- [Mãe](2024-07-18-Arquetipo_Mae.md)
-- [Pai](2024-07-18-Arquetipo_Pai)
-- [Criança](2024-07-18-Arquetipo_Crianca.md)
-- [Velho Sábio](2024-07-18-Arquetipo_Velho_Sabio.md)
+- [Mãe](_insight/2024/07/2024-07-18-Arquetipo_Mae.md)
+- [Pai](_insight/2024/07/2024-07-18-Arquetipo_Pai.md)
+- [Criança](_insight/2024/07/2024-07-18-Arquetipo_Crianca.md)
+- [Velho Sábio](_insight/2024/07/2024-07-18-Arquetipo_Velho_Sabio.md)
