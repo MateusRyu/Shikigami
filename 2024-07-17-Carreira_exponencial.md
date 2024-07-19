@@ -1,6 +1,6 @@
 ---
 created_at: 2024-07-18T23:06:47-03:00
-updated_at: 2024-07-18T23:09:07-03:00
+updated_at: 2024-07-19T01:44:28-03:00
 title: Carreira exponencial
 tags:
   - v1
@@ -8,9 +8,9 @@ aliases:
   - Carreira exponencial
 ---
 
-[[Inteligencia artificial]]
+[Inteligencia artificial](2024-07-19-Inteligencia_artificial.md)
 [LMM](2024-07-18-LMM.md)
-[[2024-07-18-Acuracia|Acurácia]]
+[[api/2024/07/2024-07-18-Acuracia|Acurácia]]
 a inovação da open IA é a acessibilidade de comunicar com a tecnologia em linguagem natural e retornar a informação em linguagem natural
 
 NVIDIA produziu tecnologia pra, inicialmente ter melhor desempenho em renderização de imagem, mas hoje em dia tem grande desempenho na IA
