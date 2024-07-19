@@ -9,7 +9,7 @@ aliases:
   - arquétipos
   - Arquétipo
   - arquétipo
-updated_at: 2024-07-18T21:15:17-03:00
+updated_at: 2024-07-18T22:57:38-03:00
 ---
 # Arquétipos
 ---
@@ -29,5 +29,5 @@ Não existe uma forma conhecida de como destruir ou descartar um arquétipo, o q
 - [Anima](_insight/2024/07/2024-07-12-Anima.md)
 - [Mãe](2024-07-18-Arquetipo_Mae.md)
 - [Pai](2024-07-18-Arquetipo_Pai)
-- [[Criança]]
-- [[Velho Sábio]]
+- [Criança](2024-07-18-Arquetipo_Crianca.md)
+- [Velho Sábio](2024-07-18-Arquetipo_Velho_Sabio.md)
