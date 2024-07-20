@@ -6,8 +6,12 @@ tags:
   - v0
 aliases:
   - Index
-updated_at: 2024-07-16T01:24:20-03:00
+updated_at: 2024-07-19T23:01:07-03:00
 ---
+
+  ![Ryu's Streak Stats on Github](https://github-readme-streak-stats.herokuapp.com/?user=MateusRyu&theme=prussian&hide_border=true)
+  ![Ryu core languages in Github repositories](https://github-readme-stats.vercel.app/api/top-langs/?username=MateusRyu&theme=prussian&hide_border=true&include_all_commits=true&count_private=false&)
+
 - lazer:
 	- [Animes](mapas/2024-07-11-Animes.md);
 	- [Xadrez](mapas/2024-07-11-Xadrez.md)
