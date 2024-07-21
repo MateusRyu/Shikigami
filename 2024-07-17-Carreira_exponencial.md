@@ -1,6 +1,6 @@
 ---
 created_at: 2024-07-18T23:06:47-03:00
-updated_at: 2024-07-19T02:00:05-03:00
+updated_at: 2024-07-20T21:33:27-03:00
 title: Carreira exponencial
 tags:
   - v1
@@ -30,3 +30,4 @@ dar feedback com base nos prompts anteriores para ter resultados melhores.
 
 I-N-T
 E-L-I
+G-E-N
