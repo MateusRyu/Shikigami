@@ -39,6 +39,11 @@ defaults:
     values:
       layout: "post"
   - scope:
+      path: "api"
+      type: "json"
+    values:
+      layout: "post"
+  - scope:
       path: ""
       type: "posts"
     values:
