@@ -38,20 +38,17 @@ defaults:
       type: "docs"
     values:
       layout: "post"
+
   - scope:
       path: "api"
-      type: "json"
     values:
-      layout: "post"
+      layout: "json"
+
   - scope:
       path: ""
       type: "posts"
     values:
       layout: "post"
-  - scope:
-      path: ""
-    values:
-      layout: "default"
 
 # Build settings
 # theme: minima
