@@ -1,4 +1,5 @@
 {
   "folder": "_posts",
-  "template": "_templates/Daily"
+  "template": "_templates/Daily",
+  "autorun": true
 }
