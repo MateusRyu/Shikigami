@@ -1,0 +1,42 @@
+---
+layout: none
+permalink: /api/pages/
+ignore:
+  - "/assets/"
+  - "/sementes/" 
+  - "/mapas/"
+  - "/datas/"
+  - "/api/"
+filters:
+  - "md"
+  - "html"
+---
+{%- assign ignores = page.ignore -%}
+{%- assign filters = page.filters -%}
+{
+  {%- for page in site.pages -%}
+    {%- assign show = true %}
+    {%- if filters contains extension -%}
+      {%- assign filtered = false -%}
+    {%- else -%}
+      {%- assign filtered = true -%}
+    {%- endif -%}
+    {%- assign extension = page.path | split: "." | last %}
+    {%- for path in ignores -%}
+      {%- if page.dir contains path -%}
+        {%- assign show = false %}
+      {%- endif -%}
+    {%- endfor -%}
+    {%- if filtered or show == false -%}
+      {%- continue -%}
+    {%- else %}
+        {
+          {%- for meta in page %}
+            {%- assign meta = meta | jsonify %}
+            {{ meta.first }}: {{ meta.last | jsonify }}
+            {%- unless forloop.last %},{% endunless %}
+          {%- endfor -%}
+        }{%- unless forloop.last %},{% endunless %}
+    {%- endif -%}
+  {%- endfor -%}
+}
