@@ -1,5 +1,4 @@
-
-{% if site.google_tag %}
+{%- if site.google_tag -%}
     <!-- Google tag (gtag.js) -->    
     <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_tag }}"></script>
     <script>
@@ -9,4 +8,4 @@
 
     gtag('config', '{{ site.google_tag }}');
     </script>
-{% endif %}
+{%- endif -%}
