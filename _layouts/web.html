@@ -15,19 +15,12 @@
 <body>
   {% include navigation.liquid %}
   {% include sidebar.liquid %}
-
-  <hr>
-
-      <h1>{{ page.title }}</h1>
-      <section>
-        {{ content | remove_md_extensions }}
-      </section>
-      <footer>
-        &copy; to me
-      </footer>
-    </body>
-  </html>
-  
-
+  <main>
+    <h1>{{ page.title }}</h1>
+    <section>
+      {{ content | remove_md_extensions }}
+    </section>
+  </main>
+  {% include footer.liquid %}
 </body>
 </html>
