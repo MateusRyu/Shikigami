@@ -5,29 +5,38 @@ tags:
 aliases:
   - Carreira exponencial
 created_at: 2024-07-17T16:27:38-03:00
-updated_at: 2024-07-24T12:30:44-03:00
+updated_at: 2024-07-24T13:01:21-03:00
 ---
 
+Este log é baseado nas minhas anotações durante o curso `Carreira Exponencial`, disponibilizado pela [[ibmec]].
 
-[LMM](../_insight/2024/07/2024-07-18-LLM.md)
-[[sementes/2024/07/2024-07-18-Acuracia|Acurácia]]
-a inovação da open [Inteligencia artificial](_insight/2024/07/2024-07-19-Inteligencia_artificial.md) (também conhecida como IA ou IA) é a acessibilidade de comunicar com a tecnologia em linguagem natural e retornar a informação em linguagem natural
+---
 
-NVIDIA produziu tecnologia pra, inicialmente ter melhor desempenho em renderização de imagem, mas hoje em dia tem grande desempenho na IA
+a inovação da [[openAI]] é a disponibilização de [Inteligencias artificiais](_insight/2024/07/2024-07-19-Inteligencia_artificial.md) (também conhecida como IA ou IA) com a acessibilidade de comunicar com a tecnologia em linguagem natural através do uso de [LLMs](../_insight/2024/07/2024-07-18-LLM.md).
 
-maquinas estão se adaptando aos humanos
+A NVIDIA produziu tecnologia pra, inicialmente ter melhor desempenho em renderização de imagem, mas hoje em dia tem grande desempenho na IA.
 
-saber fazer perguntas (prompt)
+As maquinas estão se adaptando aos humanos e podemos otimizar nossa interação com as [Inteligencias artificiais](../_insight/2024/07/2024-07-19-Inteligencia_artificial.md) ao saber fazer perguntas (prompt) melhores.
 
-Tipos de IA:
-- Preditores (ex: [GPT](_insight/2024/07/2024-07-18-GPT.md)): Dado um contexto e intenção do prompt, o modelo retorna uma previsão da melhor saída. 
+## GPT
 
-prompt: "Eu gostaria de reservar um quarto individual em um hotel no Rio de Janeiro no dia 06 de Setembro"
-- Intenção (assunto principal): "reservar um quarto"
-- Entidades (Especificar o assunto principal e delimitar o contexto): "quarto individual", "hotel", "no Rio de Janeiro", "dia 06 de Setembro"
+O GPT é um tipo de [IA](../_insight/2024/07/2024-07-19-Inteligencia_artificial.md) preditor, em que dado um contexto e intenção no prompt, o modelo retorna uma previsão da melhor saída. 
 
-dar feedback com base nos prompts anteriores para ter resultados melhores.
+## Prompt
 
+prompt: 
+
+```copiar
+Eu gostaria de reservar um quarto individual em um hotel no Rio de Janeiro no dia 06 de Setembro
+```
+
+- **Intenção** (assunto principal): "reservar um quarto"
+- **Entidades** (Especificar o assunto principal e delimitar o contexto): "quarto individual", "hotel", "no Rio de Janeiro", "dia 06 de Setembro"
+
+> [!info] Dica!
+> Dê feedback com base nos prompts anteriores para ter resultados melhores.
+
+## Código
 I-N-T
 E-L-I
 G-E-N
