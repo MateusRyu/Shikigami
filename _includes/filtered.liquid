@@ -1,7 +1,6 @@
-{% for filter in filters %}
-  {% capture content %}
-    {% include {{ filter }} %}
-  {% endcapture %}
-{% endfor %}
-
+{%- for filter in filters -%}
+  {%- capture content -%}
+    {%- include {{ filter | append: '.liquid' }} -%}
+  {%- endcapture -%}
+{%- endfor -%}
 {{ content }}
