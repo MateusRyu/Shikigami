@@ -5,7 +5,7 @@ tags:
   - v1
 aliases:
   - Little Bot Bunny
-updated_at: 2024-07-24T11:33:08-03:00
+updated_at: 2024-07-24T11:35:51-03:00
 ---
 # Little Bot Bunny
 ---
@@ -19,4 +19,4 @@ updated_at: 2024-07-24T11:33:08-03:00
 
 ## Referencia
 ---
-REVOY, D. (2011, November 17). _Free 3D model-sheet : Little bot bunny_. David Revoy. https://www.davidrevoy.com/article103/little-bot-bunny-free-3d-model-sheet
+REVOY, David. “Free 3D Model-Sheet : Little Bot Bunny.” _David Revoy_. 17 Nov. 2011. Disponível em: <www.davidrevoy.com/article103/little-bot-bunny-free-3d-model-sheet>. Acessado em: 24 July 2024.
