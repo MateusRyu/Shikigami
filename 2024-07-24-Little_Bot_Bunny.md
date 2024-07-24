@@ -1,11 +1,13 @@
 ---
-title: Little Bot Bunny
+title: "Model sheet: Little Bot Bunny"
 created_at: 2024-07-24T11:27:50-03:00
 tags:
   - v1
 aliases:
   - Little Bot Bunny
-updated_at: 2024-07-24T12:01:55-03:00
+  - LBB
+  - Lap1
+updated_at: 2024-07-24T12:04:20-03:00
 ---
 # Little Bot Bunny
 ---

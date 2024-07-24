@@ -6,9 +6,9 @@ tags:
   - v0
 aliases:
   - Táticas de xadrez
-updated_at: 2024-07-08T17:33:33-03:00
+updated_at: 2024-07-24T12:05:03-03:00
 ---
 # Táticas de xadrez
 ----
 
-[Xadrez](api/2024/07/2024-07-06-Xadrez.md)
+[Xadrez](../../../sementes/2024/07/2024-07-06-Xadrez.md)

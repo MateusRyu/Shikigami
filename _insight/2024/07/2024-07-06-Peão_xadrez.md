@@ -10,12 +10,12 @@ aliases:
   - peão
   - peões
 updated at: 2024-07-07T16:24:29-03:00
-updated_at: 2024-07-12T19:43:50-03:00
+updated_at: 2024-07-24T12:05:03-03:00
 ---
 # Peão
 ----
 
-É uma das [Peças](_insight/2024/07/2024-07-06-Pecas_de_xadrez.md) do jogo de [xadrez](api/2024/07/2024-07-06-Xadrez.md).
+É uma das [Peças](_insight/2024/07/2024-07-06-Pecas_de_xadrez.md) do jogo de [xadrez](../../../sementes/2024/07/2024-07-06-Xadrez.md).
 
 
 ## Lista de peões
