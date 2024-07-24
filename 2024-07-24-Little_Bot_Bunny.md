@@ -5,15 +5,19 @@ tags:
   - v1
 aliases:
   - Little Bot Bunny
-updated_at: 2024-07-24T11:51:26-03:00
+updated_at: 2024-07-24T11:55:00-03:00
 ---
 # Little Bot Bunny
 ---
+
+> [!quote] 
 ## Concept art
 ---
-![Little Bot Bunny: Concept art](assets/images/Little_Bot_Bunny-Concept_art.png)
+### Line art
+![Little Bot Bunny: Concept art](assets/images/2024/Little_Bot_Bunny-Concept_art.png)
 
-
+### Final
+![Little Bot Bunny: Concept art](assets/images/2024/Little_Bot_Bunny-final.png)
 
 ## Licença
 ---
