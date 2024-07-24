@@ -1,3 +1,6 @@
+$breakpoint-tablet: 768px;
+$breakpoint-laptop: 1024px;
+
 body {
   background-color: #D71313;
   display: flex;
@@ -13,11 +16,17 @@ header {
   margin-bottom: 0rem;
   padding: 1rem;
   justify-content: space-between;
+
+  nav {
+    display: flex;
+    flex-direction: row;
+    gap: 1rem;
+  }
 }
 
 main {
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
   padding: 1rem;
   gap: 1rem;
   min-height: 80vh;
@@ -25,7 +34,7 @@ main {
 }
 
 section {
-  flex: 1;
+  flex: 7;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -34,8 +43,10 @@ section {
 }
 
 aside {
+  flex: 1;
   background-color: brown;
   padding: 1rem;
+
 }
 
 a {
@@ -56,4 +67,10 @@ footer {
   background-color: #F0F0F0;
   padding: 1rem;
   text-align: center;
+}
+
+@media (min-width: $breakpoint-laptop) {
+  main {
+    flex-direction: row;
+  }
 }
