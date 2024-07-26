@@ -7,7 +7,7 @@ tags:
 aliases:
   - Final de peão
   - final de peão
-updated_at: 2024-07-24T12:05:02-03:00
+updated_at: 2024-07-26T18:54:42-03:00
 ---
 # Final de peão
 ---
@@ -16,11 +16,11 @@ Nos de peões do [xadrez](../../../sementes/2024/07/2024-07-06-Xadrez.md), o rei
 
 # Segunda à quarta fileira
 Proteger as casas à duas casas de distancia do peão para frente e as suas duas casas vizinhas.
-![Final de peão na segunda fileira](final_de_peao_2_fileira.excalidraw.md)
+![Final de peão na segunda fileira](../../../_excalidraw/final_de_peao_2_fileira.excalidraw.md)
 # Quinta e sexta fileira
 Proteger as duas casas à duas casas de distancia do peão para frente e as suas duas casas vizinhas.
 
-![Final de peão na quinta fileira](final_de_peao_5_fileira.excalidraw.md)
+![Final de peão na quinta fileira](../../../_excalidraw/final_de_peao_5_fileira.excalidraw.md)
 ## Peão do cavalo na sexta fileira
 Quando o peão do [2024-07-06-Cavalo_xadrez](_insight/2024/07/2024-07-06-Cavalo_xadrez.md) Evitar afogamento ou empate por repetição, posicionando primeiro o rei na coluna da torre da ala do peão.
 
