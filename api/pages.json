@@ -13,7 +13,7 @@ filters:
 ---
 {%- assign ignores = page.ignore -%}
 {%- assign filters = page.filters -%}
-{
+[
   {%- for page in site.pages -%}
     {%- assign show = true %}
     {%- if filters contains extension -%}
@@ -33,10 +33,13 @@ filters:
         {
           {%- for meta in page %}
             {%- assign meta = meta | jsonify %}
-            {{ meta.first }}: {{ meta.last | jsonify }}
+            {{ meta.first | jsonify }}: {{ meta.last | jsonify }}
             {%- unless forloop.last %},{% endunless %}
           {%- endfor -%}
-        }{%- unless forloop.last %},{% endunless %}
+        }
+        
+        {%- unless site.pages.last == page %},{% endunless %}
+
     {%- endif -%}
   {%- endfor -%}
-}
+]
