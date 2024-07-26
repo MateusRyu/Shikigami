@@ -42,7 +42,7 @@
   "allowWheelZoom": false,
   "zoomToFitOnOpen": true,
   "zoomToFitOnResize": true,
-  "zoomToFitMaxLevel": 2,
+  "zoomToFitMaxLevel": 7,
   "linkPrefix": "📍",
   "urlPrefix": "🌐",
   "parseTODO": false,

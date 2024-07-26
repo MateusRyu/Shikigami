@@ -1,0 +1,177 @@
+{
+  "main": {
+    "id": "1b4358b18da5f5a2",
+    "type": "split",
+    "children": [
+      {
+        "id": "75926389a628f031",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "41ad586a621120be",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d89a0e2ae7923aa3",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "1608d357d8475d8c",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "6b91da5f9997dbe4",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "2179c3743d21a2c6",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "eca01081ef9bcbc8",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "d0e5e8596671d7ef",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "eeff0318cc1ab48f",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "7ae3e72bdfd76dc5",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "f515e0c76fa72408",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {}
+        }
+      },
+      {
+        "id": "a0b37c1bb29da231",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "random-note:Open random note": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "41ad586a621120be",
+  "lastOpenFiles": [
+    "assets/Excalidraw/2024-07-19-precisao_acuracia.excalidraw.md",
+    "datas/2004.md",
+    "mapas/2024-07-11-Toram.md",
+    "/index.md",
+    "/2024-07-17-Carreira_exponencial.md",
+    "api/2024/07/2024-07-18-Precisão.md",
+    "api/2024/07/2024-07-18-Acuracia.md",
+    "api/2024/07/2024-07-17-Docker.md",
+    "_insight/2024/07/2024-07-19-Inteligencia_artificial.md",
+    "_insight/2024/07/2024-07-18-LMM.md",
+    "_insight/2024/07/2024-07-18-GPT.md",
+    "_insight/2024/07/2024-07-18-Arquetipo_heroi.md",
+    "_insight/2024/07/2024-07-18-Arquetipo_Velho_Sabio.md",
+    "_insight/2024/07/2024-07-18-Arquetipo_Pai.md",
+    "_insight/2024/07/2024-07-18-Arquetipo_Mae.md",
+    "_insight/2024/07/2024-07-18-Arquetipo_Crianca.md",
+    "_insight/2024/07/2024-07-18-Archetype_Revisited_An_Updated_Natural_History_of_the_Self.md",
+    "_insight/2024/07/2024-07-17-Imagem_docker.md",
+    "_insight/2024/07/2024-07-17-Container_docker.md",
+    "_draft/2024/07/2024-06-30-Header_HTTP.md",
+    "_draft/2024/06/2024-06-30-Arquetipos_psicologia.md",
+    "2024-07-17-Carreira_exponencial.md",
+    "/mapas/2024-07-14-Meu_Computador.md",
+    "/mapas/2024-07-11-Xadrez.md",
+    "/mapas/2024-07-11-Toram.md",
+    "/mapas/2024-07-11-Psicologia.md",
+    "mapas",
+    "datas",
+    "/mapas",
+    "/datas",
+    "assets/docs/Lolita_Dreaming_Despairing_Defying.pdf",
+    "/assets/docs/Lolita_Dreaming_Despairing_Defying.pdf",
+    "assets/docs",
+    "/assets/docs",
+    "_includes/remove_md_extension.liquid",
+    "_includes/filtered.liquid",
+    "assets/Pasted Image 20240613173345_877.png",
+    "assets/Pasted Image 20240613172503_261.png"
+  ]
+}

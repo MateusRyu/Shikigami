@@ -8,13 +8,13 @@ aliases:
   - Abertura de Peão da Dama
   - abertura de Peão da Dama
   - Peão da Dama
-updated_at: 2024-07-24T12:05:02-03:00
+updated_at: 2024-07-12T20:02:21-03:00
 ---
 # Abertura de Peão da Dama
 ---
 
 
-É uma das [2024-07-06-Aberturas_de_xadrez](_draft/2024/07/2024-07-06-Aberturas_de_xadrez.md), conhecido na comunidade de [xadrez](../../../sementes/2024/07/2024-07-06-Xadrez.md) por ser uma escolha mais sólida e estratégica.
+É uma das [2024-07-06-Aberturas_de_xadrez](_draft/2024/07/2024-07-06-Aberturas_de_xadrez.md), conhecido na comunidade de [xadrez](api/2024/07/2024-07-06-Xadrez.md) por ser uma escolha mais sólida e estratégica.
 
 ---
 

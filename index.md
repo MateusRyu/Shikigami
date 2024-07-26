@@ -6,10 +6,8 @@ tags:
   - v0
 aliases:
   - Index
-updated_at: 2024-07-24T12:05:06-03:00
+updated_at: 2024-07-21T16:42:03-03:00
 ---
-
- - [ ] - Criar script pra limpar o atributo `layout` do front matter (com opção por pastas)
 
 | Github Stats                                                                                                                      | Github Top languages                                                                                                                                                                                 |
 | --------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -27,4 +25,4 @@ updated_at: 2024-07-24T12:05:06-03:00
 	- [Psicologia](mapas/2024-07-11-Psicologia.md)
 	- [Habilidades](mapas/2024-07-11-Habilidades.md)
 - Projetos:
-	- [Shikigami](sementes/2024/06/2024-06-30-Shikigami.md)
+	- [Shikigami](api/2024/06/2024-06-30-Shikigami.md)
