@@ -12,7 +12,7 @@ aliases:
   - Abertura
   - abertura
 updated at: 2024-07-07T21:34:27-03:00
-updated_at: 2024-07-26T13:11:44-03:00
+updated_at: 2024-07-26T11:44:56-03:00
 ---
 # Aberturas de xadrez
 ----
@@ -33,5 +33,5 @@ A lista a seguir vai seguir [Encyclopaedia of Chess Openings](api/2024/07/2024-0
 #### B00–B19
 1.e4 without 1...c5, 1...e6 or 1...e5
 
-- B00 [[_insight/2024/07/2024-07-12-Abertura_peão_do_rei|Abertura peão do rei]] sem `1...e5`, `1...e6`, `1...d5`, `1...Nf6`, `1...g6`, `1...d6`, `1...c6`, `1...c5`.
+- B00 [[_insight/2024/07/2024-07-12-Abertura_peão_do_rei]] sem `1...e5`, `1...e6`, `1...d5`, `1...Nf6`, `1...g6`, `1...d6`, `1...c6`, `1...c5`.
     -  [2024-07-08-Defesa_Nimzowitsch](_draft/2024/07/2024-07-08-Defesa_Nimzowitsch.md): `1...Nc6` (sem `2.Nf3 e5` (C44, C50, C60))
