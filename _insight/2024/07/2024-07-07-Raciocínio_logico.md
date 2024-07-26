@@ -7,8 +7,8 @@ tags:
 aliases:
   - Raciocínio lógico
   - raciocínio lógico
-updated_at: 2024-07-08T17:33:33-03:00
+updated_at: 2024-07-24T12:05:04-03:00
 ---
 # Raciocínio lógico
 ----
-[habilidade](api/2024/07/2024-07-07-Habilidade.md)
+[habilidade](../../../sementes/2024/07/2024-07-07-Habilidade.md)

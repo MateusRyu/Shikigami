@@ -5,7 +5,9 @@ tags:
   - v1
 aliases:
   - Inteligencia artificial
-updated_at: 2024-07-19T01:43:15-03:00
+  - IA
+  - AI
+updated_at: 2024-07-24T12:56:01-03:00
 ---
 # Inteligencia artificial
 ---

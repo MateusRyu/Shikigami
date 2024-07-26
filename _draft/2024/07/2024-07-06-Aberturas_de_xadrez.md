@@ -12,14 +12,14 @@ aliases:
   - Abertura
   - abertura
 updated at: 2024-07-07T21:34:27-03:00
-updated_at: 2024-07-12T19:46:54-03:00
+updated_at: 2024-07-24T12:05:02-03:00
 ---
 # Aberturas de xadrez
 ----
 
-No [xadrez](api/2024/07/2024-07-06-Xadrez.md), a abertura é a fase do jogo em que cada jogador desenvolve as suas peças para conseguir uma posição mais agressiva para iniciar um ataque ou uma posição mais sólida para se defender. Jogadores e estudiosos do temas estudaram varias sequencia de lances e os catalogaram para cada abertura com um nome suas variantes com os lances considerados mais fortes. Os lances já registrados são chamados de `lance de livro` e quando o jogador desvia da teoria é chamado de lances `fora do livro`.
+No [xadrez](../../../sementes/2024/07/2024-07-06-Xadrez.md), a abertura é a fase do jogo em que cada jogador desenvolve as suas peças para conseguir uma posição mais agressiva para iniciar um ataque ou uma posição mais sólida para se defender. Jogadores e estudiosos do temas estudaram varias sequencia de lances e os catalogaram para cada abertura com um nome suas variantes com os lances considerados mais fortes. Os lances já registrados são chamados de `lance de livro` e quando o jogador desvia da teoria é chamado de lances `fora do livro`.
 
-A lista a seguir vai seguir [Encyclopaedia of Chess Openings](api/2024/07/2024-07-07-Encyclopaedia_of_Chess_Openings.md) (ECO) e usará a [2024-07-12-Notacao_algebrica_de_xadrez](_insight/2024/07/2024-07-12-Notacao_algebrica_de_xadrez.md). 
+A lista a seguir vai seguir [Encyclopaedia of Chess Openings](../../../sementes/2024/07/2024-07-07-Encyclopaedia_of_Chess_Openings.md) (ECO) e usará a [2024-07-12-Notacao_algebrica_de_xadrez](_insight/2024/07/2024-07-12-Notacao_algebrica_de_xadrez.md). 
 
 ## Lista de aberturas
 ---
@@ -33,5 +33,5 @@ A lista a seguir vai seguir [Encyclopaedia of Chess Openings](api/2024/07/2024-0
 #### B00–B19
 1.e4 without 1...c5, 1...e6 or 1...e5
 
-- B00 [[_insight/2024/07/2024-07-12-Abertura_peão_do_rei]] sem `1...e5`, `1...e6`, `1...d5`, `1...Nf6`, `1...g6`, `1...d6`, `1...c6`, `1...c5`.
+- B00 [[_insight/2024/07/2024-07-12-Abertura_peão_do_rei|Abertura peão do rei]] sem `1...e5`, `1...e6`, `1...d5`, `1...Nf6`, `1...g6`, `1...d6`, `1...c6`, `1...c5`.
     -  [2024-07-08-Defesa_Nimzowitsch](_draft/2024/07/2024-07-08-Defesa_Nimzowitsch.md): `1...Nc6` (sem `2.Nf3 e5` (C44, C50, C60))
