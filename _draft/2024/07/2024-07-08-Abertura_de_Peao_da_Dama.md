@@ -8,7 +8,7 @@ aliases:
   - Abertura de Peão da Dama
   - abertura de Peão da Dama
   - Peão da Dama
-updated_at: 2024-07-12T20:02:21-03:00
+updated_at: 2024-07-26T11:44:56-03:00
 ---
 # Abertura de Peão da Dama
 ---

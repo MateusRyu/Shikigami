@@ -7,7 +7,7 @@ tags:
 aliases:
   - Abertura Inglesa contra a Caro Kann
 updated at: 2024-07-07T21:35:55-03:00
-updated_at: 2024-07-08T17:33:33-03:00
+updated_at: 2024-07-26T11:44:56-03:00
 ---
 # Abertura Inglesa contra a Caro Kann
 ## `A11`: Abertura Inglesa, Caro-Kann

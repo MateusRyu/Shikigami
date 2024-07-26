@@ -11,7 +11,7 @@ aliases:
   - inglesa
   - Siciliana reversa
   - siciliana reversa
-updated_at: 2024-07-12T20:25:42-03:00
+updated_at: 2024-07-26T11:44:56-03:00
 ---
 # Abertura Inglesa
 ---

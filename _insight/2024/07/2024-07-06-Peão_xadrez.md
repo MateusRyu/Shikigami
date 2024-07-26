@@ -10,7 +10,7 @@ aliases:
   - peão
   - peões
 updated at: 2024-07-07T16:24:29-03:00
-updated_at: 2024-07-12T19:43:50-03:00
+updated_at: 2024-07-26T11:44:56-03:00
 ---
 # Peão
 ----

@@ -6,7 +6,7 @@ tags:
   - v0
 aliases:
   - stat points
-updated_at: 2024-07-09T23:33:36-03:00
+updated_at: 2024-07-26T11:44:56-03:00
 ---
 # stat points
 ---

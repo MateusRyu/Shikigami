@@ -10,7 +10,7 @@ aliases:
   - cavalos
   - Cavalos
 updated at: 2024-07-07T16:19:55-03:00
-updated_at: 2024-07-08T12:43:46-03:00
+updated_at: 2024-07-26T11:44:56-03:00
 ---
 # Cavalo
 ---
