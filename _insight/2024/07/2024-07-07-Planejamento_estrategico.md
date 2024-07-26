@@ -7,7 +7,7 @@ tags:
 aliases:
   - Planejamento estratégico
   - planejamento estratégico
-updated_at: 2024-07-26T11:44:56-03:00
+updated_at: 2024-07-16T23:11:07-03:00
 ---
 # Planejamento estratégico
 ----

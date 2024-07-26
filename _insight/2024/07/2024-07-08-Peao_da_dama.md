@@ -7,7 +7,7 @@ tags:
 aliases:
   - Peão da dama
   - peão da dama
-updated_at: 2024-07-26T11:44:56-03:00
+updated_at: 2024-07-08T17:33:33-03:00
 ---
 # Peão da dama
 ---

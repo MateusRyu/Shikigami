@@ -7,7 +7,7 @@ tags:
 aliases:
   - Peão do Rei
   - peão do Rei
-updated_at: 2024-07-26T11:44:56-03:00
+updated_at: 2024-07-12T19:46:04-03:00
 ---
 # Peão do Rei
 ---

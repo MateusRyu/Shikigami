@@ -12,7 +12,7 @@ aliases:
   - Abertura
   - abertura
 updated at: 2024-07-07T21:34:27-03:00
-updated_at: 2024-07-26T11:44:56-03:00
+updated_at: 2024-07-12T19:46:54-03:00
 ---
 # Aberturas de xadrez
 ----

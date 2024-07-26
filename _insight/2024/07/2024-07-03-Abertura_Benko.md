@@ -9,7 +9,7 @@ aliases:
   - abertura Benko
   - Benko
 updated at: 2024-07-07T20:41:33-03:00
-updated_at: 2024-07-26T11:44:56-03:00
+updated_at: 2024-07-16T23:19:36-03:00
 ---
 # Abertura Benko
 ----
