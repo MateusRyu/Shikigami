@@ -21,6 +21,10 @@ language: "pt-BR"
 analytics: true
 google_tag: "G-84RVTTFH0L"
 
+collections:
+  docs:
+    sort_by: chapter
+
 defaults:
   - scope:
       path: ""
@@ -30,16 +34,28 @@ defaults:
 
   - scope:
       path: "api"
-      type: "json"
+      type: "pages"
     values:
-      layout: "null"
+      layout: "json"
 
   - scope:
-      path: "sementes"
-      type: "seed"
+      path: "api/datas"
+      type: "pages"
     values:
-      layout: "post"
+      layout: "no_content"
 
+  - scope:
+      path: "api/ideias"
+      type: "pages"
+    values:
+      layout: "no_content"
+
+  - scope:
+      path: "api/ideias"
+      type: "pages"
+    values:
+      layout: "no_content"
+      
   - scope:
       path: ""
       type: "posts"
