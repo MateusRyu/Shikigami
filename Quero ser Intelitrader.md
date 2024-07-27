@@ -5,7 +5,7 @@ tags:
 aliases:
   - Quero ser Intelitrader
 created_at: 2024-07-27T13:16:17-03:00
-updated_at: 2024-07-27T13:17:46-03:00
+updated_at: 2024-07-27T13:31:41-03:00
 ---
 
 
@@ -17,8 +17,6 @@ A [Intelitrader](http://www.intelitrader.com.br/) é uma empresa de software e
 
 ## Sobre as vagas
 
-[](https://github.com/intelitrader/quero-ser#sobre-as-vagas)
-
 Você gosta de programar e aprender? Aqui é o lugar certo.
 
 Temos uma cultura focada em formação e vamos te ensinar tudo que você precisa para virar um Engenheiro ou Engenheira de Software. Temos demanda para backend e frontend.
@@ -29,8 +27,6 @@ Aqui usamos bastante C#. Usamos também C++ (para alto desempenho), ReactJs (fro
 
 ## Onde vocês ficam?
 
-[](https://github.com/intelitrader/quero-ser#onde-voc%C3%AAs-ficam)
-
 Nossa sede é em São Paulo mas todo mundo é home office com horário flexível. **Desde 2012**. Tem gente de todo o Brasil trabalhando para Intelitrader.
 
 Temos horário flexível, o cumprimento dos combinados é muito mais importante que estar online em horário comercial. Cumprindo com os combinados, não tem problema nenhum ir para a academia às 11h, ao cinema quarta-feira às 15h e não vamos pedir justificativas para ausências pessoais.
@@ -38,8 +34,6 @@ Temos horário flexível, o cumprimento dos combinados é muito mais importante 
 O tempo disposto com a Intelitrader também é flexível. Combinando direitinho, nada está proibido, você pode trabalhar somente 4 horas por dia, escolher trabalhar 3 dias só por semana, etc. Obviamente a remuneração será proporcional. A única coisa que nos importa é estar entregando código de qualidade, os combinados sendo atendidos, os sistemas rodando bem em produção, estar aprendendo e ensinando.
 
 ## Requisitos Básicos (para todas as vagas)
-
-[](https://github.com/intelitrader/quero-ser#requisitos-b%C3%A1sicos-para-todas-as-vagas)
 
 Não nos importamos com formação.
 
@@ -56,11 +50,7 @@ Nós te ajudamos ensinando e guiando seu aprendizado. Você só precisa gostar d
 
 ## Como me candidato?
 
-[](https://github.com/intelitrader/quero-ser#como-me-candidato)
-
 ### Desenvolvedor(a)
-
-[](https://github.com/intelitrader/quero-ser#desenvolvedora)
 
 Para oportunidade de **Desenvolvedor(a)** siga as instruções abaixo:
 
@@ -73,15 +63,11 @@ Para oportunidade de **Desenvolvedor(a)** siga as instruções abaixo:
 
 ## Condições
 
-[](https://github.com/intelitrader/quero-ser#condi%C3%A7%C3%B5es)
-
 - Regime: **PJ**;
 - Período: **Integral**;
 - Contratação: **Imediata**;
 
 ## Desafios propostos
-
-[](https://github.com/intelitrader/quero-ser#desafios-propostos)
 
 Todos os desafios se baseiam em criar uma aplicação console, que ao executar pede para o usuários os dados (opcional, dependendo do exercício), depois realiza o processamento proposto e por fim informa o usuário o resultado ou o caminho do resultado dependendo do caso.
 
