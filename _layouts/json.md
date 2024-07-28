@@ -1,4 +1,4 @@
 ---
 layout: null
 ---
-{{ page | jsonify }}
+[{{ page | jsonify }}]

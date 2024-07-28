@@ -1,0 +1,30 @@
+---
+layout: null
+---
+{%- capture response -%}
+    {%- for site_page in site.pages -%}
+        {% if site_page.dir == "/api/" %}
+            {%- continue -%}
+        {%- endif -%}
+        {%- assign dir = site_page.dir | split: "/" -%}
+        {%- unless dir[1] == "api" and dir[2] == page.api -%}
+            {%- continue -%}
+        {%- endunless -%}
+        {%- if site_page.url == page.url or site_page.url == page.dir -%}
+            {%- continue -%}
+        {%- endif -%}
+        {
+            {%- for meta in site_page -%}
+                {%- assign meta = meta | jsonify -%}
+                {%- if meta.first == "content" and page.show_content == true -%}
+                    {{ meta.first | jsonify }}: {{ meta.last | jsonify }}{%- unless forloop.last %},{% endunless %}
+                {% endif %}                    
+                {%- if meta.first != "content" -%}
+                    {{ meta.first | jsonify }}: {{ meta.last | jsonify }}{%- unless forloop.last %},{% endunless %}
+                {%- endif -%}
+            {%- endfor -%}
+        },
+    {%- endfor -%}
+{%- endcapture -%}
+{%- assign size = response.size | minus: 1 -%}
+[{{ response | slice: 0, size }}]

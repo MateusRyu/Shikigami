@@ -1,6 +1,6 @@
 ---
 layout: none
-permalink: /api/posts/
+permalink: /api/posts
 ---
 {
     "total_posts": {{- site.posts | size }},

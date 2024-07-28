@@ -1,5 +1,5 @@
 ---
-layout: web
+layout: json
 ---
 
 <h1>{{ page.title }}</h1>

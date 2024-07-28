@@ -21,68 +21,23 @@ language: "pt-BR"
 analytics: true
 google_tag: "G-84RVTTFH0L"
 
-collections:
-  docs:
-    sort_by: chapter
-
 defaults:
   - scope:
-      path: ""
-      type: "docs"
-    values:
-      layout: "default"
-
-  - scope:
-      path: "api"
-      type: "pages"
-    values:
-      layout: "json"
-
-  - scope:
       path: "api/datas"
-      type: "pages"
     values:
       layout: "no_content"
+
+  - scope:
+      path: "api/docs"
+    values:
+      layout: "doc"
 
   - scope:
       path: "api/ideias"
-      type: "pages"
     values:
       layout: "no_content"
 
   - scope:
-      path: "api/ideias"
-      type: "pages"
+      path: "api/rascunhos"
     values:
       layout: "no_content"
-      
-  - scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "post"
-
-# Build settings
-# theme: minima
-#plugins:
-#  - jekyll-feed
-
-# Exclude from processing.
-# The following items will not be processed, by default.
-# Any item listed under the `exclude:` key here will be automatically added to
-# the internal "default list".
-#
-# Excluded items can be processed by explicitly listing the directories or
-# their entries' file path in the `include:` list.
-#
-# exclude:
-#   - .sass-cache/
-#   - .jekyll-cache/
-#   - gemfiles/
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules/
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
