@@ -1,4 +1,40 @@
 - name: Home
+  type: anchor
   link: /
+
 - name: About
+  type: anchor
   link: /about.html
+
+- name: Tema
+  type: anchor
+  link: /tema
+
+- name: api
+  type: dropdown
+  id: main-navigation-api
+  float: right
+  subitems:
+    - name: Todos
+      type: anchor
+      link: /api/
+
+    - name: Datas
+      type: anchor
+      link: /api/datas/
+
+    - name: Docs
+      type: anchor
+      link: /api/docs/
+
+    - name: Ideias
+      type: anchor
+      link: /api/ideias/
+
+    - name: Rascunhos
+      type: anchor
+      link: /api/rascunhos/
+
+    - name: Sementes
+      type: anchor
+      link: /api/sementes/

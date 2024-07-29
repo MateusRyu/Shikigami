@@ -1,6 +1,6 @@
 ---
-layout: map
 title: Index
+layout: web
 created_at: 2024-07-06T18:32:39-03:00
 tags:
   - v0
@@ -9,11 +9,7 @@ aliases:
 updated_at: 2024-07-24T12:05:06-03:00
 ---
 
- - [ ] - Criar script pra limpar o atributo `layout` do front matter (com opção por pastas)
 
-| Github Stats                                                                                                                      | Github Top languages                                                                                                                                                                                 |
-| --------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Ryu's Streak Stats on Github](https://github-readme-streak-stats.herokuapp.com/?user=MateusRyu&theme=prussian&hide_border=true) | ![Ryu core languages in Github repositories](https://github-readme-stats.vercel.app/api/top-langs/?username=MateusRyu&theme=prussian&hide_border=true&include_all_commits=true&count_private=false&) |
 
 - lazer:
 	- [Animes](mapas/2024-07-11-Animes.md);

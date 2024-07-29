@@ -1,5 +1,11 @@
 {
     "cSpell.words": [
+        "endfor",
+        "endunless",
+        "forloop",
         "RVTTFH"
+    ],
+    "cSpell.ignoreWords": [
+        "jsonify"
     ]
 }

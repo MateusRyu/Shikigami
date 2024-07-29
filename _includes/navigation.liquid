@@ -9,9 +9,25 @@
     </a>
     <nav>
     {%- for item in site.data.navigation -%}
-      <a href="{{ item.link }}" {% if page.url == item.link %}class="current"{% endif %}>
-        {{- item.name -}}
-      </a>
+      {% if item.type == "anchor" %}
+        <a href="{{ item.link }}" {% if page.url == item.link %}class="current"{% endif %}>
+          {{- item.name -}}
+        </a>
+      {% endif %}
+      {% if item.type == "dropdown" %}
+        <div class="dropdown{% if item.float %}-{{item.float}}{% endif %}">
+          <button onclick="toggleElement('{{- item.id -}}')" class="dropButton">
+            {{- item.name -}} &#8681;
+          </button>
+          <ul id={{ item.id }} class="dropdown-content">
+          {% for subitem in item.subitems %}
+            <li>
+              <a href={{ subitem.link }}>{{ subitem.name }}</a>
+            </li>
+          {% endfor %}
+          </ul>
+        </div>
+      {% endif %}
     {%- endfor -%}
     </nav>
   </header>
