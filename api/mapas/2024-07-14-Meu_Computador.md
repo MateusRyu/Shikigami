@@ -7,9 +7,6 @@ aliases:
   - Meu Computador
 updated_at: 2024-07-24T12:05:07-03:00
 ---
-
-# Meu Computador
----
 Dual boot com a [pasta home](_insight/2024/07/2024-07-14-Pasta_home.md) compartilhada para ter um [Sistema Operacional](../sementes/2024/06/2024-06-30-Sistema_Operacional.md) de backup pra caso algo dê errado no [sistema](../sementes/2024/06/2024-06-30-Sistema_Operacional.md) principal.
 ## Particionamento
 ---

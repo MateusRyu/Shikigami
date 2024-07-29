@@ -38,6 +38,11 @@ defaults:
       layout: "no_content"
 
   - scope:
+      path: "api/mapas"
+    values:
+      layout: "map"
+
+  - scope:
       path: "api/rascunhos"
     values:
       layout: "no_content"
