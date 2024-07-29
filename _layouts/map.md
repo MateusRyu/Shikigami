@@ -12,7 +12,7 @@ layout: null
                 {%- if alias == "" -%}
                     {% assign alias = forloop.index0 %}
                 {%- endif -%}
-                {"{{ alias }}": "{{ url }}"}
+                {"{{ alias }}": "{{ url |  replace: ".html", "" }}"}
                 {%- unless forloop.last %},{% endunless -%}
             {%- endif -%}
             
