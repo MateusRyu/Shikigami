@@ -19,6 +19,10 @@
       type: anchor
       link: /api/
 
+    - name: Mapas
+      type: anchor
+      link: /api/mapas/
+
     - name: Datas
       type: anchor
       link: /api/datas/
