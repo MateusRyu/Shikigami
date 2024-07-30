@@ -26,6 +26,33 @@ variations:
         class: -error
         name: erro
 ---
+{% capture typography %}
+{% for variation in page.variations %}
+    <p class="text{{ variation[1].class }}">
+        <h3>{{ variation[1].name | capitalize }}</h3>
+        Normal,  
+        <b>Negrito</b> ({{ "<b></b>" | escape }} - não-semantico), 
+        <strong>Importante</strong> ({{ "<strong></strong>" | escape }} - semantico e com estilo), 
+        <i>Italico</i> ({{ "<i></i>" | escape }} - não-semantico), 
+        <em>Enfase</em> ({{ "<em></em>" | escape }} - semantico e sem estilo), 
+        <mark>Marcado</mark> ({{ "<mark></mark>" | escape }} - semantico e com estilo), 
+        <small>Pequeno</small> ({{ "<small></small>" | escape }} - semantico e com estilo), 
+        <del>Deletado</del>, 
+        <ins>Inserido</ins>, 
+        Texto<sub>Subscrito</sub>, 
+        Texto<sup>Superscrito</sup>.
+    </p>
+{% endfor %}
+{% endcapture %}
+<div>
+    <h2>Cores</h2>
+    
+    {% for variation in page.variations %}
+        <div class="card {{ variation[1].class }}">
+            {{ typography }}
+        </div>
+    {% endfor %}
+</div>
 <div>
     <h2>Botões</h2>
     {% for variation in page.variations %}

@@ -1,9 +1,132 @@
+@import "base";
+@import "colors";
 $font-family: 'Courier New', Courier, monospace;
+$font-size-base: 16px;
+$letter-spacing-base: 1;
+$line-height: 1.5;
 
-body {
+:root {
     font-family: $font-family;
+    font-size: $font-size-base;
+    line-height: $line-height;
 }
 
 h1, h2, h3, h4, h5, h6 {
     font-family: $font-family;
+}
+
+h1{
+    font-size: 1.5rem;
+    letter-spacing: 0.5rem;
+    line-height: 2rem;
+}
+
+h2{
+    font-size: 1rem;
+    letter-spacing: -0.05rem;
+    line-height: 2rem;
+}
+
+h3{
+    font-size: 1.5rem;
+    letter-spacing: 0.05rem;
+    line-height: 1.5rem;
+}
+
+h4{
+    font-size: 1rem;
+    letter-spacing: -0.025rem;
+    line-height: 1.5rem;
+}
+
+h5{
+    font-size: 1rem;
+    letter-spacing: -.025rem;
+    line-height: 1.5rem;
+}
+
+h6{
+    font-size: 1rem;
+    letter-spacing: -0.0125rem;
+    line-height: 1.5rem;
+}
+
+small{
+    font-size: .5rem;
+    letter-spacing: -0.00625rem;
+    line-height: 1rem;
+}
+
+sub,sup{
+    font-size: 50%;
+    line-height:0;
+    position:relative;
+}
+
+sub {
+    vertical-align: sub;
+}
+
+sup {
+    vertical-align: top;
+}
+
+b {
+    font-weight: bold;
+}
+
+strong {
+    color: $accent;
+}
+
+mark {
+    background-color: $accent;
+}
+
+.font-normal {
+    font-weight: normal;
+}
+
+.font-bold {
+    font-weight: bold;
+}
+
+.font-bolder {
+    font-weight: bolder;
+}
+
+.font-lighter {
+    font-weight: lighter;
+}
+
+i {
+    font-style: italic;
+}
+
+.font-italic {
+    font-style: italic;
+}
+
+@media (min-width: $breakpoint-mobile) {
+    h1{
+        font-size: 2rem;
+    }
+
+    h2{
+        font-size: 1.5rem;
+    }
+
+    h5 {
+        font-size: 1.5rem;
+    }
+}
+
+@media (min-width: $breakpoint-tablet) {
+    h2 {
+        font-size: 2rem;
+    }
+
+    h4 {
+        font-size: 1.5rem;
+    }
 }
