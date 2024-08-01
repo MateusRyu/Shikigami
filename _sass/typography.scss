@@ -4,6 +4,11 @@ $font-family: 'Courier New', Courier, monospace;
 $font-size-base: 16px;
 $letter-spacing-base: 1;
 $line-height: 1.5;
+$accent: color-accent(5);
+
+@mixin strong($color: $accent) {
+    color: $color;
+}
 
 :root {
     font-family: $font-family;
@@ -76,11 +81,11 @@ b {
 }
 
 strong {
-    color: $accent;
+    @include strong;
 }
 
 mark {
-    background-color: $accent;
+    background-color: color-accent(5);
 }
 
 .font-normal {
@@ -101,6 +106,18 @@ mark {
 
 i {
     font-style: italic;
+}
+
+a {
+    color: color-primary(5);
+}
+
+a:not([href])::after {
+    content: "Link invalido";
+    font-size: 50%;
+    line-height: 0;
+    position: relative;
+    vertical-align: top;
 }
 
 .font-italic {
