@@ -21,6 +21,12 @@ language: "pt-BR"
 analytics: true
 google_tag: "G-84RVTTFH0L"
 
+collections:
+  doc:
+    output: true
+    sort_by: chapter
+    permalink: /:collection/:name
+
 defaults:
   - scope:
       path: "api/datas"
@@ -28,7 +34,8 @@ defaults:
       layout: "no_content"
 
   - scope:
-      path: "api/docs"
+      path: ""
+      type: "doc"
     values:
       layout: "doc"
 

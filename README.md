@@ -6,9 +6,6 @@ updated_at: 2024-07-24T12:05:01-03:00
 ---
 Shikigami is a project to keep my knowledge at one unique place and serve as API to be consumed to anyone.
 
-Translated versions:
-- [ ] [Brazilian Portuguese](_docs/README-pt_br.md)
-
 ## Table of contents
 ---
 - [Features](#features)

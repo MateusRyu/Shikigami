@@ -1,62 +1,108 @@
 ---
-layout: web
+title: Estilo visual
+chapter: 1
 variations:
     default: 
         class: 
         name: padrão
     primary: 
-        class: -primary
+        class: primary
         name: primário
     secondary: 
-        class: -secondary
+        class: secondary
         name: secundário
     accent: 
-        class: -accent
+        class: accent
         name: realce
     info: 
-        class: -info
+        class: info
         name: informação
     success: 
-        class: -success
+        class: success
         name: sucesso
     warning: 
-        class: -warning
+        class: warning
         name: aviso
     error: 
-        class: -error
+        class: error
         name: erro
 ---
+{% capture text_tags %}
+    Normal, <a href="#">Link normal</a>, <a href="#">Link já visitado</a>, <a>Link vazio</a>, 
+    <b>Negrito</b> ({{ "<b></b>" | escape }} - não-semantico), 
+    <strong>Importante</strong> ({{ "<strong></strong>" | escape }} - semantico e com estilo), 
+    <i>Italico</i> ({{ "<i></i>" | escape }} - não-semantico), 
+    <em>Enfase</em> ({{ "<em></em>" | escape }} - semantico e sem estilo), 
+    <mark>Marcado</mark> ({{ "<mark></mark>" | escape }} - semantico e com estilo), 
+    <small>Pequeno</small> ({{ "<small></small>" | escape }} - semantico e com estilo), 
+    <del>Deletado</del>, 
+    <ins>Inserido</ins>, 
+    Texto<sub>Subscrito</sub>, 
+    Texto<sup>Superscrito</sup>.
+{% endcapture %}
 {% capture typography %}
 {% for variation in page.variations %}
-    <p class="text{{ variation[1].class }}">
-        <h3>{{ variation[1].name | capitalize }}</h3>
-        Normal,  
-        <b>Negrito</b> ({{ "<b></b>" | escape }} - não-semantico), 
-        <strong>Importante</strong> ({{ "<strong></strong>" | escape }} - semantico e com estilo), 
-        <i>Italico</i> ({{ "<i></i>" | escape }} - não-semantico), 
-        <em>Enfase</em> ({{ "<em></em>" | escape }} - semantico e sem estilo), 
-        <mark>Marcado</mark> ({{ "<mark></mark>" | escape }} - semantico e com estilo), 
-        <small>Pequeno</small> ({{ "<small></small>" | escape }} - semantico e com estilo), 
-        <del>Deletado</del>, 
-        <ins>Inserido</ins>, 
-        Texto<sub>Subscrito</sub>, 
-        Texto<sup>Superscrito</sup>.
-    </p>
+    {% assign class = variation[1].class %}
+    {% case class %}
+        {% when null %}
+            <details>
+                <summary>Texto: Padrão</summary>
+                <p>{{ text_tags }}</p>
+            </details>
+        {% when "primary", "secondary", "accent" %}
+            {% for intensity in (1..9) %}
+                <details class="text-{{ class }}-{{ intensity }}">
+                    <summary>Texto: {{ variation[1].name }}-{{ intensity }}</summary>
+                    <p>
+                        {{ text_tags }}
+                    </p>
+                </details>
+            {% endfor %}
+        {% else %}
+            <details class="text-{{ variation[1].class }}">
+                <summary>Texto: {{ variation[1].name }}</summary>
+                <p>
+                    {{ text_tags }}
+                </p>
+            </details>
+    {% endcase %}
 {% endfor %}
 {% endcapture %}
 <div>
     <h2>Cores</h2>
-    
     {% for variation in page.variations %}
-        <div class="card {{ variation[1].class }}">
-            {{ typography }}
-        </div>
+        {% assign class = variation[1].class %}
+        {% case class %}
+            {% when null %}
+                <details>
+                    <summary>Padrão</summary>
+                    <div class="card">
+                        {{ typography }}
+                    </div>
+                </details>
+            {% when "primary", "secondary", "accent" %}
+                {% for intensity in (1..9) %}
+                    <details>
+                        <summary class="bg-{{ class }}-{{ intensity }}" >Variante: {{ class }} {{ intensity }}</summary>
+                        <div class="card bg-{{ class }}-{{ intensity }}">
+                            {{ typography }}
+                        </div>
+                    </details>
+                {% endfor %}
+            {% else %}
+                <details>
+                    <summary>Variante: {{ class }}</summary>
+                    <div class="card bg-{{ class }}">
+                        {{ typography }}
+                    </div>
+                </details>
+        {% endcase %}
     {% endfor %}
 </div>
 <div>
     <h2>Botões</h2>
     {% for variation in page.variations %}
-        <button class="btn{{ variation[1].class }}">{{ variation[1].name | capitalize }}</button>
+        <button class="btn-{{ variation[1].class }}">{{ variation[1].name | capitalize }}</button>
     {% endfor %}
     <details open>
         <summary>Código-fonte</summary>
