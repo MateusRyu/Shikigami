@@ -7,22 +7,25 @@
         {{- site.title -}}
       </h2>
     </a>
-    <nav>
+    <button class="responsive-menu-toggle" onclick="toggleElement('main-nav', 'display-flex')">
+      Menu
+    </button>
+    <nav id="main-nav">
     {%- for item in site.data.navigation -%}
       {% if item.type == "anchor" %}
-        <a href="{{ item.link }}" {% if page.url == item.link %}class="current"{% endif %}>
+        <a class="nav-item" href="{{ item.link }}" {% if page.url == item.link %}class="current"{% endif %}>
           {{- item.name -}}
         </a>
       {% endif %}
       {% if item.type == "dropdown" %}
         <div class="dropdown{% if item.float %}-{{item.float}}{% endif %}">
-          <button onclick="toggleElement('{{- item.id -}}')" class="dropButton">
+          <button onclick="toggleElement('{{- item.id -}}', 'display-none')" class="nav-item dropButton">
             {{- item.name -}} &#8681;
           </button>
-          <ul id={{ item.id }} class="dropdown-content">
+          <ul id={{ item.id }} class="dropdown-content display-none">
           {% for subitem in item.subitems %}
             <li>
-              <a href={{ subitem.link }}>{{ subitem.name }}</a>
+              <a class="nav-item" href={{ subitem.link }}>{{ subitem.name }}</a>
             </li>
           {% endfor %}
           </ul>
