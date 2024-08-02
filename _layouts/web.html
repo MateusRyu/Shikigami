@@ -17,8 +17,7 @@
 <body>
   {% include navigation.liquid %}
   <main>
-    {% include sidebar.liquid %}
-    <section>{{ content | remove_md_extensions }}</section>
+    {{ content | remove_md_extensions }}
   </main>
   {% include footer.liquid %}
   <script src="/assets/js/index.js"></script>

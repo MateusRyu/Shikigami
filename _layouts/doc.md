@@ -1,5 +1,7 @@
 ---
 layout: web
 ---
-
-{{ content }}
+{% include doc_sidebar.liquid %}
+<section>
+    {{ content }}
+</section>

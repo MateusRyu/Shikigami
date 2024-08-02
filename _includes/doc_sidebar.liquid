@@ -1,0 +1,31 @@
+{% assign group = null %}
+<aside>
+    <nav>
+    {% for doc in site.doc -%}
+        {% if doc.group %}
+            {% if group == doc.group %}
+                <li><a href={{ doc.url }}>{{ doc.title}}</a></li>
+            {% else %}
+                {% assign group = doc.group %}
+                    </ol>
+                </details>
+                <details>
+                    <summary>{{ group }}</summary>
+                    <ol class="detail-content">
+                        <li><a href={{ doc.url }}>{{ doc.title}}</a></li>
+            {% endif %}
+        {% else %}
+            {% if group != null %}
+                {% assign group = null %}
+                    </ol>
+                </details>
+            {% endif %}
+            <a href={{ doc.url }}>{{ doc.title}}</a>
+        {% endif %}
+        {% if forloop.last and group != null %}
+                </ol>
+            </details>
+        {% endif %}
+    {% endfor %}
+    </nav>
+</aside>
