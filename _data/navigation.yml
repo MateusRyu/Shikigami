@@ -1,24 +1,20 @@
-- name: Home
+- name: Início
   type: anchor
   link: /
 
-- name: About
+- name: Sobre
   type: anchor
-  link: /about.html
+  link: /sobre
 
-- name: Tema
+- name: Documentação
   type: anchor
-  link: /tema
+  link: /doc
 
 - name: api
   type: dropdown
   id: main-navigation-api
   float: right
   subitems:
-    - name: Todos
-      type: anchor
-      link: /api/
-
     - name: Mapas
       type: anchor
       link: /api/mapas/
@@ -26,10 +22,6 @@
     - name: Datas
       type: anchor
       link: /api/datas/
-
-    - name: Docs
-      type: anchor
-      link: /api/docs/
 
     - name: Ideias
       type: anchor
@@ -42,3 +34,4 @@
     - name: Sementes
       type: anchor
       link: /api/sementes/
+
