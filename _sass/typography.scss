@@ -110,6 +110,7 @@ i {
 
 a {
     color: color-primary(5);
+    text-decoration: none;
 }
 
 a:not([href])::after {

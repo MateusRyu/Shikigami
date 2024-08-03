@@ -10,27 +10,30 @@
     <button class="responsive-menu-toggle" onclick="toggleElement('main-nav', 'display-flex')">
       Menu
     </button>
-    <nav id="main-nav">
-    {%- for item in site.data.navigation -%}
-      {% if item.type == "anchor" %}
-        <a class="nav-item" href="{{ item.link }}" {% if page.url == item.link %}class="current"{% endif %}>
-          {{- item.name -}}
-        </a>
-      {% endif %}
-      {% if item.type == "dropdown" %}
-        <div class="dropdown{% if item.float %}-{{item.float}}{% endif %}">
-          <button onclick="toggleElement('{{- item.id -}}', 'display-none')" class="nav-item dropButton">
-            {{- item.name -}} &#8681;
-          </button>
-          <ul id={{ item.id }} class="dropdown-content display-none">
-          {% for subitem in item.subitems %}
-            <li>
-              <a class="nav-item" href={{ subitem.link }}>{{ subitem.name }}</a>
-            </li>
-          {% endfor %}
-          </ul>
-        </div>
-      {% endif %}
-    {%- endfor -%}
+    <nav id="main-nav" class="main-nav">
+      <ul class="navbar w-full"> 
+        {%- for item in site.data.navigation -%}
+          <li class="w-full">
+            {% if item.type == "anchor" %}
+              <a class="nav-item w-full" href="{{ item.link }}" {% if page.url == item.link %}class="current"{% endif %}>
+                {{- item.name -}}
+              </a>
+            {% elsif item.type == "dropdown" %}
+              <div class="dropdown{% if item.float %}-{{item.float}}{% endif %}">
+                <button onclick="toggleElement('{{- item.id -}}', 'display-none')" class="nav-item dropButton w-full">
+                  {{- item.name -}} &#8681;
+                </button>
+                <ul id={{ item.id }} class="dropdown-content display-none">
+                {% for subitem in item.subitems %}
+                  <li class="w-full">
+                    <a class="nav-item w-full" href={{ subitem.link }}>{{ subitem.name }}</a>
+                  </li>
+                {% endfor %}
+                </ul>
+              </div>
+            {% endif %}
+          </li>
+        {%- endfor -%}
+      </ul>
     </nav>
   </header>

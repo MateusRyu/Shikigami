@@ -7,7 +7,7 @@ $colors-primary: (
   6: #c3275a,
   7: #8f2444,
   8: #5e1d2e,
-  9: #31141b
+  9: #31141b,
 );
 
 $colors-secondary: (
@@ -19,7 +19,7 @@ $colors-secondary: (
   6: #53a9ba,
   7: #417c88,
   8: #2e5259,
-  9: #1c2b2e
+  9: #1c2b2e,
 );
 
 $colors-accent: (
@@ -31,7 +31,7 @@ $colors-accent: (
   6: #b3ab5c,
   7: #837d46,
   8: #565230,
-  9: #2d2b1c
+  9: #2d2b1c,
 );
 
 $colors-gray: (
@@ -40,18 +40,18 @@ $colors-gray: (
   3: #ffffff,
   4: #f0f0f0,
   5: #e0e0e0,
-  6: #d0d0d0
+  6: #d0d0d0,
 );
 
 $colors-status: (
   "info": #0004ff,
   "success": #f0da19,
   "warning": #e79e16,
-  "error": red
+  "error": red,
 );
 
-$white: #f5f5f5; 
-$black: #212121; 
+$white: #f5f5f5;
+$black: #212121;
 
 @function color-primary($index) {
   @return map-get($colors-primary, $index);
@@ -72,6 +72,10 @@ $black: #212121;
   }
 }
 
+@function color-secondary($index) {
+  @return map-get($colors-secondary, $index);
+}
+
 @each $name, $color in $colors-secondary {
   .bg-secondary-#{$name} {
     background-color: $color;
@@ -87,6 +91,10 @@ $black: #212121;
   }
 }
 
+@function color-accent($index) {
+  @return map-get($colors-accent, $index);
+}
+
 @each $name, $color in $colors-accent {
   .bg-accent-#{$name} {
     background-color: $color;
@@ -100,6 +108,28 @@ $black: #212121;
   .text-accent-#{$name} {
     color: $color;
   }
+}
+
+@function color-gray($index) {
+  @return map-get($colors-gray, $index);
+}
+
+@each $name, $color in $colors-gray {
+  .bg-gray-#{$name} {
+    background-color: $color;
+    @if $name < 6 {
+      color: $black;
+    } @else {
+      color: $white;
+    }
+  }
+
+  .text-accent-#{$name} {
+    color: $color;
+  }
+}
+@function color-status($index) {
+  @return map-get($colors-status, $index);
 }
 
 @each $name, $color in $colors-status {
@@ -131,7 +161,6 @@ $black: #212121;
   color: $white;
 }
 
-
 body {
   background-color: $black;
   color: $white;
@@ -142,22 +171,28 @@ footer {
 }
 
 button {
-    color: $black;
-    background-color: $white;
-  
-    &:hover {
-      background-color: color-accent(5);
-    }
+  color: $black;
+  background-color: $white;
+
+  &:hover {
+    background-color: color-accent(5);
+  }
 }
 
-h1, h2, h3, h4, h5, h6 {
-    color: color-primary(5);
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: color-primary(5);
 }
 
 a {
-    color: color-primary(5);
-  
-    &:hover {
-      color: color-accent(5);
-    }
+  color: color-primary(5);
+
+  &:hover {
+    color: color-accent(5);
+  }
 }
+

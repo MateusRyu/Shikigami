@@ -14,7 +14,7 @@ Eu sei bem que o mundo é um caos.
 Sei que não controlo minha emoção.
 Ainda assim posso rir do passado
 e não preciso pensar em um legado,
-Isso pois eu ainda continuo vivo
+Isso porque eu ainda continuo vivo
 e eu não estou preso em um livro!
 
 Diga, se a chuva não passar
@@ -22,7 +22,7 @@ E a água dela não me afogar,
 Meu coração pode florescer?
 Como se pudesse acontecer.
 Digo,se a chuva não passar
-Isso não impede de avançar
+Isso não impede de crescer.
 
 Se o meu coração fosse um jardim,
 Eu sei que não estou sozinho nela.
@@ -33,8 +33,10 @@ mas não se tem caminho sem sequela.
 
 O meu coração está repleto de pétalas
 Que estão limpando o solo do coração
-Do veneno que entóxica nossa relação.
-Sabe, os sentimentos 
+Dos venenos que entóxicam a relação.
+Eu desejo para que tenham a proteção 
+Pra aqueles que procuram uma direção,
+Porque eu desejo 
 
 De longe, o que quero é seguir na luta
 E para isso vou incendiar minha paixão!
