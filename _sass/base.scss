@@ -49,16 +49,9 @@ footer {
   text-align: center;
 }
 
-.display-none {
-  display: none;
-}
-
-.display-flex {
-  display: flex;
-}
-
 @media (min-width: $breakpoint-laptop) {
   main {
     flex-direction: row;
   }
 }
+
