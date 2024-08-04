@@ -16,6 +16,9 @@ theme: null # Keep null to not fallback to `jekyll-theme-primer` (to more info: 
 analytics: true
 google_tag: "G-84RVTTFH0L"
 
+plugins:
+  - jekyll-feed
+
 collections:
   doc:
     output: true
@@ -48,4 +51,3 @@ defaults:
       path: "api/rascunhos"
     values:
       layout: "no_content"
-
