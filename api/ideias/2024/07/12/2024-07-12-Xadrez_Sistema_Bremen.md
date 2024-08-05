@@ -1,12 +1,10 @@
 ---
 title: Sistema Bremen
-created_at: 2024-07-12T20:05:17-03:00
 tags:
   - v1
 aliases:
   - Sistema Bremen
-updated_at: 2024-07-12T20:05:17-03:00
----
-# Sistema Bremen
+created_at: 2024-07-12T20:05:14-03:00
+updated_at: 2024-08-05T12:41:24-03:00
 ---
 
