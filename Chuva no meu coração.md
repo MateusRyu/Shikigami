@@ -21,14 +21,14 @@ Diga, se a chuva não passar
 E a água dela não me afogar,
 Meu coração pode florescer?
 Como se pudesse acontecer.
-Digo,se a chuva não passar
+Digo, se a chuva não passar
 Isso não impede de crescer.
 
 Se o meu coração fosse um jardim,
 Eu sei que não estou sozinho nela.
 Nela tem flores preciosas para mim
 Flores com veneno e ainda tão bela.
-Um veneno que que vai levar ao fim
+Um veneno que pode me levar ao fim
 mas não se tem caminho sem sequela.
 
 O meu coração está repleto de pétalas
@@ -36,7 +36,8 @@ Que estão limpando o solo do coração
 Dos venenos que entóxicam a relação.
 Eu desejo para que tenham a proteção 
 Pra aqueles que procuram uma direção,
-Porque eu desejo 
+Já que para as pétalas eu serei a sépala.
 
-De longe, o que quero é seguir na luta
-E para isso vou incendiar minha paixão!
+Chuva no meu coração.
+Guiarei a minha paixão 
+Através desta canção!
