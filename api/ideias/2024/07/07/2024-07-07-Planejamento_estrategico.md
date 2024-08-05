@@ -6,9 +6,9 @@ tags:
 aliases:
   - Planejamento estratégico
   - planejamento estratégico
-updated_at: 2024-07-24T12:05:04-03:00
+updated_at: 2024-08-05T10:56:44-03:00
 ---
 # Planejamento estratégico
 ----
 
-[[../../../sementes/2024/07/2024-07-12-Habilidade|habilidade]]
+[[../../../../sementes/2024/07/2024-07-12-Habilidade|habilidade]]

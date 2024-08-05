@@ -8,7 +8,7 @@ aliases:
   - cavalos
   - Cavalos
 created_at: 2024-07-26T13:21:33-03:00
-updated_at: 2024-08-05T08:48:04-03:00
+updated_at: 2024-08-05T10:56:21-03:00
 ---
 
-É uma [peças](2024-07-06-Pecas_de_xadrez.md) do jogo de [xadrez](../../../sementes/2024/07/2024-07-06-Xadrez.md). Dentro do jogo, ele é conhecido por ser uma peça caótica e difícil de prever seu lance.
+É uma [peças](06/2024-07-06-Pecas_de_xadrez.md) do jogo de [xadrez](../../../sementes/2024/07/2024-07-06-Xadrez.md). Dentro do jogo, ele é conhecido por ser uma peça caótica e difícil de prever seu lance.
