@@ -1,11 +1,11 @@
 ---
 title: Abertura Larsen
-created_at: 2024-07-12T19:47:07-03:00
 tags:
   - v1
 aliases:
   - Abertura Larsen
-updated_at: 2024-07-12T19:47:07-03:00
+created_at: 2024-07-12T19:47:03-03:00
+updated_at: 2024-08-05T13:38:30-03:00
 ---
 # Abertura Larsen
 ---
