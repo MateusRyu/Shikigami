@@ -399,7 +399,6 @@
     "api/ideias/2024/07/26/Cavalo_xadrez.md": "d0d1c95f23ff0d67ff0a6f212cf4d6990848f23e20876cc361db055f973b204b",
     "api/ideias/2024/07/08/Desperado.md": "3f93bdb6d69ac29c4fe475a403fae2bbcfadfbc904698513c8507afa30209f87",
     "api/ideias/2024/07/26/Gambito.md": "9281f8d3a3eaf8d145773ef8de2943edd158d54c82d1d90cdc30999196dd9731",
-    "api/ideias/2024/07/26/Peao_do_bispo.md": "7c473f32122c894e6a8abe10769eb98de48fc8adc74663895478e678fbc167b3",
     "api/ideias/2024/07/26/Modelagem_3D.md": "77e457ec7461795f968c98cbeb0cdb9189417010266575dc31d717faf26686e2",
     "api/ideias/2024/07/26/Blender.md": "cd1de6f905b51056d6a5aca8bd49635ec2e9bfd4ccf80fbe3cbae4f2efb99f25",
     "api/ideias/2024/07/19/Inteligencia_artificial.md": "31eb1343ee0216f95c3c5bcba04633b8effff5f94186538b11255d9940842cbe",
@@ -488,6 +487,10 @@
     "api/ideias/2024/07/12/Algoritmo.md": "ee7129aaae5fc7b1581007424145eaea5b1ed6230e769dd2ef51fbaabe428b1d",
     "api/ideias/2024/07/12/Administradores_de_sistemas.md": "1892667e3a36489bb81db2e93d14ebcebfa6c87c5e4ac73ae7164e0f359d67d0",
     "api/ideias/2024/07/12/Xadrez_Abertura_peão_do_rei.md": "de4c5393ac301f144837ec559b027eb0afaa2234b369c133d219f057fe7164e3",
-    "api/ideias/2024/07/12/Xadrez_Abertura_Larsen.md": "2ca862d395f438a2f7b0f085d816d6af2b3dc8c240ba8a789432e5a5de5e655d"
+    "api/ideias/2024/07/12/Xadrez_Abertura_Larsen.md": "17d6e609833a00b49fe1568d813a6bae5cb66275b525da551b57d0c26f7c1d6c",
+    "api/ideias/2024/07/12/Xadrez_Abertura_Holandesa.md": "489e23f56d0c4445d8b788b687feef0b210ec6fa6d321b4aba84fa871c4d4094",
+    "api/ideias/2024/07/12/Xadrez_Abertura_escocesa.md": "245cd1520d04e1c4d814bb77d4fafdbc862e759d0387ea900f143b15e7653377",
+    "api/ideias/2024/07/12/Xadrez_Defesa_Keres.md": "bc147e4f3b97193d4d8437745b6fbd87dc284d35bd6e056c8ebb0ad67ae30293",
+    "api/ideias/2024/07/26/Xadrez_Peao_do_bispo.md": "7c473f32122c894e6a8abe10769eb98de48fc8adc74663895478e678fbc167b3"
   }
 }
