@@ -5,12 +5,13 @@ tags:
 aliases:
   - LLM
 created_at: 2024-07-18T23:08:12-03:00
-updated_at: 2024-08-05T11:58:30-03:00
+updated_at: 2024-08-05T11:59:54-03:00
 ---
 
 Um **Large Language Model (LLM)** é um tipo de modelo de [Aprendizado_profundo](../../08/Aprendizado_profundo.md) (deep learning) que utiliza uma enorme quantidade de parâmetros e dados para gerar texto, responder perguntas e realizar tarefas de [Processamento_de_linguagem_natural](../../08/Processamento_de_linguagem_natural.md) (NLP). Eles são treinados em grandes bases de texto (geralmente publicado e disponibilizado na internet) e são capazes de entender e produzir linguagem humana com alto grau de coerência e fluência.
 
 ---
+
 ## Características Principais
 
 Utilizam bilhões ou até trilhões de parâmetros para personalizar e adaptar a resposta para a saída esperada. Eles são baseados em arquiteturas avançadas como Transformers e podem realizar tarefas complexas como tradução, resumo de texto, geração de código, entre outros. Seu maior destaque é a capacidade de generalizar conhecimento adquirido durante o treinamento para novas tarefas e contextos.
