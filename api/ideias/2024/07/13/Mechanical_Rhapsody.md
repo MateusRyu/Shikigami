@@ -1,6 +1,5 @@
 ---
 title: Mechanical Rhapsody
-created_at: 2024-07-13T16:32:16-03:00
 tags:
   - v1
 aliases:
@@ -9,10 +8,10 @@ name: Mechanical Rhapsody
 artist: 
 released_at: 
 genres: 
-updated_at: 2024-07-16T01:28:17-03:00
+created_at: 2024-07-13T16:32:11-03:00
+updated_at: 2024-08-05T12:21:06-03:00
 ---
-# Mechanical Rhapsody
----
+
 [Link oficial no Spotify](https://open.spotify.com/intl-pt/track/3lRql8S2uSXZ3qrvBIYbDY?si=f274f829228a4928) | [Link da música no Youtube](https://www.youtube.com/channel/UCCjofagQ-ZQnrhLj4hZoWZQ)
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3lRql8S2uSXZ3qrvBIYbDY?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
