@@ -1,15 +1,17 @@
 ---
-title: "Obsidian: Sintaxe"
-created_at: 2024-07-12T19:19:00-03:00
+title: Sintaxe do Obssidian
 tags:
   - v1
 aliases:
   - Sintaxe
-updated_at: 2024-07-12T19:23:13-03:00
+created_at: 2024-07-12T19:18:56-03:00
+updated_at: 2024-08-05T13:09:22-03:00
 ---
-# Sintaxe
+
+O obsidian tem uma [sintaxe](Sintaxe.md) baseado no [markdown](../../../../rascunhos/2024/07/2024-07-08-Markdown.md) e traz algumas outras extras para auxiliar na conexões dos [grafos](2024-07-12-Grafos.md).
+
 ---
-O obsidian tem uma [sintaxe](_insight/2024/07/2024-07-12-Sintaxe.md) baseado no [markdown](_draft/2024/07/2024-07-08-Markdown.md) e traz algumas outras extras para auxiliar na conexões dos [Grafos](_insight/2024/07/2024-07-12-Grafos.md).
+
 ## Sintaxe
 
 ![Cabeçalho](_draft/2024/07/2024-07-08-Markdown.md#Cabeçalho)
