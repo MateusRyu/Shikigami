@@ -1,16 +1,13 @@
 ---
 title: Abertura Benko
-created_at: 2024-07-03T23:26:46-03:00
 tags:
-  - v0
+  - v1
 aliases:
   - Abertura Benko
   - abertura Benko
   - Benko
-updated at: 2024-07-07T20:41:33-03:00
-updated_at: 2024-07-24T12:05:03-03:00
+created_at: 2024-07-26T13:21:33-03:00
+updated_at: 2024-08-05T09:15:58-03:00
 ---
-# Abertura Benko
-----
 
-É uma [aberturas de flanco](_draft/2024/07/2024-07-06-Aberturas_de_flanco.md) incomum no [xadrez](../../../sementes/2024/07/2024-07-06-Xadrez.md) e por isso é categorizada como uma [aberturas irregular](../../../sementes/2024/07/2024-07-06-Aberturas_irregulares.md) com código [ECO](../../../sementes/2024/07/2024-07-07-Encyclopaedia_of_Chess_Openings.md) `A0` na lista de [aberturas de xadrez](_draft/2024/07/2024-07-06-Aberturas_de_xadrez.md).
+É uma [abertura de flanco](../../../rascunhos/2024/07/2024-07-06-Aberturas_de_flanco.md) incomum no [xadrez](../../../sementes/2024/07/2024-07-06-Xadrez.md) e por isso é categorizada como uma [aberturas irregular](../../../sementes/2024/07/2024-07-06-Aberturas_irregulares.md) com código [ECO](../../../sementes/2024/07/2024-07-07-Encyclopaedia_of_Chess_Openings.md) `A0` na lista de [aberturas de xadrez](../../../rascunhos/2024/07/2024-07-06-Aberturas_de_xadrez.md).
