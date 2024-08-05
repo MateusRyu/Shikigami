@@ -384,12 +384,6 @@
     "api/ideias/2024/07/26/Abertura_Amar.md": "a54513d6d380f41bee8742fb9bb7068372b9b3c54fcb7d64fbc180603f165fa0",
     "api/ideias/2024/07/26/Abertura_Anderssen.md": "bf9c58083e1df10c2b937098024ea6be795def1cab824530de20f515b0e12fb7",
     "api/ideias/2024/07/26/Abertura_Barnes.md": "d9a9eb706a58dccd4af3ccaa57bf9cac1185c3936c100b1f86dec5c85df35a9d",
-    "api/ideias/2024/07/26/Abertura_Benko.md": "6113f89b01e1c1a4b4ab1d9aa2371672db40fbc137fe4e06930c17e8bfee80be",
-    "api/ideias/2024/07/26/Abertura_Clemenz.md": "63b34e99eb67f30bf4a97e36a75bcdd3aea9b2bda4f81be42a40db0799fa8d26",
-    "api/ideias/2024/07/26/Abertura_Desprez.md": "a20be30e6d6f390fe32ea6b34ede1eefd91c12a4563f523a6d8441ba05ff4b7b",
-    "api/ideias/2024/07/26/Abertura_Inglesa_contra_a_Caro_Kann.md": "dae1c00320c434ea41faad6295cc1028f0788091a2f42eba8b06dc91b9bfff53",
-    "api/ideias/2024/07/26/Abertura_Mieses.md": "6ad6218193b3029f7ea2f7400a2abbd7e6cd7339c72fc9bf50ba040a7403f794",
-    "api/ideias/2024/07/26/Abertura_Reti.md": "5e78e29328b47f834a8057274df6054be29f55cd6558c2f4d229e4bb42397171",
     "api/ideias/2024/07/05/Autodisciplina.md": "63de282bcca201b6bb7087c274b1a6b46f3970ab9a89047cba4c092747a5c2d7",
     "api/ideias/2024/07/08/Desperado.md": "3f93bdb6d69ac29c4fe475a403fae2bbcfadfbc904698513c8507afa30209f87",
     "api/ideias/2024/07/26/Modelagem_3D.md": "77e457ec7461795f968c98cbeb0cdb9189417010266575dc31d717faf26686e2",
@@ -487,10 +481,16 @@
     "api/ideias/2024/07/26/Xadrez_Peao_do_bispo.md": "7c473f32122c894e6a8abe10769eb98de48fc8adc74663895478e678fbc167b3",
     "api/ideias/2024/07/26/Xadrez_Gambito.md": "9281f8d3a3eaf8d145773ef8de2943edd158d54c82d1d90cdc30999196dd9731",
     "api/ideias/2024/07/26/Xadrez_Cavalo_xadrez.md": "d0d1c95f23ff0d67ff0a6f212cf4d6990848f23e20876cc361db055f973b204b",
-    "api/ideias/2024/07/26/Xadrez_Caro_Kann.md": "9bcf609840341738d01c62e4968fd6d25ef06f91d27fc85c60c64d2ce93f280a",
+    "api/ideias/2024/07/26/Xadrez_Caro_Kann.md": "c56d2fc729baaaf9c6a24fccfdec422ed9983bdc040b06cfa87869d6208aa491",
     "api/ideias/2024/07/26/Xadrez_Ataque_Sodio.md": "87d398fd6dda39f50616734fe096685d4d3584b0b57aa50fe784fba839344714",
     "api/ideias/2024/07/26/Xadrez_Abertura_Vant_Kruijs.md": "fb300fdde57611573f33d35fc9099b1c0c492bda93095896ff877e35622d4c55",
     "api/ideias/2024/07/26/Xadrez_Abertura_Sokolsky.md": "c36737d2059b9f052f8a20c4d46762d1575ed89fa61b4e7eb9f3518ab80f0c24",
-    "api/ideias/2024/07/26/Xadrez_Abertura_Saragoca.md": "a5539bd569a05b1a484b5f3ac788009d0e091db8f6948a4913278344bc73528d"
+    "api/ideias/2024/07/26/Xadrez_Abertura_Saragoca.md": "a5539bd569a05b1a484b5f3ac788009d0e091db8f6948a4913278344bc73528d",
+    "api/ideias/2024/07/26/Xadrez_Abertura_Reti.md": "5e78e29328b47f834a8057274df6054be29f55cd6558c2f4d229e4bb42397171",
+    "api/ideias/2024/07/26/Xadrez_Abertura_Mieses.md": "6ad6218193b3029f7ea2f7400a2abbd7e6cd7339c72fc9bf50ba040a7403f794",
+    "api/ideias/2024/07/26/Xadrez_Abertura_Inglesa_contra_a_Caro_Kann.md": "dae1c00320c434ea41faad6295cc1028f0788091a2f42eba8b06dc91b9bfff53",
+    "api/ideias/2024/07/26/Xadrez_Abertura_Desprez.md": "a20be30e6d6f390fe32ea6b34ede1eefd91c12a4563f523a6d8441ba05ff4b7b",
+    "api/ideias/2024/07/26/Xadrez_Abertura_Clemenz.md": "63b34e99eb67f30bf4a97e36a75bcdd3aea9b2bda4f81be42a40db0799fa8d26",
+    "api/ideias/2024/07/26/Xadrez_Abertura_Benko.md": "6113f89b01e1c1a4b4ab1d9aa2371672db40fbc137fe4e06930c17e8bfee80be"
   }
 }
