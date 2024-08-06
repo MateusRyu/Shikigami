@@ -1,8 +1,7 @@
 ---
 title: atomic
-created_at: 2024-07-08T15:26:53-03:00
 tags:
-  - v0
+  - v1
 aliases:
   - Atomic
   - atomic
@@ -12,7 +11,6 @@ aliases:
   - atomics
   - Atômicos
   - atômicos
-updated_at: 2024-07-08T17:33:33-03:00
----
-# atomic
+created_at: 2024-07-08T17:33:33-03:00
+updated_at: 2024-08-06T18:25:49-03:00
 ---
