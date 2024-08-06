@@ -376,11 +376,7 @@
     "api/ideias/2024/07/08/2024-07-08-Abertura_Ware.md": "80f98cebf24aa13e84fcbfc975818cd803b7568512ccc4bcf4022fcca2bdf0a8",
     "api/ideias/2024/07/08/2024-07-08-Ataque_Grob.md": "98498a87d10d73a2d43ec77942b7ffe0fbfec03de38b50459a90df5455cf1fd5",
     "api/ideias/2024/07/08/2024-07-08-Final_de_torres.md": "89673192b68c6545b008c3cc7c7290531e44e1dada9467e7728b5ab4d4659834",
-    "api/ideias/2024/07/08/2024-07-08-Peao_da_dama.md": "b7d1ad4cf593951aef4150edec9e7ea86a6e1dce99f0f4020d4a21ed363357ea",
-    "api/ideias/2024/07/08/2024-07-08-Peao_da_torre.md": "8b72ff845c04ac1ab0b4addc4a7d08ce4f36674590a9017f60e831327bab375a",
-    "api/ideias/2024/07/08/2024-07-08-Peao_do_cavalo.md": "2ea750e1d6fdf35d3b4bf3834d3a76769e285ef6e82a1cc9c7096ff7dee3bfd1",
     "api/ideias/2024/07/05/Autodisciplina.md": "63de282bcca201b6bb7087c274b1a6b46f3970ab9a89047cba4c092747a5c2d7",
-    "api/ideias/2024/07/08/Desperado.md": "3f93bdb6d69ac29c4fe475a403fae2bbcfadfbc904698513c8507afa30209f87",
     "api/ideias/2024/07/26/Modelagem_3D.md": "77e457ec7461795f968c98cbeb0cdb9189417010266575dc31d717faf26686e2",
     "api/ideias/2024/07/26/Blender.md": "cd1de6f905b51056d6a5aca8bd49635ec2e9bfd4ccf80fbe3cbae4f2efb99f25",
     "api/ideias/2024/07/19/Inteligencia_artificial.md": "31eb1343ee0216f95c3c5bcba04633b8effff5f94186538b11255d9940842cbe",
@@ -553,7 +549,17 @@
     "api/ideias/2024/07/08/Spring.md": "7e2111b2dbdcb5789076345cc72113732768296d9c0046ec6c35b41835d79fa3",
     "api/ideias/2024/07/08/Sistema_de_controle_de_versoes.md": "49e9eb08d58915114d317cc61af31530489744cda4bd786aae0e05a357d764ad",
     "api/ideias/2024/07/08/Xadrez_Roque.md": "3494cd5a6f02ae1177be1b7dc9dab24108b984f9165f4c053bc84ab9a3717f14",
-    "api/ideias/2024/07/08/Xadrez_Peao_do_Rei.md": "bac334aa9795a167f4a716e288332d12fd9ee435616d6ee2fd394a2134d3ceae",
-    "api/sementes/2024/06/2024-06-30-Shikigami.md": "10cae336fa02e9a483eb1e1386046cc63bc5e1269bf46d6bea60739053fd215d"
+    "api/ideias/2024/07/08/Xadrez_Peao_do_Rei.md": "c9bfb1325b3277ad11de2f2c03f131189f9bd97bb32649ebfef2ebfc3cd8ee43",
+    "api/sementes/2024/06/2024-06-30-Shikigami.md": "10cae336fa02e9a483eb1e1386046cc63bc5e1269bf46d6bea60739053fd215d",
+    "api/ideias/2024/07/08/Xadrez_Peao_do_cavalo.md": "422f3c2c959b475a0b92021c85e64b48ffe950899e5b1f59ce7b65371b894604",
+    "api/ideias/2024/07/08/Xadrez_Desperado.md": "3f93bdb6d69ac29c4fe475a403fae2bbcfadfbc904698513c8507afa30209f87",
+    "api/ideias/2024/07/08/Xadrez_Peao_da_torre.md": "38d15791842d66a2b9354a9c7aeb7601435effd84a5d1a82d9671c0b9ecbd41b",
+    "api/ideias/2024/07/08/Xadrez_Peao_da_dama.md": "a4e3b55ae82c4c70e60d138a4dbba1b78650ab0b4443f1b96482749fc0181ede",
+    "api/ideias/2024/07/08/Oracle.md": "fc077957310aea37b9468e33189be48de8c024951eb83ad4c9494297decd2df6",
+    "api/ideias/2024/07/08/Fonte_Nerd_Font.md": "b9cfcf21cbca004f5ace6fd51998079104e65bd5441f0a5ce8c5542352e2b4f7",
+    "api/ideias/2024/07/08/Neovim.md": "fe6a46a597f2cc58139fa6815ea0ceab084a8a5af2be4f883948ef96b229af97",
+    "api/ideias/2024/07/08/Memoria_de_longo_prazo.md": "677a620101aef6de82137c7d7b397288078e2f1cb902b2d90d7b54aeef55e9f2",
+    "api/ideias/2024/07/08/Memoria.md": "33519a9a8d61d5028328532d90131db10dcfeabf0ea8567c9c3ea68b64568f79",
+    "api/ideias/2024/07/08/luarocks.md": "7a45998f1ccdaad10a1d0eba6dd0c599e874c7159aae80a145932139735cef1f"
   }
 }
