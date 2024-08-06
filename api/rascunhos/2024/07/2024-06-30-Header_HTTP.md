@@ -1,11 +1,11 @@
 ---
+title: 2024-06-30-Header_HTTP
+tags:
+  - v1
+aliases:
+  - Header HTTP
 created_at: 2024-07-05T21:29:10-03:00
-updated_at: 2024-07-05T21:29:10-03:00
----
-
-# Header HTTP
-Access-Control-Allow-Origin
-
+updated_at: 2024-08-06T17:56:11-03:00
 ---
 
 Permitir acesso de uma porta especifica:
