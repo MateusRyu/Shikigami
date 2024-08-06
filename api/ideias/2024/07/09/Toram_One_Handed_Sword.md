@@ -1,14 +1,14 @@
 ---
 title: One-Handed Sword
-created_at: 2024-07-09T02:47:52-03:00
 tags:
-  - v0
+  - v2
 aliases:
   - One-Handed Sword
   - espada de uma mão
   - Espada de uma mão
   - OHS
-updated_at: 2024-07-10T00:04:26-03:00
+created_at: 2024-07-09T02:47:47-03:00
+updated_at: 2024-08-06T11:27:04-03:00
 ---
 # One-Handed Sword
 ---
