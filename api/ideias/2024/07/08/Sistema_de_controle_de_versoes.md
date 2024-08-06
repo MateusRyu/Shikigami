@@ -1,15 +1,13 @@
 ---
 title: Sistema de controle de versões
-created_at: 2024-07-08T16:06:39-03:00
 tags:
-  - v0
+  - v1
 aliases:
   - Sistema de controle de versões
   - sistema de controle de versões
   - SCV
   - VCS
-updated_at: 2024-07-08T17:33:33-03:00
----
-# Sistema de controle de versões
+created_at: 2024-07-08T17:33:33-03:00
+updated_at: 2024-08-06T18:00:56-03:00
 ---
 
