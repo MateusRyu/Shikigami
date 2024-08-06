@@ -1,14 +1,12 @@
 ---
 title: interface de linha de comando
-created_at: 2024-07-09T17:13:09-03:00
 tags:
-  - v0
+  - v1
 aliases:
   - interface de linha de comando
   - Interface de linha de comando
   - Command Line Interface
   - CLI
-updated_at: 2024-07-09T17:13:42-03:00
----
-# interface de linha de comando
+created_at: 2024-07-09T17:13:05-03:00
+updated_at: 2024-08-06T17:50:22-03:00
 ---
