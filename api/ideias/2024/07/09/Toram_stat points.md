@@ -1,13 +1,13 @@
 ---
 title: stat points
-created_at: 2024-07-09T23:16:08-03:00
 tags:
-  - v0
+  - v1
 aliases:
   - stat points
-updated_at: 2024-08-05T10:57:44-03:00
+created_at: 2024-07-26T13:21:33-03:00
+updated_at: 2024-08-06T11:22:40-03:00
 ---
-# stat points
----
+
+[Toram](../../../../rascunhos/2024/07/2024-07-06-Toram.md)
 
 Usado para aumentar os [status básico](../../../../sementes/2024/07/2024-07-09-Toram_Status_basico.md) do personagem do jogador.
