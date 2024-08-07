@@ -6,16 +6,16 @@ tags:
   - v0
 aliases:
   - Index
-updated_at: 2024-07-24T12:05:06-03:00
+updated_at: 2024-08-06T22:49:21-03:00
 ---
 
 - lazer:
-  - [Animes](mapas/2024-07-11-Animes.md);
-  - [Xadrez](mapas/2024-07-11-Xadrez.md)
-  - [Toram](mapas/2024-07-11-Toram.md);
+  - [Animes](api/mapas/Animes.md);
+  - [Xadrez](api/mapas/Xadrez.md)
+  - [Toram](api/mapas/Toram.md);
   - [Livros](mapas/2024-07-11-Livros.md)
 - Estudos:
-  - [Auto-desenvolvimento](mapas/2024-07-11-Auto_desenvolvimento.md);
+  - [Auto-desenvolvimento](api/mapas/Auto_desenvolvimento.md);
   - [Desenvolvimento de software](mapas/2024-07-11-Desenvolvimento_de_software.md);
   - [Oracle Next Education](mapas/2024-07-11-Oracle_Next_Education.md);
   - [Psicologia](mapas/2024-07-11-Psicologia.md)
