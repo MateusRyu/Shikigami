@@ -1,16 +1,15 @@
 ---
 title: Correlação entre Taoismo e Tipologia Junguiana
-created_at: 2024-07-10T21:07:59-03:00
 tags:
-  - v0
+  - v1
 aliases:
   - Correlação entre Taoismo e Tipologia Junguiana
-updated_at: 2024-07-10T23:46:54-03:00
----
-# Correlação entre Taoismo e Tipologia Junguiana
+created_at: 2024-07-10T21:07:08-03:00
+updated_at: 2024-08-06T23:08:25-03:00
 ---
 
-[Taoismo](_insight/2024/07/2024-07-10-Taoismo.md)
+[Taoismo](../../../ideias/2024/07/10/Taoismo.md)
+
 Considerar a perspectiva da psique. Portanto, a introversão cria cognição e a extroversão atribui gnose ao mundo e por isso o mundo externo é passivo em relação ao sujeito. Temperamento se relaciona a pessoalidade e à impessoalidade, o que é pessoal é expansivo e o impessoal é receptivo
 
 Stack:
@@ -24,7 +23,7 @@ Stack:
 	- J (+)
 	- P (-)
 
-| [Tipos psicológicos](_insight/2024/07/2024-07-10-Tipos_psicologicos.md) | [Trigramas](_insight/2024/07/2024-07-10-Trigramas.md) |
+| [Tipos psicológicos](../../../ideias/2024/07/10/Psicologia_Tipos_psicologicos.md) | [Trigramas](../../../ideias/2024/07/10/Taoismo_Trigramas.md) |
 | ------------------------------------------------------ | ------------------------------------ |
 | Fi                                                     | Céu                                  |
 | Fe                                                     | Lago                                 |
