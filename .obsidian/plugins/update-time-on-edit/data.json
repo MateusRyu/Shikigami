@@ -530,8 +530,7 @@
     "api/ideias/2024/07/09/Linguagem_Perl.md": "88e0bfb4efaa66be3b5724fda86547e8b93e101f272bed63c11dd1d5de18abb1",
     "api/ideias/2024/07/09/GPU.md": "769a90ed25059abddb12cc95cb167db23d82384be00f52d7c97fa45b04c302ae",
     "api/ideias/2024/07/09/CLI.md": "ad0d254c0634f6c9094e569ba13ea336ae732e298f804f02c7aa044f13d98d80",
-    "api/ideias/2024/07/08/HTTP.md": "bb373f84c7986a1abe60808a890c036fe16947247dd74fb28a326d4170ee517e",
-    "api/rascunhos/2024/07/2024-06-30-Header_HTTP.md": "4a7cb10fdf4d31f4394e2c81ae0b8a029e4de860211a9b26af0fdaa0b4afbaa5",
+    "api/ideias/2024/07/08/HTTP.md": "21fafc746b8bfb5155aa4304b8722bf556bcb1bc9c8cb9ec324d81f32724c334",
     "api/ideias/2024/07/08/Vim.md": "4a4f0249d09fe935ffc27ea74a0b2187fd96909f9a28204cc7081edff476ba3c",
     "api/ideias/2024/07/08/ssh_agent.md": "1bd11983ab1f713c5c8b7dee6b371ca90a13199e683c25d9ab73c9bbf8e2eed4",
     "api/ideias/2024/07/08/Sistema_de_controle_de_versoes.md": "49e9eb08d58915114d317cc61af31530489744cda4bd786aae0e05a357d764ad",
@@ -587,7 +586,7 @@
     "api/ideias/2024/07/07/Raciocinio_logico.md": "5ca5e084ecac2b454abea042b537f01b9c6e8a78a7ae503450c44e57d2821b84",
     "api/ideias/2024/07/07/Planejamento_estrategico.md": "80948206503822de7a48ff097f9601972a72c72d341fbf7bca092e9de174f182",
     "api/ideias/2024/07/07/MMORPG.md": "82e2bca59e42a695d8500e636eb74a1b24b9542efcc78b6d9bddbf5767f199e0",
-    "api/rascunhos/2024/07/Toram.md": "cba795d004bc614a17fda39b9ae15ccfb589699ee820d220172bafc58337d791",
+    "api/rascunhos/2024/07/Toram.md": "3232a502d0a1e0abe70b1a946ce882ec56b91fe412e7df46417859ce072fdbb3",
     "api/ideias/2024/07/07/Microsoft.md": "c1315ef0b618183c893ddd62d0d1d5a82b4cbe0aff301b964601ef05c13ba375",
     "api/ideias/2024/07/07/Metodos_de_estudo.md": "3c25186c9bc73252fa914860d08abbec36b02b42ea86f0b33b6f8f9719e73d2b",
     "api/ideias/2024/07/07/LaTeX.md": "0ed7aa0f5a8e6247399aac9b1e06e89a3abf5e91f6cd49701c386719a28d3300",
@@ -619,6 +618,10 @@
     "api/ideias/2024/07/Oracle_Next_Education.md": "3ed86bcbfa3efe48cf367d0ffaac10c9cb7f9a1987fa9c9bff7ca42bf4fe1e8b",
     "api/mapas/Livros.md": "02e6e849ef110d2d67eb23b48ff3243dd24c18940937e3a785bdbfbfd7a050ce",
     "api/mapas/Habilidades.md": "dc0cf2487038af9e47ca6536519a72f8d9ccf71db89fd7d237e9fe8e37f04750",
-    "api/mapas/Desenvolvimento_de_software.md": "eed15e49fb8b0c4203cc3f5a66991c47f9c70fbc432f21e49d7aab7bcbcb26ee"
+    "api/mapas/Desenvolvimento_de_software.md": "f07c194259b37f12c68d16e64ede5f23364bbf1a70ec40fe32d44001d5299bbb",
+    "api/rascunhos/2024/06/Complexo.md": "f0e7f553a5e4d0e7e7bcd1b27753e454652f4cbf14145d58e8d46ee71517f8a9",
+    "api/rascunhos/2024/06/Git.md": "d0e79162ed078f1c421d8811eb0337aaf3d9131969ef80a463c89334d8161058",
+    "api/rascunhos/2024/07/Header_HTTP.md": "4a7cb10fdf4d31f4394e2c81ae0b8a029e4de860211a9b26af0fdaa0b4afbaa5",
+    "api/rascunhos/2024/07/Usabilidade.md": "56c3b0d6a7f7dc84db48304f3d34a0b08d95468c8231d9a2f71498ab5c051a77"
   }
 }
