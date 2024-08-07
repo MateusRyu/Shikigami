@@ -1,13 +1,11 @@
 ---
 title: Dataview (Obsidian)
-created_at: 2024-07-05T21:47:59-03:00
 tags:
-  - v0
+  - v1
 aliases: Dataview
-updated_at: 2024-07-24T12:05:02-03:00
+created_at: 2024-07-26T13:21:33-03:00
+updated_at: 2024-08-07T16:43:08-03:00
 ---
-# Dataview (Obsidian)
-----
 
 Dataview é um plugin do [Obsidian](../../../sementes/2024/06/2024-06-30-Obsidian.md) para consulta de documentos e seus metadados.
 

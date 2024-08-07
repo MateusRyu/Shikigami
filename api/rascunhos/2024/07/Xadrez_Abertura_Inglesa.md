@@ -1,8 +1,7 @@
 ---
 title: Abertura Inglesa
-created_at: 2024-07-05T21:42:15-03:00
 tags:
-  - v0
+  - v1
 aliases:
   - Abertura Inglesa
   - Inglesa
@@ -10,20 +9,20 @@ aliases:
   - inglesa
   - Siciliana reversa
   - siciliana reversa
-updated_at: 2024-07-24T12:05:02-03:00
+created_at: 2024-07-26T13:21:33-03:00
+updated_at: 2024-08-07T16:50:00-03:00
 ---
-# Abertura Inglesa
----
-[2024-07-06-Xadrez](../../../sementes/2024/07/2024-07-06-Xadrez.md)
-[2024-07-06-Aberturas_de_xadrez](_draft/2024/07/2024-07-06-Aberturas_de_xadrez.md)
+
+[Xadrez](../../../sementes/2024/07/2024-07-06-Xadrez.md)
+[Aberturas de xadrez](Xadrez_Aberturas.md)
 ## Lista de linhas documentados
 - (`A10`) `1.c4` (sem: `1...e5`, `1...c5`, `1...e6`, `1...c6`, `1...Nf6`, `1...g6 2.d4`, `1...f5 2.d4`, `1...b6 2.d4`, `1...d6 2.e4`, `1...d6 2.d4`, `1...Nc6 2.d4`);
--  Contra a  [2024-07-05-Caro_Kann](_insight/2024/07/2024-07-05-Caro_Kann.md): ![2024-07-05-Caro_Kann](_insight/2024/07/2024-07-05-Caro_Kann.md#^lista-de-linhas-contra-abertura-inglesa)
--  (`A13`) [2024-07-05-Abertura_Inglesa](_draft/2024/07/2024-07-05-Abertura_Inglesa.md): `1.c4 e6` (sem: `2.e4`, `2.d4`);
-	-  (`A14`) [2024-07-05-Abertura_Inglesa](_draft/2024/07/2024-07-05-Abertura_Inglesa.md), [2024-07-12-Neo_Catalao_recusado](_insight/2024/07/2024-07-12-Neo_Catalao_recusado.md): `1.c4 e6 2.Nf3 d5 3.g3 Nf6 4.Bg2 Be7`;
--  (`A15`) [2024-07-05-Abertura_Inglesa](_draft/2024/07/2024-07-05-Abertura_Inglesa.md), [2024-07-12-Defesa_Anglo_Indiano](_insight/2024/07/2024-07-12-Defesa_Anglo_Indiano.md): `1.c4 Nf6` (sem: `2.Nc3`, `2.d4`, `2.g3 c6`, `2.g3 e5`, `2.Nf3 c5`, `2.Nf3 e6`, `2.Nf3 c6`);
-	-  (`A16`) [2024-07-05-Abertura_Inglesa](_draft/2024/07/2024-07-05-Abertura_Inglesa.md), [2024-07-12-Defesa_Anglo_Indiano](_insight/2024/07/2024-07-12-Defesa_Anglo_Indiano.md): `1.c4 Nf6 2.Nc3` (sem: `2...c5`, `2...e5`, `2...e6`);
-- (`A17`) [2024-07-05-Abertura_Inglesa](_draft/2024/07/2024-07-05-Abertura_Inglesa.md), [2024-07-12-Defesa_ourico](_insight/2024/07/2024-07-12-Defesa_ourico.md): `1.c4 Nf6 2.Nc3 e6` (sem: `3.e4`, `3.d4`, `3.Nf3 c5`, `3...d5 4.d4`, `3...b5 4.d4`, `3...Bb4 4.d4`);
+-  Contra a [Caro-Kann](../../../ideias/2024/07/26/Xadrez_Caro_Kann.md): ![2024-07-05-Caro_Kann](../../../ideias/2024/07/26/Xadrez_Caro_Kann.md#Linhas%20contra%20a%20abertura%20inglesa)
+-  (`A13`) [Abertura Inglesa](Xadrez_Abertura_Inglesa.md): `1.c4 e6` (sem: `2.e4`, `2.d4`);
+	-  (`A14`) [Abertura Inglesa](Xadrez_Abertura_Inglesa.md), [Neo-Catalão recusado](../../../ideias/2024/07/12/Neo_Catalao_recusado.md): `1.c4 e6 2.Nf3 d5 3.g3 Nf6 4.Bg2 Be7`;
+-  (`A15`) [Abertura Inglesa](Xadrez_Abertura_Inglesa.md), [Defesa Anglo-Indiano](../../../ideias/2024/07/12/Xadrez_Defesa_Anglo_Indiano.md): `1.c4 Nf6` (sem: `2.Nc3`, `2.d4`, `2.g3 c6`, `2.g3 e5`, `2.Nf3 c5`, `2.Nf3 e6`, `2.Nf3 c6`);
+	-  (`A16`) [Abertura Inglesa](Xadrez_Abertura_Inglesa.md), [Defesa Anglo-Indiano](../../../ideias/2024/07/12/Xadrez_Defesa_Anglo_Indiano.md): `1.c4 Nf6 2.Nc3` (sem: `2...c5`, `2...e5`, `2...e6`);
+- (`A17`) [Abertura Inglesa](Xadrez_Abertura_Inglesa.md), [Defesa ouriço](../../../ideias/2024/07/12/Xadrez_Defesa_ourico.md): `1.c4 Nf6 2.Nc3 e6` (sem: `3.e4`, `3.d4`, `3.Nf3 c5`, `3...d5 4.d4`, `3...b5 4.d4`, `3...Bb4 4.d4`);
 - (`A18`) [2024-07-05-Abertura_Inglesa](_draft/2024/07/2024-07-05-Abertura_Inglesa.md), [Variante Mikenas-Carls](_insight/2024/07/2024-07-12-Xadrez_Mikenas_Carls.md): `1.c4 Nf6 2.Nc3 e6 3.e4` (sem: `3...c5`);
 	- (`A19`) [2024-07-05-Abertura_Inglesa](_draft/2024/07/2024-07-05-Abertura_Inglesa.md), [2024-07-12-Xadrez_Mikenas_Carls](_insight/2024/07/2024-07-12-Xadrez_Mikenas_Carls.md), Variante [Siciliana](Defesa Siciliana): `1.c4 Nf6 2.Nc3 e6 3.e4 c5`;
 -  (`A20`) [2024-07-05-Abertura_Inglesa](_draft/2024/07/2024-07-05-Abertura_Inglesa.md): `1.c4 e5` (sem:` 2.e4`, `2.Nc3`, `2.Nf3 Nc6 3.Nc3`, `2.Nf3 Nf6 3.Nc3`, `2.Nf3 d6 3.Nc3`);
