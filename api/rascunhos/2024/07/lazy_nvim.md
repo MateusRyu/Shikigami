@@ -1,15 +1,12 @@
 ---
 title: lazy.nvim
-created_at: 2024-07-08T14:38:27-03:00
 tags:
-  - v0
+  - v1
 aliases:
   - lazy.nvim
-updated_at: 2024-07-09T03:04:31-03:00
+created_at: 2024-07-08T17:33:33-03:00
+updated_at: 2024-08-06T23:34:47-03:00
 ---
-# lazy.nvim
----
-
 ## Features
 
 - Manage all your Neovim plugins with a powerful UI
@@ -27,15 +24,15 @@ updated_at: 2024-07-09T03:04:31-03:00
 - Lockfile `lazy-lock.json` to keep track of installed plugins
 - Automatically check for updates
 - Commit, branch, tag, version, and full [Semver](https://devhints.io/semver) support
-- [Statusline](_insight/2024/07/2024-07-08-Statusline.md) component to see the number of pending updates
-- Automatically lazy-loads [colorschemes](_insight/2024/07/2024-07-08-colorschemes.md)
+- [Statusline](Statusline) component to see the number of pending updates
+- Automatically lazy-loads [[colorschemes]]
 
 ## Requirements
 ---
-- [Neovim](_insight/2024/07/2024-07-08-Neovim.md) >= **0.8.0** (needs to be built with [LuaJIT](_insight/2024/07/2024-07-08-LuaJIT.md))
-- [Git](_draft/2024/06/2024-06-30-Git.md) >= **2.19.0** (for partial clones support)
-- [Nerd Font](_insight/2024/07/2024-07-08-Nerd_Font.md) **_(opcional)_**
-- [luarocks](_insight/2024/07/2024-07-08-luarocks.md) to install [rockspecs](_insight/2024/07/2024-07-08-rockspecs.md).
+- [Neovim](../../../ideias/2024/07/08/Neovim.md) >= **0.8.0** (needs to be built with [LuaJIT](../../../ideias/2024/07/08/LuaJIT.md))
+- [Git](../06/Git.md) >= **2.19.0** (for partial clones support)
+-  [Nerd Font](../../../ideias/2024/07/08/Fonte_Nerd_Font.md) **_(opcional)_**
+- [luarocks](../../../ideias/2024/07/08/luarocks.md) to install [[rockspecs]].
   You can remove `rockspec` from `opts.pkg.sources` to disable this feature.
 
 ## Referencias

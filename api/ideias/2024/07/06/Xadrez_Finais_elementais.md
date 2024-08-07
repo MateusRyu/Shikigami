@@ -10,7 +10,7 @@ aliases:
   - final
   - Final
 created_at: 2024-07-26T13:21:33-03:00
-updated_at: 2024-08-06T18:48:30-03:00
+updated_at: 2024-08-06T23:42:31-03:00
 ---
 
 ## Finais elementais
@@ -19,5 +19,5 @@ Os finais elementares no [xadrez](../../../../sementes/2024/07/2024-07-06-Xadrez
 
 ## Lista de finais elementais
 ---
-- [Final de peão](../../../../rascunhos/2024/07/2024-07-08-Final_de_peao.md);
+- [Final de peão](../../../../rascunhos/2024/07/Xadrez_Final_de_peao.md);
 - [Final de torres](../08/Xadrez_Final_de_torres.md);
