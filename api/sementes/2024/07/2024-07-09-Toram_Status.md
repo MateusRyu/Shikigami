@@ -6,7 +6,7 @@ tags:
 aliases:
   - Status
   - status
-updated_at: 2024-07-26T18:54:42-03:00
+updated_at: 2024-08-06T23:53:15-03:00
 ---
 # Status
 ---
@@ -48,13 +48,13 @@ Alguns status já são valores percentuais (exemplo: [Guard Rate](_insight/2024/
 Alguns status dependem de outros status, então é necessario um calculo na ordem certa! Por exemplo, [Critical Damage](_insight/2024/07/2024-07-09-Toram_Critical_Damage.md) é calculado baseado no [STR](2024-07-09-Toram_STR.md), então será necessario calcular o [STR](2024-07-09-Toram_STR.md) primeiro par poder usar no calculo do [Critical Damage](_insight/2024/07/2024-07-09-Toram_Critical_Damage.md).  
 
 Para fins didáticos, os jogadores separaram os status em algumas categorias:
-1. [Status básico](2024-07-09-Toram_Status_basico.md): Aqueles que podem ser adicionados ao aumentar de level;
+1. [Status básico](Toram_Status_basico.md): Aqueles que podem ser adicionados ao aumentar de level;
 2. [Status de equipamento](_insight/2024/07/2024-07-09-Toram_Status_de_equipamento.md): ATK da arma, Equipment DEF, Weapon Stability, Refinement Resistance
-3. [Status derivados](_insight/2024/07/2024-07-09-Toram_Status_derivados.md): Status que se derivam dos [Status básicos](2024-07-09-Toram_Status_basico.md).
+3. [Status derivados](_insight/2024/07/2024-07-09-Toram_Status_derivados.md): Status que se derivam dos [Status básicos](Toram_Status_basico.md).
 4. [Status não-derivados](_insight/2024/07/2024-07-09-Toram_Status%20não-derivados.md): Aqueles obtidos exclusivamente de equipamentos ou habilidade.
 5. [Status Especial](_insight/2024/07/2024-07-09-Toram_Status_Especial.md): Status que não se encaixam nas classificações anteriores.
 
-Por exemplo, digamos que queremos calcular o valor de [ATK](_insight/2024/07/2024-07-09-Toram_ATK.md) para o usuário da [Espada de uma mão](_insight/2024/07/2024-07-12-Espada_de_uma_mão.md). Este status é baseada em ([Status básicos](2024-07-09-Toram_Status_basico.md)) [STR](2024-07-09-Toram_STR.md) e [DEX](_insight/2024/07/2024-07-09-Toram_DEX.md) e ([Status de equipamento](_insight/2024/07/2024-07-09-Toram_Status_de_equipamento.md)) [ATK](_insight/2024/07/2024-07-09-Toram_ATK.md). Portanto os passos serão os seguintes:
+Por exemplo, digamos que queremos calcular o valor de [ATK](_insight/2024/07/2024-07-09-Toram_ATK.md) para o usuário da [Espada de uma mão](_insight/2024/07/2024-07-12-Espada_de_uma_mão.md). Este status é baseada em ([Status básicos](Toram_Status_basico.md)) [STR](2024-07-09-Toram_STR.md) e [DEX](_insight/2024/07/2024-07-09-Toram_DEX.md) e ([Status de equipamento](_insight/2024/07/2024-07-09-Toram_Status_de_equipamento.md)) [ATK](_insight/2024/07/2024-07-09-Toram_ATK.md). Portanto os passos serão os seguintes:
 1. Pegue [STR](2024-07-09-Toram_STR.md) e [DEX](_insight/2024/07/2024-07-09-Toram_DEX.md) originais. Aplique o modificador [STR](2024-07-09-Toram_STR.md)% e [DEX](_insight/2024/07/2024-07-09-Toram_DEX.md)% a eles.
 2. Aplique o modificador plano [STR](2024-07-09-Toram_STR.md)+ e [DEX](_insight/2024/07/2024-07-09-Toram_DEX.md)+ ao resultado de (1), obtemos [STR](2024-07-09-Toram_STR.md) final e [DEX](_insight/2024/07/2024-07-09-Toram_DEX.md) final.
 3. Pegue o [ATK](_insight/2024/07/2024-07-09-Toram_ATK.md) da arma e calcule seu bônus de refinamento.

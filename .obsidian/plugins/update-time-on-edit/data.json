@@ -500,7 +500,7 @@
     "api/ideias/2024/07/09/Toram_Status_derivados.md": "91677e38fb5004fac8ea750feb539584437452aa45be904154336827b0ac8aca",
     "api/ideias/2024/07/09/Toram_Status_de_equipamento.md": "9d0114eff69507a68ce24b7f41819c1712332223b3a3e2c2207e5360c80b97ac",
     "api/ideias/2024/07/09/Toram_Status não-derivados.md": "d675f36a363c34f4a005ea4e0d11bbaf54989fba5f2370bfa36a3fed9c2ffa1a",
-    "api/ideias/2024/07/09/Toram_stat points.md": "835b13c91b402d4fe24022585599ef184c4cc5932f4efbf0f4f89a07e7248314",
+    "api/ideias/2024/07/09/Toram_stat points.md": "1a1006fbc3b1b91a1d1ff7fd378174a1a5909239a598267123d3deb68da47732",
     "api/ideias/2024/07/09/Toram_Staff.md": "eaa234719c60b5924733d4d597aef2278ac1dc87fd0bede86bbbfc2c5363aa9c",
     "api/ideias/2024/07/09/Toram_One_Handed_Sword.md": "58cc3e024e82ca558ed7f3427e1d60f91617f7d5b751d47087a0f64b99cd7080",
     "api/ideias/2024/07/09/Toram_MTL.md": "20534a85e9dd1a9b9c6f4e78c10e4be9a458c66b39ff04a66f91246c7a0f8a1f",
@@ -639,12 +639,17 @@
     "Statusline.md": "7766d99d112f6c9672f9a6ed087621145b3b97d9983d18d2e1ed8c496997ed1e",
     "api/rascunhos/2024/07/Anime_Kuuchuu_Buranko.md": "55c44253ba87268cd61b37c71b8e1f9864fa174515d504c82849bac3eec0d6ea",
     "api/rascunhos/2024/07/HyperText_Markup_Language.md": "c24a3ebc81409474886763e1f5193648f4d62f390c528435b0cd6f8395b27806",
-    "api/rascunhos/2024/07/Xadrez_Gambito_Englund.md": "b6b624de6cd7a6473fc891523f2dd133207add9f6dbf6fbabcba2da5c5d87093",
+    "api/rascunhos/2024/07/Xadrez_Gambito_Englund.md": "6177e1ea5bf94f56e9c97d5c65b9b3a17f7c8644463d695958434ae5ef51d665",
     "api/rascunhos/2024/07/Xadrez_Gambito_do_rei.md": "3a03a8bcffa0beb45f0cd1ae1eaef82ea91d52cf60efe9fb234c8f5186c05744",
     "api/rascunhos/2024/07/Xadrez_Final_de_peao.md": "2fd43dbbcac09bd0922780c05ec62f02544a67eb1f4b30fc7e8a6a911d80e07c",
     "api/ideias/2024/07/26/Xadrez_Cavalo.md": "f4e0471591a83c194e4e3fb80670ff66e2015b7e630ca7b644625ff3a259a58b",
     "api/rascunhos/2024/07/Anime.md": "fa633a8f3fbe280f4a3652c24a935ec8109225bffc5163d1278ac6fb60cab901",
     "api/rascunhos/2024/07/Xadrez_Defesa_Nimzowitsch.md": "de57a5529c84ecc50cdbb4cae3a626d46e156ccbc1d90fac424995bab9b84699",
-    "api/rascunhos/2024/07/Xadrez_Abertura_Van_Geet.md": "c669095d8f11947376c9c0827130a61d3996e7b1a0fa381af29c4cc107c33a0d"
+    "api/rascunhos/2024/07/Xadrez_Abertura_Van_Geet.md": "c669095d8f11947376c9c0827130a61d3996e7b1a0fa381af29c4cc107c33a0d",
+    "api/sementes/2024/07/Toram_Status_basico.md": "f1ed9a84b5eaf3ff2276fc0b5cc9e2c51ab59e4aa3b4dd8b37b1e068a1f4ec57",
+    "api/sementes/2024/07/2024-07-09-Toram_INT.md": "2bedfab659976bcd857c307005b17733a6b800ff8353927f432df4b2274240ba",
+    "api/sementes/2024/07/2024-07-09-Toram_STR.md": "e10bfb7a67e9e1307458751fef7fb3a3f13eb8b9a116f52247d4e786d70c4752",
+    "api/sementes/2024/07/2024-07-09-Toram_Status.md": "9f142ecfbe0db0ecf61cee57775dc39ac1d9afece5888b66b7639b1a924aa21c",
+    "api/rascunhos/2024/07/Xadrez_Abertura_de_Peao_da_Dama.md": "20b2b741352f8882ba90c032f84c9c5bfb6d82b416f3df944d53e147a99e1d3e"
   }
 }
