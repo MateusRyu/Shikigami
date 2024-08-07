@@ -10,7 +10,7 @@ aliases:
   - Siciliana reversa
   - siciliana reversa
 created_at: 2024-07-26T13:21:33-03:00
-updated_at: 2024-08-07T16:50:00-03:00
+updated_at: 2024-08-07T16:52:11-03:00
 ---
 
 [Xadrez](../../../sementes/2024/07/2024-07-06-Xadrez.md)
@@ -23,7 +23,7 @@ updated_at: 2024-08-07T16:50:00-03:00
 -  (`A15`) [Abertura Inglesa](Xadrez_Abertura_Inglesa.md), [Defesa Anglo-Indiano](../../../ideias/2024/07/12/Xadrez_Defesa_Anglo_Indiano.md): `1.c4 Nf6` (sem: `2.Nc3`, `2.d4`, `2.g3 c6`, `2.g3 e5`, `2.Nf3 c5`, `2.Nf3 e6`, `2.Nf3 c6`);
 	-  (`A16`) [Abertura Inglesa](Xadrez_Abertura_Inglesa.md), [Defesa Anglo-Indiano](../../../ideias/2024/07/12/Xadrez_Defesa_Anglo_Indiano.md): `1.c4 Nf6 2.Nc3` (sem: `2...c5`, `2...e5`, `2...e6`);
 - (`A17`) [Abertura Inglesa](Xadrez_Abertura_Inglesa.md), [Defesa ouriço](../../../ideias/2024/07/12/Xadrez_Defesa_ourico.md): `1.c4 Nf6 2.Nc3 e6` (sem: `3.e4`, `3.d4`, `3.Nf3 c5`, `3...d5 4.d4`, `3...b5 4.d4`, `3...Bb4 4.d4`);
-- (`A18`) [2024-07-05-Abertura_Inglesa](_draft/2024/07/2024-07-05-Abertura_Inglesa.md), [Variante Mikenas-Carls](_insight/2024/07/2024-07-12-Xadrez_Mikenas_Carls.md): `1.c4 Nf6 2.Nc3 e6 3.e4` (sem: `3...c5`);
+- (`A18`) [Abertura Inglesa](Xadrez_Abertura_Inglesa.md), [Variante Mikenas-Carls](_insight/2024/07/2024-07-12-Xadrez_Mikenas_Carls.md): `1.c4 Nf6 2.Nc3 e6 3.e4` (sem: `3...c5`);
 	- (`A19`) [2024-07-05-Abertura_Inglesa](_draft/2024/07/2024-07-05-Abertura_Inglesa.md), [2024-07-12-Xadrez_Mikenas_Carls](_insight/2024/07/2024-07-12-Xadrez_Mikenas_Carls.md), Variante [Siciliana](Defesa Siciliana): `1.c4 Nf6 2.Nc3 e6 3.e4 c5`;
 -  (`A20`) [2024-07-05-Abertura_Inglesa](_draft/2024/07/2024-07-05-Abertura_Inglesa.md): `1.c4 e5` (sem:` 2.e4`, `2.Nc3`, `2.Nf3 Nc6 3.Nc3`, `2.Nf3 Nf6 3.Nc3`, `2.Nf3 d6 3.Nc3`);
 	-  (`A21`) [2024-07-05-Abertura_Inglesa](_draft/2024/07/2024-07-05-Abertura_Inglesa.md): `1.c4 e5 2.Nc3` (sem: `2...Nf6`, `2...Nc6`, `2...Bb4 3.g3 Nf6`, `2...Bb4 3.Nf3 Nc6`, `2...Bb4 3.e3 Nf6`);
