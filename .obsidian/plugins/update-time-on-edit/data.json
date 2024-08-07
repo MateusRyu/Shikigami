@@ -25,7 +25,7 @@
     "mapas/2024-07-11-Desenvolvimento_de_software.md": "9fe3336b0e3293ce17c6d2ffef2f343ac23b11e859174f0855389f75750767ad",
     "mapas/2024-07-11-Auto_desenvolvimento.md": "32cae0ae5105b480d557c9cf218b8349c192b17499e21e40d38baa9817e6e30a",
     "mapas/2024-07-11-Animes.md": "9ed11d568955a6ca7f0392a9c38f0b72d27bc2ec5bd1ce9aaa686772ceb1cf7c",
-    "index.md": "ccbe5204bbda66752acd541835aee60198f62cc16cfef6d14afde43e2a85b309",
+    "index.md": "427282f5a1d9390837181fa70247d13f85f2106931eabfab069d7ff02bd123e6",
     "_draft/2024/07/2024-07-10-asdf.md": "e161464812a2471c57f0ece03e9b44406173ea62aec7d14c4a2cd71cda291355",
     "_draft/2024/07/2024-07-10-Taoismo_Tipologia_Junguiana.md": "c324783ed5be9eb8a230e15efdb2af6229a8c6250d8d0d0416e9eba53b92f462",
     "_draft/2024/07/2024-07-10-Usabilidade.md": "ddf08ac442bd435b958d40781de3500ae757635f871bac39a2e86518abf3ece7",
@@ -358,7 +358,7 @@
     "_posts/2024-07-25-Blender.md": "519ebf7e1513b9cae28327e531b1eb3d13d24163f7f16aaace09bce6b6e65f74",
     "__private/6c84cc03-8933-47bb-8246-6a520e701675.md": "a11a262e000464e644affb1c77d653dff9a2919c867ee2e8cf102bbc7d5332cb",
     "_posts/2024-07-30.md": "f564f408477e88e4e5e1c81a3f876a48853b7febc74dcbdebe239191b18279a5",
-    "_posts/2024/07/2024-07-08-lazy.md": "d18d434236edc6119d50a951ef683d1a1450ae7e20ca5ae9bf0457af17027690",
+    "_posts/2024/07/2024-07-08-lazy.md": "5bf27ea486fda398b5637ed5e71b55e63b3847d253522998c16ca22acad30528",
     "__private/Quero ser Intelitrader.md": "7cd446b0defeafc6e744b20852994e1031197e87f837310697f41447932b222e",
     "__private/0b2b623c-262c-4646-82bf-9a8417771fcb.md": "a6a6692ed9292e553d87f11446d8a2100d72afd4bff7b0dfe54434635f96f341",
     "Chuva no meu coração.md": "6a3f228bfc4e11635723347a361e1c9b9fae2c05ec2dbd57dc792f28e436bde8",
@@ -610,10 +610,15 @@
     "api/ideias/2024/07/07/Xadrez_Aberturas_abertas.md": "cf39dbff02f974ffa1f6ba40f2ba7e87f9e9ee2626f6a4a3b24226281e30c25c",
     "api/mapas/Animes.md": "08a1befe74e0f6c2e197ac411c2e9c3c312f77b7dd5e077fe56dda923ec7fc83",
     "api/mapas/Auto_desenvolvimento.md": "c954f184cd67ec50fbc8b7331938f168d2f44a789eb9248b8288ca225afa7700",
-    "api/mapas/2024-07-11-Desenvolvimento_de_software.md": "c14eefcb392fff1a8ef7d9e27fed1f230f98dbcfb53ceacffdb689e30cb7328d",
     "api/rascunhos/2024/07/2024-07-08-Psicologia.md": "f6980392fa1fe5819953353250278d3891536e29cafd992927972d0c86905508",
-    "api/mapas/Meu_Computador.md": "592dcec2d90eca933cc7748683eef56728a793ff62d6c1ce03a06b1bceebca32",
+    "api/mapas/Meu_Computador.md": "012c5ff0307057a6174669178dbfc50291ee8c2d7677248228fb012a394611f7",
     "api/mapas/Xadrez.md": "afaf75fc511acbe5c65948d8ee74d666eccc7c4610b4f756afb8f02bae9fd381",
-    "api/mapas/Toram.md": "7435492ccdd9a0235feb0020a2036913d7f10386afff6a47273372200d12dabe"
+    "api/mapas/Toram.md": "7435492ccdd9a0235feb0020a2036913d7f10386afff6a47273372200d12dabe",
+    "Archcraft.md": "864c9756416122ffd4ac983133f9b1176074884b2e113a2a8a34a9fea676db5d",
+    "api/mapas/Psicologia.md": "52d3cded8c58feaad310a8b5987076719df5cb68ad2237051c4c857873779749",
+    "api/ideias/2024/07/Oracle_Next_Education.md": "3ed86bcbfa3efe48cf367d0ffaac10c9cb7f9a1987fa9c9bff7ca42bf4fe1e8b",
+    "api/mapas/Livros.md": "02e6e849ef110d2d67eb23b48ff3243dd24c18940937e3a785bdbfbfd7a050ce",
+    "api/mapas/Habilidades.md": "dc0cf2487038af9e47ca6536519a72f8d9ccf71db89fd7d237e9fe8e37f04750",
+    "api/mapas/Desenvolvimento_de_software.md": "eed15e49fb8b0c4203cc3f5a66991c47f9c70fbc432f21e49d7aab7bcbcb26ee"
   }
 }
