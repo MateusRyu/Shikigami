@@ -1,6 +1,11 @@
 ---
-created_at: 2024-08-01T02:38:15-03:00
-updated_at: 2024-08-01T02:43:36-03:00
+title: Chuva no meu coração
+tags:
+  - v1
+aliases:
+  - Chuva no meu coração
+created_at: 2024-08-04T04:03:00-03:00
+updated_at: 2024-08-08T12:51:01-03:00
 ---
 
 Chuva no meu coração.
