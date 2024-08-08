@@ -6,7 +6,7 @@ aliases:
   - Planejamento estratégico
   - planejamento estratégico
 created_at: 2024-07-26T13:21:33-03:00
-updated_at: 2024-08-06T22:37:06-03:00
+updated_at: 2024-08-07T17:44:47-03:00
 ---
 
-[[../../../../sementes/2024/07/2024-07-12-Habilidade|habilidade]]
+[[../../../../sementes/2024/07/12/2024-07-12-Habilidade|habilidade]]

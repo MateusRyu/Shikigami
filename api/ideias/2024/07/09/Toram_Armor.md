@@ -5,7 +5,7 @@ tags:
 aliases:
   - Armor
 created_at: 2024-07-09T03:02:25-03:00
-updated_at: 2024-08-06T22:39:08-03:00
+updated_at: 2024-08-07T17:33:53-03:00
 ---
 
-[Toram](../../../../rascunhos/2024/07/Toram.md)
+[Toram](../../../../rascunhos/2024/07/26/Toram.md)

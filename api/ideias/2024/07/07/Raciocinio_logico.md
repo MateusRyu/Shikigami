@@ -6,7 +6,7 @@ aliases:
   - Raciocínio lógico
   - raciocínio lógico
 created_at: 2024-07-26T13:21:33-03:00
-updated_at: 2024-08-06T22:36:45-03:00
+updated_at: 2024-08-07T17:43:16-03:00
 ---
 
-[habilidade](../../../../sementes/2024/07/2024-07-07-Habilidade.md)
+[habilidade](../../../../sementes/2024/07/07/2024-07-07-Habilidade.md)

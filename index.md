@@ -6,7 +6,7 @@ tags:
   - v0
 aliases:
   - Index
-updated_at: 2024-08-06T22:56:02-03:00
+updated_at: 2024-08-07T17:41:18-03:00
 ---
 
 - lazer:
@@ -21,4 +21,4 @@ updated_at: 2024-08-06T22:56:02-03:00
   - [Psicologia](api/mapas/Psicologia.md)
   - [Habilidades](api/mapas/Habilidades.md)
 - Projetos:
-  - [Shikigami](sementes/2024/06/2024-06-30-Shikigami.md)
+  - [Shikigami](api/sementes/2024/07/07/2024-06-30-Shikigami.md)
