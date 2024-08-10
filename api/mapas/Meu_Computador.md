@@ -5,7 +5,7 @@ tags:
 aliases:
   - Meu Computador
 created_at: 2024-07-26T13:21:33-03:00
-updated_at: 2024-08-10T01:48:57-03:00
+updated_at: 2024-08-10T01:51:55-03:00
 ---
 
 Dual boot com a [Pasta home](../ideias/2024/07/14/Pasta_home.md) compartilhada para ter um [Sistema Operacional](../sementes/2024/07/07/2024-06-30-Sistema_Operacional.md) de backup pra caso algo dê errado no [sistema](../sementes/2024/07/07/2024-06-30-Sistema_Operacional.md) principal.
@@ -22,9 +22,13 @@ Dual boot com a [Pasta home](../ideias/2024/07/14/Pasta_home.md) compartilhada p
 ## Crystal
 - [Gnome](../../Gnome.md)
 - [Hyprland](Hyprland)
+	- Barra de status: [[Waybar]]
 	- Notificação: [[SwayNotificationCenter]]
+	- Wallpapers: 
 	- Pipewire: [[pipewire]] e [[wireplumber]]
 	- Hyprland Desktop Portal: 
 		- [[xdg-desktop-portal-wlr]]
 		- [[xdg-desktop-portal-hyprland]]
 		- [[xdg-desktop-portal-gtk]]
+	- Authentication Agent: [[polkit-kde-agent]]
+	- Qt Wayland Support: [[qt5-wayland]] e [[qt6-wayland]]
