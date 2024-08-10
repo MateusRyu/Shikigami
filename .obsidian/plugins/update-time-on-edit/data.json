@@ -600,7 +600,7 @@
     "api/ideias/2024/07/07/Xadrez_Aberturas_abertas.md": "cf39dbff02f974ffa1f6ba40f2ba7e87f9e9ee2626f6a4a3b24226281e30c25c",
     "api/mapas/Animes.md": "74ffef0360c9151bda0f6bc7ffb08d5672a11292c90c6ed2d07bac925f8d81c0",
     "api/mapas/Auto_desenvolvimento.md": "5a1976f0ffee02243b897d567972bd032c517fdd1b45702551e15470b1b530d3",
-    "api/mapas/Meu_Computador.md": "16ee721e494f29d62a21f625ac1843ca1195bd9e1f25089ea792d4aaa2ff79ea",
+    "api/mapas/Meu_Computador.md": "1b99e2a036caf55143b523d065b4404997561b342d880af424b290b7948573ce",
     "api/mapas/Xadrez.md": "ea0c8ae59b6be6f289a5b4a23cf59a73e861494c983ec8de1027265a84812cb4",
     "api/mapas/Toram.md": "35a931b207dff6ccafe7e238c74d8cf85491cb8d63e7d83f49bc21c0a7886756",
     "api/mapas/Psicologia.md": "0246fcd7d6a058f8ea16064dfac18f03660409be918b11df01edca40a18c82de",
@@ -695,6 +695,8 @@
     "GUI.md": "e9146fd9729518ed218f9d3ce3fead269496dc63998aa66a363bf51e5027835e",
     "Gnome.md": "7bab6e812667a900e325124d43e3adb3eb3d8c920f1870b73aeb74b10d061605",
     "DE.md": "2b611c9b5db9eba5e3115d979fd19286afe4715544fef4d195b6c80eb88b3b81",
-    "Hyprland.md": "cc52bf361ee4cb2839b26989c79130a05d457064ab0c43094dad1821f9d06bfd"
+    "Hyprland.md": "6eab5763bcc992fca7f00126cefee7fda3cd8abb2b72806caacacb4bed2101f6",
+    "Tiling Window Manager.md": "52ff35af313f95bb61036f0e80d7dd5feda7bbae8080d64404e8c6f6acb21c85",
+    "SwayNotificationCenter.md": "4fb976471a376fa328efb306929d61d0e4d54a141eba1205a3236e0b2d6855dd"
   }
 }
