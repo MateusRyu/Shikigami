@@ -600,7 +600,7 @@
     "api/ideias/2024/07/07/Xadrez_Aberturas_abertas.md": "cf39dbff02f974ffa1f6ba40f2ba7e87f9e9ee2626f6a4a3b24226281e30c25c",
     "api/mapas/Animes.md": "74ffef0360c9151bda0f6bc7ffb08d5672a11292c90c6ed2d07bac925f8d81c0",
     "api/mapas/Auto_desenvolvimento.md": "5a1976f0ffee02243b897d567972bd032c517fdd1b45702551e15470b1b530d3",
-    "api/mapas/Meu_Computador.md": "41b5cb627b5d5514fa52fd3f413e0141a961fa2698695a627b948cb10be220df",
+    "api/mapas/Meu_Computador.md": "509ddcd5b3b096269e515a19d6de727b3d24a44209da279429c4fbab95ed53be",
     "api/mapas/Xadrez.md": "ea0c8ae59b6be6f289a5b4a23cf59a73e861494c983ec8de1027265a84812cb4",
     "api/mapas/Toram.md": "35a931b207dff6ccafe7e238c74d8cf85491cb8d63e7d83f49bc21c0a7886756",
     "api/mapas/Psicologia.md": "0246fcd7d6a058f8ea16064dfac18f03660409be918b11df01edca40a18c82de",
@@ -690,6 +690,9 @@
     "api/ideias/2024/08/08/PCIe.md": "2caaf62b074581e62f996fd969e4ce9152c1402265cd7f80be107e711783cb0e",
     "api/ideias/2024/08/06/Statusline.md": "7766d99d112f6c9672f9a6ed087621145b3b97d9983d18d2e1ed8c496997ed1e",
     "api/ideias/2024/08/06/rockspecs.md": "814c1d3b1387ee116504dc659d546b423c4b030ee7608f704baa63e104435ac6",
-    "_posts/2024-08-09.md": "61cfcacf3f48e8ee1c8c271d0e20b63d838dbd68df1fee6c939912c6f157be35"
+    "_posts/2024-08-09.md": "61cfcacf3f48e8ee1c8c271d0e20b63d838dbd68df1fee6c939912c6f157be35",
+    "Crystal Linux.md": "791f3f92b4fc4302e04d40dc91045edbb84ed6c53d4c3760823059f2f2bd9aa8",
+    "GUI.md": "e9146fd9729518ed218f9d3ce3fead269496dc63998aa66a363bf51e5027835e",
+    "Gnome.md": "d969e0df8d8eec34769f38c22a1f2bd9b849be53ca0cdfb01ec542800f47e2dc"
   }
 }
