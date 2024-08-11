@@ -600,7 +600,7 @@
     "api/ideias/2024/07/07/Xadrez_Aberturas_abertas.md": "cf39dbff02f974ffa1f6ba40f2ba7e87f9e9ee2626f6a4a3b24226281e30c25c",
     "api/mapas/Animes.md": "74ffef0360c9151bda0f6bc7ffb08d5672a11292c90c6ed2d07bac925f8d81c0",
     "api/mapas/Auto_desenvolvimento.md": "5a1976f0ffee02243b897d567972bd032c517fdd1b45702551e15470b1b530d3",
-    "api/mapas/Meu_Computador.md": "11491c9f8b5d273bc68072507a1841a48391be15e8515f925857b503ed08f12e",
+    "api/mapas/Meu_Computador.md": "9f603364f607369847c3c3511df5090526f2ea18f832a40ed74f6c923dd8cc7c",
     "api/mapas/Xadrez.md": "ea0c8ae59b6be6f289a5b4a23cf59a73e861494c983ec8de1027265a84812cb4",
     "api/mapas/Toram.md": "35a931b207dff6ccafe7e238c74d8cf85491cb8d63e7d83f49bc21c0a7886756",
     "api/mapas/Psicologia.md": "0246fcd7d6a058f8ea16064dfac18f03660409be918b11df01edca40a18c82de",
@@ -701,6 +701,14 @@
     "api/ideias/2024/08/11/Hyprpicker.md": "a8c04cf27f1cf23480fc41ed873b3bdbfda616ab0227ed4fbcac01859ef00b12",
     "api/ideias/2024/08/11/tofi.md": "cda90fb9d7d34a9ec529fede9e1ca1ede414feaea6f0ca471e6c73210133c9b1",
     "api/ideias/2024/08/11/Waybar.md": "03360c402e9dfdfd8315be78249a17ec4fa58068d69d6aa265ced0921eea1c86",
-    "api/ideias/2024/08/11/hyprpaper.md": "cc5dca4e501ce9048cbc053efd64e467744d24444d6ef9ac5dfa59f954781cde"
+    "api/ideias/2024/08/11/hyprpaper.md": "cc5dca4e501ce9048cbc053efd64e467744d24444d6ef9ac5dfa59f954781cde",
+    "api/ideias/2024/08/11/pipewire.md": "b1ad7d7e189577914874943cfb957ca84960162bca4dffe417e59df60f0efb5e",
+    "api/ideias/2024/08/11/wireplumber.md": "1a5c4c549fc0d47a1e42bf833fe3de34b72c3634ecec1dc161604234a27f2fa7",
+    "api/ideias/2024/08/11/xdg-desktop-portal-wlr.md": "20df7f7b6ca84b65bc7f5c77751cde832baf767a1cf581a89a2c23121a6154be",
+    "api/ideias/2024/08/11/xdg-desktop-portal-hyprland.md": "c2efd34427348fec8cdf04acf634661b868d8040dbb6d310e9ca556d2e33bc01",
+    "api/ideias/2024/08/11/xdg-desktop-portal-gtk.md": "bfaa37ffb3f4035d95d09b9d9d3a580eb376c5ad34da8652033e3bff0fc4d555",
+    "api/ideias/2024/08/11/polkit-kde-agent.md": "720f5f8f1bee3876539d45562cbe7d07832e2605d0c03c0e20aff2e23b1bd959",
+    "api/ideias/2024/08/11/qt5-wayland.md": "37daeddf04d4e99e593d32ace3175cc29ecfc1625547712407ec1b659b62d81d",
+    "api/ideias/2024/08/11/qt6-wayland.md": "b3638504bea10d8d055e96ee8f0183b94d2ff5479d984a6d3b2e977d0d4eef3b"
   }
 }
