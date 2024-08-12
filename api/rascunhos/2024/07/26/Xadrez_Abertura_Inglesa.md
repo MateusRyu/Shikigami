@@ -10,7 +10,7 @@ aliases:
   - Siciliana reversa
   - siciliana reversa
 created_at: 2024-07-26T13:21:33-03:00
-updated_at: 2024-08-07T17:44:51-03:00
+updated_at: 2024-08-11T23:43:50-03:00
 ---
 
 [Xadrez](../../../../sementes/2024/07/06/2024-07-06-Xadrez.md)
@@ -34,7 +34,7 @@ updated_at: 2024-08-07T17:44:51-03:00
 -  (`A26`) [Abertura Inglesa, Sistema fechada](Xadrez_Abertura_Inglesa.md): `1.c4 e5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.d3 d6`;
 -  (`A27`) [Abertura Inglesa](Xadrez_Abertura_Inglesa.md), [Sistema dos Três Cavalos](../../../../ideias/2024/07/12/Xadrez_Sistema_dos_Tres_Cavalos.md): `1.c4 e5 2.Nc3 Nc6 3.Nf3` (sem: `3...Nf6`);
 -  (`A28`) [Abertura Inglesa](Xadrez_Abertura_Inglesa.md), [Sistema dos Quatro Cavalos](../../../../ideias/2024/07/12/Xadrez_Sistema_dos_Quatro_Cavalos.md): `1.c4 e5 2.Nc3 Nc6 3.Nf3 Nf6` (sem: `4.g3`);
--  (`A29`) [Abertura Inglesa](Xadrez_Abertura_Inglesa.md), [Sistema dos Quatro Cavalos](../../../../ideias/2024/07/12/Xadrez_Sistema_dos_Quatro_Cavalos.md), [Fianqueto da ala do Rei](../../../../sementes/2024/07/01/2024-07-01-Fianqueto.md): `1.c4 e5 2.Nc3 Nc6 3.Nf3 Nf6 4.g3`);
+-  (`A29`) [Abertura Inglesa](Xadrez_Abertura_Inglesa.md), [Sistema dos Quatro Cavalos](../../../../ideias/2024/07/12/Xadrez_Sistema_dos_Quatro_Cavalos.md), [Fianqueto da ala do Rei](../../../../sementes/2024/07/01/Xadrez_Fianqueto.md): `1.c4 e5 2.Nc3 Nc6 3.Nf3 Nf6 4.g3`);
 -  (`A30`) [Abertura Inglesa](Xadrez_Abertura_Inglesa.md), [Defesa Simétrica](../../../../sementes/2024/07/12/2024-07-12-Xadrez_Defesa_Simetrica.md): `1.c4 c5` (sem: `2.Nc3`, `2.e4`, `2.g3 g6 3.Nc3`, `2.g3 Nc6 3.Nc3`, `2.Nf3 Nc6 3.Nc3`, `2.e3 Nf6 3.d4`);
 -  (`A31`) [Abertura Inglesa](Xadrez_Abertura_Inglesa.md), [Defesa Simétrica](../../../../sementes/2024/07/12/2024-07-12-Xadrez_Defesa_Simetrica.md), formação [Benoni](../../../../ideias/2024/07/12/Xadrez_Benoni.md): `1.c4 c5 2.Nf3 Nf6 3.d4` (sem: `3...cxd4 4.Nxd4 e6`, `3...cxd4 4.Nxd4 a6 5.Nc3 e6`, `3...cxd4 4.Nxd4 Nc6 5.Nc3 e6`);
 -  (`A32`) [Abertura Inglesa](Xadrez_Abertura_Inglesa.md), [Defesa Simétrica](../../../../sementes/2024/07/12/2024-07-12-Xadrez_Defesa_Simetrica.md): `1.c4 c5 2.Nf3 Nf6 3.d4 cxd4 4.Nxd4 e6` (sem: `5.Nc3 Nc6`);
