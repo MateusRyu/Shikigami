@@ -9,7 +9,7 @@
 
 title: Ryu's Shikigami
 logoImagePath: null
-url: "shikigami.ryu.dev.br" # the base hostname & protocol for your site, e.g. http://example.com
+url: "ryu.blog.br" # the base hostname & protocol for your site, e.g. http://example.com
 language: "pt-BR"
 theme: null # Keep null to not fallback to `jekyll-theme-primer` (to more info: https://github.com/jekyll/jekyll/issues/7478)
 description: ""
