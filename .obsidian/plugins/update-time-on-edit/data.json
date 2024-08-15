@@ -600,7 +600,7 @@
     "api/ideias/2024/07/07/Xadrez_Aberturas_abertas.md": "cf39dbff02f974ffa1f6ba40f2ba7e87f9e9ee2626f6a4a3b24226281e30c25c",
     "api/mapas/Animes.md": "74ffef0360c9151bda0f6bc7ffb08d5672a11292c90c6ed2d07bac925f8d81c0",
     "api/mapas/Auto_desenvolvimento.md": "5a1976f0ffee02243b897d567972bd032c517fdd1b45702551e15470b1b530d3",
-    "api/mapas/Meu_Computador.md": "9f603364f607369847c3c3511df5090526f2ea18f832a40ed74f6c923dd8cc7c",
+    "api/mapas/Meu_Computador.md": "33159ddfd0031ed3394e3641938f7dbf0a32531a9d10e1d8a6e41fb0fc7beada",
     "api/mapas/Xadrez.md": "ea0c8ae59b6be6f289a5b4a23cf59a73e861494c983ec8de1027265a84812cb4",
     "api/mapas/Toram.md": "35a931b207dff6ccafe7e238c74d8cf85491cb8d63e7d83f49bc21c0a7886756",
     "api/mapas/Psicologia.md": "0246fcd7d6a058f8ea16064dfac18f03660409be918b11df01edca40a18c82de",
@@ -709,6 +709,8 @@
     "api/ideias/2024/08/11/polkit-kde-agent.md": "720f5f8f1bee3876539d45562cbe7d07832e2605d0c03c0e20aff2e23b1bd959",
     "api/ideias/2024/08/11/qt5-wayland.md": "37daeddf04d4e99e593d32ace3175cc29ecfc1625547712407ec1b659b62d81d",
     "api/ideias/2024/08/11/qt6-wayland.md": "b3638504bea10d8d055e96ee8f0183b94d2ff5479d984a6d3b2e977d0d4eef3b",
-    "api/sementes/2024/07/01/Xadrez_Fianqueto.md": "808e6d8f2ec63ebfd227bb5fb9aa93ea0133765dfedfb714f3c9782216921f14"
+    "api/sementes/2024/07/01/Xadrez_Fianqueto.md": "808e6d8f2ec63ebfd227bb5fb9aa93ea0133765dfedfb714f3c9782216921f14",
+    "sww.md": "ba46bb3d20000d51294f0e148f36c66582c450c08cceac8723c9551a5417b616",
+    "wallpaper.md": "9f8111618db8e61897e20dd6b6a2ca437b15581a60ad52af7a246132f23b7bb4"
   }
 }
