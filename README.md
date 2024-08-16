@@ -1,6 +1,6 @@
 ---
 created_at: 2024-07-08T17:33:33-03:00
-updated_at: 2024-08-07T17:40:35-03:00
+updated_at: 2024-08-16T20:00:04-03:00
 ---
 # Shikigami
 ---
@@ -51,7 +51,7 @@ Shikigami is a project to keep my knowledge at one unique place and serve as API
 -  `src`: contain all knowledge files and is organized by folders of year, month and day. Also, each filename start with the date of creation and the name with camel case,  as `YYYY-MM-DD-Name_of_file.md`.
 -  `_draft` folder is destined to docs under creation.
 -  `_insight` folder is destined to possible ideas that can be more elaborate at future and I want to maintain a way to links to existent docs.
--  `_templates` folder is destined to save [Obsidian](api/sementes/2024/07/08/2024-06-30-Obsidian.md)'s templates and end-point templates.
+-  `_templates` folder is destined to save [Obsidian](api/sementes/2024/07/08/Obsidian.md)'s templates and end-point templates.
 - `docs` folder contain the translated versions of this `README`.
 -  `assets` folder is to media files and others types of files.
 - `index` folder is to docs that aggregate and index the `src` files. 

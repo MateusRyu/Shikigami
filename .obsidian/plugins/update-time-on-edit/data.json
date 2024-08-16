@@ -285,7 +285,7 @@
     "_insight/2024/07/2024-07-03-Abertura_Barnes.md": "a6e2df4bb2c40c6bf69122cbf094d474d5db4f1171d356529cfaf35fdc37637d",
     "_insight/2024/07/2024-07-03-Abertura_Anderssen.md": "3e5162f4af528cdb4a35f67519d65bbb6fccd1f407adb52ac045946932b79e29",
     "_insight/2024/07/2024-07-03-Abertura_Amar.md": "fad2a988acbda1031021e4719aa3cc5d2a336f4702c991bc71b77a5fbb66942c",
-    "README.md": "9663bac14b90e34c04b486b9409d959a34786996e2283cf6b577b45b387334e3",
+    "README.md": "dfc3b8ef7de5f7bd6ddbbee3e22afae9a85dd449b518df8ebcec81c54770cc6d",
     "_draft/2024/07/2024-06-30-Header_HTTP.md": "1e75cc127e87e9ad7cae37e8fe33c09c371d89c917b3794ea5c9cafa5cb44ebe",
     "_insight/2024/07/2024-07-17-Imagem_docker.md": "185a0cc90debb4939f10ada6bbb333cd2da1452d996fd7c2ed46f129124edd10",
     "_insight/2024/07/2024-07-17-Container_docker.md": "f82216b2143c1c14468e373d41a4f31717063c67c799ae5178c2762893b9440c",
@@ -599,7 +599,7 @@
     "api/ideias/2024/07/07/Aberturas_fechadas.md": "354e3e43ba52828958611aa4df954b680cbac5478ec29a60279996506a9736cc",
     "api/ideias/2024/07/07/Xadrez_Aberturas_abertas.md": "cf39dbff02f974ffa1f6ba40f2ba7e87f9e9ee2626f6a4a3b24226281e30c25c",
     "api/mapas/Animes.md": "74ffef0360c9151bda0f6bc7ffb08d5672a11292c90c6ed2d07bac925f8d81c0",
-    "api/mapas/Auto_desenvolvimento.md": "5a1976f0ffee02243b897d567972bd032c517fdd1b45702551e15470b1b530d3",
+    "api/mapas/Auto_desenvolvimento.md": "18e0d6d0f8e1f8b5ac9561b3512c0cf31c3d80ee177a799cfaeb2187edab6fa9",
     "api/mapas/Meu_Computador.md": "c9cf83134056c052d08abef4bc12d797ece011818a79088733b200f6092cfccb",
     "api/mapas/Xadrez.md": "2955a2e4158972656e115ff3289b0588a1e9272dd86cea1584087de9f971b3bf",
     "api/mapas/Toram.md": "35a931b207dff6ccafe7e238c74d8cf85491cb8d63e7d83f49bc21c0a7886756",
@@ -620,7 +620,7 @@
     "api/rascunhos/2024/07/08/HyperText_Markup_Language.md": "c24a3ebc81409474886763e1f5193648f4d62f390c528435b0cd6f8395b27806",
     "api/rascunhos/2024/07/08/lazy_nvim.md": "9f2d9464ac336f165d402c4ba771c73540b896ea4928240b9349fda13c2e3a8a",
     "api/rascunhos/2024/07/08/Markdown.md": "16362859682e709758b2a5cf223ae28703c67ba474a850ea2a7c3024260d51df",
-    "api/rascunhos/2024/07/26/Obsidian_Dataview.md": "ee5283a7e631e4ff0af0e6d1cb1f41a4e2f33c89ba850e55c7646474e744c209",
+    "api/rascunhos/2024/07/26/Obsidian_Dataview.md": "b6ed6ad2ae8bbd9f2820dd61e7028cde402bda2f4a5456e8f28501bbbdc13006",
     "api/rascunhos/2024/07/08/Psicologia.md": "5a62bf39d3a141bbb20b2bce8046db5402b4dd111c595505e52558232c73ce09",
     "api/rascunhos/2024/07/26/Psicologia_analitica.md": "d53a11e9facf8f79b38b6505f6d595030df3f9992a703a1f07f4cca43c9b024c",
     "api/rascunhos/2024/07/10/Taoismo_Tipologia_Junguiana.md": "d3bf17543985578d66717ecc070402a13201947ff5607f820138ae0b06007c48",
@@ -646,7 +646,6 @@
     "api/rascunhos/2024/07/08/Xadrez_Oposição_de_Rei.md": "18b36b5d6a27f53c0f82d0e8391b42b57c3c01a0718369c73f6900d34083f24d",
     "api/datas/2023-11-07.md": "e68dfa8a8cfe44172b4ff87cd38054af2858b38dcd1c61e516587486343dcdd6",
     "api/sementes/2024/07/26/SSH.md": "0755d86a2ad67527a9e56315739905c18fb30b647e539b05259ba244dfce97e3",
-    "api/sementes/2024/07/08/2024-06-30-Obsidian.md": "990e88fde24269aa863151c699d2edc922d0926bf62f68bcb4ed762e20882c4d",
     "_posts/2024-07-27.md": "d771694d5f9d7c2a54ba32e2ce7453fa8013cea3badf6342b7bd96488bbb1fca",
     "_posts/2024/07/2024-07-06-first.md": "5ced1db89db82876426f232607e3e04ed569db7b8e8075052228c377e817c4bf",
     "_posts/2024/07/2024-07-07-second.md": "0b0b0f136e5deb451f1b95049e1c3bd5695f7b80eff4dff0f2a95fb6c9ea4e3c",
@@ -716,6 +715,7 @@
     "api/sementes/2024/07/07/Arch_Linux.md": "5b9cb72a1332683eaf6242d78e08e957b86aae33ab82f67425228d2adb486241",
     "api/sementes/2024/07/07/Sistema_Operacional.md": "70fd690c46968ac79f765666d683eda80dd3732ff9c6b3b75ea09704744a490b",
     "api/sementes/2024/07/08/Linux.md": "9ab439d65847446ad699b718b0344635fc959a65fc5001f802a268273d8f181e",
-    "api/sementes/2024/07/08/LazyVim.md": "c64d490a31e63de2b225436bf2b6d43b55d77363af1b63e773b7650a80e96955"
+    "api/sementes/2024/07/08/LazyVim.md": "c64d490a31e63de2b225436bf2b6d43b55d77363af1b63e773b7650a80e96955",
+    "api/sementes/2024/07/08/Obsidian.md": "c60b5e8b578308cf05450fc4c95fb9c0d15f49907ad47b9ed6864ce4c6e3edf9"
   }
 }
