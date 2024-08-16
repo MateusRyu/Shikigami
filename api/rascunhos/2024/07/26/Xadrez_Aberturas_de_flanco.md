@@ -8,13 +8,13 @@ aliases:
   - aberturas de flanco
   - abertura de flanco
 created_at: 2024-07-26T13:21:33-03:00
-updated_at: 2024-08-07T17:42:49-03:00
+updated_at: 2024-08-16T13:47:28-03:00
 ---
 
-[Xadrez](../../../../sementes/2024/07/06/2024-07-06-Xadrez.md)
+[Xadrez](../../../../sementes/2024/07/06/Xadrez.md)
 ## Lista
 -  (`A00`–`A39`) Primeiro lance das brancas que são diferente de `1.e4` e `1.d4`.
-	-  (`A00`) [Aberturas irregulares](../../../../sementes/2024/07/06/2024-07-06-Aberturas_irregulares.md): ![2024-07-06-Aberturas_irregulares](../../../../sementes/2024/07/06/2024-07-06-Aberturas_irregulares.md#^lista-de-aberturas-irregulares)
+	-  (`A00`) [Aberturas irregulares](../../../../sementes/2024/07/06/Xadrez_Aberturas_irregulares.md): ![Xadrez_Aberturas_irregulares](../../../../sementes/2024/07/06/Xadrez_Aberturas_irregulares.md#^lista-de-aberturas-irregulares)
 	-  (`A01`) [Abertura Larsen](../../../../ideias/2024/07/12/Xadrez_Abertura_Larsen.md): `1.b3`;
 	-  (`A02`) [Abertura Bird](26/Xadrez_Abertura_Bird.md): `1.f4`;
 		-  (`A03`) [Abertura Bird, variante holandesa](26/Xadrez_Abertura_Bird.md#variante%20Holandesa): `1.f4 d5`;

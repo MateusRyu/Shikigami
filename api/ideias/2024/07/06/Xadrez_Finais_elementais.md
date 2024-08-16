@@ -10,12 +10,12 @@ aliases:
   - final
   - Final
 created_at: 2024-07-26T13:21:33-03:00
-updated_at: 2024-08-07T17:42:55-03:00
+updated_at: 2024-08-16T13:47:27-03:00
 ---
 
 ## Finais elementais
 ---
-Os finais elementares no [xadrez](../../../../sementes/2024/07/06/2024-07-06-Xadrez.md) são aqueles que envolvem poucos [peões](Xadrez_Peao.md) ou [peças](Xadrez_Pecas.md) no tabuleiro e, em geral, são mais fáceis de serem estudados e compreendidos. Eles servem como base para entender situações mais complexas no final do jogo.
+Os finais elementares no [xadrez](../../../../sementes/2024/07/06/Xadrez.md) são aqueles que envolvem poucos [peões](Xadrez_Peao.md) ou [peças](Xadrez_Pecas.md) no tabuleiro e, em geral, são mais fáceis de serem estudados e compreendidos. Eles servem como base para entender situações mais complexas no final do jogo.
 
 ## Lista de finais elementais
 ---

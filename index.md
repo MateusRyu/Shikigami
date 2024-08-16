@@ -6,7 +6,7 @@ tags:
   - v0
 aliases:
   - Index
-updated_at: 2024-08-07T17:41:18-03:00
+updated_at: 2024-08-16T13:50:38-03:00
 ---
 
 - lazer:
@@ -17,8 +17,8 @@ updated_at: 2024-08-07T17:41:18-03:00
 - Estudos:
   - [Auto-desenvolvimento](api/mapas/Auto_desenvolvimento.md);
   - [Desenvolvimento de software](api/mapas/Desenvolvimento_de_software.md);
-  - [Oracle Next Education](api/ideias/2024/07/Oracle_Next_Education.md);
+  - [Oracle Next Education](api/ideias/2024/07/08/Oracle_Next_Education.md);
   - [Psicologia](api/mapas/Psicologia.md)
   - [Habilidades](api/mapas/Habilidades.md)
 - Projetos:
-  - [Shikigami](api/sementes/2024/07/07/2024-06-30-Shikigami.md)
+  - [Shikigami](api/sementes/2024/07/07/Shikigami.md)

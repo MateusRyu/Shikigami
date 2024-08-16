@@ -6,7 +6,7 @@ aliases:
   - Psicologia analítica
   - psicologia analítica
 created_at: 2024-07-26T13:21:33-03:00
-updated_at: 2024-08-07T17:50:40-03:00
+updated_at: 2024-08-16T13:42:59-03:00
 ---
 
 É uma vertente da [Psicologia](08/Psicologia.md) que vai se preocupar em entender como se dá a cognição das pessoas. Ele foi elaborado por [Carl Jung](../../../../ideias/2024/07/07/Carl_Jung.md) e por essa vertente pode ser chamada de psicologia Junguiana e suas ramificações de neo-junguiana.
@@ -17,7 +17,7 @@ A psicologia analítica, por se basear na cognição das pessoas, serve como fer
 
 [Inconsciente](../../../../ideias/2024/07/12/Psicologia_Inconsciente.md) e [Consciência](../../../../ideias/2024/07/12/Psicologia_Consciencia.md)...
 
-Segundo Jung, todas as pessoas nascem com o [Self](../../../../sementes/2024/07/05/2024-06-30-Self.md) já preenchida com [Arquétipos](../../../../sementes/2024/06/30/Psicologia_Arquetipos.md) coletivos para que possamos interagir com o mundo de forma saudável e sem grandes problemas. Após o desenvolvimento da psique da criança, as outras estruturas nascem e crescem dentro do [Self](../../../../sementes/2024/07/05/2024-06-30-Self.md), como o [Ego](../../../../ideias/2024/07/12/Psicologia_Ego.md), a [Memória](../../../../ideias/2024/07/08/Memoria.md) e os [Complexo](../../06/08/Complexo.md).
+Segundo Jung, todas as pessoas nascem com o [Self](../../../../sementes/2024/07/05/Self.md) já preenchida com [Arquétipos](../../../../sementes/2024/06/30/Psicologia_Arquetipos.md) coletivos para que possamos interagir com o mundo de forma saudável e sem grandes problemas. Após o desenvolvimento da psique da criança, as outras estruturas nascem e crescem dentro do [Self](../../../../sementes/2024/07/05/Self.md), como o [Ego](../../../../ideias/2024/07/12/Psicologia_Ego.md), a [Memória](../../../../ideias/2024/07/08/Memoria.md) e os [Complexo](../../06/08/Complexo.md).
 
 ## Ego  
 Ego é a fração na qual temos consciência do nosso Self. Em palavras mais informal, é aquilo que acreditamos que somos e onde ocorre nossos pensamentos racionais.

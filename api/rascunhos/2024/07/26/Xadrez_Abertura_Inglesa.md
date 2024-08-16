@@ -10,10 +10,10 @@ aliases:
   - Siciliana reversa
   - siciliana reversa
 created_at: 2024-07-26T13:21:33-03:00
-updated_at: 2024-08-11T23:43:50-03:00
+updated_at: 2024-08-16T13:47:28-03:00
 ---
 
-[Xadrez](../../../../sementes/2024/07/06/2024-07-06-Xadrez.md)
+[Xadrez](../../../../sementes/2024/07/06/Xadrez.md)
 [Aberturas de xadrez](Xadrez_Aberturas.md)
 ## Lista de linhas documentados
 - (`A10`) `1.c4` (sem: `1...e5`, `1...c5`, `1...e6`, `1...c6`, `1...Nf6`, `1...g6 2.d4`, `1...f5 2.d4`, `1...b6 2.d4`, `1...d6 2.e4`, `1...d6 2.d4`, `1...Nc6 2.d4`);
