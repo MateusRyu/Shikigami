@@ -5,7 +5,7 @@ tags:
 aliases:
   - Blacksmith
 created_at: 2024-07-26T13:21:33-03:00
-updated_at: 2024-08-16T23:05:20-03:00
+updated_at: 2024-08-17T00:24:35-03:00
 ---
 
 [Toram](26/Toram.md)
@@ -30,7 +30,7 @@ updated_at: 2024-08-16T23:05:20-03:00
 | [Magic Device](../../../../ideias/2024/07/09/Toram_Magic_Device.md)         | ([INT](../../../../sementes/2024/07/09/Toram_INT.md)+[AGI](../../../../ideias/2024/07/09/Toram_AGI.md))/20 |
 | [Knuckle](../../../../ideias/2024/07/09/Toram_Knuckle.md)                   | [AGI](../../../../ideias/2024/07/09/Toram_AGI.md)/10                                                            |
 | [Halberd](../../../../ideias/2024/07/09/Toram_Halberd.md)                   | ([STR](../../../../sementes/2024/07/09/Toram_STR.md)+[AGI](../../../../ideias/2024/07/09/Toram_AGI.md))/20 |
-| [Katana](../../../../ideias/2024/07/09/Toram_Katana.md)                     | ([DEX](_insight/2024/07/2024-07-09-Toram_DEX.md)+[AGI](_insight/2024/07/2024-07-09-Toram_AGI.md))/20         |
+| [Katana](../../../../ideias/2024/07/09/Toram_Katana.md)                     | ([DEX](../../../../ideias/2024/07/09/Toram_DEX.md)+[AGI](../../../../ideias/2024/07/09/Toram_AGI.md))/20         |
 | [Armor](../../../../ideias/2024/07/09/Toram_Armor.md)                       | [VIT](../../../../ideias/2024/07/09/Toram_VIT.md)/10                                                            |
 
 
