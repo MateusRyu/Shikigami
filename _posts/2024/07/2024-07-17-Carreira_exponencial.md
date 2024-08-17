@@ -8,22 +8,22 @@ aliases:
   - 17/07/2024
   - 2024-07-17
 created_at: 2024-07-17T16:27:38-03:00
-updated_at: 2024-08-16T23:48:22-03:00
+updated_at: 2024-08-16T23:58:46-03:00
 ---
 
 Este log é baseado nas minhas anotações durante o curso `Carreira Exponencial`, disponibilizado pela [ibmec](ibmec).
 
 ---
 
-a inovação da [[openAI]] é a disponibilização de [Inteligencias artificiais](_insight/2024/07/2024-07-19-Inteligencia_artificial.md) (também conhecida como IA ou IA) com a acessibilidade de comunicar com a tecnologia em linguagem natural através do uso de [LLMs](../_insight/2024/07/2024-07-18-LLM.md).
+a inovação da [openAI](openAI) é a disponibilização de [Inteligencia artificial](../../../api/ideias/2024/07/19/Inteligencia_artificial.md) (também conhecida como IA ou AI) com a acessibilidade de comunicar com a tecnologia em linguagem natural através do uso de [LLMs](../../../api/ideias/2024/07/18/LLM.md).
 
 A NVIDIA produziu tecnologia pra, inicialmente ter melhor desempenho em renderização de imagem, mas hoje em dia tem grande desempenho na IA.
 
-As maquinas estão se adaptando aos humanos e podemos otimizar nossa interação com as [Inteligencias artificiais](../_insight/2024/07/2024-07-19-Inteligencia_artificial.md) ao saber fazer perguntas (prompt) melhores.
+As maquinas estão se adaptando aos humanos e podemos otimizar nossa interação com as [Inteligencias artificiais](../../../api/ideias/2024/07/19/Inteligencia_artificial.md) ao saber fazer perguntas (prompt) melhores.
 
 ## GPT
 
-O GPT é um tipo de [IA](../_insight/2024/07/2024-07-19-Inteligencia_artificial.md) preditor, em que dado um contexto e intenção no prompt, o modelo retorna uma previsão da melhor saída. 
+O GPT é um tipo de [IA](../../../api/ideias/2024/07/19/Inteligencia_artificial.md) preditor, em que dado um contexto e intenção no prompt, o modelo retorna uma previsão da melhor saída. 
 
 ## Prompt
 
