@@ -8,10 +8,10 @@ aliases:
   - 17/07/2024
   - 2024-07-17
 created_at: 2024-07-17T16:27:38-03:00
-updated_at: 2024-08-16T23:58:46-03:00
+updated_at: 2024-08-17T00:16:45-03:00
 ---
 
-Este log é baseado nas minhas anotações durante o curso `Carreira Exponencial`, disponibilizado pela [ibmec](ibmec).
+Este log é baseado nas minhas anotações durante o curso `Carreira Exponencial`, disponibilizado pela [ibmec](../../../api/ideias/2024/08/16/ibmec.md).
 
 ---
 

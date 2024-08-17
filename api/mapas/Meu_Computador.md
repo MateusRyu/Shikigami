@@ -5,7 +5,7 @@ tags:
 aliases:
   - Meu Computador
 created_at: 2024-07-26T13:21:33-03:00
-updated_at: 2024-08-16T14:07:17-03:00
+updated_at: 2024-08-17T00:17:07-03:00
 ---
 
 Dual boot com a [Pasta home](../ideias/2024/07/14/Pasta_home.md) compartilhada para ter um [Sistema Operacional](../sementes/2024/07/07/Sistema_Operacional.md) de backup pra caso algo dê errado no [sistema](../sementes/2024/07/07/Sistema_Operacional.md) principal.
@@ -24,7 +24,7 @@ Dual boot com a [Pasta home](../ideias/2024/07/14/Pasta_home.md) compartilhada p
 - [Hyprland](../ideias/2024/08/10/Hyprland.md)
 	- Barra de status: [Waybar](../ideias/2024/08/11/Waybar.md)
 	- Notificação: [SwayNotificationCenter](../ideias/2024/08/10/SwayNotificationCenter.md)
-	- Wallpapers: [sww](sww)
+	- Wallpapers: [sww](../ideias/2024/08/12/sww.md)
 	- App launchers: [tofi](../ideias/2024/08/11/tofi.md)
 	- Color pickers: [Hyprpicker](../ideias/2024/08/11/Hyprpicker.md)
 	- Pipewire: [pipewire](../ideias/2024/08/11/pipewire.md) e [wireplumber](../ideias/2024/08/11/wireplumber.md)
