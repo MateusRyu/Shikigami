@@ -6,7 +6,7 @@ aliases:
   - Status
   - status
 created_at: 2024-07-26T13:21:33-03:00
-updated_at: 2024-08-16T23:02:12-03:00
+updated_at: 2024-08-16T23:04:54-03:00
 ---
 
 No [Toram](../../../../rascunhos/2024/07/26/Toram.md), o status é a base matemática para o jogo calcular todas as interações de batalha no jogo, que inclui danos, velocidade de ataque, velocidade de conjuração e entre outros. Os status são os dados que o jogador pode distribuir para cada vez que ele aumentar de nível ou através de recompensas no jogo.
@@ -62,7 +62,7 @@ Por exemplo, digamos que queremos calcular o valor de [ATK](../../../../ideias/2
 6. Calcule o [ATK](../../../../ideias/2024/07/09/Toram_ATK.md) a partir do nível do personagem, resultado de (2) e (5).
 7. Aplique [ATK](../../../../ideias/2024/07/09/Toram_ATK.md)% e [ATK](../../../../ideias/2024/07/09/Toram_ATK.md)+ em (6), obtemos o [ATK](../../../../ideias/2024/07/09/Toram_ATK.md) final.
 
-![Exemplo de calculo de status no Toram](../../../_excalidraw/Drawing%202024-07-09%2014.23.36.excalidraw.md)
+![Toram_status.excalidraw](../../../../../_excalidraw/Toram_status.excalidraw.md)
 
 ## Referencia
 ---

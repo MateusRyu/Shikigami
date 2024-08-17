@@ -1,12 +1,12 @@
 ---
 title: Index
 layout: post
-created_at: 2024-07-06T18:32:39-03:00
 tags:
-  - v0
+  - v1
 aliases:
   - Index
-updated_at: 2024-08-16T13:50:38-03:00
+created_at: 2024-08-02T10:36:05-03:00
+updated_at: 2024-08-16T23:26:41-03:00
 ---
 
 - lazer:
