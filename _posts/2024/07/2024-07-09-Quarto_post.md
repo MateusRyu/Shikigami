@@ -1,8 +1,16 @@
 ---
 title: 2024-07-09
+tags:
+  - v1
+aliases:
+  - 2024/07/09
+  - 09/07/2024
+  - 2024-07-09
 created_at: 2024-07-09T16:45:45-03:00
-updated_at: 2024-08-16T23:10:29-03:00
+updated_at: 2024-08-16T23:46:21-03:00
 ---
+
+[08/07/2024](2024-07-08-lazy.md) | [10/072024](2024-07-10-Quinto_post.md)
 ## Tarefas
 ---
 - [X] Instala o [Kitty](../../../api/sementes/2024/07/09/Terminal_Kitty.md) e define como terminal padrão

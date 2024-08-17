@@ -1,20 +1,23 @@
 ---
 title: Primeiro post
-created_at: 2024-07-06T18:17:09-03:00
 tags:
   - v1
 aliases:
+  - 2024/07/06
+  - 06/07/2024
   - 2024-07-06
-updated_at: 2024-08-16T23:25:52-03:00
+created_at: 2024-07-30T13:06:00-03:00
+updated_at: 2024-08-16T23:40:01-03:00
 ---
 
+[07/07/2024](2024-07-07-Segundo_post.md)
 ## Tarefas
----
+
  - [X] Atualizar o [Sistema_Operacional](../../../api/sementes/2024/07/07/Sistema_Operacional.md) do notebook
  - [x] Atualizar alguns documentos do [Shikigami](../../../api/sementes/2024/07/07/Shikigami.md)
- - [x] Revisar o [Toram](_draft/2024/07/2024-07-06-Toram.md)
- - [x] Continuar leitura de [2024-07-03-How_to_Take_Smart_Notes](_draft/2024/07/2024-07-03-How_to_Take_Smart_Notes.md)
+ - [x] Revisar o [Toram](../../../api/rascunhos/2024/07/26/Toram.md)
+ - [x] Continuar leitura de [How to Take Smart Notes](../../../api/rascunhos/2024/07/08/How_to_Take_Smart_Notes.md)
 
 ##  Reflexão
----
+
 Muitas pessoas acreditam muito que existe um meio 100% eficiente e que o sistema (o jogo, projeto, empresa, etc) só será bom ou verdadeiro quando essa utopia se concretizar. É como se o contexto individual não fosse importante e que eventos tangenciáveis ou correlatos pudessem ser comparados.

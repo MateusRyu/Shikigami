@@ -4,11 +4,14 @@ tags:
   - v1
 aliases:
   - Carreira exponencial
+  - 2024/07/17
+  - 17/07/2024
+  - 2024-07-17
 created_at: 2024-07-17T16:27:38-03:00
-updated_at: 2024-07-24T13:01:21-03:00
+updated_at: 2024-08-16T23:48:22-03:00
 ---
 
-Este log é baseado nas minhas anotações durante o curso `Carreira Exponencial`, disponibilizado pela [[ibmec]].
+Este log é baseado nas minhas anotações durante o curso `Carreira Exponencial`, disponibilizado pela [ibmec](ibmec).
 
 ---
 
