@@ -5,7 +5,7 @@ tags:
 aliases:
   - Meu Computador
 created_at: 2024-07-26T13:21:33-03:00
-updated_at: 2024-08-17T00:17:07-03:00
+updated_at: 2024-08-17T00:22:14-03:00
 ---
 
 Dual boot com a [Pasta home](../ideias/2024/07/14/Pasta_home.md) compartilhada para ter um [Sistema Operacional](../sementes/2024/07/07/Sistema_Operacional.md) de backup pra caso algo dê errado no [sistema](../sementes/2024/07/07/Sistema_Operacional.md) principal.
@@ -29,8 +29,8 @@ Dual boot com a [Pasta home](../ideias/2024/07/14/Pasta_home.md) compartilhada p
 	- Color pickers: [Hyprpicker](../ideias/2024/08/11/Hyprpicker.md)
 	- Pipewire: [pipewire](../ideias/2024/08/11/pipewire.md) e [wireplumber](../ideias/2024/08/11/wireplumber.md)
 	- Hyprland Desktop Portal: 
-		- [xdg-desktop-portal-wlr](../ideias/2024/08/11/xdg-desktop-portal-wlr.md)
-		- [xdg-desktop-portal-hyprland](../ideias/2024/08/11/xdg-desktop-portal-hyprland.md)
-		- [xdg-desktop-portal-gtk](../ideias/2024/08/11/xdg-desktop-portal-gtk.md)
-	- Authentication Agent: [polkit-kde-agent](../ideias/2024/08/11/polkit-kde-agent.md)
-	- Qt Wayland Support: [qt5-wayland](../ideias/2024/08/11/qt5-wayland.md) e [qt6-wayland](../ideias/2024/08/11/qt6-wayland.md)
+		- [xdg_desktop_portal_wlr](../ideias/2024/08/11/xdg_desktop_portal_wlr.md)
+		- [xdg_desktop_portal_hyprland](../ideias/2024/08/11/xdg_desktop_portal_hyprland.md)
+		- [xdg_desktop_portal_gtk](../ideias/2024/08/11/xdg_desktop_portal_gtk.md)
+	- Authentication Agent: [polkit_kde_agent](../ideias/2024/08/11/polkit_kde_agent.md)
+	- Qt Wayland Support: [qt5_wayland](../ideias/2024/08/11/qt5_wayland.md) e [qt6_wayland](../ideias/2024/08/11/qt6_wayland.md)
