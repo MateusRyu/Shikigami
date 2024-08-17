@@ -652,7 +652,6 @@
     "api/sementes/2024/07/09/2024-07-09-Terminal_Kitty.md": "018fe1a3fc2fdad48530f2c91766581a6510219168d1a9f3d94c3237db25e085",
     "api/sementes/2024/07/09/2024-07-09-Terminal_URXVT.md": "4f93c913ccff934cfb50794a2fafa2b3da49092867a72646a44290414b049c8a",
     "api/sementes/2024/07/09/2024-07-09-Toram_INT.md": "94b94cb60078d9de2adb6a3670830bef80813a155b3d72408bf38e67fbbc579f",
-    "api/sementes/2024/07/09/2024-07-09-Toram_Status.md": "e268254faae0647f89fa817c9edb2a5a8cffe3cad366738ff4e07a4235286af5",
     "api/sementes/2024/07/12/2024-07-12-Xadrez_Defesa_Simetrica.md": "6c393f3177e9ccb0356a8b8000798f71eca25884dabf59ffc474d16ab22dca38",
     "api/sementes/2024/07/18/2024-07-18-Precisão.md": "b7fc1c87375be0baf058e75899076be81467787a3f96ed3442d716b6e7abc782",
     "api/sementes/2024/07/26/Toram_Status_basico.md": "80891e41e64268baa295a8ecf63ecd70c283631e24e1a80ade9c1f08eba50517",
@@ -716,6 +715,7 @@
     "api/sementes/2024/07/08/Obsidian.md": "c60b5e8b578308cf05450fc4c95fb9c0d15f49907ad47b9ed6864ce4c6e3edf9",
     "api/sementes/2024/07/09/Emulador_de_terminal.md": "384c0fa4f2a0e78b6b7a6c89ef2dbb50e5dc2901c07719ddcc6182a731c97449",
     "api/sementes/2024/07/09/Toram_STR.md": "61df426f0e5379503bdba50176e9aefc9ddc471407651dfc74ee87afca9c96a2",
-    "api/ideias/2024/07/12/Toram_One_Handed_Sword.md": "93b8b5c137f7e6a21734f82644ee71659fdc6bb93e539d99459a253231186845"
+    "api/ideias/2024/07/12/Toram_One_Handed_Sword.md": "93b8b5c137f7e6a21734f82644ee71659fdc6bb93e539d99459a253231186845",
+    "api/sementes/2024/07/09/Toram_Status.md": "07df7a97d7de8094329d4cca54a39b4d1eb8a1cdbdd2926a62a8e79c830ecbce"
   }
 }
