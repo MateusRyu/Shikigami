@@ -5,7 +5,7 @@ tags:
 aliases:
   - Toram-AoiRyuu
 created_at: 2024-07-26T13:21:33-03:00
-updated_at: 2024-08-17T14:54:13-03:00
+updated_at: 2024-08-17T14:58:38-03:00
 ---
 
 [Toram](../../../../rascunhos/2024/07/26/Toram.md)
@@ -28,8 +28,8 @@ Lilac: (Sup Tank) VIT
 [Aoi](../../../../rascunhos/2024/07/08/Toram_Aoi.md): +B refine
 [Kanna](../../../../rascunhos/2024/07/08/Toram_Kanna.md): (Magic blade) ??
 [Aria](../../../../rascunhos/2024/07/08/Toram_Aria.md): Staff e MD
-[Yuu](../../../../rascunhos/2024/07/08/Toram_Yuu.md): (Bowgun assassin) DEX > STR
-Phalanx: (2H bersek) STR
-Komari (Dual sword): AGI > STR
-Ruby: (Farmer breaker) LUK > AGI
-Lilac: (Sup Tank) VIT 
+[Yuu](../../../../rascunhos/2024/07/08/Toram_Yuu.md): Bowgun, bow e 1H
+Phalanx: 2H e 1H
+Komari: Knuckle e Halberd
+Ruby: +S refine
+Lilac: Armor
