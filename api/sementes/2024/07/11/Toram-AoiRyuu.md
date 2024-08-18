@@ -10,17 +10,15 @@ updated_at: 2024-08-18T01:17:16-03:00
 
 [Toram](../../../../rascunhos/2024/07/26/Toram.md)
 
-![Blacksmith](../../../../rascunhos/2024/07/26/Toram_Blacksmith.md#Tabela%20de%20potencial)
-
 [Ryu](../../../../rascunhos/2024/07/08/Toram_Ryu.md): (Mononofu bow) DEX > AGI
 [Aoi](../../../../rascunhos/2024/07/08/Toram_Aoi.md): (BS TEC) TEC > DEX
 [Kanna](../../../../rascunhos/2024/07/08/Toram_Kanna.md): (Magic blade) ??
-[Aria](../../../../rascunhos/2024/07/08/Toram_Aria.md): (Mage BUFF) INT > DEX
+[Aria](../../../../rascunhos/2024/07/08/Toram_Aria.md): (Mago exorcista) INT > DEX
 [Yuu](../../../../rascunhos/2024/07/08/Toram_Yuu.md): (Bowgun assassin) DEX > STR
-Phalanx: (2H bersek) STR
+Phalanx: (2H bersek) VIT
 Komari (Dual sword): AGI > STR
 Ruby: (Farmer breaker) LUK > AGI
-Lilac: (Sup Tank) VIT 
+Lilac: (magical device) VIT 
 ## BS
 
 ![AoiRyuu_BS.excalidraw](../../../../../_excalidraw/AoiRyuu_BS.excalidraw.md)
