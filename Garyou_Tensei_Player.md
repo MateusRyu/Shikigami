@@ -5,9 +5,10 @@ tags:
 aliases:
   - Garyou_Tensei_Player
 created_at: 2024-08-20T20:47:45-03:00
-updated_at: 2024-08-20T20:47:45-03:00
+updated_at: 2024-08-21T12:38:47-03:00
 ---
 
+![Drawing 2024-08-20 20.49.36.excalidraw](_excalidraw/Garyou_Tensei_player_TUI.excalidraw.png)
 
 ---
 
