@@ -5,7 +5,7 @@ tags:
 aliases:
   - Poetry
 created_at: 2024-08-22T11:58:34-03:00
-updated_at: 2024-08-22T12:12:41-03:00
+updated_at: 2024-08-22T12:23:14-03:00
 ---
 
 Poetry é um [Gerenciador de dependências](Gerenciador%20de%20dependências) e um [empacotador](Empacotador) de projetos [Python](api/ideias/2024/07/09/Linguagem_Python.md). 
@@ -29,4 +29,11 @@ Se já tiver uma pasta com o projeto, pode usar o seguinte comando pra inicializ
 cd Nome_do_projetoq
 poetry init
 ```
+
+## Adicionar pacotes
+
+```sh 
+# poetry add --group [Nome_do_grupo] [Nome_do_pacote]
+poetry add --group dev pytest
 ```
+

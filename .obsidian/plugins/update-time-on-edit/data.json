@@ -731,6 +731,10 @@
     "Python_curses.md": "7363027dc861222d7ecfa584371e3b48967f3ad2dee6469c1bef3397f8b937f6",
     "LinkedIn_Social_Index.md": "da7dc7dd19354091a186c575e06f7f942748a7fecf626cf9ab893cb43787d0c2",
     "Garyou_Tensei_Player.md": "4d5ac7acc9db33f3fc39aaecaa1a0629046acdafde1da27e209ad6dca1800dbb",
-    "Poetry.md": "3ab5d384e182f4b7c43c0101da2e584665c4ce61ae80709abf00a20510ec8751"
+    "Poetry.md": "3cc2a2b50562bc8ed5372a44c3783271a891bf911e2b6e023af4498ea841a5a7",
+    "Pytest.md": "483eab160feb604a401d5dc0a8547de79d5930e99e76332ad5251889508bfa7c",
+    "PEP8.md": "37ada1bf95c9dedecab8ecfb2d387cb5541aedfa263d67bb0d3f2598c190c223",
+    "Blue.md": "ea06951e6336a300ee4d61ce1dbb32a0dd9c830d5ebc932210078493aa2e4de8",
+    "isort.md": "9d4876fd61e9b385d2dc2285acd767c49f54a725af2b86a9d17a5bc2bf19bf22"
   }
 }
