@@ -728,14 +728,14 @@
     "api/ideias/2024/08/11/xdg_desktop_portal_wlr.md": "20df7f7b6ca84b65bc7f5c77751cde832baf767a1cf581a89a2c23121a6154be",
     "__private/Pessoas/0b2b623c-262c-4646-82bf-9a8417771fcb.md": "3032a789c895e7b47851eafcb7c9ddf8e9d74a492fe5ff5847bb43ba1a7e51f7",
     "__private/Pessoas/cb27f0d6-dc41-41ca-a037-4764ada13f1c.md": "f955293db0b1e2439d8979a30857cd9ff961655e9eaa68d94adba4bbdfca9893",
-    "Python_curses.md": "7363027dc861222d7ecfa584371e3b48967f3ad2dee6469c1bef3397f8b937f6",
-    "LinkedIn_Social_Index.md": "da7dc7dd19354091a186c575e06f7f942748a7fecf626cf9ab893cb43787d0c2",
-    "Garyou_Tensei_Player.md": "4d5ac7acc9db33f3fc39aaecaa1a0629046acdafde1da27e209ad6dca1800dbb",
-    "Poetry.md": "98fa70503798e19dd26cf5469c835e355f49fc9a72025eb87e3b8f2d69efe6b6",
-    "Pytest.md": "483eab160feb604a401d5dc0a8547de79d5930e99e76332ad5251889508bfa7c",
-    "PEP8.md": "37ada1bf95c9dedecab8ecfb2d387cb5541aedfa263d67bb0d3f2598c190c223",
-    "Blue.md": "ea06951e6336a300ee4d61ce1dbb32a0dd9c830d5ebc932210078493aa2e4de8",
-    "isort.md": "9d4876fd61e9b385d2dc2285acd767c49f54a725af2b86a9d17a5bc2bf19bf22",
-    "Untitled.md": "f9901dc60f92165c92f0caa1acd75f345f162fb6726594a3c5f7c92425e9f2df"
+    "api/sementes/2024/08/20/Garyou_Tensei_Player.md": "4d5ac7acc9db33f3fc39aaecaa1a0629046acdafde1da27e209ad6dca1800dbb",
+    "api/ideias/2024/08/22/Blue.md": "ea06951e6336a300ee4d61ce1dbb32a0dd9c830d5ebc932210078493aa2e4de8",
+    "api/ideias/2024/08/22/isort.md": "9d4876fd61e9b385d2dc2285acd767c49f54a725af2b86a9d17a5bc2bf19bf22",
+    "api/ideias/2024/08/31/Epifania_Experiencia-Toda_a_Historia_da_Filosofia-Parte_1.md": "f9901dc60f92165c92f0caa1acd75f345f162fb6726594a3c5f7c92425e9f2df",
+    "api/ideias/2024/08/20/Python_curses.md": "7363027dc861222d7ecfa584371e3b48967f3ad2dee6469c1bef3397f8b937f6",
+    "api/ideias/2024/08/22/Pytest.md": "483eab160feb604a401d5dc0a8547de79d5930e99e76332ad5251889508bfa7c",
+    "api/rascunhos/2024/08/22/Poetry.md": "98fa70503798e19dd26cf5469c835e355f49fc9a72025eb87e3b8f2d69efe6b6",
+    "api/ideias/2024/08/22/PEP8.md": "37ada1bf95c9dedecab8ecfb2d387cb5541aedfa263d67bb0d3f2598c190c223",
+    "api/ideias/2024/08/20/LinkedIn_Social_Index.md": "6480a7ddae03a87ae753b015dc73d1992dc853debc98f6a18df0f65367ccf438"
   }
 }
