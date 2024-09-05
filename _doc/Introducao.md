@@ -1,9 +1,9 @@
 ---
-title: Por que anotar?
+title: O que é "Shikigami"?
 chapter: 2
 group: Filosofia
 created_at: 2024-09-04T22:50:26-03:00
-updated_at: 2024-09-05T16:09:06-03:00
+updated_at: 2024-09-05T16:10:19-03:00
 ---
 
 Assim como descrito na página [Sobre]({{ site.url }}/sobre), o projeto [Shikigami](../api/sementes/2024/07/07/Shikigami.md) tem o intuito de servir como um meio de armazenar o meu conhecimento de forma rastreável para tanto compartilhar o meu conhecimento como também me auxiliar para revisar informações que eu gostaria de rever ou me recordar. Por exemplo, eu tenho minhas minhas chaves [SSH](../api/sementes/2024/07/26/SSH.md) na minha [Pasta home](../api/ideias/2024/07/14/Pasta_home.md) que fica em uma [partição](../api/sementes/2024/09/04/Partição.md) separada da [partição](../api/sementes/2024/09/04/Partição.md) em que o [Sistema Operacional](../api/sementes/2024/07/07/Sistema_Operacional.md) (SO) está instalado e sempre que eu formato o [SO](../api/sementes/2024/07/07/Sistema_Operacional.md) eu preciso adicionar as chaves ssh ao [ssh-agent](../api/ideias/2024/07/08/ssh_agent.md) e garantir que ele esteja eme execução quando ligo o computador. Esse processo é bem simples e eu sei que preciso executar, mas como é uma tarefa menos frequente, eu acabo esquecendo qual o comando que preciso digitar e esse seria um exemplo em que o [Shikigami](../api/sementes/2024/07/07/Shikigami.md) se encaixa perfeitamente pois me facilita recuperar a informação e eu tenho certeza que é uma informação segura e correta, evitando que eu tenha o risco de executar algum procedimento malicioso. 
