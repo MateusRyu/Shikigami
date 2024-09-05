@@ -737,7 +737,7 @@
     "api/rascunhos/2024/08/22/Poetry.md": "98fa70503798e19dd26cf5469c835e355f49fc9a72025eb87e3b8f2d69efe6b6",
     "api/ideias/2024/08/22/PEP8.md": "37ada1bf95c9dedecab8ecfb2d387cb5541aedfa263d67bb0d3f2598c190c223",
     "api/ideias/2024/08/20/LinkedIn_Social_Index.md": "6480a7ddae03a87ae753b015dc73d1992dc853debc98f6a18df0f65367ccf438",
-    "_doc/Filosofia.md": "fd7f0c847920001146e1ddf4ba555919a1fdc573463d8e00151f9a95f76848bd",
+    "_doc/Filosofia.md": "d65356d47344348fc337d0acb3a22bf161c99cefc784d7daefd7d5d357527019",
     "api/ideias/2024/09/04/pen_drives.md": "43104e280caa5446030568514b8f2145267b94289e111ab5361fa52801662ea5",
     "api/ideias/2024/09/04/Cartoes_de_memoria.md": "c8a6f03bfef8a59437d221e6b64eaa6e7e027bbc25a60b46c4efd62f3df6534c",
     "api/ideias/2024/09/04/dispositivos_moveis.md": "3ed73d15ddaedc5e83a0bb477f79e03b49d5ddc5e081b27e0fb0cd383e6501cf",
@@ -746,6 +746,7 @@
     "api/sementes/2024/09/04/Memoria_nao_volatil.md": "c7591a25232d8878b50ca43f8225adad32226b6be500c491bfe8faa19334580d",
     "api/sementes/2024/09/04/Partição.md": "adf344870f5d1820c16132ed78df8d43abd5e73d3f4eb5bfef9d7cfd2d655782",
     "api/sementes/2024/09/04/NAND.md": "47a69e03c089c95e6a6428da30f0c348d3bb25894b5e2dab78d4356f5e89b0cf",
-    "api/sementes/2024/09/04/Solid_State_Drive.md": "f7eed6159d96d97719c9281254d3252c54a99cabbc21fb9157a2f70706dc9b5c"
+    "api/sementes/2024/09/04/Solid_State_Drive.md": "f7eed6159d96d97719c9281254d3252c54a99cabbc21fb9157a2f70706dc9b5c",
+    "NoSQL.md": "6d7786850e3411dc4d19330cd7938c2049ca98e8ee6b61f25c3a8a1c05afedaf"
   }
 }
