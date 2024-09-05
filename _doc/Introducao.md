@@ -3,13 +3,10 @@ title: O que é "Shikigami"?
 chapter: 1
 group: Filosofia
 created_at: 2024-09-04T22:50:26-03:00
-updated_at: 2024-09-05T16:33:56-03:00
+updated_at: 2024-09-05T16:37:30-03:00
 ---
 
-[Shikigami](../api/sementes/2024/07/07/Shikigami.md) é uma metodologia para criação, gerenciamento, recuperação e compartilhamento de informação
-
-- Search
-- History
+[Shikigami](../api/sementes/2024/07/07/Shikigami.md) é uma metodologia para criação, gerenciamento, recuperação e compartilhamento de conhecimento. "Shikigami"
 
 Para garantir que esse proposito seja cumprido de maneira eficiente, o projeto consiste em uma coleção de arquivos [Markdown](../api/rascunhos/2024/07/08/Markdown.md) com alguns metadados no frontmatter que serão usados por algumas ferramentas para gestão deles localmente e também para exportar os dados para a web para que eu possa ter acesso á esses dados em qualquer dispositivo que tenha conexão de internet. Todos os arquivos são versionados com o [Git](../api/rascunhos/2024/06/08/Git.md), o que de certa forma acaba dando características semelhantes à um banco de dados [NoSQL](NoSQL).
 
