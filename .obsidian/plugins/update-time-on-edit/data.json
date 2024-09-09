@@ -585,7 +585,7 @@
     "api/ideias/2024/07/07/Xadrez_Aberturas_abertas.md": "cf39dbff02f974ffa1f6ba40f2ba7e87f9e9ee2626f6a4a3b24226281e30c25c",
     "api/mapas/Animes.md": "74ffef0360c9151bda0f6bc7ffb08d5672a11292c90c6ed2d07bac925f8d81c0",
     "api/mapas/Auto_desenvolvimento.md": "18e0d6d0f8e1f8b5ac9561b3512c0cf31c3d80ee177a799cfaeb2187edab6fa9",
-    "api/mapas/Meu_Computador.md": "a73c8677f38aa4d5717bd6a5b6490a52f777b8f4550b3d754b0d3a335267602d",
+    "api/mapas/Meu_Computador.md": "c39b11cb7d9eb652201db2a03441750b64cbbb9d1aa6f30883ab3f4f98aafcd6",
     "api/mapas/Xadrez.md": "2955a2e4158972656e115ff3289b0588a1e9272dd86cea1584087de9f971b3bf",
     "api/mapas/Toram.md": "3aecaeda1d0487d4f490c073011ce72afea613e372c61b4718df482f11658a7e",
     "api/mapas/Psicologia.md": "0246fcd7d6a058f8ea16064dfac18f03660409be918b11df01edca40a18c82de",
@@ -648,7 +648,6 @@
     "api/ideias/2024/08/08/PCIe.md": "2caaf62b074581e62f996fd969e4ce9152c1402265cd7f80be107e711783cb0e",
     "api/ideias/2024/08/06/Statusline.md": "7766d99d112f6c9672f9a6ed087621145b3b97d9983d18d2e1ed8c496997ed1e",
     "api/ideias/2024/08/06/rockspecs.md": "814c1d3b1387ee116504dc659d546b423c4b030ee7608f704baa63e104435ac6",
-    "api/rascunhos/2024/08/10/Crystal Linux.md": "21f029e82cd333e0f0ad84e95cedf99042c36b26ba460e79ef706c607513f4a9",
     "api/ideias/2024/08/10/DE.md": "2b611c9b5db9eba5e3115d979fd19286afe4715544fef4d195b6c80eb88b3b81",
     "api/ideias/2024/08/10/Gnome.md": "2e9b5eb9ec627f34d9b2fdc4da5a9c28945610735fd3c92d98cdc2b732dbf5ef",
     "api/ideias/2024/08/10/GUI.md": "e9146fd9729518ed218f9d3ce3fead269496dc63998aa66a363bf51e5027835e",
@@ -734,7 +733,6 @@
     "api/ideias/2024/08/31/Epifania_Experiencia-Toda_a_Historia_da_Filosofia-Parte_1.md": "1009e741dfebfdb4640f3aa662edc49843b710a821e19c6cba3c4954eb9b1246",
     "api/ideias/2024/08/20/Python_curses.md": "7363027dc861222d7ecfa584371e3b48967f3ad2dee6469c1bef3397f8b937f6",
     "api/ideias/2024/08/22/Pytest.md": "483eab160feb604a401d5dc0a8547de79d5930e99e76332ad5251889508bfa7c",
-    "api/rascunhos/2024/08/22/Poetry.md": "98fa70503798e19dd26cf5469c835e355f49fc9a72025eb87e3b8f2d69efe6b6",
     "api/ideias/2024/08/22/PEP8.md": "37ada1bf95c9dedecab8ecfb2d387cb5541aedfa263d67bb0d3f2598c190c223",
     "api/ideias/2024/08/20/LinkedIn_Social_Index.md": "6480a7ddae03a87ae753b015dc73d1992dc853debc98f6a18df0f65367ccf438",
     "api/ideias/2024/09/04/pen_drives.md": "43104e280caa5446030568514b8f2145267b94289e111ab5361fa52801662ea5",
@@ -774,6 +772,8 @@
     "Debate_ontologico.md": "736764b82b92f9296221d9052c975b4c6df1dda173f0841b24e0c1b0b7265357",
     "Logos.md": "3c0a4eb0d55ac4a91e90e3df817c09a7dea373e7490f4fc26b2150ef70b87d57",
     "Mahoutsukai_No_Yome.md": "4d81a20316080df1ac6da437fd9bda509e71014b681987ce750ed99ed6c231e3",
-    "api/atomos/index.md": "59d8c2447828bc4e95de4bc75d0c54dd217f9e59e0d804032b0bc50ba162b60c"
+    "api/atomos/index.md": "59d8c2447828bc4e95de4bc75d0c54dd217f9e59e0d804032b0bc50ba162b60c",
+    "api/atomos/2024/08/22/Poetry.md": "98fa70503798e19dd26cf5469c835e355f49fc9a72025eb87e3b8f2d69efe6b6",
+    "api/atomos/2024/08/10/Crystal Linux.md": "21f029e82cd333e0f0ad84e95cedf99042c36b26ba460e79ef706c607513f4a9"
   }
 }
