@@ -618,7 +618,6 @@
     "api/rascunhos/2024/07/08/Toram_Ryu.md": "8ae95bfbc6a3d67f3171a0a11fd152166a8bc93a2a897975c5437f9250659a24",
     "api/rascunhos/2024/07/08/Toram_Yuu.md": "a26c29e0df7bce9745e7dd3634007ba4234fdf06b3a9cb8e45836c1ccbad80fc",
     "api/rascunhos/2024/07/10/Usabilidade.md": "59366bc6d041a4c020f86103555ebd7b5592e5f04aeb7d773f83134886ea2d88",
-    "api/rascunhos/2024/07/26/Xadrez_Abertura_Bird.md": "28ac6b1be0dae306db78986463e8ab63e9a861f73241a7655005931c94b5aadb",
     "api/rascunhos/2024/07/08/Xadrez_Defesa_Nimzowitsch.md": "58d9eab6d032b199efd246b714553f304ce8715db7ab1380ab5bdcfb5ab300cb",
     "api/rascunhos/2024/07/08/Xadrez_Oposição_de_Rei.md": "18b36b5d6a27f53c0f82d0e8391b42b57c3c01a0718369c73f6900d34083f24d",
     "api/datas/2023-11-07.md": "e68dfa8a8cfe44172b4ff87cd38054af2858b38dcd1c61e516587486343dcdd6",
@@ -767,13 +766,14 @@
     "api/atomos/index.md": "59d8c2447828bc4e95de4bc75d0c54dd217f9e59e0d804032b0bc50ba162b60c",
     "api/atomos/2024/08/22/Poetry.md": "15af5b575b7ef2c3c8fe3ed02d00a10d1ea7dc0d6a818c61b882e2422043a42e",
     "api/atomos/2024/08/10/Crystal Linux.md": "554d6a0c3ca6f7995dc4e359c7c814bc29254568d4c702fb2dab4e570ceedf82",
-    "api/atomos/2024/07/26/Xadrez_Gambito_Englund.md": "de1cbc6af7af218d223115be4580fff352e09f63dde1518ea81696ec72d64784",
-    "api/atomos/2024/07/26/Xadrez_Gambito_do_rei.md": "7f19b784053933fb2c3db3a48f08367de9689dc50f205d3c48fb447c748fe043",
-    "api/atomos/2024/07/26/Xadrez_Final_de_peao.md": "ab049302ae272970d50ff6ab9836bff306cca75c761b207760d052abc6f9f40f",
-    "api/atomos/2024/07/26/Xadrez_Aberturas_de_flanco.md": "04186436479b23af52e55a245ddeb49e817bc1d82a6be14c575d376d340b5ef7",
-    "api/atomos/2024/07/26/Xadrez_Aberturas.md": "1b85fa7e435451a68b02f9758dce36a8fee42ab94f85b9532a7108c1b331315a",
+    "api/atomos/2024/07/26/Xadrez_Gambito_Englund.md": "bfc4896007a6a7ad62ec334ad90d143693dc28bfa76585a4171f0ad3d7c208b4",
+    "api/atomos/2024/07/26/Xadrez_Gambito_do_rei.md": "0c62f66b38fb76f5e3570171aec255aac0efd7d02bd97cd5e18ea045501bb95c",
+    "api/atomos/2024/07/26/Xadrez_Final_de_peao.md": "782bb804efaff43a91a80dab2fade6056086efd5e211781deb7d5c2ee0273d45",
+    "api/atomos/2024/07/26/Xadrez_Aberturas_de_flanco.md": "4933a984f8dc8cf07852a5da338781e1f110d309f0b138ee00abe824937358a0",
+    "api/atomos/2024/07/26/Xadrez_Aberturas.md": "2111b72ef4021b43d02ee631bd8f22b5f7cac1774830adb868778fe4c77d096c",
     "api/atomos/2024/07/26/Xadrez_Abertura_Van_Geet.md": "6275ca2211a2d051a46f34956ecd744a73af2460e5b1bce9c7ba46c89e57ad91",
-    "api/atomos/2024/07/26/Xadrez_Abertura_Inglesa.md": "65e5590166af6b057e1e7107624f9afba15b583b92cc2f45e050a3f5a9bdb6f6",
-    "api/atomos/2024/07/26/Xadrez_Abertura_de_Peao_da_Dama.md": "bd6c7521c6c77470527d779618a19d777dff9dccd896c9c9d431c79c89320367"
+    "api/atomos/2024/07/26/Xadrez_Abertura_Inglesa.md": "48a8891a99fd8f372f814d7d460263daeb6b730f6e33d26607f32896f9a55436",
+    "api/atomos/2024/07/26/Xadrez_Abertura_de_Peao_da_Dama.md": "7253ee06450998544fb40dffd42781acdb2d18e28e96f494f980425a8d38fbe6",
+    "api/atomos/2024/07/26/Xadrez_Abertura_Bird.md": "43333fee798a5c55e023e409da6113147041587055d47564023dde97589a94dd"
   }
 }

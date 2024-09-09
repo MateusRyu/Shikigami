@@ -5,11 +5,9 @@ tags:
 aliases:
   - Aberturas de flanco
   - Abertura de flanco
-  - aberturas de flanco
-  - abertura de flanco
 draft: true
 created_at: 2024-07-26T13:21:33-03:00
-updated_at: 2024-09-09T10:36:17-03:00
+updated_at: 2024-09-09T10:39:08-03:00
 ---
 
 [Xadrez](../../../../sementes/2024/07/06/Xadrez.md)
@@ -17,8 +15,8 @@ updated_at: 2024-09-09T10:36:17-03:00
 -  (`A00`–`A39`) Primeiro lance das brancas que são diferente de `1.e4` e `1.d4`.
 	-  (`A00`) [Aberturas irregulares](../../../../sementes/2024/07/06/Xadrez_Aberturas_irregulares.md): ![Xadrez_Aberturas_irregulares](../../../../sementes/2024/07/06/Xadrez_Aberturas_irregulares.md#^lista-de-aberturas-irregulares)
 	-  (`A01`) [Abertura Larsen](../../../../ideias/2024/07/12/Xadrez_Abertura_Larsen.md): `1.b3`;
-	-  (`A02`) [Abertura Bird](26/Xadrez_Abertura_Bird.md): `1.f4`;
-		-  (`A03`) [Abertura Bird, variante holandesa](26/Xadrez_Abertura_Bird.md#variante%20Holandesa): `1.f4 d5`;
+	-  (`A02`) [Abertura Bird](Xadrez_Abertura_Bird.md): `1.f4`;
+		-  (`A03`) [Abertura Bird, variante holandesa](Xadrez_Abertura_Bird.md#variante%20Holandesa): `1.f4 d5`;
 	-  (`A04`) [Abertura Zukertort](../../../../ideias/2024/07/26/Xadrez_Abertura_Reti.md): `1.Nf3`;
 		-  (`A05`) [Abertura Réti](../../../../ideias/2024/07/26/Xadrez_Abertura_Reti.md): `1. Nf3 Nf6`;
 		-  (`A06`) [Abertura Réti](../../../../ideias/2024/07/26/Xadrez_Abertura_Reti.md): `1. Nf3 d5`;

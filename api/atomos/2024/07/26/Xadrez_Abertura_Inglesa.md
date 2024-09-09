@@ -5,13 +5,10 @@ tags:
 aliases:
   - Abertura Inglesa
   - Inglesa
-  - abertura Inglesa
-  - inglesa
   - Siciliana reversa
-  - siciliana reversa
 draft: true
 created_at: 2024-07-26T13:21:33-03:00
-updated_at: 2024-09-09T10:35:55-03:00
+updated_at: 2024-09-09T10:38:33-03:00
 ---
 
 [Xadrez](../../../../sementes/2024/07/06/Xadrez.md)

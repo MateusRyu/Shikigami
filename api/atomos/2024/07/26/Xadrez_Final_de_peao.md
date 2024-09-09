@@ -4,10 +4,9 @@ tags:
   - v1
 aliases:
   - Final de peão
-  - final de peão
 draft: true
 created_at: 2024-07-26T13:21:33-03:00
-updated_at: 2024-09-09T10:35:05-03:00
+updated_at: 2024-09-09T10:39:12-03:00
 ---
 
 Nos de peões do [xadrez](../../../../sementes/2024/07/06/Xadrez.md), o rei precisa guiar e proteger o peão até a casa de promoção. A estratégia principal varia de acordo de qual peão será promovida e de onde o peão está. Entretanto, sempre será importante aplicar a [oposição de Rei](../../../../rascunhos/2024/07/08/Xadrez_Oposição_de_Rei.md) para controlaras as casa-chaves.
