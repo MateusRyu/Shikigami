@@ -1,6 +1,6 @@
 ---
 created_at: 2024-08-31T13:28:33-03:00
-updated_at: 2024-09-08T21:06:46-03:00
+updated_at: 2024-09-08T21:18:48-03:00
 ---
 
 ![Thumbnail](https://i.ytimg.com/vi/Y9_UovLgduo/maxresdefault.jpg)
@@ -88,11 +88,10 @@ https://youtu.be/Y9_UovLgduo?si=E4R87EeO8V0_gQTC
 ## Transcrição
 
 \[Música] 
-Uns 2600 anos atrás, na Grécia antiga, tinha um cara que a gente vai chamar de "Thales" \[o vídeo vai usar a grafia "Tales", como usado normalmente na língua portuguesa, entretanto a transcrição vai usar a grafia "Thales"]... porque o nome dele era Thales. E a gente vai acrescentar "de Mileto" porque ele era de uma cidade chamada "Mileto". Tales de Mileto questionava as coisas: "O que será que existe no céu?"; "como as ondas se formam no oceano?"; "quando será que o jantar fica pronto?"; "QUAL A SUBSTÂNCIA PRIMORDIAL QUE DEU ORIGEM À TUDO QUE EXISTE NO UNIVERSO?" \[literalmente gritando]... Do nada... assim. 
+Uns 2600 anos atrás, na [Grécia antiga](../../../../../Grecia_antiga.md), tinha um cara que a gente vai chamar de "[[../../../../../Thales_de_Mileto|Thales]]" \[o vídeo vai usar a grafia "Tales", como usado normalmente na língua portuguesa, entretanto a transcrição vai usar a grafia "Thales"]... porque o nome dele era Thales. E a gente vai acrescentar "de Mileto" porque ele era de uma cidade chamada "[Mileto](../../../../../Mileto.md)". [Thales de Mileto](../../../../../Thales_de_Mileto.md) questionava as coisas: "O que será que existe no céu?"; "como as ondas se formam no oceano?"; "quando será que o jantar fica pronto?"; "QUAL A SUBSTÂNCIA PRIMORDIAL QUE DEU ORIGEM À TUDO QUE EXISTE NO UNIVERSO?" \[literalmente gritando]... Do nada... assim. 
 
-O pessoal gostou muito da última pergunta e essa substância misteriosa ficou conhecida como "arché" então eles focaram nisso por um bom tempo. "É a água", disse Thales; "É o ar", disse Anaximenes é o fogo disse 
-Heráclito é a água o ar o fogo e a terra disse IMP pedoc só para entrar na brincadeira e anaximandro disse que essa 
-substância é o apeiron que significa alguma coisa tipo ilimitado infinito 
+O pessoal gostou muito da última pergunta e essa substância misteriosa ficou conhecida como "[arché](../../../../../Arché.md)" então eles focaram nisso por um bom tempo. "É a água", disse [Thales](../../../../../Thales_de_Mileto.md); "É o ar", disse [Anaxímenes](../../../../../Anaximenes.md); "É o fogo", disse [Heráclito](Heráclito); "É a água, o ar, o fogo e a terra", disse Empédocles (só para entrar na brincadeira) e Anaximandro disse que essa 
+substância é o Ápeiron que significa alguma coisa tipo ilimitado infinito 
 indefinido e cara se não sabe não precisa inventar tá tudo bem ou pera aí será que ele foi o cara que chegou mais 
 perto enfim existe uma interpretação literal dessas ideias e uma interpretação mais metafórica e de 
 qualquer forma ainda que talvez eles não estivessem certos O importante não foram as respostas às quais Eles chegaram e 
