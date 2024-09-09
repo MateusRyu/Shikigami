@@ -4,11 +4,12 @@ tags:
   - v1
 aliases:
   - Blacksmith
+draft: true
 created_at: 2024-07-26T13:21:33-03:00
-updated_at: 2024-08-17T00:24:35-03:00
+updated_at: 2024-09-09T10:41:35-03:00
 ---
 
-[Toram](26/Toram.md)
+[Toram](Toram.md)
 
 ## TEC
 

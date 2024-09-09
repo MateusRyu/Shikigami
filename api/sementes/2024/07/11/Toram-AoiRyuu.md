@@ -5,10 +5,10 @@ tags:
 aliases:
   - Toram-AoiRyuu
 created_at: 2024-07-26T13:21:33-03:00
-updated_at: 2024-08-18T01:17:16-03:00
+updated_at: 2024-09-09T10:41:51-03:00
 ---
 
-[Toram](../../../../rascunhos/2024/07/26/Toram.md)
+[Toram](../../../../atomos/2024/07/26/Toram.md)
 
 [Ryu](../../../../rascunhos/2024/07/08/Toram_Ryu.md): (Mononofu bow) DEX > AGI
 [Aoi](../../../../rascunhos/2024/07/08/Toram_Aoi.md): (BS TEC) TEC > DEX

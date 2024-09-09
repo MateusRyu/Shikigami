@@ -7,7 +7,7 @@ aliases:
   - Lucky
   - Sorte
 created_at: 2024-07-09T00:16:02-03:00
-updated_at: 2024-08-07T17:33:53-03:00
+updated_at: 2024-09-09T10:41:50-03:00
 ---
 
-[Toram](../../../../rascunhos/2024/07/26/Toram.md)
+[Toram](../../../../atomos/2024/07/26/Toram.md)

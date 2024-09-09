@@ -4,8 +4,9 @@ tags:
   - v1
 aliases:
   - Header HTTP
+draft: true
 created_at: 2024-07-05T21:29:10-03:00
-updated_at: 2024-08-06T17:56:11-03:00
+updated_at: 2024-09-09T10:42:32-03:00
 ---
 
 Permitir acesso de uma porta especifica:

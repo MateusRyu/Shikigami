@@ -8,10 +8,10 @@ aliases:
   - Arquétipo
   - arquétipo
 created_at: 2024-07-26T13:21:33-03:00
-updated_at: 2024-08-16T13:42:59-03:00
+updated_at: 2024-09-09T10:41:26-03:00
 ---
 
-Arquétipos, dentro da [psicologia analítica](../../../../rascunhos/2024/07/26/Psicologia_analitica.md), são padrões básicos (no sentido de ser a base ou molde) e arcaicos. Quando nascemos, já temos alguns Arquétipos  em nossa cabeça para que possamos identificar ameaças, recursos e aliados. 
+Arquétipos, dentro da [psicologia analítica](../../../../atomos/2024/07/26/Psicologia_analitica.md), são padrões básicos (no sentido de ser a base ou molde) e arcaicos. Quando nascemos, já temos alguns Arquétipos  em nossa cabeça para que possamos identificar ameaças, recursos e aliados. 
 
 ---
 

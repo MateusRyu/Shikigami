@@ -6,10 +6,10 @@ aliases:
   - Status
   - status
 created_at: 2024-07-26T13:21:33-03:00
-updated_at: 2024-08-16T23:04:54-03:00
+updated_at: 2024-09-09T10:41:51-03:00
 ---
 
-No [Toram](../../../../rascunhos/2024/07/26/Toram.md), o status é a base matemática para o jogo calcular todas as interações de batalha no jogo, que inclui danos, velocidade de ataque, velocidade de conjuração e entre outros. Os status são os dados que o jogador pode distribuir para cada vez que ele aumentar de nível ou através de recompensas no jogo.
+No [Toram](../../../../atomos/2024/07/26/Toram.md), o status é a base matemática para o jogo calcular todas as interações de batalha no jogo, que inclui danos, velocidade de ataque, velocidade de conjuração e entre outros. Os status são os dados que o jogador pode distribuir para cada vez que ele aumentar de nível ou através de recompensas no jogo.
 
 > [!note] Observação
 > As informações são baseados no que os jogadores descobriram e alguma informação pode não estar certo!
