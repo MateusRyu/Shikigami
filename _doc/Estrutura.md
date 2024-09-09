@@ -3,7 +3,7 @@ title: Estrutura dos arquivos
 chapter: 0
 group: Filosofia
 created_at: 2024-09-04T22:50:26-03:00
-updated_at: 2024-09-09T11:30:50-03:00
+updated_at: 2024-09-09T11:42:19-03:00
 ---
 
 A estrutura de arquivos não precisa ser fixo e padronizado para todo mundo. O importante é entender qual a ideia geral para se criar uma estrutura de pastas que faça sentido para permitir que você gaste menos tempo pensando em qual pasta cada documento deveria ir, além de entender o minimo das questões técnicas associados para a gestão dos arquivos (para que o [Software](../api/sementes/2024/07/02/Software.md) continue eficiente e não te atrapalhe). E está tudo bem se não souber qual a estrutura ideal para você, a estrutura ideal é aquela que te permite capturar e conectar ideias de forma eficiente e intuitiva, mas você vai precisar experimentar e avaliar o que te serve melhor para tornar o seu [Shikigami](../api/sementes/2024/07/07/Shikigami.md) no seu verdadeiramente familiar. Aqui, irei descrever uma sugestão de estrutura de arquivos desenvolvida pensando na filosofia do [Shikigami](../api/sementes/2024/07/07/Shikigami.md), a estrutura de pastas do [Zettelkasten](../api/ideias/2024/07/12/Zettelkasten.md) e a estrutura de pastas do [Método PARA](../Metodo_PARA.md) para que você possa ter como referencia e adaptar ao seu contexto.
@@ -12,7 +12,9 @@ A estrutura de arquivos não precisa ser fixo e padronizado para todo mundo. O i
 ### Shikigami
 
 - **Entrada:** Serve como um repositório para informações externas, como artigos, citações, pessoas ou qualquer obra externa. Essa separação inicial permite que você centralize todas as suas referências em um único local.
-- **Retorno:** É um espaço dedicado à reflexão e análise crítica das informações coletadas na pasta "Entrada". Essa separação incentiva a internalização do conhecimento e a formação de suas próprias ideias, permitindo a diversidade ideológica sem que você precise concordar com todasd.
+- **Retorno:** É um espaço dedicado à reflexão e análise crítica das informações coletadas na pasta "Entrada". Essa separação incentiva a internalização do conhecimento e a formação de suas próprias ideias, permitindo a diversidade ideológica sem que você precise concordar com todas.
+- **Átomos:** Pasta para armazenar notas curtas e independentes. É um lugar para registrar ideias, observações e definições de termos de forma concisa.
+- **Diário:** Um espaço pessoal para registrar experiências, pensamentos e sentimentos. Essa separação mantém suas notas mais íntimas separadas das informações mais objetivas.
 
 ## Dicas
 
