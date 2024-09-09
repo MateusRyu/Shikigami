@@ -774,6 +774,7 @@
     "api/atomos/2024/07/26/Toram.md": "fbb02b2376e6a97b09cab493c85993302767db5f0ac478c6ef7e3fede690b486",
     "api/atomos/2024/07/05/Header_HTTP.md": "7098d70ef9bcd49eca0543966ae5c390fed2832f321e7e77d2bc551990159fa9",
     "api/atomos/2024/07/08/Anime.md": "302797f00481a375bdd48c762039702bed12feb074363ca3ffef1db70812dfde",
-    "api/entrada/2024/07/08/Anime_Kuuchuu_Buranko.md": "96ba6bb5db2548a582f6f492f61d632c979c8c6838f1406a89e908965686446a"
+    "api/entrada/2024/07/08/Anime_Kuuchuu_Buranko.md": "96ba6bb5db2548a582f6f492f61d632c979c8c6838f1406a89e908965686446a",
+    "_doc/Estrutura.md": "6be61a335a1107de37e29639ef7f3e159fae29a1e5ca1be5ba6251d0614e4d46"
   }
 }
