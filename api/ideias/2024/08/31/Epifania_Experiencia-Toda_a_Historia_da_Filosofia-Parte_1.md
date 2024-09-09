@@ -6,7 +6,7 @@ aliases:
   - Epifania Experência - Toda a História da Filosofia - Parte 1
   - Toda a História da Filosofia - Parte 1
 created_at: 2024-08-31T13:28:33-03:00
-updated_at: 2024-09-08T22:02:53-03:00
+updated_at: 2024-09-08T22:20:51-03:00
 ---
 
 ![Thumbnail](https://i.ytimg.com/vi/Y9_UovLgduo/maxresdefault.jpg)
@@ -101,20 +101,22 @@ O pessoal gostou muito da última pergunta e essa substância misteriosa ficou c
 
 \[[1:06](https://youtu.be/Y9_UovLgduo?si=ZJNVpA-QJZ6YS410&t=67)]
 Enfim, existe uma interpretação literal dessas ideias e uma interpretação mais metafórica e de qualquer forma, ainda que talvez eles não estivessem certos, o importante não foram as respostas às quais eles chegaram, e sim o método que eles usaram: uma investigação feita por meio da [Razão](../../../../../Razao.md), usando a [observação empírica](../../../../../observacao_empirica.md) e o [Raciocínio lógico](../../07/07/Raciocinio_logico.md), desafiando os mitos e as lendas que explicavam todas as coisas até então. Nessa época surgiram debates e fofocas que duram até hoje: dizem que [Heráclito](../../../../../Heraclito.md) odiava [Parmênides](../../../../../Parmenides.md). Mas não é verdade, [Heráclito](../../../../../Heraclito.md) odiava todo mundo. A suposta treta é que [Heráclito](../../../../../Heraclito.md) dizia "tudo muda sempre", enquanto [Parmênides](../../../../../Parmenides.md) dizia "tudo muda nunca"... nossa grande briga, *hein*? Mas beleza, é mais complicado do que isso. Os dois abrem um [debate ontológico](../../../../../Debate_ontologico.md), ou seja, sobre o ser mas o ser em um sentido mais amplo do que "**ser** humano": o ser como tudo aquilo que existe. [Heráclito](../../../../../Heraclito.md) dizia que todas as coisas *tão* em constante transformação, 
-então é como se o ser não existisse, o que existe é o constante processo de vir 
-a ser isso ficou simbolizado pela frase não se pode entrar duas vezes no mesmo 
-Rio porque tanto o rio quanto a pessoa mudam o tempo inteiro parmenides não negava essas mudanças que a gente vê no 
-mundo Ele só dizia que elas são ilusões dos Sentidos mas para chegar até a verdade a gente tem que usar a razão o 
-que ficou marcado pela sua frase o ser é o não ser não é o não ser é o nada e o 
-nada não existe Olha só isso aqui isso não é o nada isso é só uma 
-tela preta a gente não pode falar a gente não pode nem pensar no nada a partir do momento que a gente pensa no 
-nada esse nada já passa a ser algo então o ser é tudo o que existe ele é imutável 
-e eterno só que o próprio Heráclito reconhecia um princípio imutável e 
-ordenador dessas constantes transformações o Logos então talvez eles 
-nem discordassem tanto assim né A verdade é que é tudo fofoca eles nem se 
-conheceram vocês viram que tem Unos cara aí pensando nas coisas sim os magos do 
-conhecimento brabo da Sapiência Eu conheço um lá da praiao s a b i o s 
-sábios é assim que se chama não Não exatamente apenas um amante da sabedoria 
+então é como se o ser não existisse, o que existe é o constante processo de "vir 
+a ser". Isso ficou simbolizado pela frase: "não se pode entrar duas vezes no mesmo 
+rio", porque tanto o rio quanto a pessoa mudam o tempo inteiro. [Parmênides](../../../../../Parmenides.md) não negava essas mudanças que a gente vê no mundo, ele só dizia que elas são ilusões dos sentidos, mas para chegar até a verdade a gente tem que usar a [razão](../../../../../Razao.md), o que ficou marcado pela sua frase "o ser é, o não-ser não é". O não-ser é o nada e o nada não existe. Olha só isso aqui isso... \[transição para uma tela preta] Isso não é o "nada", isso é só uma 
+tela preta. A gente não pode falar, a gente não pode nem pensar no "nada". A partir do momento que a gente pensa no "nada", esse "nada" já passa a ser algo. Então o ser é tudo o que existe, ele é imutável e eterno. Só que o próprio [Heráclito](../../../../../Heraclito.md) reconhecia um princípio imutável e ordenador dessas constantes transformações: o [Logos](../../../../../Logos.md). Então talvez eles 
+nem discordassem tanto assim, né? A verdade é que é tudo fofoca, eles nem se 
+conheceram. 
+
+\[[3:20](https://youtu.be/Y9_UovLgduo?si=lPl8VIvgCrcWclXs&t=200)]
+- Vocês viram que tem uns cara aí pensando nas coisas? - diz a figura com barba e cabelo preto.
+- Sim os magos do conhecimento! - diz uma figura de barba e cabelo castanho claro.
+- Brabo da Sapiência. - diz uma figura calva com cabelo grisalho.
+- Eu conheço um lá da praia! - diz uma figura com cabelo preto cacheado e sem barba.
+- É maconheiro, pô. - diz uma figura com cabelo preto curto e sem barba.
+- "Esse", "a", "bê", "i", "o", "esse": "sábios". É assim que se chama. - diz a figura com barba e cabelo preto que iniciou a conversa.
+
+não Não exatamente apenas um amante da sabedoria 
 diria humildemente Pitágoras que aliás defendia que a arqué são os números e 
 foi o primeiro cara que disse que era um filósofo que vem de filo amor e Sofia sabedoria surgindo assim filosofia amor 
 pela sabedoria esses caras ficaram conhecidos como pré-socráticos porque eles vieram 
