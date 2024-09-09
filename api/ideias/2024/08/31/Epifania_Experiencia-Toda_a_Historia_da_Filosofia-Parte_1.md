@@ -6,7 +6,7 @@ aliases:
   - Epifania Experência - Toda a História da Filosofia - Parte 1
   - Toda a História da Filosofia - Parte 1
 created_at: 2024-08-31T13:28:33-03:00
-updated_at: 2024-09-08T22:20:51-03:00
+updated_at: 2024-09-09T13:00:35-03:00
 ---
 
 ![Thumbnail](https://i.ytimg.com/vi/Y9_UovLgduo/maxresdefault.jpg)
@@ -202,7 +202,10 @@ morreu beleza Sim essa alegoria é claramente influenciada pela história de
 Sócrates e a busca pela verdade de um real amante da sabedoria incompreendido e condenado pelas pessoas presas as suas 
 próprias ignorâncias tá vendo aquele cara aquele lá recebendo 
 um saco de moedas Pois então ele é um sofista um cara que troca conhecimento por grana Platão é contra cobrar pelo 
-conhecimento Porque até parece que qualquer idiota merece [Aplausos] 
+conhecimento Porque até parece que qualquer idiota merece 
+
+\[Aplausos] 
+
 aprender ah lá ó depois é cancelado na água e não sabe porquê a grande treta 
 mesma é que os sofistas ensinavam as pessoas a argumentar e vencer debates usando táticas de retórica e persuasão 
 sem buscar uma verdade absoluta e admitindo que diferentes pontos de vista podem ser verdadeiros e defendidos como 
