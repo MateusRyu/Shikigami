@@ -6,7 +6,7 @@ aliases:
   - Epifania Experência - Toda a História da Filosofia - Parte 1
   - Toda a História da Filosofia - Parte 1
 created_at: 2024-08-31T13:28:33-03:00
-updated_at: 2024-09-11T22:36:56-03:00
+updated_at: 2024-09-11T22:41:28-03:00
 ---
 
 ![Thumbnail](https://i.ytimg.com/vi/Y9_UovLgduo/maxresdefault.jpg)
@@ -123,9 +123,7 @@ conheceram.
 
 - Quem é esse filósofo!? - Imitando a entonação do intervalo de [Pokemon](Pokemon). 
 
-Não pera aí que que é isso é o [Sócrates](../../../../../Socrates.md) ele nem escrevia pode jogar isso fora aí e na verdade nem todos os 
-pré-socráticos viveram antes de Sócrates alguns deles estavam por ali na mesma época de Sócrates tipo Demócrito que 
-aliás junto com seu mestre leucipo tinha sua própria ideia do que era arqué tudo 
+Não! P-pera aí. Que que é isso? É o [Sócrates](../../../../../Socrates.md) e ele nem escrevia, pode jogar isso fora aí. E na verdade nem todos os pré-socráticos viveram antes de [Sócrates](../../../../../Socrates.md) alguns deles estavam por ali na mesma época de [Sócrates](../../../../../Socrates.md) tipo [Demócrito](../../../../../Democrito.md) que aliás junto com seu mestre leucipo tinha sua própria ideia do que era arqué tudo 
 é feito de umas coisinhas bem pequenas não não pequenas mesmo não vocês não 
 estão entendendo elas são minúsculas invisíveis a olho nu num nível que elas não podem nem ser divididas os átomos 
 porque a significa não e tomo significa divisível então não divisível beleza ele 
