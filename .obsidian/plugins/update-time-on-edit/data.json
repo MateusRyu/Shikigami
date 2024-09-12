@@ -547,9 +547,6 @@
     "api/ideias/2024/07/06/Xadrez_Torre.md": "6428b0fdd2987c048a6c2f67a39e8149eeefd94c466513c1efec2609951306ab",
     "api/ideias/2024/07/06/Xadrez_Taticas.md": "8d5f2d4058cba1534e1ec991e3df2379d7a6e849ae4dc4ec312d86ee22da7d14",
     "api/ideias/2024/07/06/Xadrez_Pecas.md": "775cd15b48743a83805653442787a1ec080df194570856f3d726708be0caf84e",
-    "api/ideias/2024/07/06/Linguagens.md": "dbe7e621c96ac7ed76648565b7a3104a28ec27515c87448eb52cc8b8159ae0ca",
-    "api/ideias/2024/07/06/Linguagem_de_marcacao.md": "a4be1e3908608dde713740364894afbdeaf00649e6eb68de9321be9d75d5bfa9",
-    "api/ideias/2024/07/06/Frameworks.md": "0a7fa7e484411ca8c12258dd1ec34e061f0cd50a0a5f2b6cd31d9ab9b342307b",
     "api/ideias/2024/07/06/Xadrez_Finais_elementais.md": "7f72fedf858a02a08f6cfc28167a7221f3ad5c1a2474329ad04212e89284f8fc",
     "api/datas/2004.md": "13d958201251f973e1fa186eef7ce92a7a0c00e4cb9a85599518da7b2329f541",
     "api/datas/2006.md": "24e50e7a981e8881d61410f7ecd4aaa0a3dc81cdc5ed167a91b6ed18518e47a9",
@@ -590,7 +587,7 @@
     "api/mapas/Psicologia.md": "383978c9a922d9112923033336808ad925745d7ec26e37970e457f97c3e62489",
     "api/mapas/Livros.md": "a54d4e96e61bf05bb3ae83c1e2d1cd8b934357c71cfce2adf2bf07907dd9f384",
     "api/mapas/Habilidades.md": "dc0cf2487038af9e47ca6536519a72f8d9ccf71db89fd7d237e9fe8e37f04750",
-    "api/mapas/Desenvolvimento_de_software.md": "4e4afc5336614baac74e1a7197ec06d0f8b18d181133434060737c491e7dbc84",
+    "api/mapas/Desenvolvimento_de_software.md": "0fccfc16b0f36dd80f6e0b6067477de81fe6a4b132b225dd0338ca5d2bf5d6bf",
     "api/ideias/2024/07/26/Xadrez_Cavalo.md": "cacd2c92439e00c72d5be4ed657c77d1f951404db8f9594dc2bbce7490ae2832",
     "api/ideias/2024/08/05/Aprendizado_profundo.md": "dc014afbe95dbf24f6d9785531b09f1a46905632f3446798bd8440a0c9efb2eb",
     "api/ideias/2024/08/05/Processamento_de_linguagem_natural.md": "200f8cbf5de8fecedd5b62ab1e393c6bab0f226a93b2c19516b8be2949326b09",
@@ -786,6 +783,9 @@
     "Pokemon.md": "082aae463ab497d033ab3e0bcc044f88748febad627487c46e3c09aa76340e0b",
     "Socrates.md": "a2e7b7922ac46097f16585632da0d9edcdb7bab07c12b117d6880e912c3d9696",
     "Democrito.md": "e9129448cc874b40a81cccd4c486fb9cb0429cd86c361ca7f5657e00d25c645e",
-    "api/atomos/2024/07/05/Autodisciplina.md": "563107229ed0e125606dcff86f3ed128706350b31f171dc8a8c4866db1c8f66e"
+    "api/atomos/2024/07/05/Autodisciplina.md": "563107229ed0e125606dcff86f3ed128706350b31f171dc8a8c4866db1c8f66e",
+    "api/atomos/2024/07/06/Frameworks.md": "192682830dd890205ffd1d78dd4c215129ab1552ea521754377d35f82fe82ab9",
+    "api/atomos/2024/07/06/Linguagem_de_marcacao.md": "2ba6b3fbd096e0b91a273e3dc01a18c97cff62966e832f3ff89c51b641abe9b4",
+    "api/atomos/2024/07/06/Linguagens.md": "b750a95032716c2a1e0b3c03b82137d8429f7f439efe0a4eb8368096585d4b15"
   }
 }
