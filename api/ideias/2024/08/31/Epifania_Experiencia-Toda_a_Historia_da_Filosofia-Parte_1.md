@@ -6,7 +6,7 @@ aliases:
   - Epifania Experência - Toda a História da Filosofia - Parte 1
   - Toda a História da Filosofia - Parte 1
 created_at: 2024-08-31T13:28:33-03:00
-updated_at: 2024-09-09T13:00:35-03:00
+updated_at: 2024-09-11T22:09:52-03:00
 ---
 
 ![Thumbnail](https://i.ytimg.com/vi/Y9_UovLgduo/maxresdefault.jpg)
@@ -111,16 +111,16 @@ conheceram.
 \[[3:20](https://youtu.be/Y9_UovLgduo?si=lPl8VIvgCrcWclXs&t=200)]
 - Vocês viram que tem uns cara aí pensando nas coisas? - diz a figura com barba e cabelo preto.
 - Sim os magos do conhecimento! - diz uma figura de barba e cabelo castanho claro.
-- Brabo da Sapiência. - diz uma figura calva com cabelo grisalho.
+- *Brabo* da Sapiência. - diz uma figura calva com cabelo grisalho.
 - Eu conheço um lá da praia! - diz uma figura com cabelo preto cacheado e sem barba.
-- É maconheiro, pô. - diz uma figura com cabelo preto curto e sem barba.
+- É maconheiro, *pô*. - diz uma figura com cabelo preto curto e sem barba.
 - "Esse", "a", "bê", "i", "o", "esse": "sábios". É assim que se chama. - diz a figura com barba e cabelo preto que iniciou a conversa.
 
-não Não exatamente apenas um amante da sabedoria 
-diria humildemente Pitágoras que aliás defendia que a arqué são os números e 
-foi o primeiro cara que disse que era um filósofo que vem de filo amor e Sofia sabedoria surgindo assim filosofia amor 
-pela sabedoria esses caras ficaram conhecidos como pré-socráticos porque eles vieram 
-Antes De quem é esse filósofo não pera aí que que é isso é o 
+"Não. Não exatamente, apenas um amante da sabedoria.", diria humildemente [Pitágoras](../../../../../Pitagoras.md), que aliás, defendia que a [arché](../../../../../Arché.md) são os números e foi o primeiro cara que disse que era um "[filósofo](../../../../../filosofo.md)" que vem de "*philo*: amor" e "*sophia*: sabedoria", surgindo assim filosofia: "amor pela sabedoria". Esses caras ficaram conhecidos como pré-socráticos porque eles vieram antes de... 
+
+\[Corte para fazer uma apologia ao intervalo de [[Pokemon]], mostrando uma silhueta que faz uma piada com uma conotação sexual]
+
+quem é esse filósofo não pera aí que que é isso é o 
 Sócrates ele nem escrevia pode jogar isso fora aí e na verdade nem todos os 
 pré-socráticos viveram antes de Sócrates alguns deles estavam por ali na mesma época de Sócrates tipo Demócrito que 
 aliás junto com seu mestre leucipo tinha sua própria ideia do que era arqué tudo 
