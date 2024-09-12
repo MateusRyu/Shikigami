@@ -6,7 +6,7 @@ aliases:
   - Epifania Experência - Toda a História da Filosofia - Parte 1
   - Toda a História da Filosofia - Parte 1
 created_at: 2024-08-31T13:28:33-03:00
-updated_at: 2024-09-11T22:34:32-03:00
+updated_at: 2024-09-11T22:36:56-03:00
 ---
 
 ![Thumbnail](https://i.ytimg.com/vi/Y9_UovLgduo/maxresdefault.jpg)
@@ -119,7 +119,7 @@ conheceram.
 "Não. Não exatamente, apenas um amante da sabedoria.", diria humildemente [Pitágoras](../../../../../Pitagoras.md), que aliás, defendia que a [arché](../../../../../Arché.md) são os números e foi o primeiro cara que disse que era um "[filósofo](../../../../../filosofo.md)" que vem de "*philo*: amor" e "*sophia*: sabedoria", surgindo assim filosofia: "amor pela sabedoria". Esses caras ficaram conhecidos como pré-socráticos porque eles vieram antes de... 
 
 \[Corte para fazer uma apologia ao intervalo de [Pokemon](../../../../../Pokemon.md), mostrando uma silhueta que faz uma piada com uma conotação sexual]
-![Imagem da silhueta](https://mateusryu.github.io/pittore/images/YouTube/Epifania/Toda%20a%20Hist%C3%B3ria%20da%20Filosofia%20-%20Parte%201.png)
+![Imagem da silhueta](https://mateusryu.github.io/pittore/images/YouTube/Epifania/Toda%20a%20Hist%C3%B3ria%20da%20Filosofia%20-%20Parte%201/Quem_e_esse_filosofo.png)
 
 - Quem é esse filósofo!? - Imitando a entonação do intervalo de [Pokemon](Pokemon). 
 
