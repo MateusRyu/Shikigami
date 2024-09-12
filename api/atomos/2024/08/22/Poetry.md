@@ -1,12 +1,12 @@
 ---
 title: Poetry
 tags:
-  - v1
+  - v1.1
 aliases:
   - Poetry
 draft: true
 created_at: 2024-08-22T11:58:26-03:00
-updated_at: 2024-09-09T10:32:42-03:00
+updated_at: 2024-09-12T16:47:45-03:00
 ---
 
 Poetry é um [Gerenciador de dependências](Gerenciador%20de%20dependências) e um [empacotador](Empacotador) de projetos [Python](api/ideias/2024/07/09/Linguagem_Python.md). 

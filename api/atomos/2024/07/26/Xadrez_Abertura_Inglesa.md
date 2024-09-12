@@ -1,14 +1,14 @@
 ---
 title: Abertura Inglesa
 tags:
-  - v1
+  - v1.1
 aliases:
   - Abertura Inglesa
   - Inglesa
   - Siciliana reversa
 draft: true
 created_at: 2024-07-26T13:21:33-03:00
-updated_at: 2024-09-09T10:38:33-03:00
+updated_at: 2024-09-12T16:46:52-03:00
 ---
 
 [Xadrez](../../../../sementes/2024/07/06/Xadrez.md)

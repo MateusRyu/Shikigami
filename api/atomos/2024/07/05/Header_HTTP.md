@@ -1,12 +1,12 @@
 ---
 title: 2024-06-30-Header_HTTP
 tags:
-  - v1
+  - v1.1
 aliases:
   - Header HTTP
 draft: true
 created_at: 2024-07-05T21:29:10-03:00
-updated_at: 2024-09-09T10:42:32-03:00
+updated_at: 2024-09-12T16:46:25-03:00
 ---
 
 Permitir acesso de uma porta especifica:

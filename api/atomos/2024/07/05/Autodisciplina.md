@@ -1,10 +1,10 @@
 ---
 title: Autodisciplina
 tags:
-  - v1
+  - v1.1
 aliases:
   - Autodisciplina
-  - autodisciplina
+draft: true
 created_at: 2024-07-05T21:29:10-03:00
-updated_at: 2024-08-05T08:53:31-03:00
+updated_at: 2024-09-12T16:48:32-03:00
 ---

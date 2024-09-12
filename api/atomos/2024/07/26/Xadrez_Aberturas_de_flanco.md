@@ -1,13 +1,13 @@
 ---
 title: Aberturas de flanco
 tags:
-  - v1
+  - v1.1
 aliases:
   - Aberturas de flanco
   - Abertura de flanco
 draft: true
 created_at: 2024-07-26T13:21:33-03:00
-updated_at: 2024-09-09T10:39:08-03:00
+updated_at: 2024-09-12T16:46:59-03:00
 ---
 
 [Xadrez](../../../../sementes/2024/07/06/Xadrez.md)
