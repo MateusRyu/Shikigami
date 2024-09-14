@@ -5,11 +5,11 @@ tags:
 aliases:
   - SSH
 created_at: 2024-07-26T13:21:33-03:00
-updated_at: 2024-08-16T14:07:59-03:00
+updated_at: 2024-09-13T22:40:48-03:00
 ---
 # SSH
 ---
-O [protocolo](../../../../ideias/2024/07/06/Protocolo.md) Secure Shell (SSH) é um método para se conectar com segurança a um computador em uma rede não segura para poder executar comandos ou transferir arquivos. O SSH usa [Criptografia](../../06/30/Criptografia.md) para autenticar e criptografar conexões entre dispositivos por meio de uma chave.
+O [protocolo](../../../../atomos/2024/07/06/Protocolo.md) Secure Shell (SSH) é um método para se conectar com segurança a um computador em uma rede não segura para poder executar comandos ou transferir arquivos. O SSH usa [Criptografia](../../06/30/Criptografia.md) para autenticar e criptografar conexões entre dispositivos por meio de uma chave.
 
 ## Verificar chaves existentes
 ```shell

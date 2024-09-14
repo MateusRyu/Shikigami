@@ -542,7 +542,6 @@
     "api/ideias/2024/07/08/Alura.md": "982d16bbdb39cbafbe76d0e55ad640ca9dc40265ab5d7af687aaa9ca4a4ff454",
     "api/ideias/2024/07/08/Xadrez_Abertura_Ware.md": "f1c35f1219b4e4a3043039fd3ae5b6b789bb8a61f4c4a7217e8cc673b630867b",
     "api/ideias/2024/07/08/Xadrez_Abertura_Vienna.md": "bbe09eef035e19a4c5539dedfcf5fa1239ba558e86243a2c7880172721f2a522",
-    "api/ideias/2024/07/06/Protocolo.md": "2c647f7c4d5248e063ff24d89902c5a212c02fa10c2bc8aab7c5974b1273f668",
     "api/ideias/2024/07/06/Xadrez_Peao.md": "0cde7a8214c9ce9690064a4e5b10e3ab96ce6827a3226c668640bf5e7e42f4f4",
     "api/ideias/2024/07/06/Xadrez_Torre.md": "6428b0fdd2987c048a6c2f67a39e8149eeefd94c466513c1efec2609951306ab",
     "api/ideias/2024/07/06/Xadrez_Taticas.md": "8d5f2d4058cba1534e1ec991e3df2379d7a6e849ae4dc4ec312d86ee22da7d14",
@@ -587,7 +586,7 @@
     "api/mapas/Psicologia.md": "383978c9a922d9112923033336808ad925745d7ec26e37970e457f97c3e62489",
     "api/mapas/Livros.md": "a54d4e96e61bf05bb3ae83c1e2d1cd8b934357c71cfce2adf2bf07907dd9f384",
     "api/mapas/Habilidades.md": "dc0cf2487038af9e47ca6536519a72f8d9ccf71db89fd7d237e9fe8e37f04750",
-    "api/mapas/Desenvolvimento_de_software.md": "0fccfc16b0f36dd80f6e0b6067477de81fe6a4b132b225dd0338ca5d2bf5d6bf",
+    "api/mapas/Desenvolvimento_de_software.md": "5ba4a042be0acbfac1191edab456836b8ca62e832d2855cdc63426dea89898ca",
     "api/ideias/2024/07/26/Xadrez_Cavalo.md": "cacd2c92439e00c72d5be4ed657c77d1f951404db8f9594dc2bbce7490ae2832",
     "api/ideias/2024/08/05/Aprendizado_profundo.md": "dc014afbe95dbf24f6d9785531b09f1a46905632f3446798bd8440a0c9efb2eb",
     "api/ideias/2024/08/05/Processamento_de_linguagem_natural.md": "200f8cbf5de8fecedd5b62ab1e393c6bab0f226a93b2c19516b8be2949326b09",
@@ -610,7 +609,7 @@
     "api/rascunhos/2024/07/08/Xadrez_Defesa_Nimzowitsch.md": "58d9eab6d032b199efd246b714553f304ce8715db7ab1380ab5bdcfb5ab300cb",
     "api/rascunhos/2024/07/08/Xadrez_Oposição_de_Rei.md": "18b36b5d6a27f53c0f82d0e8391b42b57c3c01a0718369c73f6900d34083f24d",
     "api/datas/2023-11-07.md": "e68dfa8a8cfe44172b4ff87cd38054af2858b38dcd1c61e516587486343dcdd6",
-    "api/sementes/2024/07/26/SSH.md": "0755d86a2ad67527a9e56315739905c18fb30b647e539b05259ba244dfce97e3",
+    "api/sementes/2024/07/26/SSH.md": "5951705fdbdf778ab4cc7adbf11e2abfae9c94554c6cdc34ccd27030f072d240",
     "api/sementes/2024/07/26/Toram_Status_basico.md": "ba1214fa7d91cffdfd7ec689f7a4d11f5aba857033dd3b35306fa90befc98bca",
     "api/sementes/2024/06/30/Android.md": "f23f33ea0d6ab8b2d7872a35ca33286e29f041196d6f4a6ecdeda38303fc7b82",
     "api/sementes/2024/06/30/Windows.md": "77021a9ef1caa0a6d36d716cc89388b47fe8f510409d323210a02e245f6db647",
@@ -786,6 +785,7 @@
     "api/atomos/2024/07/05/Autodisciplina.md": "563107229ed0e125606dcff86f3ed128706350b31f171dc8a8c4866db1c8f66e",
     "api/atomos/2024/07/06/Frameworks.md": "192682830dd890205ffd1d78dd4c215129ab1552ea521754377d35f82fe82ab9",
     "api/atomos/2024/07/06/Linguagem_de_marcacao.md": "f1a036a77b5cfbbce2decb608c0d55359db59e2c5fb374e8aff03c13d071cf90",
-    "api/atomos/2024/07/06/Linguagens.md": "c3c51a79133a4e8a6185e4dd6cb921ad3d33c2275b39baaa0f9500381877e991"
+    "api/atomos/2024/07/06/Linguagens.md": "c3c51a79133a4e8a6185e4dd6cb921ad3d33c2275b39baaa0f9500381877e991",
+    "api/atomos/2024/07/06/Protocolo.md": "5672cb892bf31bc1f4de584e264fbfe8b4c755e730fc1e7806618841b7112982"
   }
 }

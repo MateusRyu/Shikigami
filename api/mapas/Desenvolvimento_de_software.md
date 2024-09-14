@@ -5,9 +5,9 @@ tags:
 aliases:
   - Desenvolvimento de software
 created_at: 2024-07-08T17:33:33-03:00
-updated_at: 2024-09-12T16:50:59-03:00
+updated_at: 2024-09-13T22:40:48-03:00
 ---
-- [Protocolo](../ideias/2024/07/06/Protocolo.md)
+- [Protocolo](../atomos/2024/07/06/Protocolo.md)
 - [Linguagem de marcação](../atomos/2024/07/06/Linguagem_de_marcacao.md)
 - [Linguagem de programação](../ideias/2024/07/08/Linguagem_de_programacao.md)
 - [Algoritmo](../ideias/2024/07/12/Algoritmo.md)
