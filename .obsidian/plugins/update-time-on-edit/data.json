@@ -546,7 +546,6 @@
     "api/ideias/2024/07/06/Xadrez_Torre.md": "6428b0fdd2987c048a6c2f67a39e8149eeefd94c466513c1efec2609951306ab",
     "api/ideias/2024/07/06/Xadrez_Taticas.md": "8d5f2d4058cba1534e1ec991e3df2379d7a6e849ae4dc4ec312d86ee22da7d14",
     "api/ideias/2024/07/06/Xadrez_Pecas.md": "775cd15b48743a83805653442787a1ec080df194570856f3d726708be0caf84e",
-    "api/ideias/2024/07/06/Xadrez_Finais_elementais.md": "7f72fedf858a02a08f6cfc28167a7221f3ad5c1a2474329ad04212e89284f8fc",
     "api/datas/2004.md": "13d958201251f973e1fa186eef7ce92a7a0c00e4cb9a85599518da7b2329f541",
     "api/datas/2006.md": "24e50e7a981e8881d61410f7ecd4aaa0a3dc81cdc5ed167a91b6ed18518e47a9",
     "api/datas/2022-04-24.md": "269fde8a81bf6e188331db75237d45a8152cea348539849d7b0ad0c2d2f1d458",
@@ -581,7 +580,7 @@
     "api/mapas/Animes.md": "7eb289401c5b9a5666f8f0acc0e35757f5fdff74d9d03dd88aba5b05be719c58",
     "api/mapas/Auto_desenvolvimento.md": "18e0d6d0f8e1f8b5ac9561b3512c0cf31c3d80ee177a799cfaeb2187edab6fa9",
     "api/mapas/Meu_Computador.md": "c39b11cb7d9eb652201db2a03441750b64cbbb9d1aa6f30883ab3f4f98aafcd6",
-    "api/mapas/Xadrez.md": "2dfa331b134a894f7185e8cf46027de16cdea9ee76ec02547445d5ebbbd60507",
+    "api/mapas/Xadrez.md": "255299de1840732f4290eb0bf6d6ebc0f38fa1f632ac67bcb9c24b8b48d01c29",
     "api/mapas/Toram.md": "3b68daf42cb7403b620efbe7162d126c2b3ffe89cc6fa972bbe673a99cff225f",
     "api/mapas/Psicologia.md": "383978c9a922d9112923033336808ad925745d7ec26e37970e457f97c3e62489",
     "api/mapas/Livros.md": "a54d4e96e61bf05bb3ae83c1e2d1cd8b934357c71cfce2adf2bf07907dd9f384",
@@ -648,7 +647,7 @@
     "api/sementes/2024/07/02/Lichess.md": "4ba7652b95f637980edc18a5c6d72b98846ee19b8865c5a364a625fbe1a82e6e",
     "api/sementes/2024/07/05/Teste_de_recordacao_ativa.md": "90471765f0083622c9d12b94b25f395e9d9b563b971cea81b3ff84c0929d9755",
     "api/sementes/2024/07/06/Xadrez_Aberturas_irregulares.md": "0943080df28d3aadbaa1925223a6c0b2d218b1546394deeccbbe25149414dd68",
-    "api/sementes/2024/07/06/Xadrez.md": "2349fdda9aa96e48e9e5446c1194bb05b1fe24c7fec51917e6b3cee08ce9933c",
+    "api/sementes/2024/07/06/Xadrez.md": "262b3e2e89d8e500bdc99bbd6cb68cc117d302ed1e415b507b8de24b9aecdfd7",
     "api/sementes/2024/07/07/Shikigami.md": "3568a16cc6bd31bac39f390267e64cc7f73807cd5b2599f5ab2f9b0fc4b1d3f3",
     "api/sementes/2024/07/07/Habilidade.md": "8a4e5d63f82c3fe5a8fe806f04e28f77a8b660d21e3d5cb88ed5ae2a0406e30c",
     "api/sementes/2024/07/07/Encyclopaedia_of_Chess_Openings.md": "3178d493e5e583620f6234097d84f0310a19ff6f17c038d344549325257772f4",
@@ -786,6 +785,7 @@
     "api/atomos/2024/07/06/Frameworks.md": "192682830dd890205ffd1d78dd4c215129ab1552ea521754377d35f82fe82ab9",
     "api/atomos/2024/07/06/Linguagem_de_marcacao.md": "f1a036a77b5cfbbce2decb608c0d55359db59e2c5fb374e8aff03c13d071cf90",
     "api/atomos/2024/07/06/Linguagens.md": "c3c51a79133a4e8a6185e4dd6cb921ad3d33c2275b39baaa0f9500381877e991",
-    "api/atomos/2024/07/06/Protocolo.md": "5672cb892bf31bc1f4de584e264fbfe8b4c755e730fc1e7806618841b7112982"
+    "api/atomos/2024/07/06/Protocolo.md": "5672cb892bf31bc1f4de584e264fbfe8b4c755e730fc1e7806618841b7112982",
+    "api/atomos/2024/07/06/Xadrez_Finais_elementais.md": "c33c9869a3fc92b73be52cd8147eae95245ecb81f8b2793fc7921cfea0dc3fba"
   }
 }
