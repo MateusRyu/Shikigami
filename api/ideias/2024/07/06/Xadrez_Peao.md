@@ -6,10 +6,18 @@ aliases:
   - Peão
   - Peões
 created_at: 2024-07-26T13:21:33-03:00
-updated_at: 2024-09-15T16:05:33-03:00
+updated_at: 2024-09-15T16:15:46-03:00
 ---
 
 É uma das [peças](Xadrez_Pecas.md) do jogo de [xadrez](../../../../sementes/2024/07/06/Xadrez.md).
+
+## Movimentação
+O peão se movimenta uma casa para a frente.
+
+## Captura
+O peão captura a peça inimiga à uma casa na diagonal à sua frente.
+
+## Movimentos especiais
 
 
 ## Lista de peões
