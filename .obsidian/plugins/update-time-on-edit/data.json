@@ -542,7 +542,7 @@
     "api/ideias/2024/07/08/Alura.md": "982d16bbdb39cbafbe76d0e55ad640ca9dc40265ab5d7af687aaa9ca4a4ff454",
     "api/ideias/2024/07/08/Xadrez_Abertura_Ware.md": "f1c35f1219b4e4a3043039fd3ae5b6b789bb8a61f4c4a7217e8cc673b630867b",
     "api/ideias/2024/07/08/Xadrez_Abertura_Vienna.md": "bbe09eef035e19a4c5539dedfcf5fa1239ba558e86243a2c7880172721f2a522",
-    "api/ideias/2024/07/06/Xadrez_Peao.md": "9f26810b149b6920f5dc6bbd0f9ba3f3654ce20c2c4b9704d50904b167592c4a",
+    "api/ideias/2024/07/06/Xadrez_Peao.md": "24912bbc30a59c776ce9c78043b9195d66e35639171eb95fb1debb12b7a999b0",
     "api/ideias/2024/07/06/Xadrez_Torre.md": "6428b0fdd2987c048a6c2f67a39e8149eeefd94c466513c1efec2609951306ab",
     "api/ideias/2024/07/06/Xadrez_Taticas.md": "8d5f2d4058cba1534e1ec991e3df2379d7a6e849ae4dc4ec312d86ee22da7d14",
     "api/ideias/2024/07/06/Xadrez_Pecas.md": "775cd15b48743a83805653442787a1ec080df194570856f3d726708be0caf84e",
@@ -787,6 +787,7 @@
     "api/atomos/2024/07/06/Linguagens.md": "c3c51a79133a4e8a6185e4dd6cb921ad3d33c2275b39baaa0f9500381877e991",
     "api/atomos/2024/07/06/Protocolo.md": "5672cb892bf31bc1f4de584e264fbfe8b4c755e730fc1e7806618841b7112982",
     "api/atomos/2024/07/06/Xadrez_Finais_elementais.md": "c33c9869a3fc92b73be52cd8147eae95245ecb81f8b2793fc7921cfea0dc3fba",
-    "apoie.md": "bac72f3927fb8ec2133b6f2d90215f513ed4bdb567df546cea2e6595a6637a95"
+    "apoie.md": "bac72f3927fb8ec2133b6f2d90215f513ed4bdb567df546cea2e6595a6637a95",
+    "En_passant.md": "998d4f1a82c4c85a1f00dbae5ed6f46d8f253ef1a0c1ea71ae47153bcb9117f1"
   }
 }
