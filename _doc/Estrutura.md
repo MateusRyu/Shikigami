@@ -3,7 +3,7 @@ title: Estrutura dos arquivos
 chapter: 0
 group: Filosofia
 created_at: 2024-09-04T22:50:26-03:00
-updated_at: 2024-09-15T16:33:13-03:00
+updated_at: 2024-09-15T16:49:11-03:00
 ---
 
 A estrutura de arquivos não precisa ser fixo e padronizado para todo mundo. O importante é entender qual a ideia geral para se criar uma estrutura de pastas que faça sentido para permitir que você gaste menos tempo pensando em qual pasta cada documento deveria ir, além de entender o minimo das questões técnicas associados para a gestão dos arquivos (para que o [Software](../api/sementes/2024/07/02/Software.md) continue eficiente e não te atrapalhe). E está tudo bem se não souber qual a estrutura ideal para você, a estrutura ideal é aquela que te permite capturar e conectar ideias de forma eficiente e intuitiva, mas você vai precisar experimentar e avaliar o que te serve melhor para tornar o seu [Shikigami](../api/sementes/2024/07/07/Shikigami.md) no seu verdadeiramente familiar. Aqui, irei descrever uma sugestão de estrutura de arquivos desenvolvida pensando na filosofia do [Shikigami](../api/sementes/2024/07/07/Shikigami.md), a estrutura de pastas do [Zettelkasten](../api/ideias/2024/07/12/Zettelkasten.md) e a estrutura de pastas do [Método PARA](../Metodo_PARA.md) para que você possa ter como referencia e adaptar ao seu contexto.
@@ -22,10 +22,10 @@ Entretanto, como ponto negativo, essa fixação dos documentos vai criar a neces
 - **Diário:** Um espaço pessoal para registrar experiências, pensamentos e sentimentos. Essa separação mantém suas notas mais íntimas separadas das informações mais objetivas.
 - **Segredos:** Uma pasta dedicada para informações que você quer anotar para si mesmo mas definitivamente não quer que seja exposto. Essa pasta já é uma contra-medida para aumentar a segurança das suas notas sem te restringir. Pode ser marcado no seu sistema de backup/publicação para ser ignorado.
 
-Dentro de cada pasta
+### Sub estrutura
+Opcionalmente, você pode adotar, em cada pasta, uma estrutura de pastas de `./ano/mês/dia/` para reduzir a quantidade de arquivos soltos, em que o `ano`, `mês` e `dia` são referentes à data de criação do arquivo, visto que esta é uma informação inata de cada documento e essa divisão temporal ajuda a diminuir o sobrecarregamento das pasta e é uma estrutura bem previsível. Reduzir a quantidade de arquivos soltos, apesar de aumentar a complexidade da estrutura, pode melhorar o desempenho dos [softwares](../api/sementes/2024/07/02/Software.md) que vão utilizar e manipular o projeto.
 
 ## Dicas
-
 - **Comece simples:** Não se preocupe em criar uma estrutura perfeita desde o início. Adapte-a conforme suas necessidades evoluem.
 - **Seja consistente:** Mantenha uma nomenclatura clara e consistente para facilitar a organização e a pesquisa.
 - **Experimente:** Não tenha medo de experimentar diferentes estruturas até encontrar aquela que funciona melhor para você.
