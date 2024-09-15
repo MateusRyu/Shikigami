@@ -6,19 +6,25 @@ aliases:
   - Peão
   - Peões
 created_at: 2024-07-26T13:21:33-03:00
-updated_at: 2024-09-15T16:15:46-03:00
+updated_at: 2024-09-15T16:20:07-03:00
 ---
 
 É uma das [peças](Xadrez_Pecas.md) do jogo de [xadrez](../../../../sementes/2024/07/06/Xadrez.md).
 
 ## Movimentação
-O peão se movimenta uma casa para a frente.
+O peão se movimenta uma única casa para a frente.
 
 ## Captura
 O peão captura a peça inimiga à uma casa na diagonal à sua frente.
 
 ## Movimentos especiais
+### Avanço duplo
+Quando o peão está na sua casa inicial, ele pode avançar duas casas para frente, ao invés de uma única casa.
 
+### Promoção
+Quando o peão chega na última casa da coluna, ele pode ser promovido para qualquer outra peça, exceto o [Rei](../07/Xadrez_Rei_xadrez.md).
+
+### En Passant
 
 ## Lista de peões
 ---
