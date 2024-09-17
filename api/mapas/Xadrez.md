@@ -5,7 +5,7 @@ tags:
 aliases:
   - Xadrez
 created_at: 2024-08-04T13:50:36-03:00
-updated_at: 2024-09-15T16:30:46-03:00
+updated_at: 2024-09-16T23:12:13-03:00
 ---
 
 - [Xadrez](../sementes/2024/07/06/Xadrez.md)
@@ -14,4 +14,4 @@ updated_at: 2024-09-15T16:30:46-03:00
 - [História do xadrez](../ideias/2024/07/07/Xadrez_Historia.md)
 - [Aberturas de xadrez](../atomos/2024/07/26/Xadrez_Aberturas.md)
 - [Finais elementais](../atomos/2024/07/06/Xadrez_Finais_elementais.md)
-- [Táticas de xadrez](../ideias/2024/07/06/Xadrez_Taticas.md)
+- [Táticas de xadrez](../atomos/2024/07/26/Xadrez_Taticas.md)

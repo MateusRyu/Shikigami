@@ -517,8 +517,8 @@
     "api/ideias/2024/07/08/Xadrez_Roque.md": "b6f8c9c2f7f237ba2fdea2d068491cbb2d52696e70d3a667f5da5c3a6e6b7383",
     "api/ideias/2024/07/08/Xadrez_Peao_do_Rei.md": "78cc51790ac84cec06e159ef37fecf188a949dc379d90fcbffe95e7113ca8e31",
     "api/ideias/2024/07/08/Xadrez_Peao_do_cavalo.md": "93605141d5ad5488ae7d85992065d480ede1b942ed4f6ebf8361c263c343cfd9",
-    "api/ideias/2024/07/08/Xadrez_Desperado.md": "74d9303645ed815e9021b63f40919eca32215ed1770372f24830fa193be0584a",
-    "api/ideias/2024/07/08/Xadrez_Peao_da_torre.md": "f3771fb21eeba3c18e78b10603863f0d1d782cc912ab313686124eb950895e7a",
+    "api/ideias/2024/07/08/Xadrez_Desperado.md": "47d8f520532dfdc92e7afe7c5135fa3cffa7341ac06a3e0f8e049a85b673fd29",
+    "api/ideias/2024/07/08/Xadrez_Peao_da_torre.md": "ae8e17a03f2ae92af4cc0e70a7c2e2128e683cdf8d4f947ff0e2d4781918562e",
     "api/ideias/2024/07/08/Xadrez_Peao_da_dama.md": "08a15f7b21ce5877f84814722765ea395a6a14aa15fd0ec750651222d94221d9",
     "api/ideias/2024/07/08/Oracle.md": "fc077957310aea37b9468e33189be48de8c024951eb83ad4c9494297decd2df6",
     "api/ideias/2024/07/08/Fonte_Nerd_Font.md": "b9cfcf21cbca004f5ace6fd51998079104e65bd5441f0a5ce8c5542352e2b4f7",
@@ -542,8 +542,6 @@
     "api/ideias/2024/07/08/Alura.md": "982d16bbdb39cbafbe76d0e55ad640ca9dc40265ab5d7af687aaa9ca4a4ff454",
     "api/ideias/2024/07/08/Xadrez_Abertura_Ware.md": "f1c35f1219b4e4a3043039fd3ae5b6b789bb8a61f4c4a7217e8cc673b630867b",
     "api/ideias/2024/07/08/Xadrez_Abertura_Vienna.md": "bbe09eef035e19a4c5539dedfcf5fa1239ba558e86243a2c7880172721f2a522",
-    "api/ideias/2024/07/06/Xadrez_Torre.md": "8fa4d348cfc0b2156af8cdf9d580d8b81b09414ce59e11958f0e735830331145",
-    "api/ideias/2024/07/06/Xadrez_Taticas.md": "8d5f2d4058cba1534e1ec991e3df2379d7a6e849ae4dc4ec312d86ee22da7d14",
     "api/datas/2004.md": "13d958201251f973e1fa186eef7ce92a7a0c00e4cb9a85599518da7b2329f541",
     "api/datas/2006.md": "24e50e7a981e8881d61410f7ecd4aaa0a3dc81cdc5ed167a91b6ed18518e47a9",
     "api/datas/2022-04-24.md": "269fde8a81bf6e188331db75237d45a8152cea348539849d7b0ad0c2d2f1d458",
@@ -578,7 +576,7 @@
     "api/mapas/Animes.md": "7eb289401c5b9a5666f8f0acc0e35757f5fdff74d9d03dd88aba5b05be719c58",
     "api/mapas/Auto_desenvolvimento.md": "18e0d6d0f8e1f8b5ac9561b3512c0cf31c3d80ee177a799cfaeb2187edab6fa9",
     "api/mapas/Meu_Computador.md": "c39b11cb7d9eb652201db2a03441750b64cbbb9d1aa6f30883ab3f4f98aafcd6",
-    "api/mapas/Xadrez.md": "e7768dd5c70a4534292a3f2f88cf737df449c444743aeaaecf7bbc1406659d92",
+    "api/mapas/Xadrez.md": "1b1d8c31761a96424bfa8f403ddb3547ee8d6bbd5c2d23a5e33b29660790a116",
     "api/mapas/Toram.md": "3b68daf42cb7403b620efbe7162d126c2b3ffe89cc6fa972bbe673a99cff225f",
     "api/mapas/Psicologia.md": "383978c9a922d9112923033336808ad925745d7ec26e37970e457f97c3e62489",
     "api/mapas/Livros.md": "a54d4e96e61bf05bb3ae83c1e2d1cd8b934357c71cfce2adf2bf07907dd9f384",
@@ -788,6 +786,8 @@
     "apoie.md": "bac72f3927fb8ec2133b6f2d90215f513ed4bdb567df546cea2e6595a6637a95",
     "En_passant.md": "998d4f1a82c4c85a1f00dbae5ed6f46d8f253ef1a0c1ea71ae47153bcb9117f1",
     "api/atomos/2024/07/26/Xadrez_Peao.md": "78e2d3c8cff1109a85d4098c56dd3181aa728782f0ea6900c0dd5dc4be013471",
-    "api/atomos/2024/07/08/Xadrez_Pecas.md": "7e5447d187887ec18899a328e1a86062c75edca20215b55133e1bf16e463a53a"
+    "api/atomos/2024/07/08/Xadrez_Pecas.md": "357b0793ae8dfec523c81ee584daf0b0afe717dfcb59dbf14375e3c0ab9691e9",
+    "api/atomos/2024/07/26/Xadrez_Taticas.md": "7035fb31b68953b6009f3ce959ec4dacfd4b7b4908d5c68a2722ead016f9d3ec",
+    "api/atomos/2024/07/26/Xadrez_Torre.md": "2bd26e245908363e7c0fe12721c243dd18e41877073f51bce736af60182d0fd7"
   }
 }
