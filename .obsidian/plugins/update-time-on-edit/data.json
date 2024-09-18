@@ -426,8 +426,6 @@
     "api/ideias/2024/07/12/Psicologia_Atitude.md": "6dc61db733a8a554c32cac9032ad8b737a81583e936116caadde68a860877f60",
     "api/ideias/2024/07/12/Psicologia_Animus.md": "3bf5d134b2df92e2e18530cba46b15aac78ef9047584ce2361aa14c4f3da93db",
     "api/ideias/2024/07/12/Psicologia_Anima.md": "1244f540342500dd12b49a4c7a9961736ea789c4dc06fc62ad203414a03996b9",
-    "api/ideias/2024/07/12/Algoritmo.md": "ee7129aaae5fc7b1581007424145eaea5b1ed6230e769dd2ef51fbaabe428b1d",
-    "api/ideias/2024/07/12/Administradores_de_sistemas.md": "1892667e3a36489bb81db2e93d14ebcebfa6c87c5e4ac73ae7164e0f359d67d0",
     "api/ideias/2024/07/12/Xadrez_Abertura_peão_do_rei.md": "d76c6ae6fd8f4b0fd99206b9c24c52d33ff142f25d6503ed6d10101beb568d83",
     "api/ideias/2024/07/12/Xadrez_Abertura_Larsen.md": "17d6e609833a00b49fe1568d813a6bae5cb66275b525da551b57d0c26f7c1d6c",
     "api/ideias/2024/07/12/Xadrez_Abertura_Holandesa.md": "489e23f56d0c4445d8b788b687feef0b210ec6fa6d321b4aba84fa871c4d4094",
@@ -528,7 +526,7 @@
     "api/ideias/2024/07/08/luarocks.md": "7a45998f1ccdaad10a1d0eba6dd0c599e874c7159aae80a145932139735cef1f",
     "api/ideias/2024/07/08/LuaJIT.md": "3b2b29804a5dfd7fcdc43f171edac45004e59512a8c8fda8ccdf592e82ae144c",
     "api/ideias/2024/07/08/Linus_Torvalds.md": "ab42953c1f5a541a929392a06fb63f9d8ad1c30c93a74849758e6e5c9b1d4f90",
-    "api/ideias/2024/07/08/Linguagem_de_programacao.md": "af0b78e5205cee795cc4852a761e19e83e29648560c74cd4c6f962c1577d26c0",
+    "api/ideias/2024/07/08/Linguagem_de_programacao.md": "71e9ad7ed80ec1ccc0270637404f85b811bd6d627d45b01eaae57ae34943c731",
     "api/ideias/2024/07/08/Linguagem_Java.md": "10961a84d5ed12bbaa4e5318679c2674cbca4adf78114c7c7aec1d1ed58f8b7c",
     "api/ideias/2024/07/08/Frameworks_Spring.md": "84f3ea3f821971f36859511073f220231845c5078b740fd19f147d77e051319e",
     "api/ideias/2024/07/08/Integrated_Development_Environment.md": "d14a6a1c17e6bc56982285c1a4b9296eb2a8a9ac74b99af3166569a4d7919258",
@@ -581,7 +579,7 @@
     "api/mapas/Psicologia.md": "383978c9a922d9112923033336808ad925745d7ec26e37970e457f97c3e62489",
     "api/mapas/Livros.md": "a54d4e96e61bf05bb3ae83c1e2d1cd8b934357c71cfce2adf2bf07907dd9f384",
     "api/mapas/Habilidades.md": "dc0cf2487038af9e47ca6536519a72f8d9ccf71db89fd7d237e9fe8e37f04750",
-    "api/mapas/Desenvolvimento_de_software.md": "5ba4a042be0acbfac1191edab456836b8ca62e832d2855cdc63426dea89898ca",
+    "api/mapas/Desenvolvimento_de_software.md": "897c90c0582249dc09861e8c74dd53767218e94877a2265debc0a542f90db9d0",
     "api/ideias/2024/07/26/Xadrez_Cavalo.md": "04e9a340e3abf2ac04801a1865d32017bb07394cd6835c023b6ebc2502747f88",
     "api/ideias/2024/08/05/Aprendizado_profundo.md": "dc014afbe95dbf24f6d9785531b09f1a46905632f3446798bd8440a0c9efb2eb",
     "api/ideias/2024/08/05/Processamento_de_linguagem_natural.md": "200f8cbf5de8fecedd5b62ab1e393c6bab0f226a93b2c19516b8be2949326b09",
@@ -653,7 +651,7 @@
     "api/sementes/2024/07/08/Linux.md": "9ab439d65847446ad699b718b0344635fc959a65fc5001f802a268273d8f181e",
     "api/sementes/2024/07/08/LazyVim.md": "c64d490a31e63de2b225436bf2b6d43b55d77363af1b63e773b7650a80e96955",
     "api/sementes/2024/07/08/Obsidian.md": "c60b5e8b578308cf05450fc4c95fb9c0d15f49907ad47b9ed6864ce4c6e3edf9",
-    "api/sementes/2024/07/09/Emulador_de_terminal.md": "1fb98f9fb3b6991eac52b9704dd9e974fe4a8548604b205fdb555fb4fc22ddbb",
+    "api/sementes/2024/07/09/Emulador_de_terminal.md": "6cb07e2d95e5f8c7888c17c3ab6815edd522a48b5b574de7e12395241efd80eb",
     "api/sementes/2024/07/09/Toram_STR.md": "e2159eb157966f61e43cf93c6b5bac6a7ff8091e58472c347e5e1c62fbfb901a",
     "api/ideias/2024/07/12/Toram_One_Handed_Sword.md": "93b8b5c137f7e6a21734f82644ee71659fdc6bb93e539d99459a253231186845",
     "api/sementes/2024/07/09/Toram_Status.md": "194227460fd3d7375faed28a8c570735e74183150f6c044e55e59e9939645be3",
@@ -788,6 +786,8 @@
     "api/atomos/2024/07/26/Xadrez_Peao.md": "78e2d3c8cff1109a85d4098c56dd3181aa728782f0ea6900c0dd5dc4be013471",
     "api/atomos/2024/07/08/Xadrez_Pecas.md": "357b0793ae8dfec523c81ee584daf0b0afe717dfcb59dbf14375e3c0ab9691e9",
     "api/atomos/2024/07/26/Xadrez_Taticas.md": "7035fb31b68953b6009f3ce959ec4dacfd4b7b4908d5c68a2722ead016f9d3ec",
-    "api/atomos/2024/07/26/Xadrez_Torre.md": "2bd26e245908363e7c0fe12721c243dd18e41877073f51bce736af60182d0fd7"
+    "api/atomos/2024/07/26/Xadrez_Torre.md": "2bd26e245908363e7c0fe12721c243dd18e41877073f51bce736af60182d0fd7",
+    "api/atomos/2024/07/12/Administradores_de_sistemas.md": "126a5b5f1f32fb7b5f2cd1b40aa6f37030e6a4a546e14ba0e7701354fd14832e",
+    "api/atomos/2024/07/12/Algoritmo.md": "e7905378bdfb5000c31aa434f670e28c4f176a51a6d2135e71d2cf0d5f2321e8"
   }
 }
