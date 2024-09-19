@@ -5,7 +5,7 @@ tags:
 aliases:
   - Sintaxe
 created_at: 2024-07-12T19:18:56-03:00
-updated_at: 2024-08-17T00:29:48-03:00
+updated_at: 2024-09-18T22:53:30-03:00
 ---
 
 O obsidian tem uma [sintaxe](Sintaxe.md) baseado no [markdown](../../../../rascunhos/2024/07/08/Markdown.md) e traz algumas outras extras para auxiliar na conexões dos [grafos](Grafos.md).
@@ -32,7 +32,7 @@ O obsidian tem uma [sintaxe](Sintaxe.md) baseado no [markdown](../../../../rascu
 [Nome do documento](Nome%20do%20documento.md#^ID_do_bloco)
 ```
 
-> Observação: É preciso seguir a [Codificação URL](Codificação_URL.md) para o caminho de onde está localizado o arquivo que o link se refere!
+> Observação: É preciso seguir a [Codificação URL](../../../../atomos/2024/07/12/Codificação_URL.md) para o caminho de onde está localizado o arquivo que o link se refere!
 #### Apelido
 ```md
 [[Nome do documento|apelido usado para exibição do texto]]
