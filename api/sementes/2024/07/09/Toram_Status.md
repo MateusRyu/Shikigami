@@ -6,7 +6,7 @@ aliases:
   - Status
   - status
 created_at: 2024-07-26T13:21:33-03:00
-updated_at: 2024-09-09T10:41:51-03:00
+updated_at: 2024-09-30T20:07:10-03:00
 ---
 
 No [Toram](../../../../atomos/2024/07/26/Toram.md), o status é a base matemática para o jogo calcular todas as interações de batalha no jogo, que inclui danos, velocidade de ataque, velocidade de conjuração e entre outros. Os status são os dados que o jogador pode distribuir para cada vez que ele aumentar de nível ou através de recompensas no jogo.
@@ -53,7 +53,7 @@ Para fins didáticos, os jogadores separaram os status em algumas categorias:
 4. [Status não-derivados](../../../../ideias/2024/07/09/Toram_Status%20não-derivados.md): Aqueles obtidos exclusivamente de equipamentos ou habilidade.
 5. [Status Especial](../../../../ideias/2024/07/09/Toram_Status_Especial.md): Status que não se encaixam nas classificações anteriores.
 
-Por exemplo, digamos que queremos calcular o valor de [ATK](../../../../ideias/2024/07/09/Toram_ATK.md) para o usuário da [Espada de uma mão](../../../../ideias/2024/07/12/Toram_One_Handed_Sword.md). Este status é baseada em ([Status básicos](../26/Toram_Status_basico.md)) [STR](Toram_STR.md) e [DEX](../../../../ideias/2024/07/09/Toram_DEX.md) e ([Status de equipamento](../../../../ideias/2024/07/09/Toram_Status_de_equipamento.md)) [ATK](../../../../ideias/2024/07/09/Toram_ATK.md). Portanto os passos serão os seguintes:
+Por exemplo, digamos que queremos calcular o valor de [ATK](../../../../ideias/2024/07/09/Toram_ATK.md) para o usuário da [Espada de uma mão](../../../../entrada/2024/07/12/Toram_One_Handed_Sword.md). Este status é baseada em ([Status básicos](../26/Toram_Status_basico.md)) [STR](Toram_STR.md) e [DEX](../../../../ideias/2024/07/09/Toram_DEX.md) e ([Status de equipamento](../../../../ideias/2024/07/09/Toram_Status_de_equipamento.md)) [ATK](../../../../ideias/2024/07/09/Toram_ATK.md). Portanto os passos serão os seguintes:
 1. Pegue [STR](Toram_STR.md) e [DEX](../../../../ideias/2024/07/09/Toram_DEX.md) originais. Aplique o modificador [STR](Toram_STR.md)% e [DEX](../../../../ideias/2024/07/09/Toram_DEX.md)% a eles.
 2. Aplique o modificador plano [STR](Toram_STR.md)+ e [DEX](../../../../ideias/2024/07/09/Toram_DEX.md)+ ao resultado de (1), obtemos [STR](Toram_STR.md) final e [DEX](../../../../ideias/2024/07/09/Toram_DEX.md) final.
 3. Pegue o [ATK](../../../../ideias/2024/07/09/Toram_ATK.md) da arma e calcule seu bônus de refinamento.

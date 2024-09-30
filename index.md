@@ -6,7 +6,7 @@ tags:
 aliases:
   - Index
 created_at: 2024-08-02T10:36:05-03:00
-updated_at: 2024-08-16T23:26:41-03:00
+updated_at: 2024-09-30T20:17:17-03:00
 ---
 
 - lazer:
@@ -17,7 +17,7 @@ updated_at: 2024-08-16T23:26:41-03:00
 - Estudos:
   - [Auto-desenvolvimento](api/mapas/Auto_desenvolvimento.md);
   - [Desenvolvimento de software](api/mapas/Desenvolvimento_de_software.md);
-  - [Oracle Next Education](api/ideias/2024/07/08/Oracle_Next_Education.md);
+  - [Oracle Next Education](api/entrada/2024/07/08/Oracle_Next_Education.md);
   - [Psicologia](api/mapas/Psicologia.md)
   - [Habilidades](api/mapas/Habilidades.md)
 - Projetos:

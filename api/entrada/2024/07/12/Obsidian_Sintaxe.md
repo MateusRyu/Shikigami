@@ -5,10 +5,10 @@ tags:
 aliases:
   - Sintaxe
 created_at: 2024-07-12T19:18:56-03:00
-updated_at: 2024-09-30T20:03:19-03:00
+updated_at: 2024-09-30T20:05:34-03:00
 ---
 
-O obsidian tem uma [sintaxe](Sintaxe.md) baseado no [markdown](../../../../rascunhos/2024/07/08/Markdown.md) e traz algumas outras extras para auxiliar na conexões dos [grafos](../../../../atomos/2024/07/12/Grafos.md).
+O obsidian tem uma [sintaxe](../../../../atomos/2024/07/12/Sintaxe.md) baseado no [markdown](../../../../rascunhos/2024/07/08/Markdown.md) e traz algumas outras extras para auxiliar na conexões dos [grafos](../../../../atomos/2024/07/12/Grafos.md).
 
 ---
 
@@ -65,7 +65,7 @@ No caso de imagens, é possível redimensionar o tamanho dela ao adicionar `|lar
 ![[Document.pdf#page=3]]
 ```
 
-Também é possível especificar a largura em [pixel](Pixel.md) para o PDF, adicionando `#height=[number]` no final do link. Por exemplo:
+Também é possível especificar a largura em [pixel](../../../../atomos/2024/07/12/Pixel.md) para o PDF, adicionando `#height=[number]` no final do link. Por exemplo:
 
 ```md
 ![[Document.pdf#height=400]]

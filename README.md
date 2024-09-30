@@ -1,6 +1,6 @@
 ---
 created_at: 2024-07-08T17:33:33-03:00
-updated_at: 2024-08-17T00:27:27-03:00
+updated_at: 2024-09-30T20:14:17-03:00
 ---
 # Shikigami
 ---
@@ -18,7 +18,7 @@ Shikigami is a project to keep my knowledge at one unique place and serve as API
 - [ ] Template to each type of knowledge for easy consume;
 - [x] Private folder to sensitive data (Folder will not be store remotely);
 - [x] End-point to consume data;
-- [x] Each data is writing with [Markdown](api/rascunhos/2024/07/08/Markdown.md) with an [atomic](api/ideias/2024/07/08/Atomico.md) way to easily recover the information.
+- [x] Each data is writing with [Markdown](api/rascunhos/2024/07/08/Markdown.md) with an [atomic](api/atomos/2024/07/08/Atomico.md) way to easily recover the information.
 - [x] [Jekyll](https://jekyllrb.com/) ready to use
 ## Installation
 ---
