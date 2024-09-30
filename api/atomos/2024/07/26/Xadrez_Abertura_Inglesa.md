@@ -8,7 +8,7 @@ aliases:
   - Siciliana reversa
 draft: true
 created_at: 2024-07-26T13:21:33-03:00
-updated_at: 2024-09-12T16:46:52-03:00
+updated_at: 2024-09-30T20:04:09-03:00
 ---
 
 [Xadrez](../../../../sementes/2024/07/06/Xadrez.md)
@@ -17,7 +17,7 @@ updated_at: 2024-09-12T16:46:52-03:00
 - (`A10`) `1.c4` (sem: `1...e5`, `1...c5`, `1...e6`, `1...c6`, `1...Nf6`, `1...g6 2.d4`, `1...f5 2.d4`, `1...b6 2.d4`, `1...d6 2.e4`, `1...d6 2.d4`, `1...Nc6 2.d4`);
 -  Contra a [Caro-Kann](../../../../ideias/2024/07/26/Xadrez_Caro_Kann.md): ![2024-07-05-Caro_Kann](../../../../ideias/2024/07/26/Xadrez_Caro_Kann.md#Linhas%20contra%20a%20abertura%20inglesa)
 -  (`A13`) [Abertura Inglesa](Xadrez_Abertura_Inglesa.md): `1.c4 e6` (sem: `2.e4`, `2.d4`);
-	-  (`A14`) [Abertura Inglesa](Xadrez_Abertura_Inglesa.md), [Neo-Catalão recusado](../../../../ideias/2024/07/12/Neo_Catalao_recusado.md): `1.c4 e6 2.Nf3 d5 3.g3 Nf6 4.Bg2 Be7`;
+	-  (`A14`) [Abertura Inglesa](Xadrez_Abertura_Inglesa.md), [Neo-Catalão recusado](../12/Neo_Catalao_recusado.md): `1.c4 e6 2.Nf3 d5 3.g3 Nf6 4.Bg2 Be7`;
 -  (`A15`) [Abertura Inglesa](Xadrez_Abertura_Inglesa.md), [Defesa Anglo-Indiano](../../../../ideias/2024/07/12/Xadrez_Defesa_Anglo_Indiano.md): `1.c4 Nf6` (sem: `2.Nc3`, `2.d4`, `2.g3 c6`, `2.g3 e5`, `2.Nf3 c5`, `2.Nf3 e6`, `2.Nf3 c6`);
 	-  (`A16`) [Abertura Inglesa](Xadrez_Abertura_Inglesa.md), [Defesa Anglo-Indiano](../../../../ideias/2024/07/12/Xadrez_Defesa_Anglo_Indiano.md): `1.c4 Nf6 2.Nc3` (sem: `2...c5`, `2...e5`, `2...e6`);
 - (`A17`) [Abertura Inglesa](Xadrez_Abertura_Inglesa.md), [Defesa ouriço](../../../../ideias/2024/07/12/Xadrez_Defesa_ourico.md): `1.c4 Nf6 2.Nc3 e6` (sem: `3.e4`, `3.d4`, `3.Nf3 c5`, `3...d5 4.d4`, `3...b5 4.d4`, `3...Bb4 4.d4`);

@@ -5,10 +5,10 @@ tags:
 aliases:
   - Sintaxe
 created_at: 2024-07-12T19:18:56-03:00
-updated_at: 2024-09-18T22:53:30-03:00
+updated_at: 2024-09-30T20:03:19-03:00
 ---
 
-O obsidian tem uma [sintaxe](Sintaxe.md) baseado no [markdown](../../../../rascunhos/2024/07/08/Markdown.md) e traz algumas outras extras para auxiliar na conexões dos [grafos](Grafos.md).
+O obsidian tem uma [sintaxe](Sintaxe.md) baseado no [markdown](../../../../rascunhos/2024/07/08/Markdown.md) e traz algumas outras extras para auxiliar na conexões dos [grafos](../../../../atomos/2024/07/12/Grafos.md).
 
 ---
 

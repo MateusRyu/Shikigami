@@ -5,7 +5,7 @@ tags:
 aliases:
   - SSH
 created_at: 2024-07-26T13:21:33-03:00
-updated_at: 2024-09-18T22:53:03-03:00
+updated_at: 2024-09-30T20:03:37-03:00
 ---
 # SSH
 ---
@@ -24,7 +24,7 @@ ssh-keygen -t rsa -b 4096 -C your@email.com
 O [ssh-agent](../../../../ideias/2024/07/08/ssh_agent.md) é um programa que registra e armazenas as [chaves privada](../../../../atomos/2024/07/12/Chaves_privada.md).
 
 1. Verifique se ele está em execução:
-	- No [Linux](../08/Linux.md) ou [Mac](../../../../ideias/2024/07/12/Mac.md): 
+	- No [Linux](../08/Linux.md) ou [Mac](../../../../entrada/2024/07/12/Mac.md): 
 	```shell
 	eval "$(ssh-agent -s)" # for Mac and Linux`
 	```
