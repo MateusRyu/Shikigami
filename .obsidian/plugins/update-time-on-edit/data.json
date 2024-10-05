@@ -410,7 +410,6 @@
     "api/ideias/2024/07/10/Objeto.md": "08243bb3362599c31eb500acbe1311cd6f736abde8afa0167ca88923f5d6c1e7",
     "api/ideias/2024/07/10/Jekyll.md": "9ee958438d42044ea2c4ab95e0345ec8818533fbcb210f610b098608832c6900",
     "api/ideias/2024/07/10/Gerenciador_de_versao_de_ferramentas.md": "6a859c5e5c57dfcf9c7daffe6710247eb619c02b0e46a1a80ebf2ca8c65bcd4e",
-    "api/ideias/2024/07/10/Dot_tool-versions.md": "4458a8e60ec47d1d21b6d97af5fd548ef27c3a3ffe710946625f22b2d452443e",
     "api/ideias/2024/07/10/Taoismo_Bigrama.md": "41e464071156c7366687687ac60bc17ae92ebc8163f3c01c5a72f36a8bf951bd",
     "api/datas/2004.md": "13d958201251f973e1fa186eef7ce92a7a0c00e4cb9a85599518da7b2329f541",
     "api/datas/2006.md": "24e50e7a981e8881d61410f7ecd4aaa0a3dc81cdc5ed167a91b6ed18518e47a9",
@@ -429,7 +428,7 @@
     "api/ideias/2024/08/05/Processamento_de_linguagem_natural.md": "200f8cbf5de8fecedd5b62ab1e393c6bab0f226a93b2c19516b8be2949326b09",
     "api/rascunhos/2024/06/08/Git.md": "8bb05c91279811e52e894ba65a7345e7517c00ad7ce43151cd7504d0cff1e4ce",
     "api/rascunhos/2024/06/08/Complexo.md": "f0e7f553a5e4d0e7e7bcd1b27753e454652f4cbf14145d58e8d46ee71517f8a9",
-    "api/rascunhos/2024/07/10/asdf.md": "aba9b7833b59ee3e94d8326f4525792521bb51faf7454d7bcebd2fd77d289560",
+    "api/rascunhos/2024/07/10/asdf.md": "895cb0028b0bac0e925fa23519649d0e3753b2aa452976c1caa308318fb48d0d",
     "api/rascunhos/2024/07/08/How_to_Take_Smart_Notes.md": "2cc7e54b14f934666e1094fb723c8bb12924f51ebe59afc924be9cabb715b427",
     "api/rascunhos/2024/07/08/HyperText_Markup_Language.md": "c24a3ebc81409474886763e1f5193648f4d62f390c528435b0cd6f8395b27806",
     "api/rascunhos/2024/07/08/lazy_nvim.md": "cccf478e4b536b9603abdb2f4db329f0a01d2fa44cb250173b7776ddc094e9c6",
@@ -789,6 +788,7 @@
     "api/entrada/2024/07/09/Toram_Two_Handed_Sword.md": "434152a9408c04ce3b88e3b24aa78cbd39a0febb5badff688c506bce7a5fc81b",
     "api/entrada/2024/07/09/Toram_Unsheathe_Attack.md": "b05b85a9b63feb38fdce901109b2658d92c164d1fb465e1cf38787861a6e5a93",
     "api/atomos/2024/07/09/YAML.md": "5259fafb76d1d0cdd55dcfde34412fdc6eec130e1001b4f47b26c73cdb17a07d",
-    "api/atomos/2024/07/09/Unicode.md": "b1d1cc81e2107087625d96c88c29e2d900797139302c952df43b789533814fa9"
+    "api/atomos/2024/07/09/Unicode.md": "b1d1cc81e2107087625d96c88c29e2d900797139302c952df43b789533814fa9",
+    "api/entrada/2024/07/10/Dot_tool-versions.md": "4458a8e60ec47d1d21b6d97af5fd548ef27c3a3ffe710946625f22b2d452443e"
   }
 }
