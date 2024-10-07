@@ -6,7 +6,7 @@ aliases:
   - Epifania Experência - Toda a História da Filosofia - Parte 1
   - Toda a História da Filosofia - Parte 1
 created_at: 2024-08-31T13:28:33-03:00
-updated_at: 2024-10-06T23:15:55-03:00
+updated_at: 2024-10-06T23:20:05-03:00
 ---
 
 ![Thumbnail](https://i.ytimg.com/vi/Y9_UovLgduo/maxresdefault.jpg)
@@ -411,15 +411,17 @@ Tudo que tá em movimento é movido por outra coisa e isso não pode retroceder 
 
 2 - Causa eficiente
 Tudo que existe tem uma causa e isso não pode retroceder ao infinito também, então tem que existir uma primeira causa que causou tudo sem 
-ter sido causada, que de novo é Deus três ser necessários e seres contingentes 
-existem seres que podem existir ou não existir Estes são seres contingentes mas 
-se em algum momento nada existisse não teria como tudo começar a existir por si só então tem que existir um ser 
-necessário que não poderia não existir e quem é esse ser exatamente Deus quatro 
-graus de perfeição existem graus de perfeição nas coisas mais ou menos Nobre 
-mais ou menos forte mais ou menos corajoso mais ou menos paciente em ouvir 
-um cara da idade de média tentando provar a existência de Deus só que tem que existir um grau máximo de perfeição 
-em todos os aspectos E adivinha quem tá no Grau máximo Alessandra Negrini não 
-Deus de novo e cinco causa final todas as coisas na natureza tendem a um fim 
+ter sido causada que, de novo, é Deus.
+
+3 - Ser necessários e seres contingentes 
+Existem seres que podem existir ou não existir, estes são seres contingentes. Mas se em algum momento nada existisse não teria como tudo começar a existir por si só, então tem que existir um ser necessário que não poderia não existir e quem é esse ser? Exatamente Deus.
+
+4 - graus de perfeição
+Existem graus de perfeição nas coisas mais ou menos nobre, mais ou menos forte, mais ou menos corajoso, mais ou menos paciente em ouvir um cara da Idade Média tentando provar a existência de Deus. Só que tem que existir um grau máximo de perfeição 
+em todos os aspectos. E adivinha quem tá no Grau máximo? Alessandra Negrini... Não, Deus de novo e 
+
+5 - causa final 
+Todas as coisas na natureza tendem a um fim 
 específico coisas que não t conhecimento como objetos inanimados e organismos simples não podem se direcionar sozinhas 
 a um fim específico assim como uma flecha direcionada pelo arqueiro até o alvo algo inteligente precisa guiar 
 todos os processos naturais até o seu fim e obviamente quem guia todas as coisas é Deus de novo mais uma vez nesse 
