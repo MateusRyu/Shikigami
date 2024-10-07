@@ -6,7 +6,7 @@ aliases:
   - Epifania Experência - Toda a História da Filosofia - Parte 1
   - Toda a História da Filosofia - Parte 1
 created_at: 2024-08-31T13:28:33-03:00
-updated_at: 2024-10-06T23:17:26-03:00
+updated_at: 2024-10-06T23:15:43-03:00
 ---
 
 ![Thumbnail](https://i.ytimg.com/vi/Y9_UovLgduo/maxresdefault.jpg)
@@ -410,11 +410,11 @@ a gente vai falar 1 2 3 vamos falar das cinco vias porque ela é mais famosa
 Tudo que tá em movimento é movido por outra coisa e isso não pode retroceder ao infinito porque seria absurdo, então tem que existir o primeiro motor que não é movido por nada. Esse motor é Deus.
 
 2 - Causa eficiente
-Tudo que existe tem uma causa e isso não pode retroceder ao infinito também, então tem que existir uma primeira causa que causou tudo sem 
-ter sido causada que, de novo, é Deus.
-
-3 - Ser necessários e seres contingentes 
-Existem seres que podem existir ou não existir, estes são seres contingentes. Mas se em algum momento nada existisse não teria como tudo começar a existir por si só, então tem que existir um ser necessário que não poderia não existir e quem é esse ser exatamente Deus quatro 
+Tudo que existe tem uma causa e isso não pode retroceder ao infinito também então tem que existir uma primeira causa que causou tudo sem 
+ter sido causada que de novo é Deus três ser necessários e seres contingentes 
+existem seres que podem existir ou não existir Estes são seres contingentes mas 
+se em algum momento nada existisse não teria como tudo começar a existir por si só então tem que existir um ser 
+necessário que não poderia não existir e quem é esse ser exatamente Deus quatro 
 graus de perfeição existem graus de perfeição nas coisas mais ou menos Nobre 
 mais ou menos forte mais ou menos corajoso mais ou menos paciente em ouvir 
 um cara da idade de média tentando provar a existência de Deus só que tem que existir um grau máximo de perfeição 

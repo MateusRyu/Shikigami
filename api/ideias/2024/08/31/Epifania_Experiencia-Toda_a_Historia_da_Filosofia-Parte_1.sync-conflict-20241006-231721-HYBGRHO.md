@@ -6,7 +6,7 @@ aliases:
   - Epifania Experência - Toda a História da Filosofia - Parte 1
   - Toda a História da Filosofia - Parte 1
 created_at: 2024-08-31T13:28:33-03:00
-updated_at: 2024-10-06T23:17:26-03:00
+updated_at: 2024-10-06T23:17:14-03:00
 ---
 
 ![Thumbnail](https://i.ytimg.com/vi/Y9_UovLgduo/maxresdefault.jpg)
@@ -414,7 +414,8 @@ Tudo que existe tem uma causa e isso não pode retroceder ao infinito também, e
 ter sido causada que, de novo, é Deus.
 
 3 - Ser necessários e seres contingentes 
-Existem seres que podem existir ou não existir, estes são seres contingentes. Mas se em algum momento nada existisse não teria como tudo começar a existir por si só, então tem que existir um ser necessário que não poderia não existir e quem é esse ser exatamente Deus quatro 
+Existem seres que podem existir ou não existir, estes são seres contingentes. Mas se em algum momento nada existisse não teria como tudo começar a existir por si só então tem que existir um ser 
+necessário que não poderia não existir e quem é esse ser exatamente Deus quatro 
 graus de perfeição existem graus de perfeição nas coisas mais ou menos Nobre 
 mais ou menos forte mais ou menos corajoso mais ou menos paciente em ouvir 
 um cara da idade de média tentando provar a existência de Deus só que tem que existir um grau máximo de perfeição 
