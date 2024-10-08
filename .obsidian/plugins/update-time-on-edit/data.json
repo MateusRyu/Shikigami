@@ -443,15 +443,11 @@
     "__private/Pessoas/0b2b623c-262c-4646-82bf-9a8417771fcb.md": "3032a789c895e7b47851eafcb7c9ddf8e9d74a492fe5ff5847bb43ba1a7e51f7",
     "__private/Pessoas/cb27f0d6-dc41-41ca-a037-4764ada13f1c.md": "f955293db0b1e2439d8979a30857cd9ff961655e9eaa68d94adba4bbdfca9893",
     "api/sementes/2024/08/20/Garyou_Tensei_Player.md": "4d5ac7acc9db33f3fc39aaecaa1a0629046acdafde1da27e209ad6dca1800dbb",
-    "api/ideias/2024/08/31/Epifania_Experiencia-Toda_a_Historia_da_Filosofia-Parte_1.md": "2fd098af116b5e69ad3d895383a52147a021d8c2a6af25333487f9d501fa6454",
-    "api/ideias/2024/09/04/pen_drives.md": "43104e280caa5446030568514b8f2145267b94289e111ab5361fa52801662ea5",
-    "api/ideias/2024/09/04/Cartoes_de_memoria.md": "c8a6f03bfef8a59437d221e6b64eaa6e7e027bbc25a60b46c4efd62f3df6534c",
-    "api/ideias/2024/09/04/dispositivos_moveis.md": "3ed73d15ddaedc5e83a0bb477f79e03b49d5ddc5e081b27e0fb0cd383e6501cf",
     "api/sementes/2024/09/04/Hard_disk_drive.md": "9462ae114aa53159130cf64fa5468f1ca24dcca62a584eeae5f56d3041206adb",
     "api/sementes/2024/09/04/Memoria_flash.md": "25e9bc02c745f056176348c05270c6ae439fea549d457642439bc0ac5b032f82",
     "api/sementes/2024/09/04/Memoria_nao_volatil.md": "c7591a25232d8878b50ca43f8225adad32226b6be500c491bfe8faa19334580d",
     "api/sementes/2024/09/04/Partição.md": "adf344870f5d1820c16132ed78df8d43abd5e73d3f4eb5bfef9d7cfd2d655782",
-    "api/sementes/2024/09/04/NAND.md": "47a69e03c089c95e6a6428da30f0c348d3bb25894b5e2dab78d4356f5e89b0cf",
+    "api/sementes/2024/09/04/NAND.md": "70746d579a59aab8b7de6b985fd4520627316493911248be45ed11384edfdcff",
     "api/sementes/2024/09/04/Solid_State_Drive.md": "f7eed6159d96d97719c9281254d3252c54a99cabbc21fb9157a2f70706dc9b5c",
     "NoSQL.md": "b38bc8aa7cfdff26a8c1929f24ca1310f216482190a3983bb381096c1507ad99",
     "SQL.md": "a6868af1551ba6d6cd85e67d363203efca8988213c9acf6de6199748cd91a4fd",
@@ -577,7 +573,6 @@
     "api/entrada/2024/07/26/Toram.md": "6cf5cf6d4facab5a064a42faf97ca15834d031097dadd7f68795c77f848d4792",
     "api/entrada/2024/07/26/Obsidian_Dataview.md": "db617ae823313f34bb0115a24ff4c7814fc05c9f4d5d27374896657d972931f1",
     "api/entrada/2024/07/26/Blender.md": "cd1de6f905b51056d6a5aca8bd49635ec2e9bfd4ccf80fbe3cbae4f2efb99f25",
-    "api/ideias/2024/08/31/Epifania_Experiencia-Toda_a_Historia_da_Filosofia-Parte_1.sync-conflict-20241006-232100-HYBGRHO.md": "2a7e8a2f1f77be40e665e2a6f47b0bd4e401ac3e76252b79453e8feaf6a92cb3",
     "api/retorno/2024/08/04/Chuva no meu coração.md": "e53b2c316a1f4759e976db4c4a3a98950e6b5ee4427e572e029f42531ee3f8d3",
     "api/atomos/index.md": "59d8c2447828bc4e95de4bc75d0c54dd217f9e59e0d804032b0bc50ba162b60c",
     "api/atomos/2024/07/06/Frameworks.md": "192682830dd890205ffd1d78dd4c215129ab1552ea521754377d35f82fe82ab9",
@@ -790,6 +785,10 @@
     "api/entrada/2024/08/22/Blue.md": "1c9822324d9ce907b297672e2baf26ed7b62bc66ed52989ae229572665ebba06",
     "api/entrada/2024/08/22/PEP8.md": "67db1a0e0fc093ff02ac2a953f0b4c7228ad91bf119f742028b2ef58a98bdaf4",
     "api/entrada/2024/08/22/Pytest.md": "483eab160feb604a401d5dc0a8547de79d5930e99e76332ad5251889508bfa7c",
-    "api/entrada/2024/08/22/isort.md": "9d4876fd61e9b385d2dc2285acd767c49f54a725af2b86a9d17a5bc2bf19bf22"
+    "api/entrada/2024/08/22/isort.md": "9d4876fd61e9b385d2dc2285acd767c49f54a725af2b86a9d17a5bc2bf19bf22",
+    "api/entrada/2024/08/31/Epifania_Experiencia-Toda_a_Historia_da_Filosofia-Parte_1.md": "2fd098af116b5e69ad3d895383a52147a021d8c2a6af25333487f9d501fa6454",
+    "api/atomos/2024/09/04/Cartoes_de_memoria.md": "c8a6f03bfef8a59437d221e6b64eaa6e7e027bbc25a60b46c4efd62f3df6534c",
+    "api/atomos/2024/09/04/dispositivos_moveis.md": "3ed73d15ddaedc5e83a0bb477f79e03b49d5ddc5e081b27e0fb0cd383e6501cf",
+    "api/atomos/2024/09/04/pen_drives.md": "43104e280caa5446030568514b8f2145267b94289e111ab5361fa52801662ea5"
   }
 }
