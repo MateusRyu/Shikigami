@@ -6,7 +6,7 @@ aliases:
   - Final de peão
 draft: true
 created_at: 2024-07-26T13:21:33-03:00
-updated_at: 2024-09-12T16:47:06-03:00
+updated_at: 2024-10-08T15:09:02-03:00
 ---
 
 Nos de peões do [xadrez](../../../../sementes/2024/07/06/Xadrez.md), o rei precisa guiar e proteger o peão até a casa de promoção. A estratégia principal varia de acordo de qual peão será promovida e de onde o peão está. Entretanto, sempre será importante aplicar a [oposição de Rei](../../../../rascunhos/2024/07/08/Xadrez_Oposição_de_Rei.md) para controlaras as casa-chaves.
@@ -19,7 +19,7 @@ Proteger as duas casas à duas casas de distancia do peão para frente e as suas
 
 ![Final de peão na quinta fileira](../../../_excalidraw/final_de_peao_5_fileira.excalidraw.md)
 ## Peão do cavalo na sexta fileira
-Quando o peão do [cavalo](../../../../ideias/2024/07/26/Xadrez_Cavalo.md) Evitar afogamento ou empate por repetição, posicionando primeiro o rei na coluna da torre da ala do peão.
+Quando o peão do [cavalo](Xadrez_Cavalo.md) Evitar afogamento ou empate por repetição, posicionando primeiro o rei na coluna da torre da ala do peão.
 
 ## Peão da torre na sexta fileira
 Proteger as duas últimas casas na coluna adjacente da promoção.

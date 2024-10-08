@@ -7,7 +7,7 @@ aliases:
   - Abertura de flanco
 draft: true
 created_at: 2024-07-26T13:21:33-03:00
-updated_at: 2024-09-30T20:13:27-03:00
+updated_at: 2024-10-08T15:09:02-03:00
 ---
 
 [Xadrez](../../../../sementes/2024/07/06/Xadrez.md)
@@ -17,12 +17,12 @@ updated_at: 2024-09-30T20:13:27-03:00
 	-  (`A01`) [Abertura Larsen](../12/Xadrez_Abertura_Larsen.md): `1.b3`;
 	-  (`A02`) [Abertura Bird](Xadrez_Abertura_Bird.md): `1.f4`;
 		-  (`A03`) [Abertura Bird, variante holandesa](Xadrez_Abertura_Bird.md#variante%20Holandesa): `1.f4 d5`;
-	-  (`A04`) [Abertura Zukertort](../../../../ideias/2024/07/26/Xadrez_Abertura_Reti.md): `1.Nf3`;
-		-  (`A05`) [Abertura Réti](../../../../ideias/2024/07/26/Xadrez_Abertura_Reti.md): `1. Nf3 Nf6`;
-		-  (`A06`) [Abertura Réti](../../../../ideias/2024/07/26/Xadrez_Abertura_Reti.md): `1. Nf3 d5`;
-			-  (`A07`) [Abertura Réti, ataque Índia do rei](../../../../ideias/2024/07/26/Xadrez_Abertura_Reti.md) : `1. Nf3 d5 2.g3`;
-				-  (`A08`) [Abertura Réti, ataque Índia do rei](../../../../ideias/2024/07/26/Xadrez_Abertura_Reti.md): `1. Nf3 d5 2.g3 c5 3.Bg2`;
-			-  (`A09`) [Abertura Réti, linha principal](../../../../ideias/2024/07/26/Xadrez_Abertura_Reti.md): `1. Nf3 d5 2.c4`;
+	-  (`A04`) [Abertura Zukertort](Xadrez_Abertura_Reti.md): `1.Nf3`;
+		-  (`A05`) [Abertura Réti](Xadrez_Abertura_Reti.md): `1. Nf3 Nf6`;
+		-  (`A06`) [Abertura Réti](Xadrez_Abertura_Reti.md): `1. Nf3 d5`;
+			-  (`A07`) [Abertura Réti, ataque Índia do rei](Xadrez_Abertura_Reti.md) : `1. Nf3 d5 2.g3`;
+				-  (`A08`) [Abertura Réti, ataque Índia do rei](Xadrez_Abertura_Reti.md): `1. Nf3 d5 2.g3 c5 3.Bg2`;
+			-  (`A09`) [Abertura Réti, linha principal](Xadrez_Abertura_Reti.md): `1. Nf3 d5 2.c4`;
 	-  (`A10`-`A39`) [Abertura Inglesa](Xadrez_Abertura_Inglesa.md):
 		-  ![Abertura Inglesa](Xadrez_Abertura_Inglesa.md#^lista-de-linhas-documentados-da-abertura-inglesa)
 - `A40`–`A44`: `1.d4` sem a resposta `1...d5`, `1...Nf6` ou `1...f5` (Respostas atípicas contra `1.d4`):

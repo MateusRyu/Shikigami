@@ -6,7 +6,7 @@ aliases:
   - Peão
   - Peões
 created_at: 2024-07-26T13:21:33-03:00
-updated_at: 2024-09-30T20:18:30-03:00
+updated_at: 2024-10-08T15:09:02-03:00
 ---
 
 É uma das [peças](../08/Xadrez_Pecas.md) do jogo de [xadrez](../../../../sementes/2024/07/06/Xadrez.md).
@@ -31,6 +31,6 @@ Quando o peão adversário usa o avanço duplo para passar uma casa que o seu pe
 ---
 - [Peão da torre](Xadrez_Peao_da_torre.md);
 - [Peão do cavalo](Xadrez_Peao_do_cavalo.md);
-- [Peão do bispo](../../../../ideias/2024/07/26/Xadrez_Peao_do_bispo.md);
+- [Peão do bispo](Xadrez_Peao_do_bispo.md);
 - [Peão da dama](Xadrez_Peao_da_dama.md);
 - [Peão do Rei](Xadrez_Peao_do_Rei.md);
