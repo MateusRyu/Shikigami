@@ -6,7 +6,7 @@ aliases:
   - Epifania Experência - Toda a História da Filosofia - Parte 1
   - Toda a História da Filosofia - Parte 1
 created_at: 2024-08-31T13:28:33-03:00
-updated_at: 2024-10-08T17:06:13-03:00
+updated_at: 2024-10-08T17:10:35-03:00
 ---
 
 ![Thumbnail](https://i.ytimg.com/vi/Y9_UovLgduo/maxresdefault.jpg)
@@ -94,7 +94,7 @@ https://youtu.be/Y9_UovLgduo?si=E4R87EeO8V0_gQTC
 ## Transcrição
 
 \[Música] 
-Uns 2600 anos atrás, na [Grécia antiga](../../../../../Grecia_antiga.md), tinha um cara que a gente vai chamar de "[[../../../../../Thales_de_Mileto|Thales]]" \[o vídeo vai usar a grafia "Tales", como usado normalmente na língua portuguesa, entretanto a transcrição vai usar a grafia "Thales"]... porque o nome dele era Thales. E a gente vai acrescentar "de Mileto" porque ele era de uma cidade chamada "[Mileto](../../../../../Mileto.md)". [Thales de Mileto](../../../../../Thales_de_Mileto.md) questionava as coisas: "O que será que existe no céu?"; "como as ondas se formam no oceano?"; "quando será que o jantar fica pronto?"; "QUAL A SUBSTÂNCIA PRIMORDIAL QUE DEU ORIGEM À TUDO QUE EXISTE NO UNIVERSO?" \[literalmente gritando]... Do nada... assim. 
+Uns 2600 anos atrás, na [Grécia antiga](../../../../atomos/2024/09/08/Grecia_antiga.md), tinha um cara que a gente vai chamar de "[[../../../../../Thales_de_Mileto|Thales]]" \[o vídeo vai usar a grafia "Tales", como usado normalmente na língua portuguesa, entretanto a transcrição vai usar a grafia "Thales"]... porque o nome dele era Thales. E a gente vai acrescentar "de Mileto" porque ele era de uma cidade chamada "[Mileto](../../../../../Mileto.md)". [Thales de Mileto](../../../../../Thales_de_Mileto.md) questionava as coisas: "O que será que existe no céu?"; "como as ondas se formam no oceano?"; "quando será que o jantar fica pronto?"; "QUAL A SUBSTÂNCIA PRIMORDIAL QUE DEU ORIGEM À TUDO QUE EXISTE NO UNIVERSO?" \[literalmente gritando]... Do nada... assim. 
 
 \[[0:34](https://youtu.be/Y9_UovLgduo?si=ZJNVpA-QJZ6YS410&t=34)]
 O pessoal gostou muito da última pergunta e essa substância misteriosa ficou conhecida como "[arché](../../../../atomos/2024/09/08/Arché.md)" então eles focaram nisso por um bom tempo. "É a água", disse [Thales](../../../../../Thales_de_Mileto.md); "É o ar", disse [Anaxímenes](../../09/08/Anaximenes.md); "É o fogo", disse [Heráclito](../../../../../Heraclito.md); "É a água, o ar, o fogo e a terra", disse [Empédocles](../../09/08/Empedocles.md) (só para entrar na brincadeira) e [Anaximadro](../../09/08/Anaximandro.md) disse que essa substância é o [Ápeiron](../../../../atomos/2024/09/08/Apeiron.md), que significa alguma coisa tipo: "ilimitado", "infinito", "indefinido" e... cara, se não sabe não precisa inventar, tá tudo bem... Ou! *Pera* aí! Será que ele foi o cara que chegou mais perto? - \[Pausa longa com uma animação de, supostamente, o [Anaximandro](../../09/08/Anaximandro.md) piscando e acenando a cabeça em concordância]
@@ -116,7 +116,7 @@ conheceram.
 - É maconheiro, *pô*. - diz uma figura com cabelo preto curto e sem barba.
 - "Esse", "a", "bê", "i", "o", "esse": "sábios". É assim que se chama. - diz a figura com barba e cabelo preto que iniciou a conversa.
 
-"Não. Não exatamente, apenas um amante da sabedoria.", diria humildemente [Pitágoras](../../../../../Pitagoras.md), que aliás, defendia que a [arché](../../../../atomos/2024/09/08/Arché.md) são os números e foi o primeiro cara que disse que era um "[filósofo](../../../../../filosofo.md)" que vem de "*philo*: amor" e "*sophia*: sabedoria", surgindo assim filosofia: "amor pela sabedoria". Esses caras ficaram conhecidos como pré-socráticos porque eles vieram antes de... 
+"Não. Não exatamente, apenas um amante da sabedoria.", diria humildemente [Pitágoras](../../../../../Pitagoras.md), que aliás, defendia que a [arché](../../../../atomos/2024/09/08/Arché.md) são os números e foi o primeiro cara que disse que era um "[filósofo](../../../../atomos/2024/09/11/filosofo.md)" que vem de "*philo*: amor" e "*sophia*: sabedoria", surgindo assim filosofia: "amor pela sabedoria". Esses caras ficaram conhecidos como pré-socráticos porque eles vieram antes de... 
 
 \[Corte para fazer uma apologia ao intervalo de [Pokemon](../../../../../Pokemon.md), mostrando uma silhueta que faz uma piada com uma conotação sexual]
 ![Imagem da silhueta](https://mateusryu.github.io/pittore/images/YouTube/Epifania/Toda%20a%20Hist%C3%B3ria%20da%20Filosofia%20-%20Parte%201/Quem_e_esse_filosofo.png)
