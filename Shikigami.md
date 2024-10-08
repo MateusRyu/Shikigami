@@ -5,10 +5,10 @@ tags:
 aliases:
   - Shikigami
 created_at: 2024-09-05T16:40:13-03:00
-updated_at: 2024-09-05T16:44:59-03:00
+updated_at: 2024-10-08T17:06:00-03:00
 ---
 
-Shikigami (式神) são seres espirituais invocados e controlados por [onmyōji](onmyoji.md), poderosos [magos](magos.md) da antiga [corte japonesa](Corte_japonesa.md). Essas criaturas místicas são frequentemente descritas como [familiares](familiares) ou servos, capazes de executar diversas tarefas a mando de seus mestres.
+Shikigami (式神) são seres espirituais invocados e controlados por [onmyōji](onmyoji.md), poderosos [magos](magos.md) da antiga [corte japonesa](api/atomos/2024/09/05/Corte_japonesa.md). Essas criaturas místicas são frequentemente descritas como [familiares](familiares) ou servos, capazes de executar diversas tarefas a mando de seus mestres.
 
 ---
 
