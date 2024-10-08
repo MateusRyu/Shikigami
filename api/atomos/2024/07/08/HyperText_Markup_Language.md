@@ -1,12 +1,13 @@
 ---
 title: HyperText Markup Language (HTML)
 tags:
-  - v1
+  - v1.1
 aliases:
   - HyperText Markup Language
   - HTML
+draft: true
 created_at: 2024-07-08T17:33:33-03:00
-updated_at: 2024-08-06T23:38:21-03:00
+updated_at: 2024-10-08T18:01:05-03:00
 ---
 
 ## Header

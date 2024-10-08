@@ -1,12 +1,12 @@
 ---
 title: How to Take Smart Notes
 tags:
-  - v1
+  - v1.1
 aliases:
   - How to Take Smart Notes
 draft: true
 created_at: 2024-07-08T17:33:33-03:00
-updated_at: 2024-10-08T15:25:47-03:00
+updated_at: 2024-10-08T18:00:36-03:00
 ---
 
 ## Introdução 

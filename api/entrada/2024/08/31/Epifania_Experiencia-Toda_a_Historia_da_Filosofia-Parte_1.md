@@ -1,12 +1,13 @@
 ---
 title: Epifania Experência - Toda a História da Filosofia - Parte 1
 tags:
-  - v1
+  - v1.1
 aliases:
   - Epifania Experência - Toda a História da Filosofia - Parte 1
   - Toda a História da Filosofia - Parte 1
+draft: true
 created_at: 2024-08-31T13:28:33-03:00
-updated_at: 2024-10-08T17:27:00-03:00
+updated_at: 2024-10-08T17:56:36-03:00
 ---
 
 ![Thumbnail](https://i.ytimg.com/vi/Y9_UovLgduo/maxresdefault.jpg)
