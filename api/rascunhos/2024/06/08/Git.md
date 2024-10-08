@@ -5,10 +5,10 @@ tags:
 aliases:
   - Git
 created_at: 2024-07-08T17:33:33-03:00
-updated_at: 2024-09-30T20:17:22-03:00
+updated_at: 2024-10-08T15:10:41-03:00
 ---
 
-Git é um [sistema de controle de versões](../../../../atomos/2024/07/08/Sistema_de_controle_de_versoes.md) distribuído, usado principalmente no desenvolvimento de software, mas pode ser usado para registrar o histórico de edições de qualquer tipo de arquivo.
+Git é um [sistema de controle de versões](../../../../../atomos/2024/07/08/Sistema_de_controle_de_versoes.md) distribuído, usado principalmente no desenvolvimento de software, mas pode ser usado para registrar o histórico de edições de qualquer tipo de arquivo.
 
 ## Configuração
 
