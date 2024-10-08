@@ -362,9 +362,6 @@
     "api/mapas/Habilidades.md": "016058f4750ef88b2dfdf2488e27fd3f33681eeff9913ff6d9d1b95ca8560603",
     "api/mapas/Desenvolvimento_de_software.md": "04fddf277fd1557e6a364d71db045591406ed764df8f98cc29a19f518bcc7b27",
     "api/datas/2023-11-07.md": "e68dfa8a8cfe44172b4ff87cd38054af2858b38dcd1c61e516587486343dcdd6",
-    "api/sementes/2024/07/13/Liquid.md": "c143169981c48f5a556699532708c7b476fc84ae72406d988c17c6cbb180f9dd",
-    "api/sementes/2024/07/13/Shopify.md": "7d6440b10a1f83da1e5b5230913a2ec3c8c9af24b5a37211e3fb9e1552d937d6",
-    "api/sementes/2024/07/14/MPD.md": "dd70f2fd8902c781e12ddac67d262ca5e010c5fcae3c4b3ea77925807053aea6",
     "api/sementes/2024/07/17/Docker.md": "c337799ad15eaf9eaa332a33e5948eb79ee2b58995135f359971339d8f584b10",
     "api/sementes/2024/07/18/Acuracia.md": "33275c16d6c4b3afe1a5d44c05ebf9e9751697acc68e195b68edaaacfc0128b9",
     "api/sementes/2024/07/18/Precisão.md": "0b604a9537eebed4a8e5fc6c6b19ba0acccf2359339bb1a8a4d2b6c6748f9d25",
@@ -376,7 +373,7 @@
     "_posts/2024/07/2024-07-09-Quarto_post.md": "9fdab4c164302db9e725dc0b4124372ea8a0ed68753eaaa4919bea6bb2d9eaad",
     "_posts/2024/07/2024-07-10-Quinto_post.md": "3ff68fe075f7bcf919fc35143985d9ba0bfd8a08cda4c716c6aec5679f15f0e1",
     "_posts/2024/07/2024-07-11-Sexto_post.md": "bb386f5227c4c9bb35ac56fe1e3134bc86a3316a0d7692ca2973d855310c118e",
-    "_posts/2024/07/2024-07-12-Setimo_post.md": "fb72731bb70cfe13cce32107699b8bd9c4cbe2dce61ace4c026db31d18c805b4",
+    "_posts/2024/07/2024-07-12-Setimo_post.md": "f6cd1d278153ccbf2e9c0bbae9cfd2f123b87db014d9eea4885d2bc47c1da7f7",
     "_posts/2024/07/2024-07-26-Correcoes.md": "0f101800c196f57e3dd3107244bfe97dd4d0fc1c66b1578d4f3f61c3f1b96f6c",
     "_posts/2024/07/2024-07-30-Escalada.md": "2d3ce2dbbac3ad082c65c95fb42077de6c4fa1e460fe95e01aa22b034ac59481",
     "_posts/2024-08-01-Inicio_de_agosto.md": "89f4613e18905c25d5482e988a10c1dadab795c4b419f2875b95a580c6aaaa09",
@@ -788,6 +785,9 @@
     "api/atomos/2024/07/26/Usabilidade_vs_Utilidade.md": "c44f2cbeec8055b4f3c596d75fe0b50a8c415c5babc72ce55216e150ffc1de80",
     "api/retorno/2024/07/26/Toram-AoiRyuu.md": "bdd1145a10680e855ba6acd757dc66b60b1cc98afa37ed00fecc75b3fdadd316",
     "api/atomos/2024/07/26/Xadrez_Defesa_Simetrica.md": "98b31dbc289a3f1e1eefd3568a7d3fb50258cd3f25672cc74650bc8717c5dd20",
-    "api/atomos/2024/07/26/Hospedagem.md": "c65aaafacaf9f8ad17479c29aa0b11ad4e0bdb37a9b8319867756f405ab69ce7"
+    "api/atomos/2024/07/26/Hospedagem.md": "c65aaafacaf9f8ad17479c29aa0b11ad4e0bdb37a9b8319867756f405ab69ce7",
+    "api/entrada/2024/07/26/Shopify.md": "7d6440b10a1f83da1e5b5230913a2ec3c8c9af24b5a37211e3fb9e1552d937d6",
+    "api/entrada/2024/07/26/Liquid.md": "c143169981c48f5a556699532708c7b476fc84ae72406d988c17c6cbb180f9dd",
+    "api/entrada/2024/07/26/MPD.md": "dd70f2fd8902c781e12ddac67d262ca5e010c5fcae3c4b3ea77925807053aea6"
   }
 }

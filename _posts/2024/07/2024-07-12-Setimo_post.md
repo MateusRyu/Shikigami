@@ -7,7 +7,7 @@ aliases:
   - 12/07/2024
   - 2024-07-12
 created_at: 2024-07-13T00:40:34-03:00
-updated_at: 2024-10-08T15:37:00-03:00
+updated_at: 2024-10-08T16:45:27-03:00
 ---
 
 [11/07/2024](2024-07-11-Sexto_post.md) | 
@@ -15,7 +15,7 @@ updated_at: 2024-10-08T15:37:00-03:00
 ## Tarefas
 
 - [X] Criar todas as notas fantasmas do [Shikigami](../../../api/retorno/2024/07/26/Shikigami.md)
-- [x] Corrigir a adaptação das notas [Markdown](../../../api/atomos/2024/07/08/Markdown.md) do [Shikigami](../../../api/retorno/2024/07/26/Shikigami.md) para ser compatível com o [Jekyll](../../../api/entrada/2024/07/10/Jekyll.md) com o uso do [[../../../api/sementes/2024/07/13/Liquid|Liquid]].
+- [x] Corrigir a adaptação das notas [Markdown](../../../api/atomos/2024/07/08/Markdown.md) do [Shikigami](../../../api/retorno/2024/07/26/Shikigami.md) para ser compatível com o [Jekyll](../../../api/entrada/2024/07/10/Jekyll.md) com o uso do [[../../../api/entrada/2024/07/26/Liquid|Liquid]].
 - [x] Passar pano
 
 ##  Reflexão
