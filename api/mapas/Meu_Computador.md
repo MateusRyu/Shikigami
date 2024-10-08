@@ -5,17 +5,17 @@ tags:
 aliases:
   - Meu Computador
 created_at: 2024-07-26T13:21:33-03:00
-updated_at: 2024-10-08T15:17:10-03:00
+updated_at: 2024-10-08T15:37:36-03:00
 ---
 
-Dual boot com a [Pasta home](../atomos/2024/07/14/Pasta_home.md) compartilhada para ter um [Sistema Operacional](../sementes/2024/07/07/Sistema_Operacional.md) de backup pra caso algo dê errado no [sistema](../sementes/2024/07/07/Sistema_Operacional.md) principal.
+Dual boot com a [Pasta home](../atomos/2024/07/14/Pasta_home.md) compartilhada para ter um [Sistema Operacional](../entrada/2024/08/04/Sistema_Operacional.md) de backup pra caso algo dê errado no [sistema](../entrada/2024/08/04/Sistema_Operacional.md) principal.
 
 ---
 
 ## Particionamento
 - `sda1`: `/boot/efi`
 - `sda2`: `/` ([Crystal](../atomos/2024/08/10/Crystal%20Linux.md))
-- `sda3`: `/` ([Arco Linux](../sementes/2024/07/07/Arco_Linux.md))
+- `sda3`: `/` ([Arco Linux](../entrada/2024/07/26/Arco_Linux.md))
 - `sda4`: [SWAP](../atomos/2024/07/14/SWAP.md)
 -  `sda6`: `/home` 
 

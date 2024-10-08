@@ -10,9 +10,9 @@ aliases:
   - Distro
   - distro
 created_at: 2024-07-26T13:21:33-03:00
-updated_at: 2024-10-08T15:29:30-03:00
+updated_at: 2024-10-08T15:38:24-03:00
 ---
 
-Distro Linux é um termo que se refere à qualquer [sistema operacional](../../../../sementes/2024/07/07/Sistema_Operacional.md) que possui o [Linux](../../../../sementes/2024/07/08/Linux.md) como kernel (núcleo).
+Distro Linux é um termo que se refere à qualquer [sistema operacional](../../../../entrada/2024/08/04/Sistema_Operacional.md) que possui o [Linux](../../../../entrada/2024/07/26/Linux.md) como kernel (núcleo).
 
 ---
