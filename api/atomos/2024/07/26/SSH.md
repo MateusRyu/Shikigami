@@ -5,11 +5,11 @@ tags:
 aliases:
   - SSH
 created_at: 2024-07-26T13:21:33-03:00
-updated_at: 2024-10-08T15:12:46-03:00
+updated_at: 2024-10-08T15:34:57-03:00
 ---
 # SSH
 ---
-O [protocolo](../../../../atomos/2024/07/06/Protocolo.md) Secure Shell (SSH) é um método para se conectar com segurança a um computador em uma rede não segura para poder executar comandos ou transferir arquivos. O SSH usa [Criptografia](../../06/30/Criptografia.md) para autenticar e criptografar conexões entre dispositivos por meio de uma chave.
+O [protocolo](Protocolo.md) Secure Shell (SSH) é um método para se conectar com segurança a um computador em uma rede não segura para poder executar comandos ou transferir arquivos. O SSH usa [Criptografia](../../../../atomos/2024/07/26/Criptografia.md) para autenticar e criptografar conexões entre dispositivos por meio de uma chave.
 
 ## Verificar chaves existentes
 ```shell
@@ -24,11 +24,11 @@ ssh-keygen -t rsa -b 4096 -C your@email.com
 O [ssh-agent](../../../../entrada/2024/07/08/ssh_agent.md) é um programa que registra e armazenas as [chaves privada](../../../../atomos/2024/07/12/Chaves_privada.md).
 
 1. Verifique se ele está em execução:
-	- No [Linux](../08/Linux.md) ou [Mac](../../../../entrada/2024/07/12/Mac.md): 
+	- No [Linux](../../../../sementes/2024/07/08/Linux.md) ou [Mac](../../../../entrada/2024/07/12/Mac.md): 
 	```shell
 	eval "$(ssh-agent -s)" # for Mac and Linux`
 	```
-	-  No [Windows](../../06/30/Windows.md):
+	-  No [Windows](../../../../entrada/2024/07/26/Windows.md):
 	```shell
 	eval `ssh-agent -s`
 	ssh-agent -s # for Windows

@@ -5,10 +5,10 @@ tags:
 aliases:
   - Desenvolvimento de software
 created_at: 2024-07-08T17:33:33-03:00
-updated_at: 2024-10-08T15:22:33-03:00
+updated_at: 2024-10-08T15:34:57-03:00
 ---
-- [Protocolo](../atomos/2024/07/06/Protocolo.md)
-- [Linguagem de marcação](../atomos/2024/07/06/Linguagem_de_marcacao.md)
+- [Protocolo](../atomos/2024/07/26/Protocolo.md)
+- [Linguagem de marcação](../atomos/2024/07/08/Linguagem_de_marcacao.md)
 - [Linguagem de programação](../atomos/2024/07/08/Linguagem_de_programacao.md)
 - [Algoritmo](../atomos/2024/07/12/Algoritmo.md)
 - [Git](../entrada/2024/07/08/Git.md)

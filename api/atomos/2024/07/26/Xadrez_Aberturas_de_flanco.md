@@ -7,13 +7,13 @@ aliases:
   - Abertura de flanco
 draft: true
 created_at: 2024-07-26T13:21:33-03:00
-updated_at: 2024-10-08T15:09:02-03:00
+updated_at: 2024-10-08T15:33:29-03:00
 ---
 
-[Xadrez](../../../../sementes/2024/07/06/Xadrez.md)
+[Xadrez](../../08/06/Xadrez.md)
 ## Lista
 -  (`A00`–`A39`) Primeiro lance das brancas que são diferente de `1.e4` e `1.d4`.
-	-  (`A00`) [Aberturas irregulares](../../../../sementes/2024/07/06/Xadrez_Aberturas_irregulares.md): ![Xadrez_Aberturas_irregulares](../../../../sementes/2024/07/06/Xadrez_Aberturas_irregulares.md#^lista-de-aberturas-irregulares)
+	-  (`A00`) [Aberturas irregulares](Xadrez_Aberturas_irregulares.md): ![Xadrez_Aberturas_irregulares](Xadrez_Aberturas_irregulares.md#^lista-de-aberturas-irregulares)
 	-  (`A01`) [Abertura Larsen](../12/Xadrez_Abertura_Larsen.md): `1.b3`;
 	-  (`A02`) [Abertura Bird](Xadrez_Abertura_Bird.md): `1.f4`;
 		-  (`A03`) [Abertura Bird, variante holandesa](Xadrez_Abertura_Bird.md#variante%20Holandesa): `1.f4 d5`;

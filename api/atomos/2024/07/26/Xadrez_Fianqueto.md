@@ -10,10 +10,10 @@ aliases:
   - fianquetos
   - fianchetto
 created_at: 2024-07-26T13:21:33-03:00
-updated_at: 2024-10-08T15:12:46-03:00
+updated_at: 2024-10-08T15:34:10-03:00
 ---
 
-O fianqueto é uma estratégia de desenvolvimento no [xadrez](../06/Xadrez.md), onde um jogador desenvolve um [bispo](../../../../atomos/2024/07/08/Xadrez_Bispo.md) na segunda fileira (ou sétima fileira, se estiver jogando com as pretas) na diagonal longa, geralmente com os movimentos `g3` e `Bg2` (ou `g6` e `Bg7` para as pretas). Esse desenvolvimento é frequentemente suportado pelo movimento do [peão do cavalo](../../../../atomos/2024/07/26/Xadrez_Peao_do_cavalo.md) (`b` ou `g`) para a terceira fileira (ou sexta fileira para as pretas).
+O fianqueto é uma estratégia de desenvolvimento no [xadrez](../../08/06/Xadrez.md), onde um jogador desenvolve um [bispo](../../../../atomos/2024/07/08/Xadrez_Bispo.md) na segunda fileira (ou sétima fileira, se estiver jogando com as pretas) na diagonal longa, geralmente com os movimentos `g3` e `Bg2` (ou `g6` e `Bg7` para as pretas). Esse desenvolvimento é frequentemente suportado pelo movimento do [peão do cavalo](../../../../atomos/2024/07/26/Xadrez_Peao_do_cavalo.md) (`b` ou `g`) para a terceira fileira (ou sexta fileira para as pretas).
 
 Há várias razões para usar um fianqueto:
 

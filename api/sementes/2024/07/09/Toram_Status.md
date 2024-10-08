@@ -6,7 +6,7 @@ aliases:
   - Status
   - status
 created_at: 2024-07-26T13:21:33-03:00
-updated_at: 2024-10-08T15:06:22-03:00
+updated_at: 2024-10-08T15:32:37-03:00
 ---
 
 No [Toram](../../../../entrada/2024/07/26/Toram.md), o status é a base matemática para o jogo calcular todas as interações de batalha no jogo, que inclui danos, velocidade de ataque, velocidade de conjuração e entre outros. Os status são os dados que o jogador pode distribuir para cada vez que ele aumentar de nível ou através de recompensas no jogo.
@@ -47,13 +47,13 @@ Alguns status já são valores percentuais (exemplo: [Guard Rate](../../../../en
 Alguns status dependem de outros status, então é necessário um calculo na ordem certa! Por exemplo, [Critical Damage](../../../../entrada/2024/07/09/Toram_Critical_Damage.md) é calculado baseado no [STR](Toram_STR.md), então será necessário calcular o [STR](Toram_STR.md) primeiro par poder usar no calculo do [Critical Damage](../../../../entrada/2024/07/09/Toram_Critical_Damage.md).  
 
 Para fins didáticos, os jogadores separaram os status em algumas categorias:
-1. [Status básico](../26/Toram_Status_basico.md): Aqueles que podem ser adicionados ao aumentar de level;
+1. [Status básico](../../../../entrada/2024/07/26/Toram_Status_basico.md): Aqueles que podem ser adicionados ao aumentar de level;
 2. [Status de equipamento](../../../../entrada/2024/07/09/Toram_Status_de_equipamento.md): ATK da arma, Equipment DEF, Weapon Stability, Refinement Resistance
-3. [Status derivados](../../../../entrada/2024/07/09/Toram_Status_derivados.md): Status que se derivam dos [Status básicos](../26/Toram_Status_basico.md).
+3. [Status derivados](../../../../entrada/2024/07/09/Toram_Status_derivados.md): Status que se derivam dos [Status básicos](../../../../entrada/2024/07/26/Toram_Status_basico.md).
 4. [Status não-derivados](../../../../entrada/2024/07/09/Toram_Status%20não-derivados.md): Aqueles obtidos exclusivamente de equipamentos ou habilidade.
 5. [Status Especial](../../../../entrada/2024/07/09/Toram_Status_Especial.md): Status que não se encaixam nas classificações anteriores.
 
-Por exemplo, digamos que queremos calcular o valor de [ATK](../../../../entrada/2024/07/09/Toram_ATK.md) para o usuário da [Espada de uma mão](../../../../entrada/2024/07/12/Toram_One_Handed_Sword.md). Este status é baseada em ([Status básicos](../26/Toram_Status_basico.md)) [STR](Toram_STR.md) e [DEX](../../../../entrada/2024/07/09/Toram_DEX.md) e ([Status de equipamento](../../../../entrada/2024/07/09/Toram_Status_de_equipamento.md)) [ATK](../../../../entrada/2024/07/09/Toram_ATK.md). Portanto os passos serão os seguintes:
+Por exemplo, digamos que queremos calcular o valor de [ATK](../../../../entrada/2024/07/09/Toram_ATK.md) para o usuário da [Espada de uma mão](../../../../entrada/2024/07/12/Toram_One_Handed_Sword.md). Este status é baseada em ([Status básicos](../../../../entrada/2024/07/26/Toram_Status_basico.md)) [STR](Toram_STR.md) e [DEX](../../../../entrada/2024/07/09/Toram_DEX.md) e ([Status de equipamento](../../../../entrada/2024/07/09/Toram_Status_de_equipamento.md)) [ATK](../../../../entrada/2024/07/09/Toram_ATK.md). Portanto os passos serão os seguintes:
 1. Pegue [STR](Toram_STR.md) e [DEX](../../../../entrada/2024/07/09/Toram_DEX.md) originais. Aplique o modificador [STR](Toram_STR.md)% e [DEX](../../../../entrada/2024/07/09/Toram_DEX.md)% a eles.
 2. Aplique o modificador plano [STR](Toram_STR.md)+ e [DEX](../../../../entrada/2024/07/09/Toram_DEX.md)+ ao resultado de (1), obtemos [STR](Toram_STR.md) final e [DEX](../../../../entrada/2024/07/09/Toram_DEX.md) final.
 3. Pegue o [ATK](../../../../entrada/2024/07/09/Toram_ATK.md) da arma e calcule seu bônus de refinamento.

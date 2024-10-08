@@ -10,10 +10,10 @@ aliases:
   - abertura Zukertort
   - Zukertort
 created_at: 2024-07-26T13:21:33-03:00
-updated_at: 2024-10-08T15:10:40-03:00
+updated_at: 2024-10-08T15:34:09-03:00
 ---
 
-É uma [aberturas de flanco](Xadrez_Aberturas_de_flanco.md) no [xadrez](../../../../sementes/2024/07/06/Xadrez.md) que se inicia com o lance `1. Nf3`, catalogado pela  [ECO](../../../../sementes/2024/07/07/Encyclopaedia_of_Chess_Openings.md) como `A04: Abertura Zukertort`  na lista de [aberturas de xadrez](Xadrez_Aberturas.md), as linhas principais subsequente entram na abertura Réti propriamente dito (código [ECO](../../../../sementes/2024/07/07/Encyclopaedia_of_Chess_Openings.md) `A05` à `A09`.
+É uma [aberturas de flanco](Xadrez_Aberturas_de_flanco.md) no [xadrez](../../08/06/Xadrez.md) que se inicia com o lance `1. Nf3`, catalogado pela  [ECO](../../../../sementes/2024/07/07/Encyclopaedia_of_Chess_Openings.md) como `A04: Abertura Zukertort`  na lista de [aberturas de xadrez](Xadrez_Aberturas.md), as linhas principais subsequente entram na abertura Réti propriamente dito (código [ECO](../../../../sementes/2024/07/07/Encyclopaedia_of_Chess_Openings.md) `A05` à `A09`.
 
 ## Linhas de livro
 

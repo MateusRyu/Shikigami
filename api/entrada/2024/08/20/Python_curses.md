@@ -5,10 +5,10 @@ tags:
 aliases:
   - Python_curses
 created_at: 2024-08-20T13:22:54-03:00
-updated_at: 2024-08-20T13:25:00-03:00
+updated_at: 2024-10-08T15:29:05-03:00
 ---
 
-## Instalação no [Windows](api/sementes/2024/06/30/Windows.md)
+## Instalação no [Windows](../../07/26/Windows.md)
 
 
 ```sh
