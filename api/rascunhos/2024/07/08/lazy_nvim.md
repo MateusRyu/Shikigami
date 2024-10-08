@@ -5,7 +5,7 @@ tags:
 aliases:
   - lazy.nvim
 created_at: 2024-07-08T17:33:33-03:00
-updated_at: 2024-09-30T20:16:40-03:00
+updated_at: 2024-10-08T15:13:57-03:00
 ---
 ## Features
 
@@ -24,15 +24,15 @@ updated_at: 2024-09-30T20:16:40-03:00
 - Lockfile `lazy-lock.json` to keep track of installed plugins
 - Automatically check for updates
 - Commit, branch, tag, version, and full [Semver](https://devhints.io/semver) support
-- [Statusline](../../../../ideias/2024/08/06/Statusline.md) component to see the number of pending updates
-- Automatically lazy-loads [[../../../../ideias/2024/08/06/colorschemes|colorschemes]]
+- [Statusline](../../../../entrada/2024/08/06/Statusline.md) component to see the number of pending updates
+- Automatically lazy-loads [[../../../../entrada/2024/08/06/colorschemes|colorschemes]]
 
 ## Requirements
 ---
 - [Neovim](../../../../entrada/2024/07/08/Neovim.md) >= **0.8.0** (needs to be built with [LuaJIT](../../../../entrada/2024/07/08/LuaJIT.md))
 - [Git](../../06/08/Git.md) >= **2.19.0** (for partial clones support)
 -  [Nerd Font](../../../../entrada/2024/07/08/Fonte_Nerd_Font.md) **_(opcional)_**
-- [luarocks](../../../../entrada/2024/07/08/luarocks.md) to install [[../../../../ideias/2024/08/06/rockspecs|rockspecs]].
+- [luarocks](../../../../entrada/2024/07/08/luarocks.md) to install [[../../../../entrada/2024/08/06/rockspecs|rockspecs]].
   You can remove `rockspec` from `opts.pkg.sources` to disable this feature.
 
 ## Referencias

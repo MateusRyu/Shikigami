@@ -8,7 +8,7 @@ aliases:
   - 26/07/2024
   - 2024-07-26
 created_at: 2024-07-26T13:23:35-03:00
-updated_at: 2024-10-08T14:51:48-03:00
+updated_at: 2024-10-08T15:17:49-03:00
 ---
 
 [25/07/2024](2024-07-25-Blender.md) | 
@@ -17,7 +17,7 @@ updated_at: 2024-10-08T14:51:48-03:00
 
 - [x] corrigir bug de sincronização via plugin do git (obsidian) no [Shikigami](../../../api/sementes/2024/07/07/Shikigami.md)
 - [x] Deletar token do git para evitar vulnerabilidade
-- [x] Refazer sincronização do [Shikigami](../../../api/sementes/2024/07/07/Shikigami.md) com [Syncthing](../../../api/ideias/2024/08/16/Syncthing.md)
+- [x] Refazer sincronização do [Shikigami](../../../api/sementes/2024/07/07/Shikigami.md) com [Syncthing](../../../api/entrada/2024/08/16/Syncthing.md)
 -  ~~Criar filtro para os paths para `/_collection/*` ir para `/collection`, onde o nome `collection` é o nome da collection~~
 - [x] Avaliar atualização das sementes do [Shikigami](../../../api/sementes/2024/07/07/Shikigami.md) para o formato de collection do [Jekyll](../../../api/entrada/2024/07/10/Jekyll.md)
 	- [x] Criar layout de `api`.

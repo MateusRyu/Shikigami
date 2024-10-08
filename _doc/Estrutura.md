@@ -3,10 +3,10 @@ title: Estrutura dos arquivos
 chapter: 0
 group: Filosofia
 created_at: 2024-09-04T22:50:26-03:00
-updated_at: 2024-10-08T15:10:38-03:00
+updated_at: 2024-10-08T15:12:45-03:00
 ---
 
-A estrutura de arquivos não precisa ser fixo e padronizado para todo mundo. O importante é entender qual a ideia geral para se criar uma estrutura de pastas que faça sentido para permitir que você gaste menos tempo pensando em qual pasta cada documento deveria ir, além de entender o minimo das questões técnicas associados para a gestão dos arquivos (para que o [Software](../api/sementes/2024/07/02/Software.md) continue eficiente e não te atrapalhe). E está tudo bem se não souber qual a estrutura ideal para você, a estrutura ideal é aquela que te permite capturar e conectar ideias de forma eficiente e intuitiva, mas você vai precisar experimentar e avaliar o que te serve melhor para tornar o seu [Shikigami](../api/sementes/2024/07/07/Shikigami.md) no seu verdadeiramente familiar. Aqui, irei descrever uma sugestão de estrutura de arquivos desenvolvida pensando na filosofia do [Shikigami](../api/sementes/2024/07/07/Shikigami.md), a estrutura de pastas do [Zettelkasten](../atomos/2024/07/12/Zettelkasten.md) e a estrutura de pastas do [Método PARA](../Metodo_PARA.md) para que você possa ter como referencia e adaptar ao seu contexto.
+A estrutura de arquivos não precisa ser fixo e padronizado para todo mundo. O importante é entender qual a ideia geral para se criar uma estrutura de pastas que faça sentido para permitir que você gaste menos tempo pensando em qual pasta cada documento deveria ir, além de entender o minimo das questões técnicas associados para a gestão dos arquivos (para que o [Software](../api/sementes/2024/07/02/Software.md) continue eficiente e não te atrapalhe). E está tudo bem se não souber qual a estrutura ideal para você, a estrutura ideal é aquela que te permite capturar e conectar ideias de forma eficiente e intuitiva, mas você vai precisar experimentar e avaliar o que te serve melhor para tornar o seu [Shikigami](../api/sementes/2024/07/07/Shikigami.md) no seu verdadeiramente familiar. Aqui, irei descrever uma sugestão de estrutura de arquivos desenvolvida pensando na filosofia do [Shikigami](../api/sementes/2024/07/07/Shikigami.md), a estrutura de pastas do [Zettelkasten](../api/atomos/2024/07/12/Zettelkasten.md) e a estrutura de pastas do [Método PARA](../Metodo_PARA.md) para que você possa ter como referencia e adaptar ao seu contexto.
 
 
 ## Estruturas
