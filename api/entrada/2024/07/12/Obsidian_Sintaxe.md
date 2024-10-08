@@ -5,18 +5,18 @@ tags:
 aliases:
   - Sintaxe
 created_at: 2024-07-12T19:18:56-03:00
-updated_at: 2024-10-08T15:12:45-03:00
+updated_at: 2024-10-08T15:25:34-03:00
 ---
 
-O obsidian tem uma [sintaxe](../../../../atomos/2024/07/12/Sintaxe.md) baseado no [markdown](../../../../rascunhos/2024/07/08/Markdown.md) e traz algumas outras extras para auxiliar na conexões dos [grafos](../../../../atomos/2024/07/12/Grafos.md).
+O obsidian tem uma [sintaxe](../../../../atomos/2024/07/12/Sintaxe.md) baseado no [markdown](../../../../atomos/2024/07/08/Markdown.md) e traz algumas outras extras para auxiliar na conexões dos [grafos](../../../../atomos/2024/07/12/Grafos.md).
 
 ---
 
 ## Sintaxe
 
-![Cabeçalho](../../../../rascunhos/2024/07/08/Markdown.md#Cabeçalho)
+![Cabeçalho](../../../../atomos/2024/07/08/Markdown.md#Cabeçalho)
 
-![Lista](../../../../rascunhos/2024/07/08/Markdown.md#Lista)
+![Lista](../../../../atomos/2024/07/08/Markdown.md#Lista)
 ### Link
 #### Link interno
 ##### Wikilink

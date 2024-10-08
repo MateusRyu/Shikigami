@@ -1,5 +1,5 @@
 ---
-title: Complexo
+title: Complexo (Psicologia)
 tags:
   - v1
 aliases:
@@ -8,7 +8,7 @@ aliases:
   - Complexos
   - complexo
 created_at: 2024-07-08T17:33:33-03:00
-updated_at: 2024-08-06T23:00:07-03:00
+updated_at: 2024-10-08T15:21:51-03:00
 ---
 
 São palavras ou conjuntos de palavras que despertam ou afloram fortes emoções no indivíduo. Elas são desenvolvidas durante o crescimento do indivíduo e não são intrinsecamente prejudiciais ou benéficas. Por exemplo, a palavra "mãe" ou qualquer palavra que remeta a essa palavra (ex: "amor", "responsável", "proteção", entre outros) pode despertar um forte sentimento de felicidade ou gratidão, mas essas mesmas palavras também podem despertar fortes sentimentos de raiva ou desprezo se a sua experiência com o tema maternal tenha sido ruim.

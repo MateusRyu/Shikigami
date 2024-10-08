@@ -6,12 +6,12 @@ aliases:
   - How to Take Smart Notes
 draft: true
 created_at: 2024-07-08T17:33:33-03:00
-updated_at: 2024-10-08T15:12:46-03:00
+updated_at: 2024-10-08T15:25:47-03:00
 ---
 
 ## Introdução 
 
-As pessoas escrevem para ajudar a organizar informações e para ajudar para se lembrar de informações no futuro. Apesar de ser comum desde a escola, pouco se fala sobre a prática da escrita fora de pontos específicos em que a escrita será avaliada. Dos "livros de autoajuda" que falam sobre isso, o autor separa em duas categorias: (1) sobre regras formais, como estilo e ortografia; (2) Sobre [psicologia](Psicologia.md), no sentido de auxiliar contra ansiedade e exaustão mental decorrente das cobranças dos superiores, clientes ou parceiros. Nesse sentido, o livro se propõe à cobrir a lacuna de falar sobre as anotações de ideias e pensamentos que vão servir como "tesouros" para impulsionar a escrita de livros e conteúdos acadêmicos (o que é o público alvo do livro). Essa tomada de anotações é um processo anterior ao da escrita e o autor propõe que seja uma etapa divertida e edificante que criara peças interconectadas que servirão para o longo de sua vida e moverá os projetos adiante. 
+As pessoas escrevem para ajudar a organizar informações e para ajudar para se lembrar de informações no futuro. Apesar de ser comum desde a escola, pouco se fala sobre a prática da escrita fora de pontos específicos em que a escrita será avaliada. Dos "livros de autoajuda" que falam sobre isso, o autor separa em duas categorias: (1) sobre regras formais, como estilo e ortografia; (2) Sobre [psicologia](../../../../atomos/2024/07/08/Psicologia.md), no sentido de auxiliar contra ansiedade e exaustão mental decorrente das cobranças dos superiores, clientes ou parceiros. Nesse sentido, o livro se propõe à cobrir a lacuna de falar sobre as anotações de ideias e pensamentos que vão servir como "tesouros" para impulsionar a escrita de livros e conteúdos acadêmicos (o que é o público alvo do livro). Essa tomada de anotações é um processo anterior ao da escrita e o autor propõe que seja uma etapa divertida e edificante que criara peças interconectadas que servirão para o longo de sua vida e moverá os projetos adiante. 
 
 Tomar notas é uma etapa intermediária entre adquirir um novo conhecimento e produzir um novo trabalho que muitos não percebem por ser uma etapa natural e quase automática. Outro fator para não notar essa etapa é pois muitos não recebem um prejuízo imediato ou notável ao produzir anotações ruins, o que fazem as pessoas recorrerem aos tais livros de autoajuda que trazem soluções não precisarem notar essa pedra no sapato, na qual as pessoas vão racionalizar como "a dificuldade faz parte", "algumas pessoas nasceram pra escrever" ou algo do tipo. No final da história, as pessoas não aprendem a lidar com a tela ou papel vazio.
 

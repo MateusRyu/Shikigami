@@ -7,7 +7,7 @@ aliases:
   - 06/07/2024
   - 2024-07-06
 created_at: 2024-07-30T13:06:00-03:00
-updated_at: 2024-10-08T15:06:20-03:00
+updated_at: 2024-10-08T15:23:49-03:00
 ---
 
 [07/07/2024](2024-07-07-Segundo_post.md)
@@ -17,7 +17,7 @@ updated_at: 2024-10-08T15:06:20-03:00
  - [X] Atualizar o [Sistema_Operacional](../../../api/sementes/2024/07/07/Sistema_Operacional.md) do notebook
  - [x] Atualizar alguns documentos do [Shikigami](../../../api/sementes/2024/07/07/Shikigami.md)
  - [x] Revisar o [Toram](../../../api/entrada/2024/07/26/Toram.md)
- - [x] Continuar leitura de [How to Take Smart Notes](../../../api/rascunhos/2024/07/08/How_to_Take_Smart_Notes.md)
+ - [x] Continuar leitura de [How to Take Smart Notes](../../../api/entrada/2024/07/08/How_to_Take_Smart_Notes.md)
 
 ##  Reflexão
 
