@@ -1,11 +1,12 @@
 ---
 title: YAML
 tags:
-  - v1
+  - v1.1
 aliases:
   - YAML
+draft: true
 created_at: 2024-07-09T17:07:18-03:00
-updated_at: 2024-08-05T14:05:55-03:00
+updated_at: 2024-10-08T17:45:15-03:00
 ---
 
 

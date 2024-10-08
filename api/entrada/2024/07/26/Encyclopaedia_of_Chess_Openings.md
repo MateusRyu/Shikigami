@@ -1,12 +1,12 @@
 ---
 title: Encyclopaedia of Chess Openings
 tags:
-  - v1
+  - v1.1
 aliases:
   - Encyclopaedia of Chess Openings
   - ECO
 created_at: 2024-07-26T13:21:33-03:00
-updated_at: 2024-10-08T15:34:08-03:00
+updated_at: 2024-10-08T17:54:01-03:00
 ---
 
 A "Encyclopaedia of Chess Openings" (ECO) é uma das obras de referência mais importantes no campo do [xadrez](../../../../atomos/2024/08/06/Xadrez.md), especialmente no que se refere às [aberturas](../../../../atomos/2024/07/26/Xadrez_Aberturas.md). A ECO é uma série de livros que organiza e classifica sistematicamente as [aberturas de xadrez](../../../../atomos/2024/07/26/Xadrez_Aberturas.md), fornecendo uma base detalhada de movimentos e variações que ocorrem nos primeiros estágios de uma partida. 
@@ -23,6 +23,3 @@ As aberturas são classificadas em cinco volumes, identificados por letras de "A
 
 ## Conteúdo
 Cada entrada na ECO inclui uma sequência de movimentos (a linha principal) e suas várias ramificações. Além disso, são fornecidos comentários e análises sobre as ideias e planos típicos das posições resultantes.
-
-## Criticas
-Muitos não seguem a classificação do livro tão a sério pois ele não considera transposições, sendo que a mesma configuração do tabuleiro pode ser alcançado por ordens de lances diferentes. Nesse sentidos, alguns usam apenas a linha que recebe mais transposições como o nome da abertura em si.

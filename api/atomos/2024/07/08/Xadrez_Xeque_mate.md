@@ -1,13 +1,11 @@
 ---
 title: xeque-mate
 tags:
-  - v1
+  - v1.1
 aliases:
   - Xeque-mate
-  - Xeque
-  - xeque-mate
-  - xeque
+draft: true
 created_at: 2024-07-08T17:33:33-03:00
-updated_at: 2024-08-06T22:34:38-03:00
+updated_at: 2024-10-08T17:45:43-03:00
 ---
 

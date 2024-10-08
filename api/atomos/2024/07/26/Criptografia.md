@@ -1,12 +1,12 @@
 ---
 title: Criptografia
 tags:
-  - v1
+  - v1.1
 aliases:
   - Criptografia
-  - criptografia
+draft: true
 created_at: 2024-07-26T13:21:33-03:00
-updated_at: 2024-08-07T17:50:23-03:00
+updated_at: 2024-10-08T17:48:13-03:00
 ---
 
 A criptografia é o processo de converter informações ou dados em um código para impedir o acesso não autorizado. ela é a ciência e a arte de criar e usar técnicas para proteger a informação e garantir a segurança da comunicação, através da transformação de dados legíveis (texto simples) em dados ininteligíveis (texto cifrado) e vice-versa, utilizando chaves criptográficas.

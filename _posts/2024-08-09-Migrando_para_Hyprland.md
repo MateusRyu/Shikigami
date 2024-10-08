@@ -1,13 +1,13 @@
 ---
 title: Migrando para o Hyprland
 tags:
-  - v1
+  - v1.1
 aliases:
   - 2024/08/09
   - 09/08/2024
   - 2024-08-09
 created_at: 2024-08-09T14:46:39-03:00
-updated_at: 2024-10-08T15:31:35-03:00
+updated_at: 2024-10-08T17:38:12-03:00
 ---
 ## Tarefas
 

@@ -1,11 +1,11 @@
 ---
 title: Chuva no meu coração
 tags:
-  - v1
+  - v1.1
 aliases:
   - Chuva no meu coração
 created_at: 2024-08-04T04:03:00-03:00
-updated_at: 2024-08-08T12:51:01-03:00
+updated_at: 2024-10-08T17:47:09-03:00
 ---
 
 Chuva no meu coração.
