@@ -8,7 +8,7 @@ aliases:
   - Arquétipo
   - arquétipo
 created_at: 2024-07-26T13:21:33-03:00
-updated_at: 2024-09-30T20:11:34-03:00
+updated_at: 2024-10-08T15:05:18-03:00
 ---
 
 Arquétipos, dentro da [psicologia analítica](../../../../atomos/2024/07/26/Psicologia_analitica.md), são padrões básicos (no sentido de ser a base ou molde) e arcaicos. Quando nascemos, já temos alguns Arquétipos  em nossa cabeça para que possamos identificar ameaças, recursos e aliados. 
@@ -25,11 +25,11 @@ Não existe uma forma conhecida de como destruir ou descartar um arquétipo, o q
 - [Self](../../07/05/Self.md)
 - [Persona](../../../../atomos/2024/07/12/Psicologia_Persona.md)
 - [Ego](../../../../atomos/2024/07/12/Psicologia_Ego.md)
-- [Herói](../../../../ideias/2024/07/18/Psicologia_Arquetipo_heroi.md)
+- [Herói](../../../../atomos/2024/07/18/Psicologia_Arquetipo_heroi.md)
 - [Sombra](../../../../atomos/2024/07/12/Psicologia_sombra.md)
 - [Animus](../../../../atomos/2024/07/12/Psicologia_Animus.md)
 - [Anima](../../../../atomos/2024/07/12/Psicologia_Anima.md)
-- [Mãe](../../../../ideias/2024/07/18/Psicologia_Arquetipo_Mae.md)
-- [Pai](../../../../ideias/2024/07/18/Psicologia_Arquetipo_Pai.md)
-- [Criança](../../../../ideias/2024/07/18/Psicologia_Arquetipo_Crianca.md)
-- [Velho Sábio](../../../../ideias/2024/07/18/Psicologia_Arquetipo_Velho_Sabio.md)
+- [Mãe](../../../../atomos/2024/07/18/Psicologia_Arquetipo_Mae.md)
+- [Pai](../../../../atomos/2024/07/18/Psicologia_Arquetipo_Pai.md)
+- [Criança](../../../../atomos/2024/07/18/Psicologia_Arquetipo_Crianca.md)
+- [Velho Sábio](../../../../atomos/2024/07/18/Psicologia_Arquetipo_Velho_Sabio.md)
