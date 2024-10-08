@@ -8,7 +8,7 @@ aliases:
   - Alabarda
   - alabarda
 created_at: 2024-07-09T03:01:30-03:00
-updated_at: 2024-09-09T10:41:50-03:00
+updated_at: 2024-10-08T15:06:21-03:00
 ---
 
-[Toram](../../../../atomos/2024/07/26/Toram.md)
+[Toram](../26/Toram.md)
