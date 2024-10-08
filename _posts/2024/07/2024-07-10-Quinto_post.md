@@ -7,7 +7,7 @@ aliases:
   - 10/07/2024
   - 2024-07-10
 created_at: 2024-07-10T23:07:55-03:00
-updated_at: 2024-08-17T00:32:28-03:00
+updated_at: 2024-10-08T14:51:48-03:00
 ---
 
 [09/07/2024](2024-07-09-Quarto_post) | [11/07/2024](2024-07-11-Sexto_post.md)
@@ -18,7 +18,7 @@ updated_at: 2024-08-17T00:32:28-03:00
 - [x] Instalar [asdf](../../../api/rascunhos/2024/07/10/asdf.md)
 - [x] Pagar contas
 - [x] Entregar de CV
-- [x] Instalar dependências do [Jekyll](../../../api/ideias/2024/07/10/Jekyll.md)
+- [x] Instalar dependências do [Jekyll](../../../api/entrada/2024/07/10/Jekyll.md)
 
 ##  Reflexão
 
