@@ -396,11 +396,6 @@
     "api/ideias/2024/07/18/Psicologia_Arquetipo_Mae.md": "0ca1c9e3ed279830f9b04ab789786fc296d838f7e8cf459ef86c09e758799048",
     "api/ideias/2024/07/18/Psicologia_Arquetipo_heroi.md": "6b3fe5ea3e2f7faf526ef3d169717fe165a6e271837b5e02497dd812468317d8",
     "api/ideias/2024/07/10/Toram_MDEF.md": "8d032585a25ec164f22f5b81e67c4e78e932380c6faa94c914765401680bdbf6",
-    "api/ideias/2024/07/10/Toram_MaxMP.md": "bc709a4115e5342a5d93612f131ad631033c3743ed3853f3cf5a674e237d8a7c",
-    "api/ideias/2024/07/10/Toram_MATK.md": "009d687f51a95de06475a87104df9a2ae66db5e828a9d5db7ca11521a6495fa1",
-    "api/ideias/2024/07/10/Toram_Elemento.md": "8ca0f471e89c8ff39ebb29a8e9c36dd30f1092da21a88ece70d17f23ca1f557f",
-    "api/ideias/2024/07/10/Toram_Dano_Critico.md": "99ac721913d2a7bfeeaf3ed0718a2101052e6fb4fcd6e9f3206252153714ac55",
-    "api/ideias/2024/07/10/Toram_armadura.md": "d9cef225d8d55024e33c92b17a140129367a86cd5cb17a8dd433ca425b10a83d",
     "api/datas/2004.md": "13d958201251f973e1fa186eef7ce92a7a0c00e4cb9a85599518da7b2329f541",
     "api/datas/2006.md": "24e50e7a981e8881d61410f7ecd4aaa0a3dc81cdc5ed167a91b6ed18518e47a9",
     "api/datas/2022-04-24.md": "269fde8a81bf6e188331db75237d45a8152cea348539849d7b0ad0c2d2f1d458",
@@ -484,9 +479,9 @@
     "api/sementes/2024/07/08/LazyVim.md": "1e4cc003d37a114421bd311f9ff88ee08818d8e3dd59c6746f9813eb8b233c0a",
     "api/sementes/2024/07/08/Obsidian.md": "ca353ef6e2596e882c49a67ef8cce01c84f29e7ab9ca2a837ff64130f50f8ccb",
     "api/sementes/2024/07/09/Emulador_de_terminal.md": "1edfeb72ace5bc1afa1548b61f9ee9e79cf37f877dea87f6320bea6f169e6748",
-    "api/sementes/2024/07/09/Toram_STR.md": "cb5ae5aea7c3867ccbd9f394632f7575ff982c8d7377423b69161ba62744d309",
+    "api/sementes/2024/07/09/Toram_STR.md": "ea49875fc86b98aa60682f235c5ae69500fe515813f12322225f9b2f56f995a3",
     "api/sementes/2024/07/09/Toram_Status.md": "5ff1e57c5584ce80728ee6cc03a46430dd3f95c40f426f812f3a878ff0c015b9",
-    "api/sementes/2024/07/09/Toram_INT.md": "8e187294edbc2f95a5cea61aa08e044eaa8b2a932863b166c65ffccd2451d4be",
+    "api/sementes/2024/07/09/Toram_INT.md": "8e6a866441402845c63c6b88d69a9359f2272a6e6fef5a82949bac767d016d43",
     "api/sementes/2024/07/09/Terminal_URXVT.md": "4da0a8f0cc8dfdd6495f636aa078285d98abc1bcf9a2c6bc913c316489a8c99a",
     "api/sementes/2024/07/09/Terminal_Kitty.md": "fed9a36aac2f55eb090030a7f691609fe0f6bee2cb03120dfbecc32cc13e28c0",
     "api/sementes/2024/07/09/Terminal_Alacritty.md": "fb9c64ec701e3c581549b8441d98c6c11cf78ca49d6f40983a89a00edd82bbca",
@@ -789,6 +784,11 @@
     "api/atomos/2024/07/10/Taoismo_Bigrama.md": "6d4fa59cf21f8550ba8730a0c2d4052e92165c5403354a1fcfa22dbc462fc812",
     "api/atomos/2024/07/10/Taoismo_Trigramas.md": "d4541482277812a3d026a06f492812ce541b2f74c3c129a132aa6a23c4e93a4d",
     "api/atomos/2024/07/10/Taoismo_Yang.md": "0cedb78f33399d2b9b89342072add2f76603dbfb922a2266367caeb8ac504b34",
-    "api/atomos/2024/07/10/Taoismo_Yin.md": "ff98793e48eb7487d1956685fbe5e6b39b77e92311b9f9f2ee9d8ea020113e27"
+    "api/atomos/2024/07/10/Taoismo_Yin.md": "ff98793e48eb7487d1956685fbe5e6b39b77e92311b9f9f2ee9d8ea020113e27",
+    "api/atomos/2024/07/10/Toram_armadura.md": "d9cef225d8d55024e33c92b17a140129367a86cd5cb17a8dd433ca425b10a83d",
+    "api/atomos/2024/07/10/Toram_Dano_Critico.md": "99ac721913d2a7bfeeaf3ed0718a2101052e6fb4fcd6e9f3206252153714ac55",
+    "api/atomos/2024/07/10/Toram_Elemento.md": "8ca0f471e89c8ff39ebb29a8e9c36dd30f1092da21a88ece70d17f23ca1f557f",
+    "api/atomos/2024/07/10/Toram_MATK.md": "009d687f51a95de06475a87104df9a2ae66db5e828a9d5db7ca11521a6495fa1",
+    "api/atomos/2024/07/10/Toram_MaxMP.md": "bc709a4115e5342a5d93612f131ad631033c3743ed3853f3cf5a674e237d8a7c"
   }
 }
