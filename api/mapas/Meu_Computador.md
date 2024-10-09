@@ -1,11 +1,11 @@
 ---
 title: Meu Computador
 tags:
-  - v1
+  - v1.1
 aliases:
   - Meu Computador
 created_at: 2024-07-26T13:21:33-03:00
-updated_at: 2024-10-08T15:37:36-03:00
+updated_at: 2024-10-09T16:57:28-03:00
 ---
 
 Dual boot com a [Pasta home](../atomos/2024/07/14/Pasta_home.md) compartilhada para ter um [Sistema Operacional](../entrada/2024/08/04/Sistema_Operacional.md) de backup pra caso algo dê errado no [sistema](../entrada/2024/08/04/Sistema_Operacional.md) principal.
