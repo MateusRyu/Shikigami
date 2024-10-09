@@ -1,11 +1,11 @@
 ---
 title: Large Language Model
 tags:
-  - v1
+  - v1.1
 aliases:
   - LLM
 created_at: 2024-07-18T23:08:12-03:00
-updated_at: 2024-10-08T15:13:14-03:00
+updated_at: 2024-10-09T16:53:03-03:00
 ---
 
 Um **Large Language Model (LLM)** é um tipo de modelo de [Aprendizado_profundo](../../08/05/Aprendizado_profundo.md) (deep learning) que utiliza uma enorme quantidade de parâmetros e dados para gerar texto, responder perguntas e realizar tarefas de [Processamento_de_linguagem_natural](../../08/05/Processamento_de_linguagem_natural.md) (NLP). Eles são treinados em grandes bases de texto (geralmente publicado e disponibilizado na internet) e são capazes de entender e produzir linguagem humana com alto grau de coerência e fluência.
@@ -22,7 +22,7 @@ Utilizam bilhões ou até trilhões de parâmetros para personalizar e adaptar a
 - **Chat-bots**: Empregados para atendimento ao cliente e suporte técnico.
 - **Geração de Conteúdo**: Ferramentas para escrita assistida, criação de posts de blog, roteiros e mais.
 - **Tradução**: Serviços de tradução automática como Google Translate.
-- **Análise de Sentimento**: Identificação de opiniões e emoções em textos de redes sociais, reviews e feedbacks.
+- **Análise de Sentimento**: Identificação de opiniões e emoções em textos de redes sociais, reviews e feedback.
 
 ## Vantagens
 

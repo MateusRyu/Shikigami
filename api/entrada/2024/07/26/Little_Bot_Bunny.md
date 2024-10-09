@@ -1,13 +1,13 @@
 ---
 title: "Model sheet: Little Bot Bunny"
 tags:
-  - v1
+  - v1.1
 aliases:
   - Little Bot Bunny
   - LBB
   - Lap1
 created_at: 2024-07-26T13:21:33-03:00
-updated_at: 2024-08-16T23:24:42-03:00
+updated_at: 2024-10-09T16:52:31-03:00
 ---
 
 > [!quote] David Revoy (adaptado para português)
