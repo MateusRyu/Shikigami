@@ -2,11 +2,11 @@
 title: Index
 layout: post
 tags:
-  - v1
+  - v1.1
 aliases:
   - Index
 created_at: 2024-08-02T10:36:05-03:00
-updated_at: 2024-10-08T15:37:00-03:00
+updated_at: 2024-10-09T15:00:44-03:00
 ---
 
 - lazer:
