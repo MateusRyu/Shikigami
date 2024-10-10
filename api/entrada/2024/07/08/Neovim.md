@@ -1,13 +1,13 @@
 ---
 title: Nvim
 tags:
-  - v1
+  - v1.1
 aliases:
   - Nvim
-  - nvim
   - Neovim
+draft: true
 created_at: 2024-07-08T17:33:33-03:00
-updated_at: 2024-08-06T18:14:06-03:00
+updated_at: 2024-10-10T17:56:02-03:00
 ---
 
 [Vim](Vim.md)

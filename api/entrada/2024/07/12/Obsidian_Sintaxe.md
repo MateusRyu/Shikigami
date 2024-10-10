@@ -1,11 +1,11 @@
 ---
 title: Sintaxe do Obssidian
 tags:
-  - v1
+  - v1.1
 aliases:
   - Sintaxe
 created_at: 2024-07-12T19:18:56-03:00
-updated_at: 2024-10-08T15:25:34-03:00
+updated_at: 2024-10-10T17:56:48-03:00
 ---
 
 O obsidian tem uma [sintaxe](../../../../atomos/2024/07/12/Sintaxe.md) baseado no [markdown](../../../../atomos/2024/07/08/Markdown.md) e traz algumas outras extras para auxiliar na conexões dos [grafos](../../../../atomos/2024/07/12/Grafos.md).

@@ -1,11 +1,12 @@
 ---
 title: PEP8
 tags:
-  - v1
+  - v1.1
 aliases:
   - PEP8
+draft: true
 created_at: 2024-08-22T12:24:00-03:00
-updated_at: 2024-10-08T15:12:45-03:00
+updated_at: 2024-10-10T18:00:18-03:00
 ---
 
 [Python](../../../../atomos/2024/07/09/Linguagem_Python.md)
