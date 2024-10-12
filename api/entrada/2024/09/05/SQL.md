@@ -1,12 +1,12 @@
 ---
 title: SQL
 tags:
-  - v1
+  - v1.1
 aliases:
   - SQL
   - Structured Query Language
 created_at: 2024-09-05T13:41:27-03:00
-updated_at: 2024-10-08T17:22:03-03:00
+updated_at: 2024-10-12T15:10:24-03:00
 ---
 
 

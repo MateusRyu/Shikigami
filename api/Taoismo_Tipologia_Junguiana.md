@@ -1,11 +1,11 @@
 ---
 title: Correlação entre Taoismo e Tipologia Junguiana
 tags:
-  - v1
+  - v1.1
 aliases:
   - Correlação entre Taoismo e Tipologia Junguiana
 created_at: 2024-07-10T21:07:08-03:00
-updated_at: 2024-10-08T15:12:46-03:00
+updated_at: 2024-10-12T15:11:17-03:00
 ---
 
 [Taoismo](../../../../atomos/2024/07/10/Taoismo.md)

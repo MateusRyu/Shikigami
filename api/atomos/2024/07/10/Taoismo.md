@@ -1,11 +1,12 @@
 ---
 title: Taoismo
 tags:
-  - v1
+  - v1.1
 aliases:
   - Taoismo
+draft: true
 created_at: 2024-07-10T21:09:13-03:00
-updated_at: 2024-08-05T14:02:01-03:00
+updated_at: 2024-10-12T15:11:06-03:00
 ---
 # Taoismo
 ---
