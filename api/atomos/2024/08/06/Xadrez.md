@@ -1,15 +1,13 @@
 ---
-created_at: 2024-08-06T10:41:55-03:00
-updated_at: 2024-10-08T15:34:52-03:00
----
----
 title: Xadrez
 tags:
-  - v1
+  - v1.1
 aliases:
   - Xadrez
   - xadrez
-----
+created_at: 2024-08-06T10:41:55-03:00
+updated_at: 2024-10-12T14:59:49-03:00
+---
 
 O xadrez é um [jogo](../../../../atomos/2024/07/08/Jogo.md) de estratégia de [tabuleiro](../../../../atomos/2024/07/08/Jogo_de_tabuleiro.md) jogado entre dois adversários. O tabuleiro é dividido em 64 casas alternadas entre claras e escuras e cada jogador começa com 16 [peças de xadrez](../../../../atomos/2024/07/08/Xadrez_Pecas.md):
 ![lista de peças de xadrez](../../../../atomos/2024/07/08/Xadrez_Pecas.md#^lista-de-pecas)

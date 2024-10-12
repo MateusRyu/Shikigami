@@ -1,14 +1,11 @@
 ---
 title: Arquétipos
 tags:
-  - v1
+  - v1.1
 aliases:
   - Arquétipos
-  - arquétipos
-  - Arquétipo
-  - arquétipo
 created_at: 2024-07-26T13:21:33-03:00
-updated_at: 2024-10-08T15:32:19-03:00
+updated_at: 2024-10-12T15:02:42-03:00
 ---
 
 Arquétipos, dentro da [psicologia analítica](../../../../atomos/2024/07/26/Psicologia_analitica.md), são padrões básicos (no sentido de ser a base ou molde) e arcaicos. Quando nascemos, já temos alguns Arquétipos  em nossa cabeça para que possamos identificar ameaças, recursos e aliados. 
