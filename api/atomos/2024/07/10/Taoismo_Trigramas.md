@@ -1,12 +1,12 @@
 ---
 title: Trigramas
 tags:
-  - v1
+  - v1.1
 aliases:
-  - trigramas
-  - trigramas
+  - Trigramas
+draft: true
 created_at: 2024-07-10T21:09:46-03:00
-updated_at: 2024-10-08T15:10:39-03:00
+updated_at: 2024-10-12T15:12:51-03:00
 ---
 
 [Bigrama](Taoismo_Bigrama.md)

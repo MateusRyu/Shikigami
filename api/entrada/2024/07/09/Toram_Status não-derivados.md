@@ -1,11 +1,12 @@
 ---
 title: Status não-derivados
 tags:
-  - v1
+  - v1.1
 aliases:
   - Status não-derivados
+draft: true
 created_at: 2024-07-09T01:31:40-03:00
-updated_at: 2024-10-08T15:06:22-03:00
+updated_at: 2024-10-12T15:18:59-03:00
 ---
 
 [Toram](../26/Toram.md)

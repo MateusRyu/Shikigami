@@ -1,11 +1,12 @@
 ---
 title: Teste de recordação ativa
 tags:
-  - v1
+  - v1.1
 aliases:
   - Teste de recordação ativa
+draft: true
 created_at: 2024-07-26T13:21:33-03:00
-updated_at: 2024-10-08T15:12:46-03:00
+updated_at: 2024-10-12T15:13:51-03:00
 ---
 
 `Teste de recordação ativa` significa ser questionado e tentar relembrar a resposta. Isso em contraste com o [estudo passivo](../../../../atomos/2024/07/12/Estudo_passivo.md), onde nós lemos, assistimos ou escutamos algo sem um intervalo para refletir se nós sabemos a resposta. Pesquisas tem demonstrado que o teste de recordação ativa é de longe mais efetivo em construir memórias robustas do que o estudo passivo. Há duas razões para isso:
