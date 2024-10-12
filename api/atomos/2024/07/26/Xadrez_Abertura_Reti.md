@@ -1,16 +1,13 @@
 ---
 title: Abertura Réti
 tags:
-  - v1
+  - v1.1
 aliases:
   - Abertura Réti
-  - abertura Réti
-  - Réti
   - Abertura Zukertort
-  - abertura Zukertort
-  - Zukertort
+draft: true
 created_at: 2024-07-26T13:21:33-03:00
-updated_at: 2024-10-08T15:37:36-03:00
+updated_at: 2024-10-12T15:29:21-03:00
 ---
 
 É uma [aberturas de flanco](Xadrez_Aberturas_de_flanco.md) no [xadrez](../../08/06/Xadrez.md) que se inicia com o lance `1. Nf3`, catalogado pela  [ECO](../../../../entrada/2024/07/26/Encyclopaedia_of_Chess_Openings.md) como `A04: Abertura Zukertort`  na lista de [aberturas de xadrez](Xadrez_Aberturas.md), as linhas principais subsequente entram na abertura Réti propriamente dito (código [ECO](../../../../entrada/2024/07/26/Encyclopaedia_of_Chess_Openings.md) `A05` à `A09`.

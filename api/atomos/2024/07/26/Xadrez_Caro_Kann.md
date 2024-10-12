@@ -1,13 +1,12 @@
 ---
 title: Caro-Kann
 tags:
-  - v1
+  - v1.1
 aliases:
-  - Caro-Kann
   - Defesa Caro-Kann
-  - defesa Caro-Kann
+draft: true
 created_at: 2024-07-26T13:21:33-03:00
-updated_at: 2024-10-08T15:34:09-03:00
+updated_at: 2024-10-12T15:31:39-03:00
 ---
 
 É uma das [aberturas de xadrez](Xadrez_Aberturas.md) defensivo das negras. Na comunidade de [xadrez](../../08/06/Xadrez.md), a Caro-kann tem a fama de ser uma defesa bem sólida.

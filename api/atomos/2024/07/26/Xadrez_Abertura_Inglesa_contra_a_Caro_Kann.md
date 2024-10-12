@@ -1,11 +1,12 @@
 ---
 title: Abertura Inglesa contra a Caro Kann
 tags:
-  - v1
+  - v1.1
 aliases:
   - Abertura Inglesa contra a Caro Kann
+draft: true
 created_at: 2024-07-26T13:21:33-03:00
-updated_at: 2024-10-08T15:34:09-03:00
+updated_at: 2024-10-12T15:28:39-03:00
 ---
 
 ## `A11`: Abertura Inglesa, Caro-Kann
