@@ -4,9 +4,8 @@ tags:
   - v1.1
 aliases:
   - Aberturas de xadrez
-draft: true
 created_at: 2024-07-26T13:21:33-03:00
-updated_at: 2024-10-13T23:33:09-03:00
+updated_at: 2024-10-14T00:05:04-03:00
 ---
 
 No [xadrez](../../08/06/Xadrez.md), a abertura é a fase do jogo em que cada jogador desenvolve as suas peças para conseguir uma posição mais agressiva para iniciar um ataque ou uma posição mais sólida para se defender. Jogadores e estudiosos do temas estudaram varias sequencia de lances e os catalogaram para cada abertura com um nome suas variantes com os lances considerados mais fortes. Os lances já registrados são chamados de `lance de livro` e quando o jogador desvia da teoria é chamado de lances `fora do livro`.
