@@ -6,7 +6,7 @@ aliases:
   - Psicologia analítica
 draft: true
 created_at: 2024-07-26T13:21:33-03:00
-updated_at: 2024-10-16T17:33:32-03:00
+updated_at: 2024-10-16T18:28:39-03:00
 ---
 
 É uma vertente da [Psicologia](../08/Psicologia.md) que vai se preocupar em entender como se dá a cognição das pessoas. Ele foi elaborado por [Carl Jung](../../../../entrada/2024/07/07/Carl_Jung.md) e por essa vertente pode ser chamada de psicologia Junguiana e suas ramificações de neo-junguiana.
