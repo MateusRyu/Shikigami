@@ -6,7 +6,7 @@ aliases:
   - Verbos_japones
 draft: true
 created_at: 2024-12-10T00:06:36-03:00
-updated_at: 2024-12-10T00:16:22-03:00
+updated_at: 2024-12-10T00:27:31-03:00
 ---
 
 
@@ -29,21 +29,24 @@ updated_at: 2024-12-10T00:16:22-03:00
 
 - Todos os verbos terminam em "u"
 - Verbos de segunda conjugação terminam em "ru"
-- Taberu -> Comer
-- Tabenai -> Não comer (editado)
+
+>[!exaple]  Taberu -> Comer
+
+>[!exaple]  Tabenai -> Não comer (editado)
+
 - É só trocar o "ru" por "nai"
 - Yomu -> Primeira conjguação Taberu -> Segunda conjugação
 - É só ver a terminação
 
-- Taberu -> Tabenai Tabemasu -> Tabemasen
-------------------------
+>[!exaple]  Taberu -> Tabenai Tabemasu -> Tabemasen
+
 Em cima, está formal, mas em baixo informal
 Na esquerda, positivo, mas na direita está negativo
 É só trocar o "ru" por "nai", "masu" ou "masen"
 
-```[quote!]
-Yomu -> Yomanai Yomimasu -> Yomimasen
-```
+
+>[!exaple]  Yomu -> Yomanai Yomimasu -> Yomimasen
+
 
 Em informal, o "u" vira "a" e colocamos "nai"
 
@@ -52,3 +55,13 @@ Em forma, o "u" vira "i" e colocamos "masu" ou "masen"
 ---
 ## Verbos de primeira conjugação
 ## Verbos de segunda conjugação
+
+## verbos no passado
+
+> [!list] Irregularidades
+> U/Tsu -> tta 
+> Ku -> ita 
+> Gu -> Ida 
+> Bu/Nu/M -> Nda 
+> Su -> Shita
+
