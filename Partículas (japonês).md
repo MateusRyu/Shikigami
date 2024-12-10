@@ -1,6 +1,6 @@
 ---
 created_at: 2024-12-09T23:26:56-03:00
-updated_at: 2024-12-09T23:26:54-03:00
+updated_at: 2024-12-09T23:47:39-03:00
 title: Partículas (japonês)
 tags:
   - v1.1
@@ -21,3 +21,4 @@ Uma partícula, no [[idioma japonês]], é um elemento para indicar a relação 
 - [こと](Koto-particula)
 - [が](ga-particula)
 - [か](ka-particula)
+- [と](to-particula)
