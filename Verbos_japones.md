@@ -6,12 +6,13 @@ aliases:
   - Verbos_japones
 draft: true
 created_at: 2024-12-10T00:06:36-03:00
-updated_at: 2024-12-10T00:11:35-03:00
+updated_at: 2024-12-10T00:16:22-03:00
 ---
 
 
 ---
 
+## Rascunho
 
 食べる→食べない 
 食べます→食べません 
@@ -26,5 +27,28 @@ updated_at: 2024-12-10T00:11:35-03:00
 ーーーーーーーーーーー 
 食べられる→食べられない
 
+- Todos os verbos terminam em "u"
+- Verbos de segunda conjugação terminam em "ru"
+- Taberu -> Comer
+- Tabenai -> Não comer (editado)
+- É só trocar o "ru" por "nai"
+- Yomu -> Primeira conjguação Taberu -> Segunda conjugação
+- É só ver a terminação
+
+- Taberu -> Tabenai Tabemasu -> Tabemasen
+------------------------
+Em cima, está formal, mas em baixo informal
+Na esquerda, positivo, mas na direita está negativo
+É só trocar o "ru" por "nai", "masu" ou "masen"
+
+```[quote!]
+Yomu -> Yomanai Yomimasu -> Yomimasen
+```
+
+Em informal, o "u" vira "a" e colocamos "nai"
+
+Em forma, o "u" vira "i" e colocamos "masu" ou "masen"
+
+---
 ## Verbos de primeira conjugação
 ## Verbos de segunda conjugação
