@@ -6,13 +6,14 @@ aliases:
   - Verbos_japones
 draft: true
 created_at: 2024-12-10T00:06:36-03:00
-updated_at: 2024-12-10T00:10:05-03:00
+updated_at: 2024-12-10T00:11:35-03:00
 ---
 
 
 ---
 
 
+食べる→食べない 
 食べます→食べません 
 ーーーーーーーーー 
 食べた→食べなかった 
@@ -27,5 +28,3 @@ updated_at: 2024-12-10T00:10:05-03:00
 
 ## Verbos de primeira conjugação
 ## Verbos de segunda conjugação
-
-食べる→食べない 
