@@ -643,7 +643,7 @@
     "api/entrada/2024/08/10/SwayNotificationCenter.md": "0f310cbc9fcc12442b91c5e5987112b975261e39dc878d438a42258e43d0c90b",
     "api/entrada/2024/08/10/Gnome.md": "9a3b759c6d012c17008262252e9584b351b053a007630a7aa2a6ceee2c51391f",
     "api/entrada/2024/08/10/Hyprland.md": "ca619ba338fabad180257c1ed44fb55c5bbb201081fc8c4e7f41af33915b97dc",
-    "api/atomos/2024/08/10/Tiling_Window_Manager.md": "2d9dbdfb890b1dcd760d06292f2e3b00c256cd53c1d2805c47da51c5b5c1cc4b",
+    "api/atomos/2024/08/10/Tiling_Window_Manager.md": "f0cd59a113dcaadda771f6e61512d5cfb092b10b788ffa4fe23bd34555e66502",
     "api/entrada/2024/08/11/Hyprpicker.md": "ed8668802b2326029016ec0415cf3dbefb28d9224b473c60bec0eb144975611d",
     "api/entrada/2024/08/11/Waybar.md": "3e1e04e1970b476e4189a025ac2bc99b3679fa96d53e7247049acb56af4adcdf",
     "api/entrada/2024/08/11/hyprpaper.md": "575eb0724bd5b46b4291d399075c22b9a151b3ba7b31d242c43d14edbec77d84",
@@ -814,6 +814,7 @@
     "ka-particula.md": "3f15316c4a6b66d0d2e502033852d08a218430b2d39f4b49db2b79fdf1d9f574",
     "hiragana.md": "9059220ae71aefb85edb2d81557a0d6556b8e15f7c5eb81789468a37ebbaa576",
     "katakana.md": "e0056933e1ddc76283a2d35d7009646551312449cf17afb2f40b86172ca140bc",
-    "kanji.md": "4b63ca05bd954e0976525b0cb880215c46ab78aa8de2f1075c450aefb04bcf21"
+    "kanji.md": "4b63ca05bd954e0976525b0cb880215c46ab78aa8de2f1075c450aefb04bcf21",
+    "Gestor_de_janelas.md": "9b4a7a39c270edb36a573666d290dde7462c1771adbc1a3648e88de62ea04e92"
   }
 }
