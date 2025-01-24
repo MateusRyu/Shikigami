@@ -850,6 +850,7 @@
     "content/index.md": "dafd9db35dd7955066035a2cdcf8d411ba776977f3bbe8d1df90cca6133f99db",
     "quartz/docs/authoring content.md": "034be5c1f2780a82f88aa017b72e7e8c71a170c513eb7828af92068584818f66",
     "quartz/docs/build.md": "d384514c71e05f3e188d93bb50b55bfeff5cacd4c3d23ba5c9b26964d27731b5",
-    "quartz/docs/setting up your GitHub repository.md": "389eaa16fc288554973498abc4fd62a66083f72e759f284a01425b93e7940a7b"
+    "quartz/docs/setting up your GitHub repository.md": "389eaa16fc288554973498abc4fd62a66083f72e759f284a01425b93e7940a7b",
+    "NixOS.md": "8d126a6a7cda3329892381d2e9ed2ce3bb1a6185c50173362056abbcc187feb0"
   }
 }
