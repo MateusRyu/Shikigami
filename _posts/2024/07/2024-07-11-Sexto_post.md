@@ -7,7 +7,7 @@ aliases:
   - 11/07/2024
   - 2024-07-11
 created_at: 2024-07-12T01:54:32-03:00
-updated_at: 2024-10-08T17:37:10-03:00
+updated_at: 2025-01-24T00:31:10-03:00
 ---
 
 [10/07/2024](2024-07-10-Quinto_post.md) | [11/07/2024](2024-07-11-Sexto_post.md)
@@ -15,7 +15,7 @@ updated_at: 2024-10-08T17:37:10-03:00
 ## Tarefas
 
 - [X] "Organizar" a casa
-- [x] Criar algumas notas fantasmas do [Shikigami](../../../api/retorno/2024/07/26/Shikigami.md) e criar a Licença
+- [x] Criar algumas notas fantasmas do [Shikigami](content/retorno/2024/07/26/Shikigami.md) e criar a Licença
 - [x] Relaxar
 
 ##  Reflexão

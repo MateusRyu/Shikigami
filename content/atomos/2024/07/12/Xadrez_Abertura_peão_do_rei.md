@@ -6,8 +6,8 @@ aliases:
   - Abertura peão do rei
 draft: true
 created_at: 2024-07-12T19:41:45-03:00
-updated_at: 2024-10-12T15:29:08-03:00
+updated_at: 2025-01-24T00:31:11-03:00
 ---
 
-[Rei](../08/Xadrez_Rei_xadrez.md)
-[peão](../26/Xadrez_Peao.md)
+[Rei](content/atomos/2024/07/08/Xadrez_Rei_xadrez.md)
+[peão](content/atomos/2024/07/26/Xadrez_Peao.md)

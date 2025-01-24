@@ -5,18 +5,18 @@ tags:
 aliases:
   - Sintaxe
 created_at: 2024-07-12T19:18:56-03:00
-updated_at: 2024-10-10T17:56:48-03:00
+updated_at: 2025-01-24T00:31:15-03:00
 ---
 
-O obsidian tem uma [sintaxe](../../../../atomos/2024/07/12/Sintaxe.md) baseado no [markdown](../../../../atomos/2024/07/08/Markdown.md) e traz algumas outras extras para auxiliar na conexões dos [grafos](../../../../atomos/2024/07/12/Grafos.md).
+O obsidian tem uma [sintaxe](content/atomos/2024/07/12/Sintaxe.md) baseado no [markdown](content/atomos/2024/07/08/Markdown.md) e traz algumas outras extras para auxiliar na conexões dos [grafos](content/atomos/2024/07/12/Grafos.md).
 
 ---
 
 ## Sintaxe
 
-![Cabeçalho](../../../../atomos/2024/07/08/Markdown.md#Cabeçalho)
+![Cabeçalho](content/atomos/2024/07/08/Markdown.md#Cabeçalho)
 
-![Lista](../../../../atomos/2024/07/08/Markdown.md#Lista)
+![Lista](content/atomos/2024/07/08/Markdown.md#Lista)
 ### Link
 #### Link interno
 ##### Wikilink
@@ -32,7 +32,7 @@ O obsidian tem uma [sintaxe](../../../../atomos/2024/07/12/Sintaxe.md) baseado n
 [Nome do documento](Nome%20do%20documento.md#^ID_do_bloco)
 ```
 
-> Observação: É preciso seguir a [Codificação URL](../../../../atomos/2024/07/12/Codificação_URL.md) para o caminho de onde está localizado o arquivo que o link se refere!
+> Observação: É preciso seguir a [Codificação URL](content/atomos/2024/07/12/Codificação_URL.md) para o caminho de onde está localizado o arquivo que o link se refere!
 #### Apelido
 ```md
 [[Nome do documento|apelido usado para exibição do texto]]
@@ -65,7 +65,7 @@ No caso de imagens, é possível redimensionar o tamanho dela ao adicionar `|lar
 ![[Document.pdf#page=3]]
 ```
 
-Também é possível especificar a largura em [pixel](../../../../atomos/2024/07/12/Pixel.md) para o PDF, adicionando `#height=[number]` no final do link. Por exemplo:
+Também é possível especificar a largura em [pixel](content/atomos/2024/07/12/Pixel.md) para o PDF, adicionando `#height=[number]` no final do link. Por exemplo:
 
 ```md
 ![[Document.pdf#height=400]]

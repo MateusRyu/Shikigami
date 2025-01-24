@@ -6,7 +6,7 @@ aliases:
   - lazy.nvim
 draft: true
 created_at: 2024-07-08T17:33:33-03:00
-updated_at: 2024-10-09T15:04:53-03:00
+updated_at: 2025-01-24T00:31:14-03:00
 ---
 ## Features
 
@@ -25,15 +25,15 @@ updated_at: 2024-10-09T15:04:53-03:00
 - Lockfile `lazy-lock.json` to keep track of installed plugins
 - Automatically check for updates
 - Commit, branch, tag, version, and full [Semver](https://devhints.io/semver) support
-- [Statusline](../../../../entrada/2024/08/06/Statusline.md) component to see the number of pending updates
-- Automatically lazy-loads [[../../../../entrada/2024/08/06/colorschemes|colorschemes]]
+- [Statusline](content/entrada/2024/08/06/Statusline.md) component to see the number of pending updates
+- Automatically lazy-loads [[content/entrada/2024/08/06/colorschemes|colorschemes]]
 
 ## Requirements
 ---
-- [Neovim](../../../../entrada/2024/07/08/Neovim.md) >= **0.8.0** (needs to be built with [LuaJIT](../../../../entrada/2024/07/08/LuaJIT.md))
-- [Git](../../../../entrada/2024/07/08/Git.md) >= **2.19.0** (for partial clones support)
--  [Nerd Font](../../../../entrada/2024/07/08/Fonte_Nerd_Font.md) **_(opcional)_**
-- [luarocks](../../../../entrada/2024/07/08/luarocks.md) to install [[../../../../entrada/2024/08/06/rockspecs|rockspecs]].
+- [Neovim](content/entrada/2024/07/08/Neovim.md) >= **0.8.0** (needs to be built with [LuaJIT](content/entrada/2024/07/08/LuaJIT.md))
+- [Git](content/entrada/2024/07/08/Git.md) >= **2.19.0** (for partial clones support)
+-  [Nerd Font](content/entrada/2024/07/08/Fonte_Nerd_Font.md) **_(opcional)_**
+- [luarocks](content/entrada/2024/07/08/luarocks.md) to install [[content/entrada/2024/08/06/rockspecs|rockspecs]].
   You can remove `rockspec` from `opts.pkg.sources` to disable this feature.
 
 ## Referencias

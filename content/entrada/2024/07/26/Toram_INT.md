@@ -5,10 +5,10 @@ tags:
 aliases:
   - INT
 created_at: 2024-07-26T13:21:33-03:00
-updated_at: 2024-10-12T15:16:46-03:00
+updated_at: 2025-01-24T00:31:16-03:00
 ---
 
-INT é um dos [status básico](../../../../entrada/2024/07/26/Toram_Status_basico.md) do jogador no [Toram](../../../../entrada/2024/07/26/Toram.md). Ela é o principal status para aumentar o [MATK](../../../../entrada/2024/07/10/Toram_MATK.md) em todas as armas. Ao equipar um [Cajado](../../../../entrada/2024/07/09/Toram_Staff.md) ou um [Dispositivo Mágico](../../../../entrada/2024/07/09/Toram_Magic_Device.md) como arma principal, também aumenta o [ATK](../../../../entrada/2024/07/09/Toram_ATK.md). INT aumenta (um pouco) o [MaxMP](../../../../entrada/2024/07/10/Toram_MaxMP.md)  e o [MDEF](../../../../entrada/2024/07/10/Toram_MDEF.md). A quantidade de aumento do [MDEF](../../../../entrada/2024/07/10/Toram_MDEF.md) depende do tipo de [armadura](../../../../entrada/2024/07/10/Toram_armadura.md). Se você tiver uma [Vantagem elemental](../../../../entrada/2024/07/12/Toram_vantagem_elemental.md) (ou [Elemento](../../../../entrada/2024/07/10/Toram_Elemento.md) não-neutro para [cajado](../../../../entrada/2024/07/09/Toram_Staff.md) ou [Dispositivo Mágico](../../../../entrada/2024/07/09/Toram_Magic_Device.md) como arma principal), ele também aumenta o dano ao elemento fraco apenas para dano mágico.
+INT é um dos [status básico](content/entrada/2024/07/26/Toram_Status_basico.md) do jogador no [Toram](content/entrada/2024/07/26/Toram.md). Ela é o principal status para aumentar o [MATK](content/entrada/2024/07/10/Toram_MATK.md) em todas as armas. Ao equipar um [Cajado](content/entrada/2024/07/09/Toram_Staff.md) ou um [Dispositivo Mágico](content/entrada/2024/07/09/Toram_Magic_Device.md) como arma principal, também aumenta o [ATK](content/entrada/2024/07/09/Toram_ATK.md). INT aumenta (um pouco) o [MaxMP](content/entrada/2024/07/10/Toram_MaxMP.md)  e o [MDEF](content/entrada/2024/07/10/Toram_MDEF.md). A quantidade de aumento do [MDEF](content/entrada/2024/07/10/Toram_MDEF.md) depende do tipo de [armadura](content/entrada/2024/07/10/Toram_armadura.md). Se você tiver uma [Vantagem elemental](content/entrada/2024/07/12/Toram_vantagem_elemental.md) (ou [Elemento](content/entrada/2024/07/10/Toram_Elemento.md) não-neutro para [cajado](content/entrada/2024/07/09/Toram_Staff.md) ou [Dispositivo Mágico](content/entrada/2024/07/09/Toram_Magic_Device.md) como arma principal), ele também aumenta o dano ao elemento fraco apenas para dano mágico.
 
 > [!note] Aumento de MaxMP
 > $1 INT \equiv 0.1MaxMP$

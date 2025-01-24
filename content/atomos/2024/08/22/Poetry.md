@@ -6,10 +6,10 @@ aliases:
   - Poetry
 draft: true
 created_at: 2024-08-22T11:58:26-03:00
-updated_at: 2024-10-02T14:03:20-03:00
+updated_at: 2025-01-24T00:31:14-03:00
 ---
 
-Poetry é um [Gerenciador de dependências](Gerenciador%20de%20dependências) e um [empacotador](Empacotador) de projetos [Python](../../07/09/Linguagem_Python.md). 
+Poetry é um [Gerenciador de dependências](Gerenciador%20de%20dependências) e um [empacotador](Empacotador) de projetos [Python](content/atomos/2024/07/09/Linguagem_Python.md). 
 
 ---
 

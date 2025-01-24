@@ -6,8 +6,8 @@ aliases:
   - Trigramas
 draft: true
 created_at: 2024-07-10T21:09:46-03:00
-updated_at: 2024-10-12T15:12:51-03:00
+updated_at: 2025-01-24T00:31:11-03:00
 ---
 
-[Bigrama](Taoismo_Bigrama.md)
-[Yin](Taoismo_Yin.md) e [Yang](Taoismo_Yang.md)
+[Bigrama](content/atomos/2024/07/10/Taoismo_Bigrama.md)
+[Yin](content/atomos/2024/07/10/Taoismo_Yin.md) e [Yang](content/atomos/2024/07/10/Taoismo_Yang.md)

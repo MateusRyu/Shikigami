@@ -6,7 +6,7 @@ aliases:
   - GNOME Terminal
 draft: true
 created_at: 2024-07-12T19:01:02-03:00
-updated_at: 2024-10-08T17:58:57-03:00
+updated_at: 2025-01-24T00:31:15-03:00
 ---
 
-[terminal](../../../../atomos/2024/07/26/Emulador_de_terminal.md)
+[terminal](content/atomos/2024/07/26/Emulador_de_terminal.md)
