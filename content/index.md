@@ -6,12 +6,12 @@ tags:
 aliases:
   - Index
 created_at: 2024-08-02T10:36:05-03:00
-updated_at: 2025-01-24T00:31:18-03:00
+updated_at: 2025-01-24T01:13:12-03:00
 ---
 
 - lazer:
-  - [Animes](content/mapas/Animes.md);
-  - [Xadrez](content/mapas/Xadrez.md)
+  - [Animes](mapas/Animes.md);
+  - [Xadrez](mapas/Xadrez.md)
   - [Toram](content/mapas/Toram.md);
   - [Livros](content/mapas/Livros.md)
 - Estudos:

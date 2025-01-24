@@ -25,7 +25,6 @@
     "mapas/2024-07-11-Desenvolvimento_de_software.md": "9fe3336b0e3293ce17c6d2ffef2f343ac23b11e859174f0855389f75750767ad",
     "mapas/2024-07-11-Auto_desenvolvimento.md": "32cae0ae5105b480d557c9cf218b8349c192b17499e21e40d38baa9817e6e30a",
     "mapas/2024-07-11-Animes.md": "9ed11d568955a6ca7f0392a9c38f0b72d27bc2ec5bd1ce9aaa686772ceb1cf7c",
-    "index.md": "b35532849803aaba0d18aa4cac957c3fc3052adcb57c5bc9f13ef05f3ef79ca8",
     "_draft/2024/07/2024-07-10-asdf.md": "e161464812a2471c57f0ece03e9b44406173ea62aec7d14c4a2cd71cda291355",
     "_draft/2024/07/2024-07-10-Taoismo_Tipologia_Junguiana.md": "c324783ed5be9eb8a230e15efdb2af6229a8c6250d8d0d0416e9eba53b92f462",
     "_draft/2024/07/2024-07-10-Usabilidade.md": "ddf08ac442bd435b958d40781de3500ae757635f871bac39a2e86518abf3ece7",
@@ -847,6 +846,10 @@
     "quartz/docs/advanced/making plugins.md": "072c3bb21f2959eee58e65417bfb0b6c45a2e0865795b22fa3fa9406c1fddd86",
     "quartz/docs/advanced/architecture.md": "c90c120dcf6732433ece828d2f1d19f051b8ae97536cfe68a36192b3072be335",
     "quartz/docs/migrating from Quartz 3.md": "12b6b6b40c177bb41f3fdb9bc68c3ab7d1286f8baab94af818a174dab90c0c13",
-    "quartz/docs/hosting.md": "e8958f05223ba199c97b7fcd14153accd92819270847c24b774f249daf8052d3"
+    "quartz/docs/hosting.md": "e8958f05223ba199c97b7fcd14153accd92819270847c24b774f249daf8052d3",
+    "content/index.md": "dafd9db35dd7955066035a2cdcf8d411ba776977f3bbe8d1df90cca6133f99db",
+    "quartz/docs/authoring content.md": "034be5c1f2780a82f88aa017b72e7e8c71a170c513eb7828af92068584818f66",
+    "quartz/docs/build.md": "d384514c71e05f3e188d93bb50b55bfeff5cacd4c3d23ba5c9b26964d27731b5",
+    "quartz/docs/setting up your GitHub repository.md": "389eaa16fc288554973498abc4fd62a66083f72e759f284a01425b93e7940a7b"
   }
 }
