@@ -5,5 +5,6 @@
   "nldates-obsidian",
   "dataview",
   "obsidian-front-matter-title-plugin",
-  "update-time-on-edit"
+  "update-time-on-edit",
+  "obsidian-shellcommands"
 ]
