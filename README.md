@@ -18,7 +18,7 @@ Shikigami is a project to keep my knowledge at one unique place and serve as API
 - [ ] Template to each type of knowledge for easy consume;
 - [x] Private folder to sensitive data (Folder will not be store remotely);
 - [x] End-point to consume data;
-- [x] Each data is writing with [Markdown](api/atomos/2024/07/08/Markdown.md) with an [atomic](api/atomos/2024/07/08/Atomico.md) way to easily recover the information.
+- [x] Each data is writing with [Markdown](content/atomos/2024/07/08/Markdown.md) with an [atomic](content/atomos/2024/07/08/Atomico.md) way to easily recover the information.
 - [x] [Jekyll](https://jekyllrb.com/) ready to use
 ## Installation
 ---
@@ -51,7 +51,7 @@ Shikigami is a project to keep my knowledge at one unique place and serve as API
 -  `src`: contain all knowledge files and is organized by folders of year, month and day. Also, each filename start with the date of creation and the name with camel case,  as `YYYY-MM-DD-Name_of_file.md`.
 -  `_draft` folder is destined to docs under creation.
 -  `_insight` folder is destined to possible ideas that can be more elaborate at future and I want to maintain a way to links to existent docs.
--  `_templates` folder is destined to save [Obsidian](api/entrada/2024/07/08/Obsidian.md)'s templates and end-point templates.
+-  `_templates` folder is destined to save [Obsidian](content/entrada/2024/07/08/Obsidian.md)'s templates and end-point templates.
 - `docs` folder contain the translated versions of this `README`.
 -  `assets` folder is to media files and others types of files.
 - `index` folder is to docs that aggregate and index the `src` files. 
