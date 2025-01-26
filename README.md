@@ -23,9 +23,8 @@ Shikigami is a project to keep my knowledge at one unique place and serve as API
 ## Installation
 ---
 ### Requirements
-- [Ruby](https://www.ruby-lang.org/en/downloads/) version **2.5.0** or higher, including all development headers (check your Ruby version using `ruby -v`)
-- [RubyGems](https://rubygems.org/pages/download) (check your Gems version using `gem -v`)
-- [GCC](https://gcc.gnu.org/install/) and [Make](https://www.gnu.org/software/make/) (check versions using `gcc -v`,`g++ -v`, and `make -v`)
+
+TODO: Update requirements
 
 
 ### Setup
@@ -34,15 +33,15 @@ Shikigami is a project to keep my knowledge at one unique place and serve as API
 	git clone https://github.com/MateusRyu/Shikigami.git
 	cd Shikigami
 	```
-2. Bundle [gems](https://jekyllrb.com/docs/ruby-101/#gems) with:
+2. Install dependencies with:
 	```sh
-	bundle install
+	npm install
 	```
 3. Build the site and make it available on a local server:
 	```sh
-    bundle exec jekyll serve
+    npx quartz build --serve
 	```
-4. Browse to [http://localhost:4000](http://localhost:4000/)
+4. Browse to [http://localhost:8080](http://localhost:8080/)
 ## Usage
 ### Structure
 ---
