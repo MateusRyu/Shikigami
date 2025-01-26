@@ -803,6 +803,9 @@
     "content/atomos/2024/12/10/Verbos_japones.md": "ba443355e89ea619a5d588e76e3fae8c053bc8eccfff17907d7b458441c42447",
     "content/atomos/2024/12/10/Wa-particula.md": "0f03aa6fede65d68d0df90819f7838ab6bccf9e3cd487f3531c3fd4b83af46c2",
     "content/index.md": "57db690f7e0b55acb41e5ba02f249d3ac85bb1b2f5e29bb9900a71f9a7f0de92",
-    "NixOS.md": "8d126a6a7cda3329892381d2e9ed2ce3bb1a6185c50173362056abbcc187feb0"
+    "NixOS.md": "8d126a6a7cda3329892381d2e9ed2ce3bb1a6185c50173362056abbcc187feb0",
+    "node_modules/fill-range/README.md": "2bb090ba1b47b408676404087e47f83b1e7288683639230629ae5068e2f46139",
+    "node_modules/cross-spawn/README.md": "df7680038ba2847c712376078830b0821f828374adeb6cdd93814d78dabe53b3",
+    "node_modules/micromatch/README.md": "3801532ca9289dc6f95235f17fa37ab66b295f16f880084fa065a9419be95d79"
   }
 }
